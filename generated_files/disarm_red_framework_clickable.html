@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DISARM Red framework</title>
+</head>
+<body>
+
+<script>
+function handleTechniqueClick(box) {
+  var technique = document.getElementById(box);
+  var checkBox = document.getElementById(box+"check");
+  var text = document.getElementById(box+"text");
+  if (checkBox.checked == true){
+    text.style.display = "block";
+    technique.bgColor = "Lime"
+  } else {
+     text.style.display = "none";
+     technique.bgColor = "Silver"
+  }
+}
+</script>
+
+<h1>DISARM</h1>
+
+<table border=1 bgcolor=silver>
+<tr bgcolor=fuchsia>
+<td>P01 Plan</td>
+<td>P01 Plan</td>
+<td>P02 Prepare</td>
+<td>P02 Prepare</td>
+<td>P02 Prepare</td>
+<td>P02 Prepare</td>
+<td>P02 Prepare</td>
+<td>P03 Execute</td>
+<td>P03 Execute</td>
+<td>P03 Execute</td>
+<td>P03 Execute</td>
+<td>P04 Assess</td>
+</tr>
+<tr bgcolor=aqua>
+<td>TA01 Strategic Planning</td>
+<td>TA02 Objective Planning</td>
+<td>TA03 Develop People</td>
+<td>TA04 Develop Networks</td>
+<td>TA05 Microtargeting</td>
+<td>TA06 Develop Content</td>
+<td>TA07 Channel Selection</td>
+<td>TA08 Pump Priming</td>
+<td>TA09 Exposure</td>
+<td>TA10 Go Physical</td>
+<td>TA11 Persistence</td>
+<td>TA12 Measure Effectiveness</td>
+</tr>
+<tr>
+<td id="T0001">T0001 5Ds (dismiss, distort, distract, dismay, divide)<input type="checkbox" id="T0001check"  onclick="handleTechniqueClick('T0001')"></td>
+<td id="T0005">T0005 Center of Gravity Analysis<input type="checkbox" id="T0005check"  onclick="handleTechniqueClick('T0005')"></td>
+<td id="T0007">T0007 Create fake Social Media Profiles / Pages / Groups<input type="checkbox" id="T0007check"  onclick="handleTechniqueClick('T0007')"></td>
+<td id="T0010">T0010 Cultivate ignorant agents<input type="checkbox" id="T0010check"  onclick="handleTechniqueClick('T0010')"></td>
+<td id="T0016">T0016 Clickbait<input type="checkbox" id="T0016check"  onclick="handleTechniqueClick('T0016')"></td>
+<td id="T0019">T0019 Generate information pollution<input type="checkbox" id="T0019check"  onclick="handleTechniqueClick('T0019')"></td>
+<td id="T0029">T0029 Manipulate online polls<input type="checkbox" id="T0029check"  onclick="handleTechniqueClick('T0029')"></td>
+<td id="T0039">T0039 Bait legitimate influencers<input type="checkbox" id="T0039check"  onclick="handleTechniqueClick('T0039')"></td>
+<td id="T0047">T0047 Muzzle social media as a political force<input type="checkbox" id="T0047check"  onclick="handleTechniqueClick('T0047')"></td>
+<td id="T0057">T0057 Organise remote rallies and events<input type="checkbox" id="T0057check"  onclick="handleTechniqueClick('T0057')"></td>
+<td id="T0058">T0058 Legacy web content<input type="checkbox" id="T0058check"  onclick="handleTechniqueClick('T0058')"></td>
+<td id="T0062">T0062 Behaviour changes<input type="checkbox" id="T0062check"  onclick="handleTechniqueClick('T0062')"></td>
+</tr>
+<tr>
+<td id="T0002">T0002 Facilitate State Propaganda<input type="checkbox" id="T0002check"  onclick="handleTechniqueClick('T0002')"></td>
+<td id="T0006">T0006 Create Master Narratives<input type="checkbox" id="T0006check"  onclick="handleTechniqueClick('T0006')"></td>
+<td id="T0008">T0008 Create fake or imposter news sites<input type="checkbox" id="T0008check"  onclick="handleTechniqueClick('T0008')"></td>
+<td id="T0011">T0011 Hijack legitimate account<input type="checkbox" id="T0011check"  onclick="handleTechniqueClick('T0011')"></td>
+<td id="T0017">T0017 Promote online funding<input type="checkbox" id="T0017check"  onclick="handleTechniqueClick('T0017')"></td>
+<td id="T0020">T0020 Trial content<input type="checkbox" id="T0020check"  onclick="handleTechniqueClick('T0020')"></td>
+<td id="T0030">T0030 Backstop personas<input type="checkbox" id="T0030check"  onclick="handleTechniqueClick('T0030')"></td>
+<td id="T0040">T0040 Demand unsurmountable proof<input type="checkbox" id="T0040check"  onclick="handleTechniqueClick('T0040')"></td>
+<td id="T0048">T0048 Cow online opinion leaders<input type="checkbox" id="T0048check"  onclick="handleTechniqueClick('T0048')"></td>
+<td id="T0061">T0061 Sell merchandising<input type="checkbox" id="T0061check"  onclick="handleTechniqueClick('T0061')"></td>
+<td id="T0059">T0059 Play the long game<input type="checkbox" id="T0059check"  onclick="handleTechniqueClick('T0059')"></td>
+<td id="T0063">T0063 Message reach<input type="checkbox" id="T0063check"  onclick="handleTechniqueClick('T0063')"></td>
+</tr>
+<tr>
+<td id="T0003">T0003 Leverage Existing Narratives<input type="checkbox" id="T0003check"  onclick="handleTechniqueClick('T0003')"></td>
+<td bgcolor=white> </td>
+<td id="T0009">T0009 Create fake experts<input type="checkbox" id="T0009check"  onclick="handleTechniqueClick('T0009')"></td>
+<td id="T0012">T0012 Use concealment<input type="checkbox" id="T0012check"  onclick="handleTechniqueClick('T0012')"></td>
+<td id="T0018">T0018 Paid targeted ads<input type="checkbox" id="T0018check"  onclick="handleTechniqueClick('T0018')"></td>
+<td id="T0021">T0021 Memes<input type="checkbox" id="T0021check"  onclick="handleTechniqueClick('T0021')"></td>
+<td id="T0031">T0031 YouTube<input type="checkbox" id="T0031check"  onclick="handleTechniqueClick('T0031')"></td>
+<td id="T0041">T0041 Deny involvement<input type="checkbox" id="T0041check"  onclick="handleTechniqueClick('T0041')"></td>
+<td id="T0049">T0049 Flooding<input type="checkbox" id="T0049check"  onclick="handleTechniqueClick('T0049')"></td>
+<td bgcolor=white> </td>
+<td id="T0060">T0060 Continue to amplify<input type="checkbox" id="T0060check"  onclick="handleTechniqueClick('T0060')"></td>
+<td id="T0064">T0064 Social media engagement<input type="checkbox" id="T0064check"  onclick="handleTechniqueClick('T0064')"></td>
+</tr>
+<tr>
+<td id="T0004">T0004 Competing Narratives<input type="checkbox" id="T0004check"  onclick="handleTechniqueClick('T0004')"></td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td id="T0013">T0013 Create fake websites<input type="checkbox" id="T0013check"  onclick="handleTechniqueClick('T0013')"></td>
+<td bgcolor=white> </td>
+<td id="T0022">T0022 Conspiracy narratives<input type="checkbox" id="T0022check"  onclick="handleTechniqueClick('T0022')"></td>
+<td id="T0032">T0032 Reddit<input type="checkbox" id="T0032check"  onclick="handleTechniqueClick('T0032')"></td>
+<td id="T0042">T0042 Kernel of Truth<input type="checkbox" id="T0042check"  onclick="handleTechniqueClick('T0042')"></td>
+<td id="T0050">T0050 Cheerleading domestic social media ops<input type="checkbox" id="T0050check"  onclick="handleTechniqueClick('T0050')"></td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+</tr>
+<tr>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td id="T0014">T0014 Create funding campaigns<input type="checkbox" id="T0014check"  onclick="handleTechniqueClick('T0014')"></td>
+<td bgcolor=white> </td>
+<td id="T0023">T0023 Distort facts<input type="checkbox" id="T0023check"  onclick="handleTechniqueClick('T0023')"></td>
+<td id="T0033">T0033 Instagram<input type="checkbox" id="T0033check"  onclick="handleTechniqueClick('T0033')"></td>
+<td id="T0043">T0043 Use SMS/ WhatsApp/ Chat apps<input type="checkbox" id="T0043check"  onclick="handleTechniqueClick('T0043')"></td>
+<td id="T0051">T0051 Fabricate social media comment<input type="checkbox" id="T0051check"  onclick="handleTechniqueClick('T0051')"></td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+</tr>
+<tr>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td id="T0015">T0015 Create hashtag<input type="checkbox" id="T0015check"  onclick="handleTechniqueClick('T0015')"></td>
+<td bgcolor=white> </td>
+<td id="T0024">T0024 Create fake videos and images<input type="checkbox" id="T0024check"  onclick="handleTechniqueClick('T0024')"></td>
+<td id="T0034">T0034 LinkedIn<input type="checkbox" id="T0034check"  onclick="handleTechniqueClick('T0034')"></td>
+<td id="T0044">T0044 Seed distortions<input type="checkbox" id="T0044check"  onclick="handleTechniqueClick('T0044')"></td>
+<td id="T0052">T0052 Tertiary sites amplify news<input type="checkbox" id="T0052check"  onclick="handleTechniqueClick('T0052')"></td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+</tr>
+<tr>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td id="T0025">T0025 Leak altered documents<input type="checkbox" id="T0025check"  onclick="handleTechniqueClick('T0025')"></td>
+<td id="T0035">T0035 Pinterest<input type="checkbox" id="T0035check"  onclick="handleTechniqueClick('T0035')"></td>
+<td id="T0045">T0045 Use fake experts<input type="checkbox" id="T0045check"  onclick="handleTechniqueClick('T0045')"></td>
+<td id="T0053">T0053 Twitter trolls amplify and manipulate<input type="checkbox" id="T0053check"  onclick="handleTechniqueClick('T0053')"></td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+</tr>
+<tr>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td id="T0026">T0026 Create fake research<input type="checkbox" id="T0026check"  onclick="handleTechniqueClick('T0026')"></td>
+<td id="T0036">T0036 WhatsApp<input type="checkbox" id="T0036check"  onclick="handleTechniqueClick('T0036')"></td>
+<td id="T0046">T0046 Search Engine Optimization<input type="checkbox" id="T0046check"  onclick="handleTechniqueClick('T0046')"></td>
+<td id="T0054">T0054 Twitter bots amplify<input type="checkbox" id="T0054check"  onclick="handleTechniqueClick('T0054')"></td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+</tr>
+<tr>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td id="T0027">T0027 Adapt existing narratives<input type="checkbox" id="T0027check"  onclick="handleTechniqueClick('T0027')"></td>
+<td id="T0037">T0037 Facebook<input type="checkbox" id="T0037check"  onclick="handleTechniqueClick('T0037')"></td>
+<td bgcolor=white> </td>
+<td id="T0055">T0055 Use hashtag<input type="checkbox" id="T0055check"  onclick="handleTechniqueClick('T0055')"></td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+</tr>
+<tr>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td id="T0028">T0028 Create competing narratives<input type="checkbox" id="T0028check"  onclick="handleTechniqueClick('T0028')"></td>
+<td id="T0038">T0038 Twitter<input type="checkbox" id="T0038check"  onclick="handleTechniqueClick('T0038')"></td>
+<td bgcolor=white> </td>
+<td id="T0056">T0056 Dedicated channels disseminate information pollution<input type="checkbox" id="T0056check"  onclick="handleTechniqueClick('T0056')"></td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+<td bgcolor=white> </td>
+</tr>
+<tr>
+</tr>
+</table>
+<hr>
+<ul>
+<li id="T0001text" style="display:none">T0001: 5Ds (dismiss, distort, distract, dismay, divide)</li>
+<li id="T0005text" style="display:none">T0005: Center of Gravity Analysis</li>
+<li id="T0007text" style="display:none">T0007: Create fake Social Media Profiles / Pages / Groups</li>
+<li id="T0010text" style="display:none">T0010: Cultivate ignorant agents</li>
+<li id="T0016text" style="display:none">T0016: Clickbait</li>
+<li id="T0019text" style="display:none">T0019: Generate information pollution</li>
+<li id="T0029text" style="display:none">T0029: Manipulate online polls</li>
+<li id="T0039text" style="display:none">T0039: Bait legitimate influencers</li>
+<li id="T0047text" style="display:none">T0047: Muzzle social media as a political force</li>
+<li id="T0057text" style="display:none">T0057: Organise remote rallies and events</li>
+<li id="T0058text" style="display:none">T0058: Legacy web content</li>
+<li id="T0062text" style="display:none">T0062: Behaviour changes</li>
+<li id="T0002text" style="display:none">T0002: Facilitate State Propaganda</li>
+<li id="T0006text" style="display:none">T0006: Create Master Narratives</li>
+<li id="T0008text" style="display:none">T0008: Create fake or imposter news sites</li>
+<li id="T0011text" style="display:none">T0011: Hijack legitimate account</li>
+<li id="T0017text" style="display:none">T0017: Promote online funding</li>
+<li id="T0020text" style="display:none">T0020: Trial content</li>
+<li id="T0030text" style="display:none">T0030: Backstop personas</li>
+<li id="T0040text" style="display:none">T0040: Demand unsurmountable proof</li>
+<li id="T0048text" style="display:none">T0048: Cow online opinion leaders</li>
+<li id="T0061text" style="display:none">T0061: Sell merchandising</li>
+<li id="T0059text" style="display:none">T0059: Play the long game</li>
+<li id="T0063text" style="display:none">T0063: Message reach</li>
+<li id="T0003text" style="display:none">T0003: Leverage Existing Narratives</li>
+<li id="T0009text" style="display:none">T0009: Create fake experts</li>
+<li id="T0012text" style="display:none">T0012: Use concealment</li>
+<li id="T0018text" style="display:none">T0018: Paid targeted ads</li>
+<li id="T0021text" style="display:none">T0021: Memes</li>
+<li id="T0031text" style="display:none">T0031: YouTube</li>
+<li id="T0041text" style="display:none">T0041: Deny involvement</li>
+<li id="T0049text" style="display:none">T0049: Flooding</li>
+<li id="T0060text" style="display:none">T0060: Continue to amplify</li>
+<li id="T0064text" style="display:none">T0064: Social media engagement</li>
+<li id="T0004text" style="display:none">T0004: Competing Narratives</li>
+<li id="T0013text" style="display:none">T0013: Create fake websites</li>
+<li id="T0022text" style="display:none">T0022: Conspiracy narratives</li>
+<li id="T0032text" style="display:none">T0032: Reddit</li>
+<li id="T0042text" style="display:none">T0042: Kernel of Truth</li>
+<li id="T0050text" style="display:none">T0050: Cheerleading domestic social media ops</li>
+<li id="T0014text" style="display:none">T0014: Create funding campaigns</li>
+<li id="T0023text" style="display:none">T0023: Distort facts</li>
+<li id="T0033text" style="display:none">T0033: Instagram</li>
+<li id="T0043text" style="display:none">T0043: Use SMS/ WhatsApp/ Chat apps</li>
+<li id="T0051text" style="display:none">T0051: Fabricate social media comment</li>
+<li id="T0015text" style="display:none">T0015: Create hashtag</li>
+<li id="T0024text" style="display:none">T0024: Create fake videos and images</li>
+<li id="T0034text" style="display:none">T0034: LinkedIn</li>
+<li id="T0044text" style="display:none">T0044: Seed distortions</li>
+<li id="T0052text" style="display:none">T0052: Tertiary sites amplify news</li>
+<li id="T0025text" style="display:none">T0025: Leak altered documents</li>
+<li id="T0035text" style="display:none">T0035: Pinterest</li>
+<li id="T0045text" style="display:none">T0045: Use fake experts</li>
+<li id="T0053text" style="display:none">T0053: Twitter trolls amplify and manipulate</li>
+<li id="T0026text" style="display:none">T0026: Create fake research</li>
+<li id="T0036text" style="display:none">T0036: WhatsApp</li>
+<li id="T0046text" style="display:none">T0046: Search Engine Optimization</li>
+<li id="T0054text" style="display:none">T0054: Twitter bots amplify</li>
+<li id="T0027text" style="display:none">T0027: Adapt existing narratives</li>
+<li id="T0037text" style="display:none">T0037: Facebook</li>
+<li id="T0055text" style="display:none">T0055: Use hashtag</li>
+<li id="T0028text" style="display:none">T0028: Create competing narratives</li>
+<li id="T0038text" style="display:none">T0038: Twitter</li>
+<li id="T0056text" style="display:none">T0056: Dedicated channels disseminate information pollution</li>
+</ul>
+
+</body>
+</html>
