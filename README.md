@@ -7,8 +7,8 @@ DISARM's style is based on the [MITRE ATT&amp;CK framework](https://github.com/m
 ## What's in this folder
 
 DISARM DOCUMENTATION:
-* [DISARM_GUIDES](DISARM_GUIDES): DISARM user guides, design guides, and more detailed TTP documentation.
-* [DISARM_HISTORY](DISARM_GUIDES/DISARM_HISTORY): earlier models and reports.
+* [DISARM_DOCUMENTATION](DISARM_DOCUMENTATION): DISARM user guides, design guides, and more detailed TTP documentation.
+* [DISARM_HISTORY](DISARM_DOCUMENTATION/DISARM_HISTORY): earlier models and reports.
 
 DISARM FRAMEWORKS:
 * [DISARM Red Team Framework](generated_pages/DISARM_red_framework.md) - Disinformation creator TTPs, listed by tactic stage. This is the classic "DISARM Framework" that's bundled with MISP.  The [clickable](generated_files/DISARM_red_framework_clickable.html) version is for rapidly creating lists of TTPs.
