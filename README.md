@@ -11,8 +11,8 @@ DISARM DOCUMENTATION:
 * [DISARM_HISTORY](DISARM_DOCUMENTATION/DISARM_HISTORY): earlier models and reports.
 
 DISARM FRAMEWORKS:
-* [DISARM Red Team Framework](generated_pages/DISARM_red_framework.md) - Disinformation creator TTPs, listed by tactic stage. This is the classic "DISARM Framework" that's bundled with MISP.  The [clickable](generated_files/DISARM_red_framework_clickable.html) version is for rapidly creating lists of TTPs.
-* [DISARM Blue Team Framework](generated_pages/DISARM_blue_framework.md) - Disinformation responder TTPs, listed by tactic stage. These are countermeasures, listed by the earliest tactic stages they're likely to be used in.
+* [DISARM Red Team Framework](generated_pages/disarm_red_framework.md) - Disinformation creator TTPs, listed by tactic stage. This is the classic "DISARM Framework" that's bundled with MISP.  The [clickable](generated_files/disarm_red_framework_clickable.html) version is for rapidly creating lists of TTPs.
+* [DISARM Blue Team Framework](generated_pages/disarm_blue_framework.md) - Disinformation responder TTPs, listed by tactic stage. These are countermeasures, listed by the earliest tactic stages they're likely to be used in.
 
 DISARM OBJECTS: all the entities used to create the Red Team and Blue Team frameworks:
 * [Phases](generated_pages/phases_index.md): higher-level groupings of tactics, created so we could check we didn't miss anything
