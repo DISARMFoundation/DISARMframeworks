@@ -5,6 +5,7 @@
 <tr style="background-color:blue;color:white;">
 <td><a href="tactics/TA01.md">TA01 Strategic Planning</a></td>
 <td><a href="tactics/TA02.md">TA02 Objective Planning</a></td>
+<td><a href="tactics/TA13.md">TA13 Conduct Center of Gravity Analysis</a></td>
 <td><a href="tactics/TA03.md">TA03 Develop People</a></td>
 <td><a href="tactics/TA04.md">TA04 Develop Networks</a></td>
 <td><a href="tactics/TA05.md">TA05 Microtargeting</a></td>
@@ -12,13 +13,14 @@
 <td><a href="tactics/TA07.md">TA07 Channel Selection</a></td>
 <td><a href="tactics/TA08.md">TA08 Pump Priming</a></td>
 <td><a href="tactics/TA09.md">TA09 Exposure</a></td>
-<td><a href="tactics/TA10.md">TA10 Go Physical</a></td>
+<td><a href="tactics/TA10.md">TA10 Drive Offline Activity</a></td>
 <td><a href="tactics/TA11.md">TA11 Persistence</a></td>
 <td><a href="tactics/TA12.md">TA12 Measure Effectiveness</a></td>
 </tr>
 <tr>
 <td><a href="techniques/T0001.md">T0001 5Ds (dismiss, distort, distract, dismay, divide)</a></td>
-<td><a href="techniques/T0005.md">T0005 Center of Gravity Analysis</a></td>
+<td><a href="techniques/T0006.md">T0006 Develop Narrative Concepts</a></td>
+<td> </td>
 <td><a href="techniques/T0007.md">T0007 Create fake Social Media Profiles / Pages / Groups</a></td>
 <td><a href="techniques/T0010.md">T0010 Cultivate ignorant agents</a></td>
 <td><a href="techniques/T0016.md">T0016 Clickbait</a></td>
@@ -32,10 +34,11 @@
 </tr>
 <tr>
 <td><a href="techniques/T0002.md">T0002 Facilitate State Propaganda</a></td>
-<td><a href="techniques/T0006.md">T0006 Create Master Narratives</a></td>
+<td> </td>
+<td> </td>
 <td><a href="techniques/T0008.md">T0008 Create fake or imposter news sites</a></td>
-<td><a href="techniques/T0011.md">T0011 Hijack legitimate account</a></td>
-<td><a href="techniques/T0017.md">T0017 Promote online funding</a></td>
+<td><a href="techniques/T0011.md">T0011 Compromise legitimate account</a></td>
+<td><a href="techniques/T0017.md">T0017 Conduct Fundraising Campaigns</a></td>
 <td><a href="techniques/T0020.md">T0020 Trial content</a></td>
 <td><a href="techniques/T0030.md">T0030 Backstop personas</a></td>
 <td><a href="techniques/T0040.md">T0040 Demand unsurmountable proof</a></td>
@@ -47,9 +50,10 @@
 <tr>
 <td><a href="techniques/T0003.md">T0003 Leverage Existing Narratives</a></td>
 <td> </td>
+<td> </td>
 <td><a href="techniques/T0009.md">T0009 Create fake experts</a></td>
 <td><a href="techniques/T0012.md">T0012 Use concealment</a></td>
-<td><a href="techniques/T0018.md">T0018 Paid targeted ads</a></td>
+<td><a href="techniques/T0018.md">T0018 Purchase advertisements</a></td>
 <td><a href="techniques/T0021.md">T0021 Memes</a></td>
 <td><a href="techniques/T0031.md">T0031 YouTube</a></td>
 <td><a href="techniques/T0041.md">T0041 Deny involvement</a></td>
@@ -59,7 +63,8 @@
 <td><a href="techniques/T0064.md">T0064 Social media engagement</a></td>
 </tr>
 <tr>
-<td><a href="techniques/T0004.md">T0004 Competing Narratives</a></td>
+<td><a href="techniques/T0004.md">T0004 Devise Competing Narratives</a></td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td><a href="techniques/T0013.md">T0013 Create fake websites</a></td>
@@ -76,7 +81,8 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0014.md">T0014 Create funding campaigns</a></td>
+<td> </td>
+<td><a href="techniques/T0014.md">T0014 Prepare fundraising campaigns</a></td>
 <td> </td>
 <td><a href="techniques/T0023.md">T0023 Distort facts</a></td>
 <td><a href="techniques/T0033.md">T0033 Instagram</a></td>
@@ -90,7 +96,8 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0015.md">T0015 Create hashtag</a></td>
+<td> </td>
+<td><a href="techniques/T0015.md">T0015 Create hashtags</a></td>
 <td> </td>
 <td><a href="techniques/T0024.md">T0024 Create fake videos and images</a></td>
 <td><a href="techniques/T0034.md">T0034 LinkedIn</a></td>
@@ -105,6 +112,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
+<td><a href="techniques/T0065.md">T0065 Use physical broadcast capabilities</a></td>
 <td> </td>
 <td><a href="techniques/T0025.md">T0025 Leak altered documents</a></td>
 <td><a href="techniques/T0035.md">T0035 Pinterest</a></td>
@@ -120,7 +128,8 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0026.md">T0026 Create fake research</a></td>
+<td> </td>
+<td><a href="techniques/T0026.md">T0026 Create pseudoscientific or disingenuous research</a></td>
 <td><a href="techniques/T0036.md">T0036 WhatsApp</a></td>
 <td><a href="techniques/T0046.md">T0046 Search Engine Optimization</a></td>
 <td><a href="techniques/T0054.md">T0054 Twitter bots amplify</a></td>
@@ -129,6 +138,7 @@
 <td> </td>
 </tr>
 <tr>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -143,6 +153,7 @@
 <td> </td>
 </tr>
 <tr>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>

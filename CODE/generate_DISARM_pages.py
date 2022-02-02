@@ -106,7 +106,7 @@ class Disarm:
         self.df_techniques = metadata['techniques']
         self.df_tasks = metadata['tasks']
         self.df_incidents = metadata['incidents']
-        self.df_groups = metadata['groups']
+        self.df_externalgroups = metadata['externalgroups']
         self.df_tools = metadata['tools']
         self.df_examples = metadata['examples']
         self.df_counters = metadata['countermeasures'].sort_values('disarm_id')

@@ -24,6 +24,12 @@
 <td>P01</td>
 </tr>
 <tr>
+<td><a href="tactics/TA13.md">TA13</a></td>
+<td>Conduct Center of Gravity Analysis</td>
+<td>Recon/research to identify "the source of power that provides moral or physical strength, freedom of action, or will to act." Thus, the center of gravity is usually seen as the "source of strength". Includes demographic and network analysis of communities</td>
+<td>P01</td>
+</tr>
+<tr>
 <td><a href="tactics/TA03.md">TA03</a></td>
 <td>Develop People</td>
 <td>Develop online and offline users and agents, including automated personas</td>
@@ -56,7 +62,7 @@
 <tr>
 <td><a href="tactics/TA08.md">TA08</a></td>
 <td>Pump Priming</td>
-<td>Release content on a targetted small scale, prior to general release, including releasing seed narratives</td>
+<td>Release content on a targetted small scale, prior to general release, including releasing seed. Used for preparation before broader release, and as message honing.  Used for preparation before broader release, and as message honing. </td>
 <td>P03</td>
 </tr>
 <tr>
@@ -67,7 +73,7 @@
 </tr>
 <tr>
 <td><a href="tactics/TA10.md">TA10</a></td>
-<td>Go Physical</td>
+<td>Drive Offline Activity</td>
 <td>Move incident into offline world</td>
 <td>P03</td>
 </tr>

@@ -27,7 +27,7 @@
 </tr>
 <tr>
 <td><a href="techniques/T0004.md">T0004</a></td>
-<td>Competing Narratives</td>
+<td>Devise Competing Narratives</td>
 <td>Advance competing narratives connected to same issue ie: on one hand deny incident while at same time expresses dismiss. 
 
 Suppressing or discouraging narratives already spreading requires an alternative. The most simple set of narrative techniques in response would be the construction and promotion of contradictory alternatives centered on denial, deflection, dismissal, counter-charges, excessive standards of proof, bias in prohibition or enforcement, and so on.
@@ -36,14 +36,8 @@ These competing narratives allow loyalists cover, but are less compelling to opp
 <td>TA01</td>
 </tr>
 <tr>
-<td><a href="techniques/T0005.md">T0005</a></td>
-<td>Center of Gravity Analysis</td>
-<td>Recon/research to identify "the source of power that provides moral or physical strength, freedom of action, or will to act." Thus, the center of gravity is usually seen as the "source of strength". Includes demographic and network analysis of communities</td>
-<td>TA02</td>
-</tr>
-<tr>
 <td><a href="techniques/T0006.md">T0006</a></td>
-<td>Create Master Narratives</td>
+<td>Develop Narrative Concepts</td>
 <td>The promotion of beneficial master narratives is perhaps the most effective method for achieving long-term strategic narrative dominance. From a "whole of society" perspective the promotion of the society's core master narratives should occupy a central strategic role. From a misinformation campaign / cognitive security perpectve the tactics around master narratives center more precisely on the day-to-day promotion and reinforcement of this messaging. In other words, beneficial, high-coverage master narratives are a central strategic goal and their promotion consitutes an ongoing tactical struggle carried out at a whole-of-society level.  Tactically, their promotion covers a broad spectrum of activities both on- and offline.</td>
 <td>TA02</td>
 </tr>
@@ -76,7 +70,7 @@ Computational propaganda depends substantially on false perceptions of credibili
 </tr>
 <tr>
 <td><a href="techniques/T0011.md">T0011</a></td>
-<td>Hijack legitimate account</td>
+<td>Compromise legitimate account</td>
 <td>Hack or take over legimate accounts to distribute misinformation or damaging content. </td>
 <td>TA04</td>
 </tr>
@@ -94,20 +88,14 @@ Computational propaganda depends substantially on false perceptions of credibili
 </tr>
 <tr>
 <td><a href="techniques/T0014.md">T0014</a></td>
-<td>Create funding campaigns</td>
-<td>Generate revenue through online funding campaigns. e.g. Gather data, advance credible persona via Gofundme; Patreon; or via fake website connecting via PayPal or Stripe.</td>
+<td>Prepare fundraising campaigns</td>
+<td>Generate revenue through new or existing funding campaigns. e.g. Gather data, advance credible persona via Gofundme; Patreon; or via fake website connecting via PayPal or Stripe.</td>
 <td>TA04</td>
 </tr>
 <tr>
 <td><a href="techniques/T0015.md">T0015</a></td>
-<td>Create hashtag</td>
-<td>Many incident-based campaigns will create a hashtag to promote their fabricated event. 
-
-Creating a hashtag for an incident can have two important effects:
-1. Create a perception of reality around an event. Certainly only "real" events would be discussed in a hashtag. After all, the event has a name!
-2. Publicize the story more widely through trending lists and search behavior 
-
-Asset needed to direct/control/manage "conversation" connected to launching new incident/campaign with new hashtag for applicable social media sites ie: Twitter, LinkedIn)</td>
+<td>Create hashtags</td>
+<td>Create one or more hashtags and/or hashtag groups. Many incident-based campaigns will create hashtags to promote their fabricated event.  Creating a hashtag for an incident can have two important effects: 1. Create a perception of reality around an event. Certainly only "real" events would be discussed in a hashtag. After all, the event has a name!, and 2. Publicize the story more widely through trending lists and search behavior.  Asset needed to direct/control/manage "conversation" connected to launching new incident/campaign with new hashtag for applicable social media sites). </td>
 <td>TA04</td>
 </tr>
 <tr>
@@ -118,13 +106,13 @@ Asset needed to direct/control/manage "conversation" connected to launching new 
 </tr>
 <tr>
 <td><a href="techniques/T0017.md">T0017</a></td>
-<td>Promote online funding</td>
+<td>Conduct Fundraising Campaigns</td>
 <td>Drive traffic/engagement to funding campaign sites; helps provide measurable metrics to assess conversion rates</td>
 <td>TA05</td>
 </tr>
 <tr>
 <td><a href="techniques/T0018.md">T0018</a></td>
-<td>Paid targeted ads</td>
+<td>Purchase advertisements</td>
 <td>Create or fund advertisements targeted at specific populations</td>
 <td>TA05</td>
 </tr>
@@ -172,7 +160,7 @@ Asset needed to direct/control/manage "conversation" connected to launching new 
 </tr>
 <tr>
 <td><a href="techniques/T0026.md">T0026</a></td>
-<td>Create fake research</td>
+<td>Create pseudoscientific or disingenuous research</td>
 <td>Create fake academic research. Example: fake social science research is often aimed at hot-button social issues such as gender, race and sexuality. Fake science research can target Climate Science debate or pseudoscience like anti-vaxx</td>
 <td>TA06</td>
 </tr>
@@ -415,5 +403,11 @@ When messaging makes use of factual reporting to promote these adjustments in th
 <td>Social media engagement</td>
 <td>Monitor and evaluate social media engagement in misinformation incidents. </td>
 <td>TA12</td>
+</tr>
+<tr>
+<td><a href="techniques/T0065.md">T0065</a></td>
+<td>Use physical broadcast capabilities</td>
+<td>Create or coopt broadcast capabilities (e.g. TV, radio etc). </td>
+<td>TA04</td>
 </tr>
 </table>

@@ -47,6 +47,10 @@ If you have your own version of this repository and update DISARM_FRAMEWORKS_MAS
 
 * **DISARM Foundation** maintains and updates the DISARM family of models: DISARM-STIX, the DISARM Red framework (of disinformation creation), and the DISARM Blue framework (of disinformation countermeasures and mitigations).
 
+* **MITRE, FIU, and CogSecCollab teams** worked to merge the AMITT and SPICE framework models together to create the DISARM frameworks.  Created a new foundation to maintain and manage DISARM. 
+
+* **[MITRE]() and [FIU]()** forked the AMITT RED model to create the SPICE framework. 
+
 * **[CogSecCollab](http://cogsec-collab.org/)** maintained and updated the original AMITT models.  We've used DISARM in the CTI League's Covid19 responses, and tested it in trials with NATO, the EU, and several other countries' disinformation units. Pablo Breuer and  are the current design authorities for the DISARM models.
 
 * **MisinfosecWG**, aka the Credibility Coalition's [Misinfosec working group](https://github.com/credcoalition/community-site/wiki/Working-Groups) created the original DISARM frameworks. The Red Framework was started in December 2018, and refined in a Credibility Coalition Misinfosec seminar; the Blue Framework was started as a collection of potential disinformation countermeasures, at a Coalition Misinfosec seminar in November 2019. CogSecCollab is the nonprofit that spun out of MisinfosecWG.
