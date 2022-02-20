@@ -20,7 +20,7 @@
 <tr>
 <td><a href="techniques/T0001.md">T0001 5Ds (dismiss, distort, distract, dismay, divide)</a></td>
 <td><a href="techniques/T0006.md">T0006 Develop Narrative Concepts</a></td>
-<td> </td>
+<td><a href="techniques/T0071.md">T0071 Find echo chambers</a></td>
 <td><a href="techniques/T0007.md">T0007 Create fake Social Media Profiles / Pages / Groups</a></td>
 <td><a href="techniques/T0010.md">T0010 Cultivate ignorant agents</a></td>
 <td><a href="techniques/T0016.md">T0016 Clickbait</a></td>
@@ -34,8 +34,8 @@
 </tr>
 <tr>
 <td><a href="techniques/T0002.md">T0002 Facilitate State Propaganda</a></td>
-<td> </td>
-<td> </td>
+<td><a href="techniques/T0066.md">T0066 Degrade adversary</a></td>
+<td><a href="techniques/T0072.md">T0072 Segment audiences</a></td>
 <td><a href="techniques/T0008.md">T0008 Create fake or imposter news sites</a></td>
 <td><a href="techniques/T0011.md">T0011 Compromise legitimate account</a></td>
 <td><a href="techniques/T0017.md">T0017 Conduct Fundraising Campaigns</a></td>
@@ -49,7 +49,7 @@
 </tr>
 <tr>
 <td><a href="techniques/T0003.md">T0003 Leverage Existing Narratives</a></td>
-<td> </td>
+<td><a href="techniques/T0067.md">T0067 Plan to discredit credible sources</a></td>
 <td> </td>
 <td><a href="techniques/T0009.md">T0009 Create fake experts</a></td>
 <td><a href="techniques/T0012.md">T0012 Use concealment</a></td>
@@ -64,7 +64,7 @@
 </tr>
 <tr>
 <td><a href="techniques/T0004.md">T0004 Devise Competing Narratives</a></td>
-<td> </td>
+<td><a href="techniques/T0068.md">T0068 Respond to breaking news event</a></td>
 <td> </td>
 <td> </td>
 <td><a href="techniques/T0013.md">T0013 Create fake websites</a></td>
@@ -79,7 +79,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0069.md">T0069 Respond to active crisis</a></td>
 <td> </td>
 <td> </td>
 <td><a href="techniques/T0014.md">T0014 Prepare fundraising campaigns</a></td>
@@ -94,7 +94,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0070.md">T0070 Analyze existing communities</a></td>
 <td> </td>
 <td> </td>
 <td><a href="techniques/T0015.md">T0015 Create hashtags</a></td>

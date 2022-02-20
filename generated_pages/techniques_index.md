@@ -410,4 +410,46 @@ When messaging makes use of factual reporting to promote these adjustments in th
 <td>Create or coopt broadcast capabilities (e.g. TV, radio etc). </td>
 <td>TA04</td>
 </tr>
+<tr>
+<td><a href="techniques/T0066.md">T0066</a></td>
+<td>Degrade adversary</td>
+<td>Plan to degrade an adversary’s image or ability to act.  This could include preparation and use of harmful information about the adversary’s actions or reputation. </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0067.md">T0067</a></td>
+<td>Plan to discredit credible sources</td>
+<td>Plan to delegitimize the media landscape and degrade public trust in reporting, by discrediting credible sources.  This makes it easier to promote influence operation content.</td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0068.md">T0068</a></td>
+<td>Respond to breaking news event</td>
+<td>Media attention on a story or event is heightened during a breaking news event, where unclear facts and incomplete information increase speculation, rumors, and conspiracy theories, which are all vulnerable to manipulation. </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0069.md">T0069</a></td>
+<td>Respond to active crisis</td>
+<td>Panic, rumors, and speculation are heightened during active crises (violent events, natural disasters, public health phenomena, etc); these are all vulnerable to manipulation.</td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0070.md">T0070</a></td>
+<td>Analyze existing communities</td>
+<td>Assess influence operation potential of existing social media communities, where communities share interests, experiences, politics, or other characteristics that join online users together.  Assessment includes the potential use of social group trauma that could be targeted to gain support, using emotional appeals to shared grievances in a set population.</td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0071.md">T0071</a></td>
+<td>Find echo chambers</td>
+<td>Find or plan to create areas (social media groups, search term groups, hashtag groups etc) where individuals only engage with people they agree with.  </td>
+<td>TA13</td>
+</tr>
+<tr>
+<td><a href="techniques/T0072.md">T0072</a></td>
+<td>Segment audiences</td>
+<td>Create audience segmentations by features of interest to the influence campaign, including political affiliation, geographic location, income, demographics, and psychographics. </td>
+<td>TA13</td>
+</tr>
 </table>

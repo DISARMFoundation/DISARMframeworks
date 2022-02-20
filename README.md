@@ -40,7 +40,7 @@ Using your own datasets: DISARM is open source.  If you want to do your own thin
 
 * The code to create all the HTML datasheets is in directory [CODE](CODE): you'll need generate_DISARM_pages.py and all the template files.
 
-If you have your own version of this repository and update DISARM_FRAMEWORKS_MASTER.xlsx, typing "python generate_DISARM_pages.py" will update all the files above from it.
+If you have your own version of this repository and update DISARM_FRAMEWORKS_MASTER.xlsx, typing "python generate_DISARM_pages.py" will update all the files above from it.  If you want to update the DISARM github file, DISARM databases, and DISARM STIX bundle at the same time, run file generate_DISARM_pages.ipynb from Jupyter. 
 
 
 ## Who's Responsible for DISARM
