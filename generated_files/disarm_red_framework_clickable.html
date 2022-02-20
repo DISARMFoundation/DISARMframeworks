@@ -56,7 +56,7 @@ function handleTechniqueClick(box) {
 <tr>
 <td id="T0001">T0001 5Ds (dismiss, distort, distract, dismay, divide)<input type="checkbox" id="T0001check"  onclick="handleTechniqueClick('T0001')"></td>
 <td id="T0006">T0006 Develop Narrative Concepts<input type="checkbox" id="T0006check"  onclick="handleTechniqueClick('T0006')"></td>
-<td bgcolor=white> </td>
+<td id="T0071">T0071 Find echo chambers<input type="checkbox" id="T0071check"  onclick="handleTechniqueClick('T0071')"></td>
 <td id="T0007">T0007 Create fake Social Media Profiles / Pages / Groups<input type="checkbox" id="T0007check"  onclick="handleTechniqueClick('T0007')"></td>
 <td id="T0010">T0010 Cultivate ignorant agents<input type="checkbox" id="T0010check"  onclick="handleTechniqueClick('T0010')"></td>
 <td id="T0016">T0016 Clickbait<input type="checkbox" id="T0016check"  onclick="handleTechniqueClick('T0016')"></td>
@@ -70,8 +70,8 @@ function handleTechniqueClick(box) {
 </tr>
 <tr>
 <td id="T0002">T0002 Facilitate State Propaganda<input type="checkbox" id="T0002check"  onclick="handleTechniqueClick('T0002')"></td>
-<td bgcolor=white> </td>
-<td bgcolor=white> </td>
+<td id="T0066">T0066 Degrade adversary<input type="checkbox" id="T0066check"  onclick="handleTechniqueClick('T0066')"></td>
+<td id="T0072">T0072 Segment audiences<input type="checkbox" id="T0072check"  onclick="handleTechniqueClick('T0072')"></td>
 <td id="T0008">T0008 Create fake or imposter news sites<input type="checkbox" id="T0008check"  onclick="handleTechniqueClick('T0008')"></td>
 <td id="T0011">T0011 Compromise legitimate account<input type="checkbox" id="T0011check"  onclick="handleTechniqueClick('T0011')"></td>
 <td id="T0017">T0017 Conduct Fundraising Campaigns<input type="checkbox" id="T0017check"  onclick="handleTechniqueClick('T0017')"></td>
@@ -85,7 +85,7 @@ function handleTechniqueClick(box) {
 </tr>
 <tr>
 <td id="T0003">T0003 Leverage Existing Narratives<input type="checkbox" id="T0003check"  onclick="handleTechniqueClick('T0003')"></td>
-<td bgcolor=white> </td>
+<td id="T0067">T0067 Plan to discredit credible sources<input type="checkbox" id="T0067check"  onclick="handleTechniqueClick('T0067')"></td>
 <td bgcolor=white> </td>
 <td id="T0009">T0009 Create fake experts<input type="checkbox" id="T0009check"  onclick="handleTechniqueClick('T0009')"></td>
 <td id="T0012">T0012 Use concealment<input type="checkbox" id="T0012check"  onclick="handleTechniqueClick('T0012')"></td>
@@ -100,7 +100,7 @@ function handleTechniqueClick(box) {
 </tr>
 <tr>
 <td id="T0004">T0004 Devise Competing Narratives<input type="checkbox" id="T0004check"  onclick="handleTechniqueClick('T0004')"></td>
-<td bgcolor=white> </td>
+<td id="T0068">T0068 Respond to breaking news event<input type="checkbox" id="T0068check"  onclick="handleTechniqueClick('T0068')"></td>
 <td bgcolor=white> </td>
 <td bgcolor=white> </td>
 <td id="T0013">T0013 Create fake websites<input type="checkbox" id="T0013check"  onclick="handleTechniqueClick('T0013')"></td>
@@ -115,7 +115,7 @@ function handleTechniqueClick(box) {
 </tr>
 <tr>
 <td bgcolor=white> </td>
-<td bgcolor=white> </td>
+<td id="T0069">T0069 Respond to active crisis<input type="checkbox" id="T0069check"  onclick="handleTechniqueClick('T0069')"></td>
 <td bgcolor=white> </td>
 <td bgcolor=white> </td>
 <td id="T0014">T0014 Prepare fundraising campaigns<input type="checkbox" id="T0014check"  onclick="handleTechniqueClick('T0014')"></td>
@@ -130,7 +130,7 @@ function handleTechniqueClick(box) {
 </tr>
 <tr>
 <td bgcolor=white> </td>
-<td bgcolor=white> </td>
+<td id="T0070">T0070 Analyze existing communities<input type="checkbox" id="T0070check"  onclick="handleTechniqueClick('T0070')"></td>
 <td bgcolor=white> </td>
 <td bgcolor=white> </td>
 <td id="T0015">T0015 Create hashtags<input type="checkbox" id="T0015check"  onclick="handleTechniqueClick('T0015')"></td>
@@ -210,6 +210,7 @@ function handleTechniqueClick(box) {
 <ul>
 <li id="T0001text" style="display:none">T0001: 5Ds (dismiss, distort, distract, dismay, divide)</li>
 <li id="T0006text" style="display:none">T0006: Develop Narrative Concepts</li>
+<li id="T0071text" style="display:none">T0071: Find echo chambers</li>
 <li id="T0007text" style="display:none">T0007: Create fake Social Media Profiles / Pages / Groups</li>
 <li id="T0010text" style="display:none">T0010: Cultivate ignorant agents</li>
 <li id="T0016text" style="display:none">T0016: Clickbait</li>
@@ -221,6 +222,8 @@ function handleTechniqueClick(box) {
 <li id="T0058text" style="display:none">T0058: Legacy web content</li>
 <li id="T0062text" style="display:none">T0062: Behaviour changes</li>
 <li id="T0002text" style="display:none">T0002: Facilitate State Propaganda</li>
+<li id="T0066text" style="display:none">T0066: Degrade adversary</li>
+<li id="T0072text" style="display:none">T0072: Segment audiences</li>
 <li id="T0008text" style="display:none">T0008: Create fake or imposter news sites</li>
 <li id="T0011text" style="display:none">T0011: Compromise legitimate account</li>
 <li id="T0017text" style="display:none">T0017: Conduct Fundraising Campaigns</li>
@@ -232,6 +235,7 @@ function handleTechniqueClick(box) {
 <li id="T0059text" style="display:none">T0059: Play the long game</li>
 <li id="T0063text" style="display:none">T0063: Message reach</li>
 <li id="T0003text" style="display:none">T0003: Leverage Existing Narratives</li>
+<li id="T0067text" style="display:none">T0067: Plan to discredit credible sources</li>
 <li id="T0009text" style="display:none">T0009: Create fake experts</li>
 <li id="T0012text" style="display:none">T0012: Use concealment</li>
 <li id="T0018text" style="display:none">T0018: Purchase advertisements</li>
@@ -242,16 +246,19 @@ function handleTechniqueClick(box) {
 <li id="T0060text" style="display:none">T0060: Continue to amplify</li>
 <li id="T0064text" style="display:none">T0064: Social media engagement</li>
 <li id="T0004text" style="display:none">T0004: Devise Competing Narratives</li>
+<li id="T0068text" style="display:none">T0068: Respond to breaking news event</li>
 <li id="T0013text" style="display:none">T0013: Create fake websites</li>
 <li id="T0022text" style="display:none">T0022: Conspiracy narratives</li>
 <li id="T0032text" style="display:none">T0032: Reddit</li>
 <li id="T0042text" style="display:none">T0042: Kernel of Truth</li>
 <li id="T0050text" style="display:none">T0050: Cheerleading domestic social media ops</li>
+<li id="T0069text" style="display:none">T0069: Respond to active crisis</li>
 <li id="T0014text" style="display:none">T0014: Prepare fundraising campaigns</li>
 <li id="T0023text" style="display:none">T0023: Distort facts</li>
 <li id="T0033text" style="display:none">T0033: Instagram</li>
 <li id="T0043text" style="display:none">T0043: Use SMS/ WhatsApp/ Chat apps</li>
 <li id="T0051text" style="display:none">T0051: Fabricate social media comment</li>
+<li id="T0070text" style="display:none">T0070: Analyze existing communities</li>
 <li id="T0015text" style="display:none">T0015: Create hashtags</li>
 <li id="T0024text" style="display:none">T0024: Create fake videos and images</li>
 <li id="T0034text" style="display:none">T0034: LinkedIn</li>

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--aa417e3a-4d54-432c-91b0-b476e54da6b6",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--ff805779-758b-4957-b378-108ddc6e4b2b",
+            "created_by_ref": "identity--2546bbc6-845c-4dcf-87cf-0d581a933b98",
+            "created": "2022-02-20T20:28:29.242933Z",
+            "modified": "2022-02-20T20:28:29.242933Z",
+            "name": "LinkedIn",
+            "description": "TA07",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "channel-selection"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0034.md",
+                    "external_id": "T0034"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--2472bd22-e2d9-437b-bd0d-d8cdb07962e0"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

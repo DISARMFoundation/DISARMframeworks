@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--dcd0da67-a671-4c9d-b51a-eabebaafeb62",
+    "objects": [
+        {
+            "type": "x-mitre-tactic",
+            "spec_version": "2.1",
+            "id": "x-mitre-tactic--130db5da-3bf4-45c5-bffd-937571dedd4c",
+            "created_by_ref": "identity--0b1f8428-20aa-4c17-b4d5-93bc7cf917a6",
+            "created": "2022-02-20T20:28:29.204959Z",
+            "modified": "2022-02-20T20:28:29.204959Z",
+            "name": "Conduct Center of Gravity Analysis",
+            "description": "Recon/research to identify \"the source of power that provides moral or physical strength, freedom of action, or will to act.\" Thus, the center of gravity is usually seen as the \"source of strength\". Includes demographic and network analysis of communities",
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA13.md",
+                    "external_id": "TA13"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--869e311f-ba4e-48f9-9b55-5ad01552470e"
+            ],
+            "x_mitre_shortname": "conduct-center-of-gravity-analysis"
+        }
+    ]
+}

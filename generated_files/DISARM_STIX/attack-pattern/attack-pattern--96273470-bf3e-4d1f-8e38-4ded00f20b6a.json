@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--677acc1b-3f43-47c0-ba65-b5a5438ef193",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--96273470-bf3e-4d1f-8e38-4ded00f20b6a",
+            "created_by_ref": "identity--3ae5ef7d-8f1e-4765-85e5-0a4f2c7ed125",
+            "created": "2022-02-20T20:28:29.22494Z",
+            "modified": "2022-02-20T20:28:29.22494Z",
+            "name": "Create fake websites",
+            "description": "TA04",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-networks"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0013.md",
+                    "external_id": "T0013"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c009bc31-e79b-4502-849b-c7a1154b3991"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

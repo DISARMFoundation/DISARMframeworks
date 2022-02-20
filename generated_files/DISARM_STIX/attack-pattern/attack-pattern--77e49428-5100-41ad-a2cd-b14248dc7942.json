@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--44774e9d-b4b8-4f4f-a4fd-57795ac5a2e9",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--77e49428-5100-41ad-a2cd-b14248dc7942",
+            "created_by_ref": "identity--1f85cb83-911a-4f19-854a-4f9cd1e74ec4",
+            "created": "2022-02-20T20:28:29.237056Z",
+            "modified": "2022-02-20T20:28:29.237056Z",
+            "name": "Adapt existing narratives",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0027.md",
+                    "external_id": "T0027"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--2c7f8daa-bdf7-4912-b05d-9b4e65aab41e"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

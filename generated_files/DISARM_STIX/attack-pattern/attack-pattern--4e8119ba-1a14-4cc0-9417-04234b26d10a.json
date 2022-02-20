@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--82335fb7-65dc-45b0-b87f-8497230a7720",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--4e8119ba-1a14-4cc0-9417-04234b26d10a",
+            "created_by_ref": "identity--59605174-0aa6-49cd-b249-82b696d77b39",
+            "created": "2022-02-20T20:28:29.252675Z",
+            "modified": "2022-02-20T20:28:29.252675Z",
+            "name": "Search Engine Optimization",
+            "description": "TA08",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "pump-priming"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0046.md",
+                    "external_id": "T0046"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--385c6807-011a-4e37-98ad-e80186f36db1"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

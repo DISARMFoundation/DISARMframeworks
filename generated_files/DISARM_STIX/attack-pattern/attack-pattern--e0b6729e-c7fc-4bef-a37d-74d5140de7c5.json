@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--c28420a2-9835-41ec-9da6-f0b2da3fbc56",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--e0b6729e-c7fc-4bef-a37d-74d5140de7c5",
+            "created_by_ref": "identity--2119df41-7afd-428c-ac70-6089595e1cb3",
+            "created": "2022-02-20T20:28:29.235428Z",
+            "modified": "2022-02-20T20:28:29.235428Z",
+            "name": "Leak altered documents",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0025.md",
+                    "external_id": "T0025"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--67cd0b5b-b7f3-4aa6-9b1b-b4369bbd5408"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

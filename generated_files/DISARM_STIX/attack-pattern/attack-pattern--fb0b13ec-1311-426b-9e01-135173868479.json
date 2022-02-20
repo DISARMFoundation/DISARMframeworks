@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--3d5403c8-248a-4041-a8b3-5ac1fcab49a1",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--fb0b13ec-1311-426b-9e01-135173868479",
+            "created_by_ref": "identity--45bfdf6f-de61-4d31-9f22-31acc94de723",
+            "created": "2022-02-20T20:28:29.221476Z",
+            "modified": "2022-02-20T20:28:29.221476Z",
+            "name": "Create fake experts",
+            "description": "TA03",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-people"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0009.md",
+                    "external_id": "T0009"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--b9dfff16-fffc-43a0-be17-4e851cea8402"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

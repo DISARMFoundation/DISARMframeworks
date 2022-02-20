@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--9ef1faad-6bf5-47cc-af8f-22e4e9eb3aa1",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--9829272f-ab1f-433a-8f35-4fce7e2dc0c2",
+            "created_by_ref": "identity--81afcf8c-f6c4-4f1f-8653-403b676e856d",
+            "created": "2022-02-20T20:28:29.224115Z",
+            "modified": "2022-02-20T20:28:29.224115Z",
+            "name": "Use concealment",
+            "description": "TA04",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-networks"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0012.md",
+                    "external_id": "T0012"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--a4991112-b124-48d2-b506-7cfb121e3f93"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

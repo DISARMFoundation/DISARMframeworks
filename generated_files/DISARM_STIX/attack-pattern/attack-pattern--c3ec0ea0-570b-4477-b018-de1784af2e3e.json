@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--dfc83eef-646f-4127-ad32-c1c87da57e42",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--c3ec0ea0-570b-4477-b018-de1784af2e3e",
+            "created_by_ref": "identity--489b11ad-7bb1-48e0-92d6-13422f8589aa",
+            "created": "2022-02-20T20:28:29.215512Z",
+            "modified": "2022-02-20T20:28:29.215512Z",
+            "name": "5Ds (dismiss, distort, distract, dismay, divide)",
+            "description": "TA01",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "strategic-planning"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0001.md",
+                    "external_id": "T0001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--97017f5f-9a5e-4ba9-9600-bae6cd832d16"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

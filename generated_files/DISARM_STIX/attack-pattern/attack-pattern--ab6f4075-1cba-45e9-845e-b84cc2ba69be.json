@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--54a0fd60-58e5-42bc-91ea-1f0de136f3ba",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--ab6f4075-1cba-45e9-845e-b84cc2ba69be",
+            "created_by_ref": "identity--06d77583-83d4-488f-ba9a-7ece619ab6b2",
+            "created": "2022-02-20T20:28:29.251071Z",
+            "modified": "2022-02-20T20:28:29.251071Z",
+            "name": "Seed distortions",
+            "description": "TA08",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "pump-priming"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0044.md",
+                    "external_id": "T0044"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--a3c92dd9-f2eb-4197-86fe-2545eae55e30"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

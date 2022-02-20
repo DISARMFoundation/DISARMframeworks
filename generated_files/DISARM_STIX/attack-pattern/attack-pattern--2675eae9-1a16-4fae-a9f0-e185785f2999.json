@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--6ace00b1-909a-413b-a444-0b057a32c6cc",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--2675eae9-1a16-4fae-a9f0-e185785f2999",
+            "created_by_ref": "identity--af201f94-ee2a-4924-bc61-11c3ecaa3c8c",
+            "created": "2022-02-20T20:28:29.219864Z",
+            "modified": "2022-02-20T20:28:29.219864Z",
+            "name": "Create fake Social Media Profiles / Pages / Groups",
+            "description": "TA03",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-people"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0007.md",
+                    "external_id": "T0007"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--be34fbbe-d5d8-4c96-9b25-65d75c3ad305"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

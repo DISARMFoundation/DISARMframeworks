@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--c6c0215a-f050-4669-8998-be12ed84e6d1",
+    "objects": [
+        {
+            "type": "x-mitre-tactic",
+            "spec_version": "2.1",
+            "id": "x-mitre-tactic--3bd01a2d-0ed0-4112-933d-cba4f496a3f4",
+            "created_by_ref": "identity--a5776c6a-005d-4ddc-8d29-2d156d720ab5",
+            "created": "2022-02-20T20:28:29.214074Z",
+            "modified": "2022-02-20T20:28:29.214074Z",
+            "name": "Measure Effectiveness",
+            "description": "Measure effectiveness of incident, for use in planning future events",
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA12.md",
+                    "external_id": "TA12"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--31501e8f-8fd6-40cd-8691-5a7536018b79"
+            ],
+            "x_mitre_shortname": "measure-effectiveness"
+        }
+    ]
+}

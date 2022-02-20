@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--8c73a60c-2644-408b-a85c-ae11fa216b7a",
+    "objects": [
+        {
+            "type": "x-mitre-tactic",
+            "spec_version": "2.1",
+            "id": "x-mitre-tactic--7f2780ce-2f98-4d0e-897b-1c28c02eb88d",
+            "created_by_ref": "identity--af08bfcd-36d3-4a8a-a85a-35322ceccf91",
+            "created": "2022-02-20T20:28:29.206674Z",
+            "modified": "2022-02-20T20:28:29.206674Z",
+            "name": "Develop Networks",
+            "description": "Develop online and offline communities and transmission methods and cultivate assets and unwitting agents",
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA04.md",
+                    "external_id": "TA04"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--a72e7c75-16e5-4e9b-b0e0-03da28fb3e93"
+            ],
+            "x_mitre_shortname": "develop-networks"
+        }
+    ]
+}

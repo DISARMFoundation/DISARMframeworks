@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--7b8a310e-2516-4ecb-a390-45ac9424d3d6",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--5459e697-cc52-4aed-ae28-674a097dc3ba",
+            "created_by_ref": "identity--aac51e4a-21db-413e-a3e7-5909c2f85d9e",
+            "created": "2022-02-20T20:28:29.271395Z",
+            "modified": "2022-02-20T20:28:29.271395Z",
+            "name": "Segment audiences",
+            "description": "TA13",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "conduct-center-of-gravity-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0072.md",
+                    "external_id": "T0072"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--346ee025-3dc3-46d6-83be-1ece1aea8235"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}
