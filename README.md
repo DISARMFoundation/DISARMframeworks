@@ -43,17 +43,19 @@ Using your own datasets: DISARM is open source.  If you want to do your own thin
 If you have your own version of this repository and update DISARM_FRAMEWORKS_MASTER.xlsx, typing "python generate_DISARM_pages.py" will update all the files above from it.  If you want to update the DISARM github file, DISARM databases, and DISARM STIX bundle at the same time, run file generate_DISARM_pages.ipynb from Jupyter. 
 
 
-## Who's Responsible for DISARM
+## Who's Responsible for DISARM (and a little history)
 
-* **DISARM Foundation** maintains and updates the DISARM family of models: DISARM-STIX, the DISARM Red framework (of disinformation creation), and the DISARM Blue framework (of disinformation countermeasures and mitigations).
+* Now: **DISARM Foundation** maintains and updates the DISARM family of models: DISARM-STIX, the DISARM Red framework (of disinformation creation), and the DISARM Blue framework (of disinformation countermeasures and mitigations).
 
-* **MITRE, FIU, and CogSecCollab teams** worked to merge the AMITT and SPICE framework models together to create the DISARM frameworks.  Created a new foundation to maintain and manage DISARM. 
+* 2022: **MITRE, FIU, and CogSecCollab teams** worked to merge the AMITT and SPICE framework models together to create the DISARM frameworks.  Created a new foundation to maintain and manage DISARM. 
 
-* **[MITRE]() and [FIU]()** forked the AMITT RED model to create the SPICE framework. 
+* 2020? **[MITRE]() and [FIU]()** forked the AMITT RED model to create the SPICE framework, led by Mark Finlayson at FIU. 
 
-* **[CogSecCollab](http://cogsec-collab.org/)** maintained and updated the original AMITT models.  We've used DISARM in the CTI League's Covid19 responses, and tested it in trials with NATO, the EU, and several other countries' disinformation units. Pablo Breuer and  are the current design authorities for the DISARM models.
+* 2020-2022: **[CogSecCollab](http://cogsec-collab.org/)** maintained and updated the original AMITT models.  CogSecCollab is the nonprofit that spun out of MisinfosecWG. We used DISARM in the CTI League's Covid19 responses, and tested it in trials with NATO, the EU, and several other countries' disinformation units. Pablo Breuer and  are the current design authorities for the DISARM models.
 
-* **MisinfosecWG**, aka the Credibility Coalition's [Misinfosec working group](https://github.com/credcoalition/community-site/wiki/Working-Groups) created the original DISARM frameworks. The Red Framework was started in December 2018, and refined in a Credibility Coalition Misinfosec seminar; the Blue Framework was started as a collection of potential disinformation countermeasures, at a Coalition Misinfosec seminar in November 2019. CogSecCollab is the nonprofit that spun out of MisinfosecWG.
+* 2018-2020: **MisinfosecWG**, aka the Credibility Coalition's [Misinfosec working group](https://github.com/credcoalition/community-site/wiki/Working-Groups) created the original DISARM frameworks. The Credibility Coalition is a natural fit for the standards part of this (because in 2017 every group - media, military, advertising, public etc - had a different set of words for disinformation components), and since SJ was there when the Credibility Coalition was created, they were a natural place to do this work.  The Red Framework was started in December 2018, refined in a Credibility Coalition Misinfosec seminar, and argued into shape by SJ and Pablo at SOFTWERX over an unreasonable amount of coffee; the Blue Framework was started as a collection of potential disinformation countermeasures, at a Coalition Misinfosec seminar in November 2019. This work was led jointly by SJ and Christopher Walker ("Walker") from Marvelous.AI, later joined by John Grey from MentionMapp, but it was really a CredCo community effort, with contributions from many people and places, including Roger Johnston, who joined after we presented at ATT&CKcon, and started building many of the tools and connections to systems like STIX and MISP.  
+
+* 2017-2018: SJ Terp starts working on adapting information security tools, processes, and procedures for disinformation use.  She links up with JJ Snow, Pablo Breuer, the usual collection of infosec geeks, and the SOFWERX team to work on characterising and countering hybrid incidents (cybersecurity plus disinformation, noting that information operations have always included this).  
 
 * **Everyone who contributes to DISARM** (and there are many of you). Thank you to everyone who contributes to DISARM, and has contributed to DISARM over the years.
 
