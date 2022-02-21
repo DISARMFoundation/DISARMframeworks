@@ -45,13 +45,13 @@ If you have your own version of this repository and update DISARM_FRAMEWORKS_MAS
 
 ## Who's Responsible for DISARM (and a little history)
 
-* Now: **DISARM Foundation** maintains and updates the DISARM family of models: DISARM-STIX, the DISARM Red framework (of disinformation creation), and the DISARM Blue framework (of disinformation countermeasures and mitigations).
+* Now: **[DISARM Foundation](https://www.disarm.foundation/)** maintains and updates the DISARM family of models: DISARM-STIX, the DISARM Red framework (of disinformation creation), and the DISARM Blue framework (of disinformation countermeasures and mitigations).  
 
-* 2022: **MITRE, FIU, and CogSecCollab teams** worked to merge the AMITT and SPICE framework models together to create the DISARM frameworks.  Created a new foundation to maintain and manage DISARM. 
+* In 2022, **MITRE, FIU, and CogSecCollab teams** worked to merge the AMITT and SPICE framework models together to create the DISARM frameworks, led by SJ, Pablo, Mark, and Jon Brewer (who keeps us all organized).  This team created the DISARM FOUNDATION. 
 
-* 2020? **[MITRE]() and [FIU]()** forked the AMITT RED model to create the SPICE framework, led by Mark Finlayson at FIU. 
+* 2020? **[MITRE](https://www.mitre.org/) and [FIU: Florida International University](https://www.fiu.edu/)** forked the AMITT RED model to create the SPICE framework, led by Mark Finlayson at FIU. 
 
-* 2020-2022: **[CogSecCollab](http://cogsec-collab.org/)** maintained and updated the original AMITT models.  CogSecCollab is the nonprofit that spun out of MisinfosecWG. We used DISARM in the CTI League's Covid19 responses, and tested it in trials with NATO, the EU, and several other countries' disinformation units. Pablo Breuer and  are the current design authorities for the DISARM models.
+* 2020-2022: **[CogSecCollab](http://cogsec-collab.org/)** maintained and updated the original AMITT models.  CogSecCollab is the nonprofit that spun out of MisinfosecWG. CogSecCollab used AMITT in the CTI League's Covid19 responses, and tested it in trials with NATO, the EU, and several other countries' disinformation units. SJ Terp and Pablo Breuer held the design authority for the AMITT models.
 
 * 2018-2020: **MisinfosecWG**, aka the Credibility Coalition's [Misinfosec working group](https://github.com/credcoalition/community-site/wiki/Working-Groups) created the original DISARM frameworks. The Credibility Coalition is a natural fit for the standards part of this (because in 2017 every group - media, military, advertising, public etc - had a different set of words for disinformation components), and since SJ was there when the Credibility Coalition was created, they were a natural place to do this work.  The Red Framework was started in December 2018, refined in a Credibility Coalition Misinfosec seminar, and argued into shape by SJ and Pablo at SOFTWERX over an unreasonable amount of coffee; the Blue Framework was started as a collection of potential disinformation countermeasures, at a Coalition Misinfosec seminar in November 2019. This work was led jointly by SJ and Christopher Walker ("Walker") from Marvelous.AI, later joined by John Grey from MentionMapp, but it was really a CredCo community effort, with contributions from many people and places, including Roger Johnston, who joined after we presented at ATT&CKcon, and started building many of the tools and connections to systems like STIX and MISP.  
 
