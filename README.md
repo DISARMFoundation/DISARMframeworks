@@ -20,7 +20,7 @@ DISARM OBJECTS: all the entities used to create the Red Team and Blue Team frame
 * [Techniques](generated_pages/techniques_index.md): activities that might be seen at each stage
 * [Tasks](generated_pages/tasks_index.md): things that need to be done at each stage.  In Pablospeak, tasks are things you do, techniques are how you do them.
 * [Counters](generated_pages/counters_index.md): countermeasures to DISARM TTPs.  
-* [Actors](generated_pages/actors_index.md): resources needed to run countermeasures
+* [Actor Types](generated_pages/actortypes_index.md): resources needed to run countermeasures
 * [Response types](generated_pages/responsetype_index.md): the course-of-action categories we used to create counters
 * [Metatechniques](generated_pages/metatechniques_index.md): a higher-level grouping for countermeasures
 * [Incidents](generated_pages/incidents_index.md): incident descriptions used to create the DISARM frameworks
