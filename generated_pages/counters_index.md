@@ -920,7 +920,7 @@ Online archives of content (archives of websites, social media profiles, media, 
 <tr>
 <td><a href="counters/C00164.md">C00164</a></td>
 <td>compatriot policy</td>
-<td>protect the interests of a population and influence the population to not support disinformation causes and effectively influence the politics of its neighbors</td>
+<td>protect the interests of this population and, more importantly, influence the population to support pro-Russia causes and effectively influence the politics of its neighbors</td>
 <td>M013 - targeting</td>
 <td>TA02 Objective Planning</td>
 <td>D03</td>
@@ -936,7 +936,7 @@ Online archives of content (archives of websites, social media profiles, media, 
 <tr>
 <td><a href="counters/C00169.md">C00169</a></td>
 <td>develop a creative content hub</td>
-<td>Build funding and resources for producers and broadcasters to create content that counters disinformation and improves information landscapes.  This could be a basket fund provided by  international donors to a committee of local experts managing and distributing funding.</td>
+<td>international donors will donate to a basket fund that will pay a committee of local experts who will, in turn, manage and distribute the money to Russian-language producers and broadcasters that pitch various projects.</td>
 <td>M010 - countermessaging</td>
 <td>TA02 Objective Planning</td>
 <td>D03</td>
@@ -1039,8 +1039,8 @@ Online archives of content (archives of websites, social media profiles, media, 
 </tr>
 <tr>
 <td><a href="counters/C00200.md">C00200</a></td>
-<td>Influencer disavows misinfo</td>
-<td>Influencer is a trusted or respected figure. </td>
+<td>Respected figure (influencer) disavows misinfo</td>
+<td>FIXIT: standardize language used for influencer/ respected figure. </td>
 <td>M010 - countermessaging</td>
 <td>TA09 Exposure</td>
 <td>D03</td>

@@ -24,6 +24,6 @@
 <tr>
 <td><a href="phases/P04.md">P04</a></td>
 <td>Assess</td>
-<td>Evaluate effectiveness of action, for use in future plans</td>
+<td>Evaluate effectiveness of action, for use in future plans </td>
 </tr>
 </table>
