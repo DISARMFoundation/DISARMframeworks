@@ -177,7 +177,7 @@
 <td><a href="counters/C00082.md">C00082 Ground truthing as automated response to pollution</a></td>
 <td> </td>
 <td><a href="counters/C00121.md">C00121 Tool transparency and literacy for channels people follow. </a></td>
-<td><a href="counters/C00200.md">C00200 Respected figure (influencer) disavows misinfo</a></td>
+<td><a href="counters/C00200.md">C00200 Influencer disavows misinfo</a></td>
 <td> </td>
 <td> </td>
 <td> </td>

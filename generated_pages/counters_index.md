@@ -12,7 +12,7 @@
 <tr>
 <td><a href="counters/C00006.md">C00006</a></td>
 <td>Charge for social media</td>
-<td>Include a paid-for privacy option, e.g. pay Facebook for an option of them not collecting your personal information.  There are examples of this not work, e.g. most people don’t use proton mail etc. </td>
+<td>Include a paid-for privacy option, e.g. pay Facebook for an option of them not collecting your personal information.  There are examples of this not working, e.g. most people don’t use proton mail etc. </td>
 <td>M004 - friction</td>
 <td>TA01 Strategic Planning</td>
 <td>D02</td>
@@ -20,7 +20,7 @@
 <tr>
 <td><a href="counters/C00008.md">C00008</a></td>
 <td>Create shared fact-checking database</td>
-<td>Share fact-checking resources - tips, responses, countermessages, across respose groups.  Snopes is best-known example of fact-checking sites. </td>
+<td>Share fact-checking resources - tips, responses, countermessages, across respose groups.  </td>
 <td>M006 - scoring</td>
 <td>TA01 Strategic Planning</td>
 <td>D04</td>
@@ -52,7 +52,7 @@
 <tr>
 <td><a href="counters/C00012.md">C00012</a></td>
 <td>Platform regulation</td>
-<td>Empower existing regulators to govern social media. Also covers Destroy.  Includes: Include the role of social media in the regulatory framework for media - The European Union created significant new regulations in 2018; the U.S. approach will need to be carefully crafted to protect First Amendment principles, create needed transparency, ensure liability, and impose costs for noncompliance. Includes Create policy that makes social media police disinformation - example: German model: facebook forced to police content by law. Includes: Use fraud legislation to clean up social media</td>
+<td>Empower existing regulators to govern social media. Also covers Destroy.  Includes: Include the role of social media in the regulatory framework for media.  The U.S. approach will need to be carefully crafted to protect First Amendment principles, create needed transparency, ensure liability, and impose costs for noncompliance. Includes Create policy that makes social media police disinformation. Includes: Use fraud legislation to clean up social media</td>
 <td>M007 - metatechnique</td>
 <td>TA01 Strategic Planning</td>
 <td>D02</td>
@@ -68,7 +68,7 @@
 <tr>
 <td><a href="counters/C00014.md">C00014</a></td>
 <td>Real-time updates to fact-checking database</td>
-<td>Update fact-checking databases and resources in real time.  Especially import for time-limited events like natural disasters.  Existing examples at Buzzfeed and Fema.</td>
+<td>Update fact-checking databases and resources in real time.  Especially import for time-limited events like natural disasters. </td>
 <td>M006 - scoring</td>
 <td>TA06 Develop Content</td>
 <td>D04</td>
@@ -124,7 +124,7 @@
 <tr>
 <td><a href="counters/C00026.md">C00026</a></td>
 <td>Shore up democracy based messages</td>
-<td>Messages about e.g. peace, freedom. And make it sexy. Includes Deploy Information and Narrative-Building in Service of Statecraft: Promote a narrative of transparency, truthfulness, liberal values, and democracy. Implement a compelling narrative via effective mechanisms of communication. Continually reassess U.S. messages, mechanisms, and audiences over time. Counteract efforts to manipulate media, undermine free markets, and suppress political freedoms via public diplomacy</td>
+<td>Messages about e.g. peace, freedom. And make it sexy. Includes Deploy Information and Narrative-Building in Service of Statecraft: Promote a narrative of transparency, truthfulness, liberal values, and democracy. Implement a compelling narrative via effective mechanisms of communication. Continually reassess messages, mechanisms, and audiences over time. Counteract efforts to manipulate media, undermine free markets, and suppress political freedoms via public diplomacy</td>
 <td>M010 - countermessaging</td>
 <td>TA01 Strategic Planning</td>
 <td>D04</td>
@@ -158,8 +158,7 @@ This could be used to adjust upvote weight via a trust factor of people and orga
 <tr>
 <td><a href="counters/C00030.md">C00030</a></td>
 <td>Develop a compelling counter narrative (truth based)</td>
-<td>Example: Reality Team.
-https://www.isdglobal.org/wp-content/uploads/2016/06/Counter-narrative-Handbook_1.pdf </td>
+<td></td>
 <td>M002 - diversion</td>
 <td>TA02 Objective Planning</td>
 <td>D03</td>
@@ -239,7 +238,7 @@ https://www.isdglobal.org/wp-content/uploads/2016/06/Counter-narrative-Handbook_
 <tr>
 <td><a href="counters/C00048.md">C00048</a></td>
 <td>Name and Shame Influencers</td>
-<td>Think about the different levels: individual vs state-sponsored account.  Includes “call them out” and “name and shame”.  Note that USAID operations were at a different level. Identify social media accounts as sources of propaganda—“calling them out”— might be helpful to prevent the spread of their message to audiences that otherwise would consider them factual. USAID has been restructuring its programs to address predatory Chinese development projects and the information operations that support them. USAID’s new strategy has tailored programs to counter Chinese educational exchange programs and to support free and fair elections, youth empowerment, democratic governance, and free press. USAID’s Russia regional teams have also been compiling a strategy for Russia’s information operations. One strong point of USAID’s programming is a system of indicators and measurements for a country’s vulnerability to foreign influence and information operations.  Identify, monitor, and, if necessary, target externally-based nonattributed social media accounts.  Impact of and Dealing with Trolls - "Chatham House has observed that trolls also sometimes function as decoys, as a way of “keeping the infantry busy” that “aims to wear down the other side” (Lough et al., 2014). Another type of troll involves “false accounts posing as authoritative information sources on social media”.</td>
+<td>Think about the different levels: individual vs state-sponsored account.  Includes “call them out” and “name and shame”.  Identify social media accounts as sources of propaganda—“calling them out”— might be helpful to prevent the spread of their message to audiences that otherwise would consider them factual.  Identify, monitor, and, if necessary, target externally-based nonattributed social media accounts.  Impact of and Dealing with Trolls - "Chatham House has observed that trolls also sometimes function as decoys, as a way of “keeping the infantry busy” that “aims to wear down the other side” (Lough et al., 2014). Another type of troll involves “false accounts posing as authoritative information sources on social media”.</td>
 <td>M003 - daylight</td>
 <td>TA03 Develop People</td>
 <td>D07</td>
@@ -319,7 +318,7 @@ https://www.isdglobal.org/wp-content/uploads/2016/06/Counter-narrative-Handbook_
 <tr>
 <td><a href="counters/C00066.md">C00066</a></td>
 <td>Co-opt a hashtag and drown it out (hijack it back)</td>
-<td>Flood a disinformation-related hashtag with other content. Examples include kPop stans flooding extremist hashtags with pop videos and images. </td>
+<td>Flood a disinformation-related hashtag with other content. </td>
 <td>M009 - dilution</td>
 <td>TA05 Microtargeting</td>
 <td>D03</td>
@@ -337,7 +336,7 @@ https://www.isdglobal.org/wp-content/uploads/2016/06/Counter-narrative-Handbook_
 <td>Block access to disinformation resources</td>
 <td>Resources = accounts, channels etc.  Block access to platform. DDOS an attacker.
 
-TA02*: DDOS at the critical time (ie. midterm-2018 elections DDOS against troll farms) to deny an adversary's time-bound objective.
+TA02*: DDOS at the critical time, to deny an adversary's time-bound objective.
 
 T0008: A quick response to a proto-viral story will affect it's ability to spread and raise questions about their legitimacy.
 
@@ -367,7 +366,7 @@ T0046 - Search Engine Optimization: Sub-optimal website performance affect its s
 <tr>
 <td><a href="counters/C00073.md">C00073</a></td>
 <td>Inoculate populations through media literacy training</td>
-<td>Use training to build the resilience of at-risk populations. Educate on how to handle info pollution. Push out targeted education on why it's pollution.  Build cultural resistance to false content, e.g. cultural resistance to bullshit.  Influence literacy training, to inoculate against “cult” recruiting.  Media literacy training: leverage librarians / library for media literacy training. Inoculate at language.   Strategic planning included as inoculating population has strategic value. Example is the "Learn to Discern" Program, funded by the Canadian government, operated in Ukraine from July 2015 to March 2016. The program trained 15,000 Ukrainians in ‘’safe, informed media consumption techniques,’’ including avoiding emotional manipulation, verifying sources, identifying hate speech, verifying expert credentials, detecting censorship, and debunking news, photos, and videos.”  Example: NGO Baltic Centre for Media Excellence, with some international funding, provides training to journalists in the Baltics and conducts media literacy training in the region. In addition to helping journalists avoid becoming “unwitting multipliers of misleading information,” the organization works with school teachers in the region to help them “decode media and incorporate media research into teaching.” concepts of media literacy to a mass audience that authorities launch a public information campaign that teaches the program will take time to develop and establish impact, recommends curriculum-based training.  Covers detect, deny, and degrade. </td>
+<td>Use training to build the resilience of at-risk populations. Educate on how to handle info pollution. Push out targeted education on why it's pollution.  Build cultural resistance to false content, e.g. cultural resistance to bullshit.  Influence literacy training, to inoculate against “cult” recruiting.  Media literacy training: leverage librarians / library for media literacy training. Inoculate at language.   Strategic planning included as inoculating population has strategic value.   Concepts of media literacy to a mass audience that authorities launch a public information campaign that teaches the program will take time to develop and establish impact, recommends curriculum-based training.  Covers detect, deny, and degrade. </td>
 <td>M001 - resilience</td>
 <td>TA01 Strategic Planning</td>
 <td>D02</td>
@@ -431,7 +430,7 @@ T0046 - Search Engine Optimization: Sub-optimal website performance affect its s
 <tr>
 <td><a href="counters/C00082.md">C00082</a></td>
 <td>Ground truthing as automated response to pollution</td>
-<td>e.g. RealityTeam work that adds clear information to spaces with disinformation in.  Also inoculation.</td>
+<td>Also inoculation.</td>
 <td>M010 - countermessaging</td>
 <td>TA06 Develop Content</td>
 <td>D03</td>
@@ -457,9 +456,7 @@ Online archives of content (archives of websites, social media profiles, media, 
 <tr>
 <td><a href="counters/C00086.md">C00086</a></td>
 <td>Distract from noise with addictive content</td>
-<td>Example: Interject addictive links or contents into discussions of disinformation materials and measure a "conversion rate" of users who engage with your content and away from the social media channel's "information bubble" around the disinformation item. Use bots to amplify and upvote the addictive content. 
-
-Note: This sounds eerlily like many Reddit communities where the most upvoted comments are all jokes, preventing serious discussion from being discovered by those who filter by upvotes.</td>
+<td>Example: Interject addictive links or contents into discussions of disinformation materials and measure a "conversion rate" of users who engage with your content and away from the social media channel's "information bubble" around the disinformation item. Use bots to amplify and upvote the addictive content. </td>
 <td>M002 - diversion</td>
 <td>TA06 Develop Content</td>
 <td>D04</td>
@@ -467,7 +464,7 @@ Note: This sounds eerlily like many Reddit communities where the most upvoted co
 <tr>
 <td><a href="counters/C00087.md">C00087</a></td>
 <td>Make more noise than the disinformation</td>
-<td>Examples: kPop stans, #proudboys takeover by LGBT community</td>
+<td></td>
 <td>M009 - dilution</td>
 <td>TA06 Develop Content</td>
 <td>D04</td>
@@ -499,7 +496,7 @@ Note: This sounds eerlily like many Reddit communities where the most upvoted co
 <tr>
 <td><a href="counters/C00093.md">C00093</a></td>
 <td>Influencer code of conduct</td>
-<td>Establish tailored code of conduct for individuals with many followers.  Can be platform code of conduct; can also be community code, e.g. the Pro-Truth Pledge. </td>
+<td>Establish tailored code of conduct for individuals with many followers.  Can be platform code of conduct; can also be community code.</td>
 <td>M001 - resilience</td>
 <td>TA03 Develop People</td>
 <td>D07</td>
@@ -603,7 +600,7 @@ Note: This sounds eerlily like many Reddit communities where the most upvoted co
 <tr>
 <td><a href="counters/C00111.md">C00111</a></td>
 <td>Reduce polarisation by connecting and presenting sympathetic renditions of opposite views</td>
-<td>Example: The Commons Project (BuildUp) work. </td>
+<td></td>
 <td>M001 - resilience</td>
 <td>TA01 Strategic Planning</td>
 <td>D04</td>
@@ -883,7 +880,7 @@ Note: This sounds eerlily like many Reddit communities where the most upvoted co
 <tr>
 <td><a href="counters/C00156.md">C00156</a></td>
 <td>Better tell your country or organization story</td>
-<td>Civil engagement activities conducted on the part of EFP forces. In Latvia, for example, U.S. soldiers have reportedly conducted numerous civil engagements with the local populations. In one example, soldiers cut firewood for local Russian-speaking Latvians. Locals were reportedly overheard saying, “A Russian soldier wouldn’t do that.” NATO should likewise provide support and training, where needed, to local public affairs and other communication personnel. Local government and military public affairs personnel can play their part in creating and disseminating entertaining and sharable content that supports the EFP mission. </td>
+<td>Civil engagement activities conducted on the part of EFP forces.  NATO should likewise provide support and training, where needed, to local public affairs and other communication personnel. Local government and military public affairs personnel can play their part in creating and disseminating entertaining and sharable content that supports the EFP mission. </td>
 <td>M010 - countermessaging</td>
 <td>TA02 Objective Planning</td>
 <td>D03</td>
@@ -923,7 +920,7 @@ Note: This sounds eerlily like many Reddit communities where the most upvoted co
 <tr>
 <td><a href="counters/C00164.md">C00164</a></td>
 <td>compatriot policy</td>
-<td>protect the interests of this population and, more importantly, influence the population to support pro-Russia causes and effectively influence the politics of its neighbors</td>
+<td>protect the interests of a population and influence the population to not support disinformation causes and effectively influence the politics of its neighbors</td>
 <td>M013 - targeting</td>
 <td>TA02 Objective Planning</td>
 <td>D03</td>
@@ -939,7 +936,7 @@ Note: This sounds eerlily like many Reddit communities where the most upvoted co
 <tr>
 <td><a href="counters/C00169.md">C00169</a></td>
 <td>develop a creative content hub</td>
-<td>international donors will donate to a basket fund that will pay a committee of local experts who will, in turn, manage and distribute the money to Russian-language producers and broadcasters that pitch various projects.</td>
+<td>Build funding and resources for producers and broadcasters to create content that counters disinformation and improves information landscapes.  This could be a basket fund provided by  international donors to a committee of local experts managing and distributing funding.</td>
 <td>M010 - countermessaging</td>
 <td>TA02 Objective Planning</td>
 <td>D03</td>
@@ -979,7 +976,7 @@ Note: This sounds eerlily like many Reddit communities where the most upvoted co
 <tr>
 <td><a href="counters/C00178.md">C00178</a></td>
 <td>Fill information voids with non-disinformation content</td>
-<td>1) Pollute the data voids with wholesome content (Kittens! Babyshark!). 2) fill data voids with relevant information, e.g. increase Russian-language programming in areas subject to Russian disinformation.  Examples include using Current Time videos (viewed 40 million times online) to draw viewers away from Russian TV programming in RT and Sputnik. POtential content for this includes conventional entertainment programming (source: The conomist, “America’s Answer to Russian Propaganda TV,” 2017).</td>
+<td>1) Pollute the data voids with wholesome content (Kittens! Babyshark!). 2) fill data voids with relevant information, e.g. increase Russian-language programming in areas subject to Russian disinformation.  </td>
 <td>M009 - dilution, M008 - data pollution</td>
 <td>TA05 Microtargeting</td>
 <td>D04</td>
@@ -987,7 +984,7 @@ Note: This sounds eerlily like many Reddit communities where the most upvoted co
 <tr>
 <td><a href="counters/C00182.md">C00182</a></td>
 <td>Redirection / malware detection/ remediation</td>
-<td>Detect redirction or malware, then quarantine or delete.  Example: (2015) Trustwave reported that a Bedep Trojan malware kit had begun infecting machines and forcing them to browse certain sites, artificially inflating traffic to a set of pro-Russia</td>
+<td>Detect redirction or malware, then quarantine or delete.  </td>
 <td>M005 - removal</td>
 <td>TA09 Exposure</td>
 <td>D02</td>
@@ -1003,7 +1000,7 @@ Note: This sounds eerlily like many Reddit communities where the most upvoted co
 <tr>
 <td><a href="counters/C00188.md">C00188</a></td>
 <td>Newsroom/Journalist training to counter influence moves</td>
-<td>Includes SEO influence.  August 2014, Russian news agency Rossiya Segodnya commissioned a poll in France with poorly worded questions and a statistically insignificant subsample that RT used to back a story titled “15% of French people back ISIS [Islamic State of Iraq and Syria] militants, poll finds.” The story and summary infographic circulated on the internet, initially appearing primarily on French sites. After a week, the generally respectable digital U.S. news outlet Vox ran the story, now titled “One in Six French People Say They Support ISIS.” Although this effect has now worn off or been overwritten, for a time—despite a later story from The Washington Post debunking the claim—typing “ISIS France” into Google resulted in an autosuggestion of “ISIS France support” (Borthwick, 2015). Includes promotion of a “higher standard of journalism”: journalism training “would be helpful, especially for the online community.  Includes Strengthen local media: Improve effectiveness of local media outlets. Using eastern Latvia media outlets as an example, one expert noted that the media outlets are “very weak,” are often politically affiliated, or have “little local oligarchs that control them.”</td>
+<td>Includes SEO influence.   Includes promotion of a “higher standard of journalism”: journalism training “would be helpful, especially for the online community.  Includes Strengthen local media: Improve effectiveness of local media outlets. </td>
 <td>M001 - resilience</td>
 <td>TA08 Pump Priming</td>
 <td>D03</td>
@@ -1027,7 +1024,7 @@ Note: This sounds eerlily like many Reddit communities where the most upvoted co
 <tr>
 <td><a href="counters/C00195.md">C00195</a></td>
 <td>Redirect searches away from disinformation or extremist content </td>
-<td>Use Google AdWords to identify instances in which people search Google about particular fake-news stories or Russian propaganda themes. Taking advantage of the technology behind Google AdWords, this method identifies potential ISIS recruits through their Google searches and exposes them to curated YouTube videos debunking ISIS recruiting themes. Apply this method to Russian propaganda. Includes Monetize centrist SEO by subsidizing the difference in greater clicks towards extremist content. </td>
+<td>Use Google AdWords to identify instances in which people search Google about particular fake-news stories or propaganda themes. Includes Monetize centrist SEO by subsidizing the difference in greater clicks towards extremist content. </td>
 <td>M002 - diversion</td>
 <td>TA07 Channel Selection</td>
 <td>D02</td>
@@ -1042,8 +1039,8 @@ Note: This sounds eerlily like many Reddit communities where the most upvoted co
 </tr>
 <tr>
 <td><a href="counters/C00200.md">C00200</a></td>
-<td>Respected figure (influencer) disavows misinfo</td>
-<td>Has been done in e.g. India. FIXIT: standardize language used for influencer/ respected figure. </td>
+<td>Influencer disavows misinfo</td>
+<td>Influencer is a trusted or respected figure. </td>
 <td>M010 - countermessaging</td>
 <td>TA09 Exposure</td>
 <td>D03</td>
@@ -1051,7 +1048,7 @@ Note: This sounds eerlily like many Reddit communities where the most upvoted co
 <tr>
 <td><a href="counters/C00202.md">C00202</a></td>
 <td>Set data 'honeytraps'</td>
-<td>Set honeytraps in content likely to be accessed for disinformation.   NB Macron election team modified docs to spike a hack and leak. </td>
+<td>Set honeytraps in content likely to be accessed for disinformation. </td>
 <td>M002 - diversion</td>
 <td>TA06 Develop Content</td>
 <td>D02</td>
@@ -1075,7 +1072,7 @@ Note: This sounds eerlily like many Reddit communities where the most upvoted co
 <tr>
 <td><a href="counters/C00207.md">C00207</a></td>
 <td>Run a competing disinformation campaign - not recommended</td>
-<td>E.g. Saudi tit-for-tat campaign </td>
+<td></td>
 <td>M013 - targeting</td>
 <td>TA02 Objective Planning</td>
 <td>D07</td>
@@ -1083,13 +1080,7 @@ Note: This sounds eerlily like many Reddit communities where the most upvoted co
 <tr>
 <td><a href="counters/C00211.md">C00211</a></td>
 <td>Use humorous counter-narratives</td>
-<td>Examples:
- 
-* Baltic Elves.
-https://balkaninsight.com/2019/06/07/disinformation-nation-the-slovaks-fighting-in-defence-of-facts/ 
-* Taiwan humor over rumor strategy.https://www.theguardian.com/commentisfree/2021/feb/17/humour-over-rumour-taiwan-fake-news 
-*  Taiwan “humor over rumour" 
-https://internews.org/story/using-comedy-and-social-media-educate-disinformation </td>
+<td></td>
 <td>M010 - countermessaging</td>
 <td>TA09 Exposure</td>
 <td>D03</td>
