@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--d7146e84-6629-4f89-b713-daf6b5ab4eaf",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--2f354848-7df0-4055-946c-2a1cb2e53c63",
+            "created_by_ref": "identity--15ba2a2c-e4a7-486e-94d1-1151c37a6e02",
+            "created": "2022-07-01T16:31:54.669701Z",
+            "modified": "2022-07-01T16:31:54.669701Z",
+            "name": "Develop New Narratives",
+            "description": "TA14",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-narratives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0082.md",
+                    "external_id": "T0082"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--e2bfc427-6054-4d10-b431-db1f02c79156"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

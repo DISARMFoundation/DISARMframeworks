@@ -8,6 +8,222 @@
 <th>tactic_id</th>
 </tr>
 <tr>
+<td><a href="techniques/T0002.md">T0002</a></td>
+<td>Facilitate State Propaganda</td>
+<td>Organize citizens around pro-state messaging. Coordinate paid or volunteer groups to push state propaganda.</td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0003.md">T0003</a></td>
+<td>Leverage Existing Narratives</td>
+<td>Use or adapt existing narrative themes, where narratives are the baseline stories of a target audience. Narratives form the bedrock of our worldviews. New information is understood through a process firmly grounded in this bedrock. If new information is not consitent with the prevailing narratives of an audience, it will be ignored. Effective campaigns will frame their misinformation in the context of these narratives. Highly effective campaigns will make extensive use of audience-appropriate archetypes and meta-narratives throughout their content creation and amplifiction practices. </td>
+<td>TA14</td>
+</tr>
+<tr>
+<td><a href="techniques/T0004.md">T0004</a></td>
+<td>Develop Competing Narratives</td>
+<td>Advance competing narratives connected to same issue ie: on one hand deny incident while at same time expresses dismiss. Suppressing or discouraging narratives already spreading requires an alternative. The most simple set of narrative techniques in response would be the construction and promotion of contradictory alternatives centered on denial, deflection, dismissal, counter-charges, excessive standards of proof, bias in prohibition or enforcement, and so on. These competing narratives allow loyalists cover, but are less compelling to opponents and fence-sitters than campaigns built around existing narratives or highly explanatory master narratives. Competing narratives, as such, are especially useful in the "firehose of misinformation" approach.</td>
+<td>TA14</td>
+</tr>
+<tr>
+<td><a href="techniques/T0007.md">T0007</a></td>
+<td>Create Inauthentic Social Media Pages and Groups</td>
+<td>Create key social engineering assets needed to amplify content, manipulate algorithms, fool public and/or specific incident/campaign targets. Computational propaganda depends substantially on false perceptions of credibility and acceptance. By creating fake users and groups with a variety of interests and commitments, attackers can ensure that their messages both come from trusted sources and appear more widely adopted than they actually are.</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="techniques/T0009.md">T0009</a></td>
+<td>Create fake experts</td>
+<td>Stories planted or promoted in computational propaganda operations often make use of experts fabricated from whole cloth, sometimes specifically for the story itself. </td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0010.md">T0010</a></td>
+<td>Cultivate ignorant agents</td>
+<td>Cultivate propagandists for a cause, the goals of which are not fully comprehended, and who are used cynically by the leaders of the cause. Independent actors use social media and specialised web sites to strategically reinforce and spread messages compatible with their own. Their networks are infiltrated and used by state media disinformation organisations to amplify the state’s own disinformation strategies against target populations. Many are traffickers in conspiracy theories or hoaxes, unified by a suspicion of Western governments and mainstream media. Their narratives, which appeal to leftists hostile to globalism and military intervention and nationalists against immigration, are frequently infiltrated and shaped by state-controlled trolls and altered news items from agencies such as RT and Sputnik. Also know as "useful idiots" or "unwitting agents".</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="techniques/T0011.md">T0011</a></td>
+<td>Compromise legitimate accounts</td>
+<td>Hack or take over legimate accounts to distribute misinformation or damaging content.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0013.md">T0013</a></td>
+<td>Create inauthentic websites</td>
+<td>Create media assets to support inauthentic organizations (e.g. think tank), people (e.g. experts) and/or serve as sites to distribute malware/launch phishing operations.</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="techniques/T0014.md">T0014</a></td>
+<td>Prepare fundraising campaigns</td>
+<td>Fundraising campaigns refer to an influence operation’s systematic effort to seek financial  support for a charity, cause, or other enterprise using online activities that further promote  operation information pathways while raising a profit. Many influence operations have engaged  in crowdfunding services on platforms including Tipee, Patreon, and GoFundMe. An operation  may use its previously prepared fundraising campaigns (see: Develop Information Pathways) to  promote operation messaging while raising money to support its activities.  </td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="techniques/T0015.md">T0015</a></td>
+<td>Create hashtags and search artifacts</td>
+<td>Create one or more hashtags and/or hashtag groups. Many incident-based campaigns will create hashtags to promote their fabricated event. Creating a hashtag for an incident can have two important effects: 1. Create a perception of reality around an event. Certainly only "real" events would be discussed in a hashtag. After all, the event has a name!, and 2. Publicize the story more widely through trending lists and search behavior. Asset needed to direct/control/manage "conversation" connected to launching new incident/campaign with new hashtag for applicable social media sites). </td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0016.md">T0016</a></td>
+<td>Create Clickbait</td>
+<td>Create attention grabbing headlines (outrage, doubt, humor) required to drive traffic & engagement. This is a key asset.</td>
+<td>TA05</td>
+</tr>
+<tr>
+<td><a href="techniques/T0017.md">T0017</a></td>
+<td>Conduct fundraising</td>
+<td>Fundraising campaigns refer to an influence operation’s systematic effort to seek financial  support for a charity, cause, or other enterprise using online activities that further promote  operation information pathways while raising a profit. Many influence operations have engaged  in crowdfunding services166 on platforms including Tipee, Patreon, and GoFundMe. An operation  may use its previously prepared fundraising campaigns to promote operation messaging while raising money to support its activities.  </td>
+<td>TA10</td>
+</tr>
+<tr>
+<td><a href="techniques/T0018.md">T0018</a></td>
+<td>Purchase Targeted Advertisements</td>
+<td>Create or fund advertisements targeted at specific populations</td>
+<td>TA05</td>
+</tr>
+<tr>
+<td><a href="techniques/T0019.md">T0019</a></td>
+<td>Generate information pollution</td>
+<td>Flood social channels; drive traffic/engagement to all assets; create aura/sense/perception of pervasiveness/consensus (for or against or both simultaneously) of an issue or topic. "Nothing is true, but everything is possible." Akin to astroturfing campaign.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0020.md">T0020</a></td>
+<td>Trial content</td>
+<td>Iteratively test incident performance (messages, content etc), e.g. A/B test headline/content enagagement metrics; website and/or funding campaign conversion rates</td>
+<td>TA08</td>
+</tr>
+<tr>
+<td><a href="techniques/T0022.md">T0022</a></td>
+<td>Leverage Conspiracy Theory Narratives</td>
+<td>"Conspiracy narratives" appeal to the human desire for explanatory order, by invoking the participation of poweful (often sinister) actors in pursuit of their own political goals. These narratives are especially appealing when an audience is low-information, marginalized or otherwise inclined to reject the prevailing explanation. Conspiracy narratives are an important component of the "firehose of falsehoods" model. </td>
+<td>TA14</td>
+</tr>
+<tr>
+<td><a href="techniques/T0023.md">T0023</a></td>
+<td>Distort facts</td>
+<td>Change, twist, or exaggerate existing facts to construct a narrative that differs from reality. Examples: images and ideas can be distorted by being placed in an improper content</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0029.md">T0029</a></td>
+<td>Online polls</td>
+<td>Create fake online polls, or manipulate existing online polls. Data gathering tactic to target those who engage, and potentially their networks of friends/followers as well</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0039 .md">T0039 </a></td>
+<td>Bait legitimate influencers</td>
+<td>Credibility in a social media environment is often a function of the size of a user's network. "Influencers" are so-called because of their reach, typically understood as: 1) the size of their network (i.e. the number of followers, perhaps weighted by their own influence); and 2) The rate at which their comments are re-circulated (these two metrics are related). Add traditional media players at all levels of credibility and professionalism to this, and the number of potential influencial carriers available for unwitting amplification becomes substantial. By targeting high-influence people and organizations in all types of media with narratives and content engineered to appeal their emotional or ideological drivers, influence campaigns are able to add perceived credibility to their messaging via saturation and adoption by trusted agents such as celebrities, journalists and local leaders.</td>
+<td>TA08</td>
+</tr>
+<tr>
+<td><a href="techniques/T0040.md">T0040</a></td>
+<td>Demand insurmountable proof</td>
+<td>Campaigns often leverage tactical and informational asymmetries on the threat surface, as seen in the Distort and Deny strategies, and the "firehose of misinformation". Specifically, conspiracy theorists can be repeatedly wrong, but advocates of the truth need to be perfect. By constantly escalating demands for proof, propagandists can effectively leverage this asymmetry while also priming its future use, often with an even greater asymmetric advantage. The conspiracist is offered freer rein for a broader range of "questions" while the truth teller is burdened with higher and higher standards of proof.</td>
+<td>TA14</td>
+</tr>
+<tr>
+<td><a href="techniques/T0042.md">T0042</a></td>
+<td>Seed Kernel of truth</td>
+<td>Wrap lies or altered context/facts around truths. Influence campaigns pursue a variety of objectives with respect to target audiences, prominent among them: 1. undermine a narrative commonly referenced in the target audience; or 2. promote a narrative less common in the target audience, but preferred by the attacker. In both cases, the attacker is presented with a heavy lift. They must change the relative importance of various narratives in the interpretation of events, despite contrary tendencies. When messaging makes use of factual reporting to promote these adjustments in the narrative space, they are less likely to be dismissed out of hand; when messaging can juxtapose a (factual) truth about current affairs with the (abstract) truth explicated in these narratives, propagandists can undermine or promote them selectively. Context matters.</td>
+<td>TA08</td>
+</tr>
+<tr>
+<td><a href="techniques/T0043.md">T0043</a></td>
+<td>Chat apps</td>
+<td>Direct messaging via chat app is an increasing method of delivery. These messages are often automated and new delivery and storage methods make them anonymous, viral, and ephemeral. This is a difficult space to monitor, but also a difficult space to build acclaim or notoriety.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0044.md">T0044</a></td>
+<td>Seed distortions</td>
+<td>Try a wide variety of messages in the early hours surrounding an incident or event, to give a misleading account or impression. </td>
+<td>TA08</td>
+</tr>
+<tr>
+<td><a href="techniques/T0045.md">T0045</a></td>
+<td>Use fake experts</td>
+<td>Use the fake experts that were set up during Establish Legitimacy. Pseudo-experts are disposable assets that often appear once and then disappear. Give "credility" to misinformation. Take advantage of credential bias</td>
+<td>TA08</td>
+</tr>
+<tr>
+<td><a href="techniques/T0046.md">T0046</a></td>
+<td>Use Search Engine Optimization</td>
+<td>Manipulate content engagement metrics (ie: Reddit & Twitter) to influence/impact news search results (e.g. Google), also elevates RT & Sputnik headline into Google news alert emails. aka "Black-hat SEO" </td>
+<td>TA08</td>
+</tr>
+<tr>
+<td><a href="techniques/T0047.md">T0047</a></td>
+<td>Censor social media as a political force</td>
+<td>Use political influence or the power of state to stop critical social media comments. Government requested/driven content take downs (see Google Transperancy reports).</td>
+<td>TA18</td>
+</tr>
+<tr>
+<td><a href="techniques/T0048.md">T0048</a></td>
+<td>Harass</td>
+<td>Threatening or harassing believers of opposing narratives refers to the use of intimidation  techniques, including cyberbullying and doxing, to discourage opponents from voicing their  dissent. An influence operation may threaten or harass believers of the opposing narratives to  deter individuals from posting or proliferating conflicting content.  </td>
+<td>TA18</td>
+</tr>
+<tr>
+<td><a href="techniques/T0049.md">T0049</a></td>
+<td>Flooding the Information Space</td>
+<td>Flooding and/or mobbing social media channels feeds and/or hashtag with excessive volume of content to control/shape online conversations and/or drown out opposing points of view. Bots and/or patriotic trolls are effective tools to acheive this effect.</td>
+<td>TA17</td>
+</tr>
+<tr>
+<td><a href="techniques/T0057.md">T0057</a></td>
+<td>Organize Events</td>
+<td>Coordinate and promote real-world events across media platforms, e.g. rallies, protests, gatherings in support of incident narratives.</td>
+<td>TA10</td>
+</tr>
+<tr>
+<td><a href="techniques/T0059.md">T0059</a></td>
+<td>Play the long game</td>
+<td>Play the long game refers to two phenomena: 1. To plan messaging and allow it to grow organically without conducting your own amplification. This is methodical and slow and requires years for the message to take hold 2. To develop a series of seemingly disconnected messaging narratives that eventually combine into a new narrative.</td>
+<td>TA11</td>
+</tr>
+<tr>
+<td><a href="techniques/T0060.md">T0060</a></td>
+<td>Continue to Amplify</td>
+<td>continue narrative or message amplification after the main incident work has finished</td>
+<td>TA11</td>
+</tr>
+<tr>
+<td><a href="techniques/T0061.md">T0061</a></td>
+<td>Sell Merchandise</td>
+<td>Sell mechandise refers to getting the message or narrative into physical space in the offline world while making money</td>
+<td>TA10</td>
+</tr>
+<tr>
+<td><a href="techniques/T0065.md">T0065</a></td>
+<td>Prepare Physical Broadcast Capabilities</td>
+<td>Create or coopt broadcast capabilities (e.g. TV, radio etc).</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="techniques/T0066.md">T0066</a></td>
+<td>Degrade Adversary</td>
+<td>Plan to degrade an adversary’s image or ability to act. This could include preparation and use of harmful information about the adversary’s actions or reputation.</td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0068.md">T0068</a></td>
+<td>Respond to Breaking News Event or Active Crisis</td>
+<td>Media attention on a story or event is heightened during a breaking news event, where unclear facts and incomplete information increase speculation, rumors, and conspiracy theories, which are all vulnerable to manipulation. </td>
+<td>TA14</td>
+</tr>
+<tr>
+<td><a href="techniques/T0072.md">T0072</a></td>
+<td>Segment Audiences</td>
+<td>Create audience segmentations by features of interest to the influence campaign, including political affiliation, geographic location, income, demographics, and psychographics. </td>
+<td>TA13</td>
+</tr>
+<tr>
 <td><a href="techniques/T0073.md">T0073</a></td>
 <td>Determine Target Audiences</td>
 <td>Determining the target audiences (segments of the population) who will receive campaign narratives and artifacts intended to achieve the strategic ends.</td>
@@ -18,6 +234,36 @@
 <td>Determine Strategic Ends</td>
 <td>Determining the campaigns goals or objectives. Examples include achieving achieving geopolitical advantage like undermining trust in an adversary, gaining domestic political advantage, achieving financial gain, or attaining a policy change, </td>
 <td>TA01</td>
+</tr>
+<tr>
+<td><a href="techniques/T0075.md">T0075</a></td>
+<td>Dismiss</td>
+<td>Push back against criticism by dismissing your critics. This might be arguing that the critics use a different standard for you than with other actors or themselves; or arguing that their criticism is biased.</td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0076.md">T0076</a></td>
+<td>Distort</td>
+<td>Twist the narrative. Take information, or artifacts like images, and change the framing around them.</td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0077.md">T0077</a></td>
+<td>Distract</td>
+<td>Shift attention to a different narrative or actor, for instance by accusing critics of the same activity that they’ve accused you of (e.g. police brutality).</td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0078.md">T0078</a></td>
+<td>Dismay</td>
+<td>Threaten the critic or narrator of events. For instance, threaten journalists or news outlets reporting on a story.</td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0079.md">T0079</a></td>
+<td>Divide</td>
+<td>Create conflict between subgroups, to widen divisions in a community</td>
+<td>TA02</td>
 </tr>
 <tr>
 <td><a href="techniques/T0080.md">T0080</a></td>
@@ -314,6 +560,24 @@ An influence operation may use a wide variety of cyber techniques to impersonate
 <td>TA10</td>
 </tr>
 <tr>
+<td><a href="techniques/T0128.md">T0128</a></td>
+<td>Conceal People</td>
+<td>Conceal the identity or provenance of a campaign's account and people assets to avoid takedown and attribution.</td>
+<td>TA11</td>
+</tr>
+<tr>
+<td><a href="techniques/T0129.md">T0129</a></td>
+<td>Conceal Operational Activity</td>
+<td>Conceal the campaign's operational activity to avoid takedown and attribution.</td>
+<td>TA11</td>
+</tr>
+<tr>
+<td><a href="techniques/T0130.md">T0130</a></td>
+<td>Conceal Infrastructure</td>
+<td>Conceal the campaign's infrastructure to avoid takedown and attribution.</td>
+<td>TA11</td>
+</tr>
+<tr>
 <td><a href="techniques/T0131.md">T0131</a></td>
 <td>Exploit TOS/Content Moderation</td>
 <td>Exploiting weaknesses in platforms' terms of service and content moderation policies to avoid takedowns and platform actions.</td>
@@ -336,269 +600,5 @@ An influence operation may use a wide variety of cyber techniques to impersonate
 <td>Measure Effectiveness Indicators (or KPIs)</td>
 <td>Ensuring that Key Performace Indicators are identified and tracked, so that the performance and effectivess of campaigns, and elements of campaigns, can be measured, during and after their execution</td>
 <td>TA12</td>
-</tr>
-<tr>
-<td><a href="techniques/T0002.md">T0002</a></td>
-<td>Facilitate State Propaganda</td>
-<td>Organize citizens around pro-state messaging. Coordinate paid or volunteer groups to push state propaganda.</td>
-<td>TA02</td>
-</tr>
-<tr>
-<td><a href="techniques/T0003.md">T0003</a></td>
-<td>Leverage Existing Narratives</td>
-<td>Use or adapt existing narrative themes, where narratives are the baseline stories of a target audience. Narratives form the bedrock of our worldviews. New information is understood through a process firmly grounded in this bedrock. If new information is not consitent with the prevailing narratives of an audience, it will be ignored. Effective campaigns will frame their misinformation in the context of these narratives. Highly effective campaigns will make extensive use of audience-appropriate archetypes and meta-narratives throughout their content creation and amplifiction practices. </td>
-<td>TA14</td>
-</tr>
-<tr>
-<td><a href="techniques/T0004.md">T0004</a></td>
-<td>Develop Competing Narratives</td>
-<td>Advance competing narratives connected to same issue ie: on one hand deny incident while at same time expresses dismiss. Suppressing or discouraging narratives already spreading requires an alternative. The most simple set of narrative techniques in response would be the construction and promotion of contradictory alternatives centered on denial, deflection, dismissal, counter-charges, excessive standards of proof, bias in prohibition or enforcement, and so on. These competing narratives allow loyalists cover, but are less compelling to opponents and fence-sitters than campaigns built around existing narratives or highly explanatory master narratives. Competing narratives, as such, are especially useful in the "firehose of misinformation" approach.</td>
-<td>TA14</td>
-</tr>
-<tr>
-<td><a href="techniques/T0007.md">T0007</a></td>
-<td>Create Inauthentic Social Media Pages and Groups</td>
-<td>Create key social engineering assets needed to amplify content, manipulate algorithms, fool public and/or specific incident/campaign targets. Computational propaganda depends substantially on false perceptions of credibility and acceptance. By creating fake users and groups with a variety of interests and commitments, attackers can ensure that their messages both come from trusted sources and appear more widely adopted than they actually are.</td>
-<td>TA15</td>
-</tr>
-<tr>
-<td><a href="techniques/T0009.md">T0009</a></td>
-<td>Create fake experts</td>
-<td>Stories planted or promoted in computational propaganda operations often make use of experts fabricated from whole cloth, sometimes specifically for the story itself. </td>
-<td>TA16</td>
-</tr>
-<tr>
-<td><a href="techniques/T0010.md">T0010</a></td>
-<td>Cultivate ignorant agents</td>
-<td>Cultivate propagandists for a cause, the goals of which are not fully comprehended, and who are used cynically by the leaders of the cause. Independent actors use social media and specialised web sites to strategically reinforce and spread messages compatible with their own. Their networks are infiltrated and used by state media disinformation organisations to amplify the state’s own disinformation strategies against target populations. Many are traffickers in conspiracy theories or hoaxes, unified by a suspicion of Western governments and mainstream media. Their narratives, which appeal to leftists hostile to globalism and military intervention and nationalists against immigration, are frequently infiltrated and shaped by state-controlled trolls and altered news items from agencies such as RT and Sputnik. Also know as "useful idiots" or "unwitting agents".</td>
-<td>TA15</td>
-</tr>
-<tr>
-<td><a href="techniques/T0011.md">T0011</a></td>
-<td>Compromise legitimate accounts</td>
-<td>Hack or take over legimate accounts to distribute misinformation or damaging content.</td>
-<td>TA16</td>
-</tr>
-<tr>
-<td><a href="techniques/T0013.md">T0013</a></td>
-<td>Create inauthentic websites</td>
-<td>Create media assets to support inauthentic organizations (e.g. think tank), people (e.g. experts) and/or serve as sites to distribute malware/launch phishing operations.</td>
-<td>TA15</td>
-</tr>
-<tr>
-<td><a href="techniques/T0014.md">T0014</a></td>
-<td>Prepare fundraising campaigns</td>
-<td>Fundraising campaigns refer to an influence operation’s systematic effort to seek financial  support for a charity, cause, or other enterprise using online activities that further promote  operation information pathways while raising a profit. Many influence operations have engaged  in crowdfunding services on platforms including Tipee, Patreon, and GoFundMe. An operation  may use its previously prepared fundraising campaigns (see: Develop Information Pathways) to  promote operation messaging while raising money to support its activities.  </td>
-<td>TA15</td>
-</tr>
-<tr>
-<td><a href="techniques/T0015.md">T0015</a></td>
-<td>Create hashtags and search artifacts</td>
-<td>Create one or more hashtags and/or hashtag groups. Many incident-based campaigns will create hashtags to promote their fabricated event. Creating a hashtag for an incident can have two important effects: 1. Create a perception of reality around an event. Certainly only "real" events would be discussed in a hashtag. After all, the event has a name!, and 2. Publicize the story more widely through trending lists and search behavior. Asset needed to direct/control/manage "conversation" connected to launching new incident/campaign with new hashtag for applicable social media sites). </td>
-<td>TA06</td>
-</tr>
-<tr>
-<td><a href="techniques/T0016.md">T0016</a></td>
-<td>Create Clickbait</td>
-<td>Create attention grabbing headlines (outrage, doubt, humor) required to drive traffic & engagement. This is a key asset.</td>
-<td>TA05</td>
-</tr>
-<tr>
-<td><a href="techniques/T0017.md">T0017</a></td>
-<td>Conduct fundraising</td>
-<td>Fundraising campaigns refer to an influence operation’s systematic effort to seek financial  support for a charity, cause, or other enterprise using online activities that further promote  operation information pathways while raising a profit. Many influence operations have engaged  in crowdfunding services166 on platforms including Tipee, Patreon, and GoFundMe. An operation  may use its previously prepared fundraising campaigns to promote operation messaging while raising money to support its activities.  </td>
-<td>TA10</td>
-</tr>
-<tr>
-<td><a href="techniques/T0018.md">T0018</a></td>
-<td>Purchase Targeted Advertisements</td>
-<td>Create or fund advertisements targeted at specific populations</td>
-<td>TA05</td>
-</tr>
-<tr>
-<td><a href="techniques/T0019.md">T0019</a></td>
-<td>Generate information pollution</td>
-<td>Flood social channels; drive traffic/engagement to all assets; create aura/sense/perception of pervasiveness/consensus (for or against or both simultaneously) of an issue or topic. "Nothing is true, but everything is possible." Akin to astroturfing campaign.</td>
-<td>TA06</td>
-</tr>
-<tr>
-<td><a href="techniques/T0020.md">T0020</a></td>
-<td>Trial content</td>
-<td>Iteratively test incident performance (messages, content etc), e.g. A/B test headline/content enagagement metrics; website and/or funding campaign conversion rates</td>
-<td>TA08</td>
-</tr>
-<tr>
-<td><a href="techniques/T0022.md">T0022</a></td>
-<td>Leverage Conspiracy Theory Narratives</td>
-<td>"Conspiracy narratives" appeal to the human desire for explanatory order, by invoking the participation of poweful (often sinister) actors in pursuit of their own political goals. These narratives are especially appealing when an audience is low-information, marginalized or otherwise inclined to reject the prevailing explanation. Conspiracy narratives are an important component of the "firehose of falsehoods" model. </td>
-<td>TA14</td>
-</tr>
-<tr>
-<td><a href="techniques/T0023.md">T0023</a></td>
-<td>Distort facts</td>
-<td>Change, twist, or exaggerate existing facts to construct a narrative that differs from reality. Examples: images and ideas can be distorted by being placed in an improper content</td>
-<td>TA06</td>
-</tr>
-<tr>
-<td><a href="techniques/T0029.md">T0029</a></td>
-<td>Online polls</td>
-<td>Create fake online polls, or manipulate existing online polls. Data gathering tactic to target those who engage, and potentially their networks of friends/followers as well</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0039 .md">T0039 </a></td>
-<td>Bait legitimate influencers</td>
-<td>Credibility in a social media environment is often a function of the size of a user's network. "Influencers" are so-called because of their reach, typically understood as: 1) the size of their network (i.e. the number of followers, perhaps weighted by their own influence); and 2) The rate at which their comments are re-circulated (these two metrics are related). Add traditional media players at all levels of credibility and professionalism to this, and the number of potential influencial carriers available for unwitting amplification becomes substantial. By targeting high-influence people and organizations in all types of media with narratives and content engineered to appeal their emotional or ideological drivers, influence campaigns are able to add perceived credibility to their messaging via saturation and adoption by trusted agents such as celebrities, journalists and local leaders.</td>
-<td>TA08</td>
-</tr>
-<tr>
-<td><a href="techniques/T0040.md">T0040</a></td>
-<td>Demand insurmountable proof</td>
-<td>Campaigns often leverage tactical and informational asymmetries on the threat surface, as seen in the Distort and Deny strategies, and the "firehose of misinformation". Specifically, conspiracy theorists can be repeatedly wrong, but advocates of the truth need to be perfect. By constantly escalating demands for proof, propagandists can effectively leverage this asymmetry while also priming its future use, often with an even greater asymmetric advantage. The conspiracist is offered freer rein for a broader range of "questions" while the truth teller is burdened with higher and higher standards of proof.</td>
-<td>TA14</td>
-</tr>
-<tr>
-<td><a href="techniques/T0042.md">T0042</a></td>
-<td>Seed Kernel of truth</td>
-<td>Wrap lies or altered context/facts around truths. Influence campaigns pursue a variety of objectives with respect to target audiences, prominent among them: 1. undermine a narrative commonly referenced in the target audience; or 2. promote a narrative less common in the target audience, but preferred by the attacker. In both cases, the attacker is presented with a heavy lift. They must change the relative importance of various narratives in the interpretation of events, despite contrary tendencies. When messaging makes use of factual reporting to promote these adjustments in the narrative space, they are less likely to be dismissed out of hand; when messaging can juxtapose a (factual) truth about current affairs with the (abstract) truth explicated in these narratives, propagandists can undermine or promote them selectively. Context matters.</td>
-<td>TA08</td>
-</tr>
-<tr>
-<td><a href="techniques/T0043.md">T0043</a></td>
-<td>Chat apps</td>
-<td>Direct messaging via chat app is an increasing method of delivery. These messages are often automated and new delivery and storage methods make them anonymous, viral, and ephemeral. This is a difficult space to monitor, but also a difficult space to build acclaim or notoriety.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0044.md">T0044</a></td>
-<td>Seed distortions</td>
-<td>Try a wide variety of messages in the early hours surrounding an incident or event, to give a misleading account or impression. </td>
-<td>TA08</td>
-</tr>
-<tr>
-<td><a href="techniques/T0045.md">T0045</a></td>
-<td>Use fake experts</td>
-<td>Use the fake experts that were set up during Establish Legitimacy. Pseudo-experts are disposable assets that often appear once and then disappear. Give "credility" to misinformation. Take advantage of credential bias</td>
-<td>TA08</td>
-</tr>
-<tr>
-<td><a href="techniques/T0046.md">T0046</a></td>
-<td>Use Search Engine Optimization</td>
-<td>Manipulate content engagement metrics (ie: Reddit & Twitter) to influence/impact news search results (e.g. Google), also elevates RT & Sputnik headline into Google news alert emails. aka "Black-hat SEO" </td>
-<td>TA08</td>
-</tr>
-<tr>
-<td><a href="techniques/T0047.md">T0047</a></td>
-<td>Censor social media as a political force</td>
-<td>Use political influence or the power of state to stop critical social media comments. Government requested/driven content take downs (see Google Transperancy reports).</td>
-<td>TA18</td>
-</tr>
-<tr>
-<td><a href="techniques/T0048.md">T0048</a></td>
-<td>Harass</td>
-<td>Threatening or harassing believers of opposing narratives refers to the use of intimidation  techniques, including cyberbullying and doxing, to discourage opponents from voicing their  dissent. An influence operation may threaten or harass believers of the opposing narratives to  deter individuals from posting or proliferating conflicting content.  </td>
-<td>TA18</td>
-</tr>
-<tr>
-<td><a href="techniques/T0049.md">T0049</a></td>
-<td>Flooding the Information Space</td>
-<td>Flooding and/or mobbing social media channels feeds and/or hashtag with excessive volume of content to control/shape online conversations and/or drown out opposing points of view. Bots and/or patriotic trolls are effective tools to acheive this effect.</td>
-<td>TA17</td>
-</tr>
-<tr>
-<td><a href="techniques/T0057.md">T0057</a></td>
-<td>Organize Events</td>
-<td>Coordinate and promote real-world events across media platforms, e.g. rallies, protests, gatherings in support of incident narratives.</td>
-<td>TA10</td>
-</tr>
-<tr>
-<td><a href="techniques/T0059.md">T0059</a></td>
-<td>Play the long game</td>
-<td>Play the long game refers to two phenomena: 1. To plan messaging and allow it to grow organically without conducting your own amplification. This is methodical and slow and requires years for the message to take hold 2. To develop a series of seemingly disconnected messaging narratives that eventually combine into a new narrative.</td>
-<td>TA11</td>
-</tr>
-<tr>
-<td><a href="techniques/T0060.md">T0060</a></td>
-<td>Continue to Amplify</td>
-<td>continue narrative or message amplification after the main incident work has finished</td>
-<td>TA11</td>
-</tr>
-<tr>
-<td><a href="techniques/T0061.md">T0061</a></td>
-<td>Sell Merchandise</td>
-<td>Sell mechandise refers to getting the message or narrative into physical space in the offline world while making money</td>
-<td>TA10</td>
-</tr>
-<tr>
-<td><a href="techniques/T0065.md">T0065</a></td>
-<td>Prepare Physical Broadcast Capabilities</td>
-<td>Create or coopt broadcast capabilities (e.g. TV, radio etc).</td>
-<td>TA15</td>
-</tr>
-<tr>
-<td><a href="techniques/T0066.md">T0066</a></td>
-<td>Degrade Adversary</td>
-<td>Plan to degrade an adversary’s image or ability to act. This could include preparation and use of harmful information about the adversary’s actions or reputation.</td>
-<td>TA02</td>
-</tr>
-<tr>
-<td><a href="techniques/T0068.md">T0068</a></td>
-<td>Respond to Breaking News Event or Active Crisis</td>
-<td>Media attention on a story or event is heightened during a breaking news event, where unclear facts and incomplete information increase speculation, rumors, and conspiracy theories, which are all vulnerable to manipulation. </td>
-<td>TA14</td>
-</tr>
-<tr>
-<td><a href="techniques/T0072.md">T0072</a></td>
-<td>Segment Audiences</td>
-<td>Create audience segmentations by features of interest to the influence campaign, including political affiliation, geographic location, income, demographics, and psychographics. </td>
-<td>TA13</td>
-</tr>
-<tr>
-<td><a href="techniques/T0075.md">T0075</a></td>
-<td>Dismiss</td>
-<td>Push back against criticism by dismissing your critics. This might be arguing that the critics use a different standard for you than with other actors or themselves; or arguing that their criticism is biased.</td>
-<td>TA02</td>
-</tr>
-<tr>
-<td><a href="techniques/T0076.md">T0076</a></td>
-<td>Distort</td>
-<td>Twist the narrative. Take information, or artifacts like images, and change the framing around them.</td>
-<td>TA02</td>
-</tr>
-<tr>
-<td><a href="techniques/T0077.md">T0077</a></td>
-<td>Distract</td>
-<td>Shift attention to a different narrative or actor, for instance by accusing critics of the same activity that they’ve accused you of (e.g. police brutality).</td>
-<td>TA02</td>
-</tr>
-<tr>
-<td><a href="techniques/T0078.md">T0078</a></td>
-<td>Dismay</td>
-<td>Threaten the critic or narrator of events. For instance, threaten journalists or news outlets reporting on a story.</td>
-<td>TA02</td>
-</tr>
-<tr>
-<td><a href="techniques/T0079.md">T0079</a></td>
-<td>Divide</td>
-<td>Create conflict between subgroups, to widen divisions in a community</td>
-<td>TA02</td>
-</tr>
-<tr>
-<td><a href="techniques/T0128.md">T0128</a></td>
-<td>Conceal People</td>
-<td>Conceal the identity or provenance of a campaign's account and people assets to avoid takedown and attribution.</td>
-<td>TA11</td>
-</tr>
-<tr>
-<td><a href="techniques/T0129.md">T0129</a></td>
-<td>Conceal Operational Activity</td>
-<td>Conceal the campaign's operational activity to avoid takedown and attribution.</td>
-<td>TA11</td>
-</tr>
-<tr>
-<td><a href="techniques/T0130.md">T0130</a></td>
-<td>Conceal Infrastructure</td>
-<td>Conceal the campaign's infrastructure to avoid takedown and attribution.</td>
-<td>TA11</td>
 </tr>
 </table>

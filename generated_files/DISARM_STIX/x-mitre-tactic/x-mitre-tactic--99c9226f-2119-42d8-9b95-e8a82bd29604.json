@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--b500fd03-4e3b-485c-85cb-7297f4a8c93f",
+    "objects": [
+        {
+            "type": "x-mitre-tactic",
+            "spec_version": "2.1",
+            "id": "x-mitre-tactic--99c9226f-2119-42d8-9b95-e8a82bd29604",
+            "created_by_ref": "identity--7a746b54-81c5-48cf-9ebb-d6fe2d4b0e81",
+            "created": "2022-07-01T16:31:54.645327Z",
+            "modified": "2022-07-01T16:31:54.645327Z",
+            "name": "Assess Effectiveness",
+            "description": "Assess effectiveness of action, for use in future plans ",
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA12.md",
+                    "external_id": "TA12"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--087a70c0-944e-4848-878f-2e28352b1bb7"
+            ],
+            "x_mitre_shortname": "assess-effectiveness"
+        }
+    ]
+}

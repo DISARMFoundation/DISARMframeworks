@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--736e3411-3f4a-4746-a22b-fd2c39851fab",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--16df8003-9dac-4a5b-8d9c-3960d83085a7",
+            "created_by_ref": "identity--d59f0cd5-7f2c-4b2c-b0bf-e447517bae67",
+            "created": "2022-07-01T16:31:54.658859Z",
+            "modified": "2022-07-01T16:31:54.658859Z",
+            "name": "Chat apps",
+            "description": "TA07",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0043.md",
+                    "external_id": "T0043"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--103ce783-6c70-48fd-8150-9c44deff2ff4"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

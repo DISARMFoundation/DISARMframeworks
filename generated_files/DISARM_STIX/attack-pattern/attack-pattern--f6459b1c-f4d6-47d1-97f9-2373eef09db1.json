@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--d6c1a7d8-98c3-49b6-8524-3e02c68d7f69",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--f6459b1c-f4d6-47d1-97f9-2373eef09db1",
+            "created_by_ref": "identity--f69df07d-6333-4844-9fc2-9294e1984d92",
+            "created": "2022-07-01T16:31:54.672994Z",
+            "modified": "2022-07-01T16:31:54.672994Z",
+            "name": "Obtain Private Documents",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0089.md",
+                    "external_id": "T0089"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--a9dfaf6a-fca2-4d15-a156-4da9cc5d8609"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

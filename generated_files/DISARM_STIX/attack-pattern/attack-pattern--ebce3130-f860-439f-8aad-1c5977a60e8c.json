@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--7d8ef155-af51-47ac-a4ab-937c58f63cb5",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--ebce3130-f860-439f-8aad-1c5977a60e8c",
+            "created_by_ref": "identity--5577f8a9-773f-4856-96c3-c7b1eea34ad7",
+            "created": "2022-07-01T16:31:54.653824Z",
+            "modified": "2022-07-01T16:31:54.653824Z",
+            "name": "Create Clickbait",
+            "description": "TA05",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "microtarget"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0016.md",
+                    "external_id": "T0016"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--148cb9f2-5fda-4493-8ab8-ffddd276b4db"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

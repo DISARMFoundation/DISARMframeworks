@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--870b9d7c-e3e3-4cb0-9dd0-87bdd26eb395",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--fa8bf5ca-9593-4a4e-a3da-c09ee002c8fe",
+            "created_by_ref": "identity--d8457d96-b9a9-4c63-912a-f8bd0647c658",
+            "created": "2022-07-01T16:31:54.663816Z",
+            "modified": "2022-07-01T16:31:54.663816Z",
+            "name": "Prepare Physical Broadcast Capabilities",
+            "description": "TA15",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0065.md",
+                    "external_id": "T0065"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--90a68215-8d7e-49b9-a812-3f2cb3ac5e23"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

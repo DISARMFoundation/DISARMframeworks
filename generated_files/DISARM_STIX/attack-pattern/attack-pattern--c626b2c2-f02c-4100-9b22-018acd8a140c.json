@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--14951c8c-2a26-4430-b0b8-4682cfeee6b4",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--c626b2c2-f02c-4100-9b22-018acd8a140c",
+            "created_by_ref": "identity--354a3365-0fe9-47ba-9bad-d3bd303dc797",
+            "created": "2022-07-01T16:31:54.677558Z",
+            "modified": "2022-07-01T16:31:54.677558Z",
+            "name": "Prepare Assets Impersonating Legitimate Entities",
+            "description": "TA16",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0099.md",
+                    "external_id": "T0099"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--9a91d2d2-5e0f-4701-95ab-d0f2a3a4bd17"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

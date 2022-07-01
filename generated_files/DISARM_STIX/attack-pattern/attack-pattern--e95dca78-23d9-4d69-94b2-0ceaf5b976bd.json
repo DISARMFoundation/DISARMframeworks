@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--d12a7b31-d542-44e6-9a63-41ac2f769bf0",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--e95dca78-23d9-4d69-94b2-0ceaf5b976bd",
+            "created_by_ref": "identity--75ff52c0-ddb7-4f62-ab26-6e09c4c10a0a",
+            "created": "2022-07-01T16:31:54.650429Z",
+            "modified": "2022-07-01T16:31:54.650429Z",
+            "name": "Create Inauthentic Social Media Pages and Groups",
+            "description": "TA15",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0007.md",
+                    "external_id": "T0007"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--2398bd18-e886-44e7-9b8d-f2e0f13f6306"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

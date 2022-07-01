@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--757f4fe0-54e8-46a3-86db-6a4526ce1a58",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--0467c17c-035b-4b05-9817-47e826abbaee",
+            "created_by_ref": "identity--bc5bcdf3-b36d-47fe-a5eb-8eae764637af",
+            "created": "2022-07-01T16:31:54.657036Z",
+            "modified": "2022-07-01T16:31:54.657036Z",
+            "name": "Online polls",
+            "description": "TA07",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0029.md",
+                    "external_id": "T0029"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c8ffff4d-df05-438e-96c0-436e43af2a48"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

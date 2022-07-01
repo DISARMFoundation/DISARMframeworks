@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--98b2486d-ae6b-4abc-9f71-9b87fab4aed4",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--8a2d63ad-1c33-40d9-8481-bc506e2d925b",
+            "created_by_ref": "identity--c39e2cb7-3a56-4f57-bccb-349d9e04323d",
+            "created": "2022-07-01T16:31:54.652832Z",
+            "modified": "2022-07-01T16:31:54.652832Z",
+            "name": "Prepare fundraising campaigns",
+            "description": "TA15",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0014.md",
+                    "external_id": "T0014"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--b6cac82d-333f-4d68-9644-2b6f60dedf3b"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

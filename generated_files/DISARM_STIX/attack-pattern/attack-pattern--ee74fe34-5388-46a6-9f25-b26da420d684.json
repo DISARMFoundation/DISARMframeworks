@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--7aa96b8e-6685-4638-8868-20450f0fd4d7",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--ee74fe34-5388-46a6-9f25-b26da420d684",
+            "created_by_ref": "identity--5b1d4168-7cb4-4e6c-9383-b66c4d717b36",
+            "created": "2022-07-01T16:31:54.681771Z",
+            "modified": "2022-07-01T16:31:54.681771Z",
+            "name": "Blogging and Publishing Networks",
+            "description": "TA07",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0108.md",
+                    "external_id": "T0108"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--bcbf2a44-0d57-4cea-a0cd-d0c6d73a84c7"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--26409ab6-c604-4cf8-b3bb-78de1ce50265",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--6c99afe3-d4dc-4134-b2a7-06c4b15c6dcf",
+            "created_by_ref": "identity--3dbda01f-321e-408b-8ae8-3345d7883252",
+            "created": "2022-07-01T16:31:54.673898Z",
+            "modified": "2022-07-01T16:31:54.673898Z",
+            "name": "Recruit bad actors",
+            "description": "TA15",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0091.md",
+                    "external_id": "T0091"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--7399896c-c2d4-4560-aec7-e4d69ce3ffc7"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

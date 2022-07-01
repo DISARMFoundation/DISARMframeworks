@@ -1,0 +1,40 @@
+{
+    "type": "bundle",
+    "id": "bundle--0c173243-ea9b-4026-874a-5a25ee259e57",
+    "objects": [
+        {
+            "type": "x-mitre-matrix",
+            "spec_version": "2.1",
+            "id": "x-mitre-matrix--5d3157c5-19f9-43ab-a3ba-ce90ff5774bf",
+            "created": "2022-07-01T16:31:54.693812Z",
+            "modified": "2022-07-01T16:31:54.693812Z",
+            "name": "DISARM Framework",
+            "description": "DISARM is a framework designed for describing and understanding disinformation incidents.",
+            "tactic_refs": [
+                "x-mitre-tactic--35b323e6-6e5e-40de-a4bd-28c1e8a148e2",
+                "x-mitre-tactic--299f9a4c-593d-45bc-84c3-d04ccb4c0dff",
+                "x-mitre-tactic--05fcd6df-3619-4498-86f4-51156db69e2f",
+                "x-mitre-tactic--ea55f60b-2495-4754-b2a7-bf26d11a1ae2",
+                "x-mitre-tactic--ea9bf4a4-d8e4-4f7b-ba45-52b288d46d44",
+                "x-mitre-tactic--62dd2214-3b57-4d7b-ab8f-9be473f45ad6",
+                "x-mitre-tactic--78664264-23d1-4e83-bbdf-f1648dbb5e5d",
+                "x-mitre-tactic--3b7a5b95-f13b-46dc-ba99-0571e98db9dc",
+                "x-mitre-tactic--481fa162-e098-4268-8430-b910081b863f",
+                "x-mitre-tactic--99c9226f-2119-42d8-9b95-e8a82bd29604",
+                "x-mitre-tactic--dae4c85b-182e-4172-a7a5-d87ec64ac3f9",
+                "x-mitre-tactic--2baaef73-c8ed-4b01-ab7c-d5b630aeb3f8",
+                "x-mitre-tactic--83512c37-9bae-4aef-8e91-ca8e47d1ed51",
+                "x-mitre-tactic--52e80133-5571-43a6-a3d7-ebdcfb79d6af",
+                "x-mitre-tactic--4cdaf416-7fda-4fd2-84e8-b58800f6df1d",
+                "x-mitre-tactic--68455276-737c-4224-aceb-da569a920d3e"
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation",
+                    "external_id": "DISARM"
+                }
+            ]
+        }
+    ]
+}

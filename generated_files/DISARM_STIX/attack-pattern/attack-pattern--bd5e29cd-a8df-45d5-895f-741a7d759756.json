@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--d0bf00d5-9468-4ff2-a77f-84bf7f5b57fe",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--bd5e29cd-a8df-45d5-895f-741a7d759756",
+            "created_by_ref": "identity--8181137c-134f-4431-9575-854ba9ad3422",
+            "created": "2022-07-01T16:31:54.655213Z",
+            "modified": "2022-07-01T16:31:54.655213Z",
+            "name": "Generate information pollution",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0019.md",
+                    "external_id": "T0019"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--b28aa0eb-3569-4865-bf60-4f347dca26f1"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}
