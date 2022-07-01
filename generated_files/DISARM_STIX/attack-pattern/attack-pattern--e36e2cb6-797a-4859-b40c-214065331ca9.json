@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--8b517eaf-33f2-4301-a3a5-393f43e80543",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--e36e2cb6-797a-4859-b40c-214065331ca9",
+            "created_by_ref": "identity--7c43dcf4-9445-4464-9cff-55b6d341cdc7",
+            "created": "2022-07-01T17:31:14.970415Z",
+            "modified": "2022-07-01T17:31:14.970415Z",
+            "name": "Email",
+            "description": "TA07",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0112.md",
+                    "external_id": "T0112"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--7c9af100-8d68-4ae2-a4d3-6e274a259cfa"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--7c8088b7-528e-48cb-8122-a83b6c12cd80",
+    "objects": [
+        {
+            "type": "x-mitre-tactic",
+            "spec_version": "2.1",
+            "id": "x-mitre-tactic--5a8e8b7b-a4f4-4b4c-aed4-e8e629362e43",
+            "created_by_ref": "identity--17b0543b-9cb3-43c3-830e-3782ed3ffd34",
+            "created": "2022-07-01T17:31:14.932767Z",
+            "modified": "2022-07-01T17:31:14.932767Z",
+            "name": "Develop Narratives",
+            "description": "The promotion of beneficial master narratives is perhaps the most effective method for achieving long-term strategic narrative dominance. From a \"\"whole of society\"\" perspective the promotion of the society's core master narratives should occupy a central strategic role. From a misinformation campaign / cognitive security perpectve the tactics around master narratives center more precisely on the day-to-day promotion and reinforcement of this messaging. In other words, beneficial, high-coverage master narratives are a central strategic goal and their promotion constitutes an ongoing tactical struggle carried out at a whole-of-society level. Tactically, their promotion covers a broad spectrum of activities both on- and offline.",
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA14.md",
+                    "external_id": "TA14"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--7ff786b8-5c97-4eca-b188-7a378f9ef034"
+            ],
+            "x_mitre_shortname": "develop-narratives"
+        }
+    ]
+}

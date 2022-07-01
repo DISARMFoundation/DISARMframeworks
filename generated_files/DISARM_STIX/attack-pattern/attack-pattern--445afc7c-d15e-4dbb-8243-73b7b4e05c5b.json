@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--2327eb94-0d17-4c5d-98c5-e8f2e75f183e",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--445afc7c-d15e-4dbb-8243-73b7b4e05c5b",
+            "created_by_ref": "identity--0e46cae8-513c-4045-b094-c2d286150a0a",
+            "created": "2022-07-01T17:31:14.946452Z",
+            "modified": "2022-07-01T17:31:14.946452Z",
+            "name": "Use fake experts",
+            "description": "TA08",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "conduct-pump-priming"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0045.md",
+                    "external_id": "T0045"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c8f3d3aa-d5f4-4e7c-99ed-988d265f941e"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}
