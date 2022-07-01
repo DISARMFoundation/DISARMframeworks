@@ -30,27 +30,7 @@
 <td>15</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/tactics/TA03.md">TA03 Target Audience Analysis</a></td>
-<td>7</td>
-<td>4</td>
-<td>3</td>
-<td>0</td>
-<td>1</td>
-<td>2</td>
-<td>17</td>
-</tr>
-<tr>
-<td><a href="../generated_pages/tactics/TA04.md">TA04 Develop Narratives</a></td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>10</td>
-</tr>
-<tr>
-<td><a href="../generated_pages/tactics/TA05.md">TA05 Develop Content</a></td>
+<td><a href="../generated_pages/tactics/TA05.md">TA05 Microtarget</a></td>
 <td>1</td>
 <td>2</td>
 <td>1</td>
@@ -60,7 +40,7 @@
 <td>5</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/tactics/TA06.md">TA06 Establish Social Assets</a></td>
+<td><a href="../generated_pages/tactics/TA06.md">TA06 Develop Content</a></td>
 <td>8</td>
 <td>8</td>
 <td>6</td>
@@ -70,7 +50,7 @@
 <td>23</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/tactics/TA07.md">TA07 Establish Legitimacy</a></td>
+<td><a href="../generated_pages/tactics/TA07.md">TA07 Select Channels and Affordances</a></td>
 <td>4</td>
 <td>1</td>
 <td>1</td>
@@ -80,7 +60,7 @@
 <td>8</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/tactics/TA08.md">TA08 Microtarget</a></td>
+<td><a href="../generated_pages/tactics/TA08.md">TA08 Conduct Pump Priming</a></td>
 <td>6</td>
 <td>3</td>
 <td>3</td>
@@ -90,7 +70,7 @@
 <td>15</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/tactics/TA09.md">TA09 Select Channels and Affordances</a></td>
+<td><a href="../generated_pages/tactics/TA09.md">TA09 Deliver Content</a></td>
 <td>3</td>
 <td>9</td>
 <td>0</td>
@@ -100,7 +80,7 @@
 <td>12</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/tactics/TA11.md">TA11 Deliver Content</a></td>
+<td><a href="../generated_pages/tactics/TA11.md">TA11 Persist in the Information Environment</a></td>
 <td>1</td>
 <td>2</td>
 <td>1</td>
@@ -110,7 +90,7 @@
 <td>4</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/tactics/TA12.md">TA12 Maximize Exposure</a></td>
+<td><a href="../generated_pages/tactics/TA12.md">TA12 Assess Effectiveness</a></td>
 <td>0</td>
 <td>1</td>
 <td>2</td>
@@ -118,6 +98,16 @@
 <td>0</td>
 <td>0</td>
 <td>3</td>
+</tr>
+<tr>
+<td><a href="../generated_pages/tactics/TA15.md">TA15 Establish Social Assets</a></td>
+<td>10</td>
+<td>7</td>
+<td>6</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>27</td>
 </tr>
 <tr>
 <td>TOTALS</td>

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--fde132d9-b1ed-4e00-a4da-b566d38a2a8d",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--83124e9f-4981-445c-aa20-b7a3990c18ab",
+            "created_by_ref": "identity--e5631f8e-4441-44b0-98de-44cef0359a06",
+            "created": "2022-07-01T03:29:17.099228Z",
+            "modified": "2022-07-01T03:29:17.099228Z",
+            "name": "Facilitate State Propaganda",
+            "description": "TA02",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0002.md",
+                    "external_id": "T0002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--27285727-7410-4083-a6b1-94d53ac3486a"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

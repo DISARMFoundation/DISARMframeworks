@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--0476b1be-804e-43b5-bd76-6995a3a64349",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--f8c2e933-a4ba-410a-8689-d6882b92e28c",
+            "created_by_ref": "identity--6d8fd8d9-aa56-4ae4-80fc-4a0ca136f567",
+            "created": "2022-07-01T03:29:17.1428Z",
+            "modified": "2022-07-01T03:29:17.1428Z",
+            "name": "Exploit TOS/Content Moderation",
+            "description": "TA11",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0131.md",
+                    "external_id": "T0131"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--3e99c627-a96e-4eef-9a2e-ce23c1e3895f"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

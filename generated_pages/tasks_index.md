@@ -26,6 +26,12 @@
 <td>TA01</td>
 </tr>
 <tr>
+<td><a href="tasks/TK0031.md">TK0031</a></td>
+<td>OPSEC for TA01</td>
+<td>OPSEC for TA01</td>
+<td>TA01</td>
+</tr>
+<tr>
 <td><a href="tasks/TK0004.md">TK0004</a></td>
 <td>Identify target subgroups</td>
 <td>Identify groups that can best be used to meet incident goals</td>
@@ -62,46 +68,70 @@
 <td>TA02</td>
 </tr>
 <tr>
+<td><a href="tasks/TK0032.md">TK0032</a></td>
+<td>OPSEC for TA02</td>
+<td>OPSEC for TA02</td>
+<td>TA02</td>
+</tr>
+<tr>
 <td><a href="tasks/TK0010.md">TK0010</a></td>
 <td>Create personas</td>
 <td>Create personas</td>
-<td>TA03</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="tasks/TK0011.md">TK0011</a></td>
 <td>Recruit contractors</td>
 <td>Recruit contractors</td>
-<td>TA03</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="tasks/TK0012.md">TK0012</a></td>
 <td>Recruit partisans</td>
 <td>Recruit partisans</td>
-<td>TA03</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="tasks/TK0013.md">TK0013</a></td>
 <td>find influencers</td>
 <td>find influencers</td>
-<td>TA03</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="tasks/TK0033.md">TK0033</a></td>
+<td>OPSEC for TA15</td>
+<td>OPSEC for TA15</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="tasks/TK0014.md">TK0014</a></td>
 <td>Network building</td>
 <td>Network building</td>
-<td>TA04</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="tasks/TK0015.md">TK0015</a></td>
 <td>Network infiltration</td>
 <td>Network infiltration</td>
-<td>TA04</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="tasks/TK0016.md">TK0016</a></td>
 <td>identify targets - susceptible audience members in networks</td>
 <td>identify targets - susceptible audience members in networks</td>
-<td>TA04</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="tasks/TK0034.md">TK0034</a></td>
+<td>OPSEC for TA15</td>
+<td>OPSEC for TA15</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="tasks/TK0035.md">TK0035</a></td>
+<td>OPSEC for TA05</td>
+<td>OPSEC for TA05</td>
+<td>TA05</td>
 </tr>
 <tr>
 <td><a href="tasks/TK0017.md">TK0017</a></td>
@@ -116,6 +146,18 @@
 <td>TA06</td>
 </tr>
 <tr>
+<td><a href="tasks/TK0036.md">TK0036</a></td>
+<td>OPSEC for TA06</td>
+<td>OPSEC for TA06</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="tasks/TK0037.md">TK0037</a></td>
+<td>OPSEC for TA07</td>
+<td>OPSEC for TA07</td>
+<td>TA07</td>
+</tr>
+<tr>
 <td><a href="tasks/TK0019.md">TK0019</a></td>
 <td>anchor trust / credibility</td>
 <td>anchor trust / credibility</td>
@@ -125,6 +167,12 @@
 <td><a href="tasks/TK0020.md">TK0020</a></td>
 <td>insert themes</td>
 <td>insert themes</td>
+<td>TA08</td>
+</tr>
+<tr>
+<td><a href="tasks/TK0038.md">TK0038</a></td>
+<td>OPSEC for TA08</td>
+<td>OPSEC for TA08</td>
 <td>TA08</td>
 </tr>
 <tr>
@@ -138,6 +186,18 @@
 <td>amplification</td>
 <td>amplification</td>
 <td>TA09</td>
+</tr>
+<tr>
+<td><a href="tasks/TK0039.md">TK0039</a></td>
+<td>OPSEC for TA09</td>
+<td>OPSEC for TA09</td>
+<td>TA09</td>
+</tr>
+<tr>
+<td><a href="tasks/TK0040.md">TK0040</a></td>
+<td>OPSEC for TA10</td>
+<td>OPSEC for TA10</td>
+<td>TA10</td>
 </tr>
 <tr>
 <td><a href="tasks/TK0023.md">TK0023</a></td>
@@ -170,6 +230,12 @@
 <td>TA11</td>
 </tr>
 <tr>
+<td><a href="tasks/TK0041.md">TK0041</a></td>
+<td>OPSEC for TA11</td>
+<td>OPSEC for TA11</td>
+<td>TA11</td>
+</tr>
+<tr>
 <td><a href="tasks/TK0028.md">TK0028</a></td>
 <td>evaluation</td>
 <td>evaluation</td>
@@ -186,72 +252,6 @@
 <td>after-action analysis</td>
 <td>after-action analysis</td>
 <td>TA12</td>
-</tr>
-<tr>
-<td><a href="tasks/TK0031.md">TK0031</a></td>
-<td>OPSEC for TA01</td>
-<td>OPSEC for TA01</td>
-<td>TA01</td>
-</tr>
-<tr>
-<td><a href="tasks/TK0032.md">TK0032</a></td>
-<td>OPSEC for TA02</td>
-<td>OPSEC for TA02</td>
-<td>TA02</td>
-</tr>
-<tr>
-<td><a href="tasks/TK0033.md">TK0033</a></td>
-<td>OPSEC for TA03</td>
-<td>OPSEC for TA03</td>
-<td>TA03</td>
-</tr>
-<tr>
-<td><a href="tasks/TK0034.md">TK0034</a></td>
-<td>OPSEC for TA04</td>
-<td>OPSEC for TA04</td>
-<td>TA04</td>
-</tr>
-<tr>
-<td><a href="tasks/TK0035.md">TK0035</a></td>
-<td>OPSEC for TA05</td>
-<td>OPSEC for TA05</td>
-<td>TA05</td>
-</tr>
-<tr>
-<td><a href="tasks/TK0036.md">TK0036</a></td>
-<td>OPSEC for TA06</td>
-<td>OPSEC for TA06</td>
-<td>TA06</td>
-</tr>
-<tr>
-<td><a href="tasks/TK0037.md">TK0037</a></td>
-<td>OPSEC for TA07</td>
-<td>OPSEC for TA07</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="tasks/TK0038.md">TK0038</a></td>
-<td>OPSEC for TA08</td>
-<td>OPSEC for TA08</td>
-<td>TA08</td>
-</tr>
-<tr>
-<td><a href="tasks/TK0039.md">TK0039</a></td>
-<td>OPSEC for TA09</td>
-<td>OPSEC for TA09</td>
-<td>TA09</td>
-</tr>
-<tr>
-<td><a href="tasks/TK0040.md">TK0040</a></td>
-<td>OPSEC for TA10</td>
-<td>OPSEC for TA10</td>
-<td>TA10</td>
-</tr>
-<tr>
-<td><a href="tasks/TK0041.md">TK0041</a></td>
-<td>OPSEC for TA11</td>
-<td>OPSEC for TA11</td>
-<td>TA11</td>
 </tr>
 <tr>
 <td><a href="tasks/TK0042.md">TK0042</a></td>
