@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--2977dab6-c70a-492b-b26d-88cbef3bfe5f",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--966328aa-86fd-4f90-85da-0685b146c1ac",
+            "created_by_ref": "identity--d103d1d9-e3c8-4796-903e-067a5d929aff",
+            "created": "2022-07-01T03:29:17.130301Z",
+            "modified": "2022-07-01T03:29:17.130301Z",
+            "name": "Social Networks",
+            "description": "TA07",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0104.md",
+                    "external_id": "T0104"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--ad51d9d0-5a1c-4bd2-8bac-ccc2d5f01161"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

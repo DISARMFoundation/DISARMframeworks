@@ -70,7 +70,7 @@
 <td>Detect abnormal amplification</td>
 <td></td>
 <td></td>
-<td>TA03 Develop People</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@
 <td>Detect abnormal events</td>
 <td></td>
 <td></td>
-<td>TA03 Develop People</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@
 <td>Detect abnormal groups</td>
 <td></td>
 <td></td>
-<td>TA03 Develop People</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@
 <td>Detect abnormal pages</td>
 <td></td>
 <td></td>
-<td>TA03 Develop People</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@
 <td>Detect abnormal profiles, e.g. prolific pages/ groups/ people</td>
 <td></td>
 <td></td>
-<td>TA03 Develop People</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@
 <td>Identify fake news sites</td>
 <td></td>
 <td></td>
-<td>TA03 Develop People</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@
 <td>Trace connections</td>
 <td>for e.g. fake news sites</td>
 <td></td>
-<td>TA03 Develop People</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@
 <td>Detect anomalies in membership growth patterns</td>
 <td>I include Fake Experts as they may use funding campaigns such as Patreon to fund their operations and so these should be watched.</td>
 <td></td>
-<td>TA03 Develop People</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -136,7 +136,7 @@
 
 In TA08-11, the engagement level of victims could be identified to detect and respond to increasing engagement.</td>
 <td></td>
-<td>TA03 Develop People</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -144,7 +144,7 @@ In TA08-11, the engagement level of victims could be identified to detect and re
 <td>Measure emotional valence</td>
 <td></td>
 <td></td>
-<td>TA03 Develop People</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ In TA08-11, the engagement level of victims could be identified to detect and re
 <td>Follow the money</td>
 <td>track funding sources</td>
 <td></td>
-<td>TA03 Develop People</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -160,7 +160,7 @@ In TA08-11, the engagement level of victims could be identified to detect and re
 <td>Activity resurgence detection (alarm when dormant accounts become activated)</td>
 <td></td>
 <td></td>
-<td>TA04 Develop Networks</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -168,7 +168,7 @@ In TA08-11, the engagement level of victims could be identified to detect and re
 <td>Detect anomalous activity</td>
 <td></td>
 <td></td>
-<td>TA04 Develop Networks</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -176,7 +176,7 @@ In TA08-11, the engagement level of victims could be identified to detect and re
 <td>AI/ML automated early detection of campaign planning</td>
 <td></td>
 <td></td>
-<td>TA04 Develop Networks</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -184,7 +184,7 @@ In TA08-11, the engagement level of victims could be identified to detect and re
 <td>Digital authority - regulating body (united states)</td>
 <td></td>
 <td></td>
-<td>TA04 Develop Networks</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -192,7 +192,7 @@ In TA08-11, the engagement level of victims could be identified to detect and re
 <td>Periodic verification (counter to hijack legitimate account)</td>
 <td></td>
 <td></td>
-<td>TA04 Develop Networks</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -200,7 +200,7 @@ In TA08-11, the engagement level of victims could be identified to detect and re
 <td>Teach civics to kids/ adults/ seniors</td>
 <td></td>
 <td></td>
-<td>TA04 Develop Networks</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -629,7 +629,7 @@ For example, other ways of deplatforming people include attacking their sources 
 <td>Model for bot account behavior</td>
 <td>Bot account: action based, people. Unsure which DISARM techniques.</td>
 <td></td>
-<td>TA03 Develop People</td>
+<td>TA15 - Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -637,7 +637,7 @@ For example, other ways of deplatforming people include attacking their sources 
 <td>Monitor account level activity in social networks</td>
 <td>All techniques benefit from careful analysis and monitoring of activities on social network.</td>
 <td></td>
-<td>TA03 Develop People</td>
+<td>TA15 - Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -685,7 +685,7 @@ For example, other ways of deplatforming people include attacking their sources 
 <td>Track individual bad actors</td>
 <td></td>
 <td></td>
-<td>TA03 Develop People</td>
+<td>TA15 - Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -728,7 +728,7 @@ Intent: judgement of adversarial intent to conduct gray zone activity. Indeed, t
 <td>target/name/flag "grey zone" website content</td>
 <td>"Gray zone" is second level of content producers and circulators, composed of outlets with uncertain attribution. This category covers conspiracy websites, far-right or far-left websites, news aggregators, and data dump websites</td>
 <td></td>
-<td>TA04 Develop Networks</td>
+<td>TA15 Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -760,7 +760,7 @@ Intent: judgement of adversarial intent to conduct gray zone activity. Indeed, t
 <td>S4d detection and re-allocation approaches</td>
 <td>S4D is a way to separate out different speakers in text, audio. </td>
 <td>M004 - friction</td>
-<td>TA03 Develop People</td>
+<td>TA15 - Establish Social Assets</td>
 <td>D01</td>
 </tr>
 <tr>

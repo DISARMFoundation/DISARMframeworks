@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--fd967e77-4f0a-474e-9c94-948a914a0ab1",
+    "objects": [
+        {
+            "type": "x-mitre-tactic",
+            "spec_version": "2.1",
+            "id": "x-mitre-tactic--efddae0c-df65-48be-a7a4-067237d8a528",
+            "created_by_ref": "identity--2d057bc4-00f4-42ed-b56d-f441f58c0224",
+            "created": "2022-07-01T03:29:17.0951Z",
+            "modified": "2022-07-01T03:29:17.0951Z",
+            "name": "Persist in the Information Environment",
+            "description": "Persist in the Information Space refers to taking measures that allow an operation to maintain its presence and avoid takedown by an external entity. Techniques in Persist in the Information Space help campaigns operate without detection and appear legitimate to the target audience and platform monitoring services. Influence operations on social media often persist online by varying the type of information  assets and platforms used throughout the campaign.",
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA11.md",
+                    "external_id": "TA11"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--7e8d9bd0-001f-45d2-aa7f-a57b18f3df70"
+            ],
+            "x_mitre_shortname": "persist-in-the-information-environment"
+        }
+    ]
+}

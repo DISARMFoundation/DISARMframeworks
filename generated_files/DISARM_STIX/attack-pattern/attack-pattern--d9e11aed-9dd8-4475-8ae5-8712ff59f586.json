@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--bfe71091-824b-4a08-8ed8-e6e4fc558592",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--d9e11aed-9dd8-4475-8ae5-8712ff59f586",
+            "created_by_ref": "identity--d1019309-43a3-4678-9e95-0dcc6adf34db",
+            "created": "2022-07-01T03:29:17.116426Z",
+            "modified": "2022-07-01T03:29:17.116426Z",
+            "name": "Determine Strategic Ends",
+            "description": "TA01",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-strategy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0074.md",
+                    "external_id": "T0074"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--7c51b002-f10f-4d6a-822d-4222b2b6bc2b"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--fb5e5abc-7c17-42f9-8867-98fdf201db2d",
+    "objects": [
+        {
+            "type": "x-mitre-tactic",
+            "spec_version": "2.1",
+            "id": "x-mitre-tactic--4348a49d-d21a-4915-a512-ba1accaa8cd9",
+            "created_by_ref": "identity--ebae25a4-b31b-40c4-b26f-c603911318b6",
+            "created": "2022-07-01T03:29:17.092712Z",
+            "modified": "2022-07-01T03:29:17.092712Z",
+            "name": "Develop Content",
+            "description": "TBD",
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA06.md",
+                    "external_id": "TA06"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f6a72729-0ae7-401c-b0c0-8f97fa40e86e"
+            ],
+            "x_mitre_shortname": "develop-content"
+        }
+    ]
+}

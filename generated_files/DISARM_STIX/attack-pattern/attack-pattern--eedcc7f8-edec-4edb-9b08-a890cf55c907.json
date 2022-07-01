@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--b407de27-0b1e-452e-b217-cfc6acfa2151",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--eedcc7f8-edec-4edb-9b08-a890cf55c907",
+            "created_by_ref": "identity--7f51c314-3c76-4bb9-b1e9-c43a441088a9",
+            "created": "2022-07-01T03:29:17.140068Z",
+            "modified": "2022-07-01T03:29:17.140068Z",
+            "name": "Platform Filtering",
+            "description": "TA18",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-online-harms"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0125.md",
+                    "external_id": "T0125"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--aec46781-a9af-4956-ac97-90805bdd57a2"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

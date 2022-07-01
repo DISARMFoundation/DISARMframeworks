@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--07f16915-d71d-4b6b-b3ce-9e14c58be86a",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--ab0f7411-ff09-4897-b55c-301fdd6276b8",
+            "created_by_ref": "identity--3b10ff39-a4f1-461b-9b82-26e85d98d99d",
+            "created": "2022-07-01T03:29:17.126065Z",
+            "modified": "2022-07-01T03:29:17.126065Z",
+            "name": "Develop Owned Media Assets",
+            "description": "TA15",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0095.md",
+                    "external_id": "T0095"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--2c194b27-329e-41fb-98ed-df4f06db3141"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}
