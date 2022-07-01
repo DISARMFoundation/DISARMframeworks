@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--85f18b2e-9249-488a-a038-7472af756a5b",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--cef62e02-dea4-42db-b32e-6aa9d4443168",
+            "created_by_ref": "identity--d2e51796-4e28-4e08-8397-904dba2878f2",
+            "created": "2022-07-01T15:09:34.003213Z",
+            "modified": "2022-07-01T15:09:34.003213Z",
+            "name": "Develop Text-based Content",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0085.md",
+                    "external_id": "T0085"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c0a7cd93-a5c5-4c67-a629-6052dd0a9935"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

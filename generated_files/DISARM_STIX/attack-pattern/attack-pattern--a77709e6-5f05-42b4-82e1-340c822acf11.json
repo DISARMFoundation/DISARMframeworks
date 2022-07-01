@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--4a406f12-0970-4603-9a9e-df3f72685db3",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--a77709e6-5f05-42b4-82e1-340c822acf11",
+            "created_by_ref": "identity--a0f3a107-ab8c-4af1-9c7c-091be28a1dfc",
+            "created": "2022-07-01T15:09:34.025991Z",
+            "modified": "2022-07-01T15:09:34.025991Z",
+            "name": "Develop Competing Narratives",
+            "description": "TA14",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-narratives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0004.md",
+                    "external_id": "T0004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--a83879d2-6922-400f-9200-727f5b3e9591"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

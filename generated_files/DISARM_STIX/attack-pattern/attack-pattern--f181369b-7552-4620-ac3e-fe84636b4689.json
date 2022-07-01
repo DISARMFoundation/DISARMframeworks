@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--7c22f5f4-a325-4bc0-9b5e-ea1d1a7e9bd3",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--f181369b-7552-4620-ac3e-fe84636b4689",
+            "created_by_ref": "identity--7d680e67-3999-4ae5-82de-3e8f8f5ed1ab",
+            "created": "2022-07-01T15:09:34.021301Z",
+            "modified": "2022-07-01T15:09:34.021301Z",
+            "name": "Suppress Opposition",
+            "description": "TA18",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-online-harms"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0124.md",
+                    "external_id": "T0124"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--79d27a94-8480-4623-8530-a4fcbd860f1c"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

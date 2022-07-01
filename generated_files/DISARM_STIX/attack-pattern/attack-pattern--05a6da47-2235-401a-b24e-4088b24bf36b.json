@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--9af0c9e8-c2e2-4447-be1c-1c1087b07b2b",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--05a6da47-2235-401a-b24e-4088b24bf36b",
+            "created_by_ref": "identity--38a94e7c-bec8-4a7b-9df3-ac3db42952a0",
+            "created": "2022-07-01T15:09:34.005521Z",
+            "modified": "2022-07-01T15:09:34.005521Z",
+            "name": "Create Inauthentic Accounts",
+            "description": "TA15",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0090.md",
+                    "external_id": "T0090"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--8d023c91-e0d9-40c1-aa17-096b25d5990e"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

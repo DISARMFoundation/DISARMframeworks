@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--e92062ee-b444-4c44-86b3-cdb878581922",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--1b72fbcf-7a34-4732-a229-c3539eb9e61c",
+            "created_by_ref": "identity--2d8ca8b3-8b6f-49ef-9bb8-666613365837",
+            "created": "2022-07-01T15:09:34.039333Z",
+            "modified": "2022-07-01T15:09:34.039333Z",
+            "name": "Sell Merchandise",
+            "description": "TA10",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-offline-activity"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0061.md",
+                    "external_id": "T0061"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--92ccd6b1-d074-4962-88ea-4cbc02ce43b0"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}
