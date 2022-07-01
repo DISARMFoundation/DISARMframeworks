@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--d5b342ef-1ce6-4063-bae8-3040075c008c",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--d0c5e495-0c6a-4f97-b565-a0914460a87b",
+            "created_by_ref": "identity--4fc97f8b-a0a2-48ab-9801-a4f3fa0431c3",
+            "created": "2022-07-01T16:05:00.246998Z",
+            "modified": "2022-07-01T16:05:00.246998Z",
+            "name": "Divide",
+            "description": "TA02",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0079.md",
+                    "external_id": "T0079"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--898df923-97f4-437b-b47a-2150dc8b1727"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

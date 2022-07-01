@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--582c007d-7c10-44b9-877c-5e5d74a4d046",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--0c97cd17-3187-4681-bd24-1cad1e6a4245",
+            "created_by_ref": "identity--2d9bc59c-7c80-4b6f-84fc-c37b50e89a7e",
+            "created": "2022-07-01T16:05:00.22158Z",
+            "modified": "2022-07-01T16:05:00.22158Z",
+            "name": "Attract Traditional Media",
+            "description": "TA09",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "deliver-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0117.md",
+                    "external_id": "T0117"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c1d2aa04-525a-43a2-b89e-5ebedf6ae79d"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

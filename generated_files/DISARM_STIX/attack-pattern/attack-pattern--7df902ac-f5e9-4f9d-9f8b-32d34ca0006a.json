@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--976e7ba1-5a65-40b5-b32a-dd6e30e7a236",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--7df902ac-f5e9-4f9d-9f8b-32d34ca0006a",
+            "created_by_ref": "identity--57d807dc-c41b-41e9-bc10-ba6ac3046b76",
+            "created": "2022-07-01T16:05:00.210097Z",
+            "modified": "2022-07-01T16:05:00.210097Z",
+            "name": "Build Network",
+            "description": "TA15",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0092.md",
+                    "external_id": "T0092"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--9331cbf1-18c4-44f3-829d-e653264d22c8"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--a5b3d655-20f9-45a3-b594-2be61668ac1e",
+    "id": "bundle--570ab18b-6c44-4388-baa1-e495aa10801b",
     "objects": [
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
-            "id": "x-mitre-tactic--42aa3a69-a1bd-4c3b-8009-b52e10a0c523",
-            "created_by_ref": "identity--cb8cbfb7-9b3b-4583-84d2-dd56e41b7cf3",
-            "created": "2022-07-01T15:09:33.991527Z",
-            "modified": "2022-07-01T15:09:33.991527Z",
+            "id": "x-mitre-tactic--7e68b26a-2828-4f50-810b-af713c95b6ae",
+            "created_by_ref": "identity--c82eee40-6b4b-4119-8f0d-cd3de9a5af17",
+            "created": "2022-07-01T16:05:00.195334Z",
+            "modified": "2022-07-01T16:05:00.195334Z",
             "name": "Plan Strategy",
             "description": "Define the desired end state, i.e. the set of required conditions that defines achievement of all objectives.",
             "external_references": [
@@ -19,17 +19,17 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--ed9174de-b526-4a43-89f1-d8cc20c49b45"
+                "marking-definition--757f4073-4aad-45e3-859b-0600bf2df7de"
             ],
             "x_mitre_shortname": "plan-strategy"
         },
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
-            "id": "x-mitre-tactic--90bc1fea-85bc-4e82-b3f3-a62b092c868c",
-            "created_by_ref": "identity--32220101-ca38-4d30-93b0-8e296cba471a",
-            "created": "2022-07-01T15:09:33.992101Z",
-            "modified": "2022-07-01T15:09:33.992101Z",
+            "id": "x-mitre-tactic--f04be27c-1340-4ec3-8db3-40f0966bdb6d",
+            "created_by_ref": "identity--9040e1cb-239e-4881-97af-e94cb67834a4",
+            "created": "2022-07-01T16:05:00.195915Z",
+            "modified": "2022-07-01T16:05:00.195915Z",
             "name": "Plan Objectives",
             "description": "Set clearly defined, measurable, and achievable objectives. Achieving objectives ties execution of tactical tasks to reaching the desired end state. There are four primary considerations: \n- Each desired effect should link directly to one or more objectives \n- The effect should be measurable \n- The objective statement should not specify the way and means of accomplishment \n- The effect should be distinguishable from the objective it supports as a condition for success, not as another objective or task.",
             "external_references": [
@@ -40,17 +40,17 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--cfb3c154-1f09-40de-bfa9-8d485910e1f2"
+                "marking-definition--225e70ab-81ee-441f-a5c5-15cf5bfc38f2"
             ],
             "x_mitre_shortname": "plan-objectives"
         },
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
-            "id": "x-mitre-tactic--ad663938-9aea-4bd0-b262-313bb65761f0",
-            "created_by_ref": "identity--f98a4d96-78a9-46ab-b680-e504e86a5305",
-            "created": "2022-07-01T15:09:33.992762Z",
-            "modified": "2022-07-01T15:09:33.992762Z",
+            "id": "x-mitre-tactic--8eab0661-56ad-43ad-87ae-935a77d16e63",
+            "created_by_ref": "identity--37e4bee1-8c4f-4728-b212-52ce89fa889e",
+            "created": "2022-07-01T16:05:00.196378Z",
+            "modified": "2022-07-01T16:05:00.196378Z",
             "name": "Microtarget",
             "description": "Target very specific populations of people",
             "external_references": [
@@ -61,17 +61,17 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--570feb0d-a402-426c-9f7f-4ce2adc88eb8"
+                "marking-definition--78324944-8962-4378-a30e-d8bbc5c94da0"
             ],
             "x_mitre_shortname": "microtarget"
         },
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
-            "id": "x-mitre-tactic--f7e57e85-0af8-4509-8fff-1bc38780ae32",
-            "created_by_ref": "identity--68624351-c3f6-43cd-966d-ac63fecadc6b",
-            "created": "2022-07-01T15:09:33.993237Z",
-            "modified": "2022-07-01T15:09:33.993237Z",
+            "id": "x-mitre-tactic--994b5321-008e-4905-8f24-16d903ae6875",
+            "created_by_ref": "identity--f53ca788-53c0-4b71-8147-d650839546b2",
+            "created": "2022-07-01T16:05:00.196834Z",
+            "modified": "2022-07-01T16:05:00.196834Z",
             "name": "Develop Content",
             "description": "Create or acquire text, images, and other content",
             "external_references": [
@@ -82,17 +82,17 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--ecc9fd64-448d-4947-a255-f9b302e84a98"
+                "marking-definition--4c5b2c4f-ba7a-405f-ab83-1763b986d01d"
             ],
             "x_mitre_shortname": "develop-content"
         },
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
-            "id": "x-mitre-tactic--9e15ab88-a8f8-4a72-b991-b4e3e8954683",
-            "created_by_ref": "identity--19078ea5-3812-4b36-bcc0-948934555dc9",
-            "created": "2022-07-01T15:09:33.993679Z",
-            "modified": "2022-07-01T15:09:33.993679Z",
+            "id": "x-mitre-tactic--3e28d7aa-6c06-42b7-a5c6-bb48cf875bac",
+            "created_by_ref": "identity--83c0cc2d-ea7a-4fab-bee8-f6f9da3965d2",
+            "created": "2022-07-01T16:05:00.197273Z",
+            "modified": "2022-07-01T16:05:00.197273Z",
             "name": "Select Channels and Affordances",
             "description": "Selecting platforms and affordances assesses which online or offline platforms and their associated affordances maximize an influence operation\u2019s  ability to reach its target audience. To select the most appropriate platform(s), an operation may  assess the technological affordances including platform algorithms, terms of service, permitted content types, or other attributes that  determine platform usability and accessibility. Selecting platforms includes both choosing platforms on which the operation will publish its own  content and platforms on which the operation will attempt to restrict adversarial content.",
             "external_references": [
@@ -103,17 +103,17 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--9ac97bf9-caa8-4ae5-ab2c-afd55ec3aa48"
+                "marking-definition--a1f0020f-e23b-4967-91e3-8ad68c5a674c"
             ],
             "x_mitre_shortname": "select-channels-and-affordances"
         },
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
-            "id": "x-mitre-tactic--a74eec50-d3a1-4f7d-891c-d7b3d3255bed",
-            "created_by_ref": "identity--5055f888-2859-4b49-aeb9-e525a78ab4b9",
-            "created": "2022-07-01T15:09:33.994135Z",
-            "modified": "2022-07-01T15:09:33.994135Z",
+            "id": "x-mitre-tactic--9eb11839-c702-4a5d-b392-a645d837aae4",
+            "created_by_ref": "identity--683c6fe6-d71d-407b-8430-a1821a702064",
+            "created": "2022-07-01T16:05:00.197726Z",
+            "modified": "2022-07-01T16:05:00.197726Z",
             "name": "Conduct Pump Priming",
             "description": "Release content on a targetted small scale, prior to general release, including releasing seed. Used for preparation before broader release, and as message honing. Used for preparation before broader release, and as message honing. ",
             "external_references": [
@@ -124,17 +124,17 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--dd7a31b2-d020-45dc-b70d-77bfe73ee882"
+                "marking-definition--a18862a3-039b-4324-965a-55caacde145c"
             ],
             "x_mitre_shortname": "conduct-pump-priming"
         },
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
-            "id": "x-mitre-tactic--bb82e3fa-7c63-4173-a5a0-87958eb9171c",
-            "created_by_ref": "identity--d8da3dcf-b504-4de4-a421-de282a021477",
-            "created": "2022-07-01T15:09:33.994582Z",
-            "modified": "2022-07-01T15:09:33.994582Z",
+            "id": "x-mitre-tactic--3758e79a-6731-4c5b-b7cb-5e0423c6d2bd",
+            "created_by_ref": "identity--e0138790-9b80-4e93-af3e-1647c7415ef6",
+            "created": "2022-07-01T16:05:00.198178Z",
+            "modified": "2022-07-01T16:05:00.198178Z",
             "name": "Deliver Content",
             "description": "Release content to general public or larger population",
             "external_references": [
@@ -145,17 +145,17 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--f1e73c24-947e-4081-ab0f-b7993c071548"
+                "marking-definition--821d2bc0-2896-47bc-9ac5-365237b259e6"
             ],
             "x_mitre_shortname": "deliver-content"
         },
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
-            "id": "x-mitre-tactic--e9538fe4-9350-4ab3-b2a4-4e1be934869d",
-            "created_by_ref": "identity--4c4ab15e-ed7a-4c69-8428-08dee59998f8",
-            "created": "2022-07-01T15:09:33.995029Z",
-            "modified": "2022-07-01T15:09:33.995029Z",
+            "id": "x-mitre-tactic--85800023-ce4b-47cf-9110-cb1e3d8cf6e9",
+            "created_by_ref": "identity--a5af12d3-8adf-4423-8486-748c3206c7e2",
+            "created": "2022-07-01T16:05:00.198626Z",
+            "modified": "2022-07-01T16:05:00.198626Z",
             "name": "Drive Offline Activity",
             "description": "Move incident/campaign from online to offline. Encouraging users to move from the platform on which they initially viewed operation content and engage in the physical information space or offline world. This may include operation-aligned rallies or protests, radio, newspaper, or billboards. An influence  operation may drive to physical forums to diversify its information channels and facilitate spaces where the target audience can engage with both operation content and like-minded individuals offline.  ",
             "external_references": [
@@ -166,17 +166,17 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--3424e2a0-dfe7-4311-a4b0-86b2e1dc4951"
+                "marking-definition--6b024716-e0f1-44b5-83b8-e9dc906855da"
             ],
             "x_mitre_shortname": "drive-offline-activity"
         },
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
-            "id": "x-mitre-tactic--f2f77d10-dfc5-4add-8087-eb9c2460e9f4",
-            "created_by_ref": "identity--5be593f4-d0c2-4744-bed0-b06928f6f384",
-            "created": "2022-07-01T15:09:33.995585Z",
-            "modified": "2022-07-01T15:09:33.995585Z",
+            "id": "x-mitre-tactic--a25d8749-3f5f-4bb7-8fc8-3f8500d1b957",
+            "created_by_ref": "identity--997b3825-e6b4-4972-bc23-9eb3650de84c",
+            "created": "2022-07-01T16:05:00.199295Z",
+            "modified": "2022-07-01T16:05:00.199295Z",
             "name": "Persist in the Information Environment",
             "description": "Persist in the Information Space refers to taking measures that allow an operation to maintain its presence and avoid takedown by an external entity. Techniques in Persist in the Information Space help campaigns operate without detection and appear legitimate to the target audience and platform monitoring services. Influence operations on social media often persist online by varying the type of information  assets and platforms used throughout the campaign.",
             "external_references": [
@@ -187,17 +187,17 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--c9d74ecf-f990-43be-91fd-9bbe004553d0"
+                "marking-definition--6e77cf22-9e2c-4e3c-a5a3-e6585709a57e"
             ],
             "x_mitre_shortname": "persist-in-the-information-environment"
         },
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
-            "id": "x-mitre-tactic--828b3a30-f1df-4dce-af72-e5df6d35056c",
-            "created_by_ref": "identity--350a3800-b54b-4658-a5da-95fbb0ef7fb7",
-            "created": "2022-07-01T15:09:33.996202Z",
-            "modified": "2022-07-01T15:09:33.996202Z",
+            "id": "x-mitre-tactic--ec57c769-0dac-4203-8ad2-e31ddb094ce5",
+            "created_by_ref": "identity--965b098b-db13-4628-a91a-ceeefee722aa",
+            "created": "2022-07-01T16:05:00.199771Z",
+            "modified": "2022-07-01T16:05:00.199771Z",
             "name": "Assess Effectiveness",
             "description": "Assess effectiveness of action, for use in future plans ",
             "external_references": [
@@ -208,17 +208,17 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--029131ee-a1c4-4c25-83cc-05a0377d179d"
+                "marking-definition--74ddd63b-efc2-4c89-a57d-696337f8349e"
             ],
             "x_mitre_shortname": "assess-effectiveness"
         },
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
-            "id": "x-mitre-tactic--175e021e-9eef-42ed-9af1-8488e709fd92",
-            "created_by_ref": "identity--2bdcb054-09a3-4360-9dea-9c130ac34a83",
-            "created": "2022-07-01T15:09:33.996685Z",
-            "modified": "2022-07-01T15:09:33.996685Z",
+            "id": "x-mitre-tactic--7d12e420-b94a-4051-bed2-0453e8b3982c",
+            "created_by_ref": "identity--85fbf138-dd2d-40cc-ada4-819ec6bd441d",
+            "created": "2022-07-01T16:05:00.200226Z",
+            "modified": "2022-07-01T16:05:00.200226Z",
             "name": "Target Audience Analysis",
             "description": "Identifying and analyzing the target audience examines target audience member locations,  political affiliations, financial situations, and other attributes that an influence operation may incorporate into its messaging strategy. During this tactic, influence operations may also identify  existing similarities and differences between target audience members to unite like groups and  divide opposing groups. Identifying and analyzing target audience members allows influence operations to tailor  operation strategy and content to their analysis. ",
             "external_references": [
@@ -229,17 +229,17 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--8764b5fd-816d-4eeb-9900-3a55753f9396"
+                "marking-definition--6a9c2d80-9d63-40cd-aced-9ca55006868c"
             ],
             "x_mitre_shortname": "target-audience-analysis"
         },
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
-            "id": "x-mitre-tactic--b3e40d2e-2aae-4030-86d0-8229e920a0b7",
-            "created_by_ref": "identity--3ed94ffe-23fb-41b4-8d59-38163dcaf8d8",
-            "created": "2022-07-01T15:09:33.997139Z",
-            "modified": "2022-07-01T15:09:33.997139Z",
+            "id": "x-mitre-tactic--d1ce5e35-6fae-48a0-bec7-2e6ff4fe9ae6",
+            "created_by_ref": "identity--58f35cb0-2c1d-4ab5-864d-c7f90376964e",
+            "created": "2022-07-01T16:05:00.200674Z",
+            "modified": "2022-07-01T16:05:00.200674Z",
             "name": "Develop Narratives",
             "description": "The promotion of beneficial master narratives is perhaps the most effective method for achieving long-term strategic narrative dominance. From a \"\"whole of society\"\" perspective the promotion of the society's core master narratives should occupy a central strategic role. From a misinformation campaign / cognitive security perpectve the tactics around master narratives center more precisely on the day-to-day promotion and reinforcement of this messaging. In other words, beneficial, high-coverage master narratives are a central strategic goal and their promotion constitutes an ongoing tactical struggle carried out at a whole-of-society level. Tactically, their promotion covers a broad spectrum of activities both on- and offline.",
             "external_references": [
@@ -250,17 +250,17 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--f73f3271-953f-4ecc-93f7-ecc69a9ec0da"
+                "marking-definition--cde8b3d6-f1c7-4296-8a14-bc4b4d2eaffe"
             ],
             "x_mitre_shortname": "develop-narratives"
         },
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
-            "id": "x-mitre-tactic--42059db9-5e40-4cd5-b712-aca573884064",
-            "created_by_ref": "identity--83eafe4b-96f0-4ca9-a839-0d5eb4e41ff7",
-            "created": "2022-07-01T15:09:33.997597Z",
-            "modified": "2022-07-01T15:09:33.997597Z",
+            "id": "x-mitre-tactic--8a5f957e-a7d9-46fe-a8ff-9f99a06f40f5",
+            "created_by_ref": "identity--aaa8fd2d-873d-4906-b61e-4aa78b473605",
+            "created": "2022-07-01T16:05:00.20112Z",
+            "modified": "2022-07-01T16:05:00.20112Z",
             "name": "Establish Social Assets",
             "description": "Establishing information assets generates messaging tools, including social media accounts,  operation personnel, and organizations, including directly and indirectly managed assets. For assets under their direct control, the operation can add,  change, or remove these assets at will.  \nEstablishing information assets allows an influence operation to promote messaging directly to  the target audience without navigating through external entities. Many online influence operations create or compromise social media accounts as a primary vector of information  dissemination.",
             "external_references": [
@@ -271,17 +271,17 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--2edbcc5b-1b71-48e7-b795-67c8fe18a493"
+                "marking-definition--f705f5c3-a8d0-4a3b-a146-d77812a95dc2"
             ],
             "x_mitre_shortname": "establish-social-assets"
         },
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
-            "id": "x-mitre-tactic--f629cf94-53c0-4dd5-b3dd-c0862200b3c9",
-            "created_by_ref": "identity--f02e09e0-8232-4f0d-9ea1-d904261ac1fb",
-            "created": "2022-07-01T15:09:33.998047Z",
-            "modified": "2022-07-01T15:09:33.998047Z",
+            "id": "x-mitre-tactic--a0cc992f-e3ff-474f-a09a-273459dbf2ee",
+            "created_by_ref": "identity--90329031-498b-4967-a69e-c10f93c40f1e",
+            "created": "2022-07-01T16:05:00.201567Z",
+            "modified": "2022-07-01T16:05:00.201567Z",
             "name": "Establish Legitimacy",
             "description": "Establish assets that create trust",
             "external_references": [
@@ -292,17 +292,17 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--6f9b375b-43e8-4890-84d7-5bcf5ab9339e"
+                "marking-definition--725e17c3-9e14-4a0b-ab02-a57ad0b4621c"
             ],
             "x_mitre_shortname": "establish-legitimacy"
         },
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
-            "id": "x-mitre-tactic--35a74706-edfa-4cb3-b152-43fdf0928723",
-            "created_by_ref": "identity--7c201633-8319-4d90-8093-d12f6bc8e414",
-            "created": "2022-07-01T15:09:33.998583Z",
-            "modified": "2022-07-01T15:09:33.998583Z",
+            "id": "x-mitre-tactic--21836339-3c69-445e-a488-89f3110f2ed5",
+            "created_by_ref": "identity--62bb743b-00e2-4ab7-b55b-2a5705fa8ac0",
+            "created": "2022-07-01T16:05:00.20202Z",
+            "modified": "2022-07-01T16:05:00.20202Z",
             "name": "Maximize Exposure",
             "description": "Maximize exposure of the target audience to incident/campaign content via flooding, amplifying, and cross-posting.",
             "external_references": [
@@ -313,17 +313,17 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--ebbba7df-3e08-4a5b-b58d-f7183086e004"
+                "marking-definition--33f94a97-a8f6-494c-9eab-3a0cc89415f5"
             ],
             "x_mitre_shortname": "maximize-exposure"
         },
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
-            "id": "x-mitre-tactic--edd5c911-0b7f-4fc5-88b7-6a1a7ae5b12b",
-            "created_by_ref": "identity--4dc8d440-a585-4d92-9099-1fb4012fbe5e",
-            "created": "2022-07-01T15:09:33.999031Z",
-            "modified": "2022-07-01T15:09:33.999031Z",
+            "id": "x-mitre-tactic--1347dc68-c0fb-4af2-8d7c-04ac3f5324ed",
+            "created_by_ref": "identity--9fddcb49-bcbc-479d-9380-9242dda27898",
+            "created": "2022-07-01T16:05:00.202644Z",
+            "modified": "2022-07-01T16:05:00.202644Z",
             "name": "Drive Online Harms",
             "description": "Actions taken by an influence operation to harm their opponents in online spaces through harassment, suppression, releasing private information, and controlling the information space through offensive cyberspace operations. ",
             "external_references": [
@@ -334,17 +334,17 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--f533bae6-8269-44ef-a4b1-cdab9cf27e60"
+                "marking-definition--4e143997-754e-4f62-ad11-1f547f8ef2f9"
             ],
             "x_mitre_shortname": "drive-online-harms"
         },
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--5b34c393-c2d4-41f7-b4cc-fbc3b02df4be",
-            "created_by_ref": "identity--fb7666f9-c0a3-493f-9316-25593228e11c",
-            "created": "2022-07-01T15:09:33.999791Z",
-            "modified": "2022-07-01T15:09:33.999791Z",
+            "id": "attack-pattern--626e7c70-3ccc-46b0-88d3-d458da2ef776",
+            "created_by_ref": "identity--5f00db82-349a-4a42-814c-b2eb700fee15",
+            "created": "2022-07-01T16:05:00.203452Z",
+            "modified": "2022-07-01T16:05:00.203452Z",
             "name": "Determine Target Audiences",
             "description": "TA01",
             "kill_chain_phases": [
@@ -361,7 +361,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--5d3f0df8-9958-4577-b161-4726de20dc81"
+                "marking-definition--b4369623-1700-40ec-8a54-532b0ec8710f"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -374,10 +374,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--9db66e48-d43b-461a-a2d0-acf56c24b231",
-            "created_by_ref": "identity--00f0409f-6fb4-4718-8144-6a00a670f152",
-            "created": "2022-07-01T15:09:34.00035Z",
-            "modified": "2022-07-01T15:09:34.00035Z",
+            "id": "attack-pattern--240bec5d-7bb7-4bf5-ad57-68e8e904e18c",
+            "created_by_ref": "identity--933b2d4c-2de9-471d-b125-8fd5ef6ebb6f",
+            "created": "2022-07-01T16:05:00.20402Z",
+            "modified": "2022-07-01T16:05:00.20402Z",
             "name": "Determine Strategic Ends",
             "description": "TA01",
             "kill_chain_phases": [
@@ -394,7 +394,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--3d4924a6-bed4-4fb4-b4b1-0d17210511d6"
+                "marking-definition--b2d73d28-1f42-49ba-a26a-049b4e6be6f4"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -407,10 +407,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--037fa95e-4ca8-4a30-8893-76a78ce28fd5",
-            "created_by_ref": "identity--79c6a0b0-986e-4061-96d9-f4f38313dca8",
-            "created": "2022-07-01T15:09:34.000883Z",
-            "modified": "2022-07-01T15:09:34.000883Z",
+            "id": "attack-pattern--f5465808-6bd3-46e0-b79a-2022928d45f9",
+            "created_by_ref": "identity--bcc09eca-ad75-423b-90de-daef7bc7e227",
+            "created": "2022-07-01T16:05:00.204549Z",
+            "modified": "2022-07-01T16:05:00.204549Z",
             "name": "Map Target Audience Information Environment",
             "description": "TA13",
             "kill_chain_phases": [
@@ -427,7 +427,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--6e4bddfb-3858-4066-8368-ae82f744d391"
+                "marking-definition--18d699d8-1c4c-4723-8237-5d473b38a872"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -440,10 +440,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--84ba1f1e-8db5-4087-93e8-7c459f9a4bf7",
-            "created_by_ref": "identity--05c3b5a3-053e-4805-b29b-b23f177c3a8e",
-            "created": "2022-07-01T15:09:34.001359Z",
-            "modified": "2022-07-01T15:09:34.001359Z",
+            "id": "attack-pattern--a56f5e34-33d0-43e1-9530-7bcc1593bee3",
+            "created_by_ref": "identity--80ac4c3e-fc8e-4b26-b0ed-6f12755b5333",
+            "created": "2022-07-01T16:05:00.205017Z",
+            "modified": "2022-07-01T16:05:00.205017Z",
             "name": "Identify Social and Technical Vulnerabilities",
             "description": "TA13",
             "kill_chain_phases": [
@@ -460,7 +460,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--9a8f3d09-2028-46c3-ab01-bd22a3ae6d95"
+                "marking-definition--4e03b13a-4198-42e3-8692-2acf464a2df1"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -473,10 +473,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--a4489ce5-372e-40bf-9570-c210eb231f31",
-            "created_by_ref": "identity--648be7c1-6e85-419d-8367-c5946b5f6220",
-            "created": "2022-07-01T15:09:34.001828Z",
-            "modified": "2022-07-01T15:09:34.001828Z",
+            "id": "attack-pattern--02bf5a5b-a729-4b8f-a5f0-f32eb84847b5",
+            "created_by_ref": "identity--e1808ce1-e611-4415-bd03-bf8991e7c4b7",
+            "created": "2022-07-01T16:05:00.205483Z",
+            "modified": "2022-07-01T16:05:00.205483Z",
             "name": "Develop New Narratives",
             "description": "TA14",
             "kill_chain_phases": [
@@ -493,7 +493,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--b8c56a84-39d3-4397-88e1-edbf8025ad8d"
+                "marking-definition--7be99fb4-bdd9-4790-8c51-fe7037eda837"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -506,10 +506,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--323b71ad-bae1-4870-aa53-15a4638cfeb7",
-            "created_by_ref": "identity--ac38cb4a-091d-4d17-ad3f-95b284e8e1f6",
-            "created": "2022-07-01T15:09:34.002289Z",
-            "modified": "2022-07-01T15:09:34.002289Z",
+            "id": "attack-pattern--7158e69a-f624-4420-9f01-346ea036c7ca",
+            "created_by_ref": "identity--4071f46a-cc3e-422a-ab5d-997b0cdede74",
+            "created": "2022-07-01T16:05:00.205953Z",
+            "modified": "2022-07-01T16:05:00.205953Z",
             "name": "Integrate Target Audience Vulnerabilities into Narrative",
             "description": "TA14",
             "kill_chain_phases": [
@@ -526,7 +526,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--3b5703b7-fe7c-4e60-b744-082826759944"
+                "marking-definition--18546688-7411-4c7e-8b94-54e2bd61c8f8"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -539,10 +539,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--59013040-fb2c-483a-b82c-a92b68348312",
-            "created_by_ref": "identity--831370e1-d1ed-4822-9546-ce45a294d2c5",
-            "created": "2022-07-01T15:09:34.002752Z",
-            "modified": "2022-07-01T15:09:34.002752Z",
+            "id": "attack-pattern--814096ed-4230-423c-aeae-aefed4098470",
+            "created_by_ref": "identity--a6b04c7c-a0e2-4239-8f92-2c9a4d4d0d75",
+            "created": "2022-07-01T16:05:00.206414Z",
+            "modified": "2022-07-01T16:05:00.206414Z",
             "name": "Reuse Existing Content",
             "description": "TA06",
             "kill_chain_phases": [
@@ -559,7 +559,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--bdcac3af-6dbe-4c1e-b164-21ffcd096411"
+                "marking-definition--9c06acf8-3b23-46b8-a4b9-63b3f5cf70b9"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -572,10 +572,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--cef62e02-dea4-42db-b32e-6aa9d4443168",
-            "created_by_ref": "identity--d2e51796-4e28-4e08-8397-904dba2878f2",
-            "created": "2022-07-01T15:09:34.003213Z",
-            "modified": "2022-07-01T15:09:34.003213Z",
+            "id": "attack-pattern--afe1408b-b8ed-4516-8647-9c7553b5fed5",
+            "created_by_ref": "identity--3eee8fe3-c7da-440c-b196-74f40ae759dd",
+            "created": "2022-07-01T16:05:00.206877Z",
+            "modified": "2022-07-01T16:05:00.206877Z",
             "name": "Develop Text-based Content",
             "description": "TA06",
             "kill_chain_phases": [
@@ -592,7 +592,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--c0a7cd93-a5c5-4c67-a629-6052dd0a9935"
+                "marking-definition--5ef0569d-e041-4a0b-b0b2-8510c0811b16"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -605,10 +605,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--f12646b1-db00-4294-a8ec-4a3172b042fa",
-            "created_by_ref": "identity--d465a3c4-4a9f-4a8d-b278-3945843e0ff1",
-            "created": "2022-07-01T15:09:34.00368Z",
-            "modified": "2022-07-01T15:09:34.00368Z",
+            "id": "attack-pattern--77154c1f-4ccf-4761-8fbb-23f38b9505d3",
+            "created_by_ref": "identity--2f385415-f38c-419b-a542-f6892050f798",
+            "created": "2022-07-01T16:05:00.207342Z",
+            "modified": "2022-07-01T16:05:00.207342Z",
             "name": "Develop Image-based Content",
             "description": "TA06",
             "kill_chain_phases": [
@@ -625,7 +625,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--854ed288-1e16-4b6d-8901-09c3334a342b"
+                "marking-definition--fa1a0325-781f-494a-a112-5e14420c96d4"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -638,10 +638,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--57f747fb-5c05-4c80-97e4-475bcdbc8c01",
-            "created_by_ref": "identity--34e57dc9-627f-4e6a-b64a-6c63a2ccad48",
-            "created": "2022-07-01T15:09:34.004138Z",
-            "modified": "2022-07-01T15:09:34.004138Z",
+            "id": "attack-pattern--3603b5e0-1856-4f71-a881-eb05b6cd0189",
+            "created_by_ref": "identity--f6b44bd0-1658-456c-a99e-c17627d3b3de",
+            "created": "2022-07-01T16:05:00.207803Z",
+            "modified": "2022-07-01T16:05:00.207803Z",
             "name": "Develop Video-based Content",
             "description": "TA06",
             "kill_chain_phases": [
@@ -658,7 +658,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--e33fe6f0-4e52-4b69-ac41-c5e565631d11"
+                "marking-definition--3642d094-7b4e-4f7c-98f7-ab2ab911c0c0"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -671,10 +671,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--d0593d81-1e94-4018-b899-3bf946b81830",
-            "created_by_ref": "identity--5ef9a9b2-b4ed-4832-99b2-f0d363aa524b",
-            "created": "2022-07-01T15:09:34.004605Z",
-            "modified": "2022-07-01T15:09:34.004605Z",
+            "id": "attack-pattern--b090ed75-239e-4e7f-bc0a-03a2d877c04d",
+            "created_by_ref": "identity--1548d07f-d6d0-474d-8060-c124e4189ab3",
+            "created": "2022-07-01T16:05:00.208269Z",
+            "modified": "2022-07-01T16:05:00.208269Z",
             "name": "Develop Audio-based Content",
             "description": "TA06",
             "kill_chain_phases": [
@@ -691,7 +691,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--9e20cff3-54a7-4593-8f99-0da042ff31e1"
+                "marking-definition--2a7b4ba4-33d9-47f7-a404-9c2d1880000c"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -704,10 +704,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--57ec1fb1-ccdc-44fc-881d-fdd93ee5986d",
-            "created_by_ref": "identity--cc5db8f7-3b21-4a63-aafd-c295a63a5838",
-            "created": "2022-07-01T15:09:34.005062Z",
-            "modified": "2022-07-01T15:09:34.005062Z",
+            "id": "attack-pattern--0ba448cf-ff5c-4cb4-8560-efbad647c821",
+            "created_by_ref": "identity--24a9c998-6aa2-4da5-9158-70960bccff58",
+            "created": "2022-07-01T16:05:00.208729Z",
+            "modified": "2022-07-01T16:05:00.208729Z",
             "name": "Obtain Private Documents",
             "description": "TA06",
             "kill_chain_phases": [
@@ -724,7 +724,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--a2593bdc-f118-40ea-8a40-3c84f7995636"
+                "marking-definition--466e52c9-b420-4093-b608-408e123cecba"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -737,10 +737,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--05a6da47-2235-401a-b24e-4088b24bf36b",
-            "created_by_ref": "identity--38a94e7c-bec8-4a7b-9df3-ac3db42952a0",
-            "created": "2022-07-01T15:09:34.005521Z",
-            "modified": "2022-07-01T15:09:34.005521Z",
+            "id": "attack-pattern--75dd312d-da98-4d9f-a3ad-5583725bb4f7",
+            "created_by_ref": "identity--28ebecfd-bc31-4e97-9176-b811f6b0deb2",
+            "created": "2022-07-01T16:05:00.209183Z",
+            "modified": "2022-07-01T16:05:00.209183Z",
             "name": "Create Inauthentic Accounts",
             "description": "TA15",
             "kill_chain_phases": [
@@ -757,7 +757,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--8d023c91-e0d9-40c1-aa17-096b25d5990e"
+                "marking-definition--50bf588f-a776-41aa-b307-b39c5fcaca1e"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -770,10 +770,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--d20ed510-5c33-4c4a-b61e-5160b888d157",
-            "created_by_ref": "identity--64ecbdcf-7055-41bb-85cf-4982a8b14d26",
-            "created": "2022-07-01T15:09:34.005982Z",
-            "modified": "2022-07-01T15:09:34.005982Z",
+            "id": "attack-pattern--f0cb1cf5-a116-4864-9e68-3633108c20f1",
+            "created_by_ref": "identity--3fa20da9-fe4f-4303-8c40-23f10b45f585",
+            "created": "2022-07-01T16:05:00.209638Z",
+            "modified": "2022-07-01T16:05:00.209638Z",
             "name": "Recruit bad actors",
             "description": "TA15",
             "kill_chain_phases": [
@@ -790,7 +790,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--3c1cee84-0437-437a-be26-42fc12930df7"
+                "marking-definition--0ad0353a-240e-46a3-bd7a-f417dcc4d77b"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -803,10 +803,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--eee868bd-bbdb-429e-a84d-afbc24763ea2",
-            "created_by_ref": "identity--f2ac71c3-80e2-4fac-980d-3c1d0aee15b2",
-            "created": "2022-07-01T15:09:34.006443Z",
-            "modified": "2022-07-01T15:09:34.006443Z",
+            "id": "attack-pattern--7df902ac-f5e9-4f9d-9f8b-32d34ca0006a",
+            "created_by_ref": "identity--57d807dc-c41b-41e9-bc10-ba6ac3046b76",
+            "created": "2022-07-01T16:05:00.210097Z",
+            "modified": "2022-07-01T16:05:00.210097Z",
             "name": "Build Network",
             "description": "TA15",
             "kill_chain_phases": [
@@ -823,7 +823,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--cecc40fc-f90e-4f4e-b6ad-ba974536297f"
+                "marking-definition--9331cbf1-18c4-44f3-829d-e653264d22c8"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -836,10 +836,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--1d5ad603-ee9a-4629-ad3b-45100ed2b879",
-            "created_by_ref": "identity--639861e1-adce-4f42-8d63-61180970c85b",
-            "created": "2022-07-01T15:09:34.006908Z",
-            "modified": "2022-07-01T15:09:34.006908Z",
+            "id": "attack-pattern--28cebd13-59fa-4b36-826a-e156f0f050ec",
+            "created_by_ref": "identity--97d1c1ff-608d-4d64-8d2c-e33125fee538",
+            "created": "2022-07-01T16:05:00.210556Z",
+            "modified": "2022-07-01T16:05:00.210556Z",
             "name": "Acquire/ recruit Network",
             "description": "TA15",
             "kill_chain_phases": [
@@ -856,7 +856,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--0d863899-4dab-468d-a7c6-0720c2e4751a"
+                "marking-definition--3153b819-8e84-446b-8bd7-c3c7a86ec05e"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -869,10 +869,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--865ca488-9240-4da1-b285-76f0286204f6",
-            "created_by_ref": "identity--c0461ae5-0cf6-44af-89f0-ecd8d4d96a98",
-            "created": "2022-07-01T15:09:34.007373Z",
-            "modified": "2022-07-01T15:09:34.007373Z",
+            "id": "attack-pattern--83a67b30-a94a-4c80-bde2-daa416e9c413",
+            "created_by_ref": "identity--5f7b659e-7578-4790-9c7d-d3601717c9f1",
+            "created": "2022-07-01T16:05:00.211013Z",
+            "modified": "2022-07-01T16:05:00.211013Z",
             "name": "Infiltrate Existing Networks",
             "description": "TA15",
             "kill_chain_phases": [
@@ -889,7 +889,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--e4a9a4ff-b859-4238-876b-93440fb5d3c7"
+                "marking-definition--d6d574ec-ab0e-4cc7-bc3d-90284b62ab58"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -902,10 +902,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--c720f286-dc43-4db8-afbb-3ffcf3ca4c5c",
-            "created_by_ref": "identity--2d412a24-912f-4cfa-a637-b44b3abc960d",
-            "created": "2022-07-01T15:09:34.007839Z",
-            "modified": "2022-07-01T15:09:34.007839Z",
+            "id": "attack-pattern--9ef212fa-30ab-40ba-94bc-64741e332f18",
+            "created_by_ref": "identity--e90832fe-7b12-45b3-9122-f703865e116e",
+            "created": "2022-07-01T16:05:00.211472Z",
+            "modified": "2022-07-01T16:05:00.211472Z",
             "name": "Develop Owned Media Assets",
             "description": "TA15",
             "kill_chain_phases": [
@@ -922,7 +922,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--32b63588-eb04-4d5d-ad5b-a2e6a57a2e02"
+                "marking-definition--10af46ed-c108-4990-9c7c-f3b745f54bb2"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -935,10 +935,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--1a00bbb8-51dc-4b91-93fd-8bb63dbbb819",
-            "created_by_ref": "identity--87986263-d634-48e4-b0c0-7e6832001da0",
-            "created": "2022-07-01T15:09:34.008306Z",
-            "modified": "2022-07-01T15:09:34.008306Z",
+            "id": "attack-pattern--774851c4-6eb5-45ca-bdb9-0d0e64f8799a",
+            "created_by_ref": "identity--6bc6a701-1d15-407e-9db5-8db376a236b1",
+            "created": "2022-07-01T16:05:00.211936Z",
+            "modified": "2022-07-01T16:05:00.211936Z",
             "name": "Leverage Content Farm",
             "description": "TA15",
             "kill_chain_phases": [
@@ -955,7 +955,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--338e7e04-9cfc-4306-841e-e1b5481f4d77"
+                "marking-definition--ea52cf90-c086-4b56-9b74-1a2482782abc"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -968,10 +968,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--11fed456-7cd1-4122-bd6a-52396576dd06",
-            "created_by_ref": "identity--695220b1-3b6d-464b-8bb3-f8861a6e90a3",
-            "created": "2022-07-01T15:09:34.00876Z",
-            "modified": "2022-07-01T15:09:34.00876Z",
+            "id": "attack-pattern--daa4412e-3478-4d56-950a-5255d48e633d",
+            "created_by_ref": "identity--7353d218-6bcf-44f6-a42b-221cc99d5d92",
+            "created": "2022-07-01T16:05:00.212397Z",
+            "modified": "2022-07-01T16:05:00.212397Z",
             "name": "Create personas",
             "description": "TA16",
             "kill_chain_phases": [
@@ -988,7 +988,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--95d80233-c714-4e16-b521-f0b24706b597"
+                "marking-definition--efd02da9-adad-4820-8417-e51447e1db3a"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1001,10 +1001,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--4eefd241-9631-4211-9763-bcfc0035b1b6",
-            "created_by_ref": "identity--2176c564-05e1-48d8-be75-479d27b19672",
-            "created": "2022-07-01T15:09:34.009218Z",
-            "modified": "2022-07-01T15:09:34.009218Z",
+            "id": "attack-pattern--0e042aaa-f694-40c7-90a7-ae346b901afe",
+            "created_by_ref": "identity--2c3314a0-bee9-452b-8de3-9aa709fbb5fa",
+            "created": "2022-07-01T16:05:00.212852Z",
+            "modified": "2022-07-01T16:05:00.212852Z",
             "name": "Establish Inauthentic News Sites",
             "description": "TA16",
             "kill_chain_phases": [
@@ -1021,7 +1021,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--9f93b2f7-1188-42ec-916a-ed632a645155"
+                "marking-definition--8c7317f2-7cbd-41ac-89f7-21544705b598"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1034,10 +1034,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--430de0d1-00d3-41c7-83df-35a066ef9177",
-            "created_by_ref": "identity--c87e7a09-d322-45fe-b988-efebadb57e89",
-            "created": "2022-07-01T15:09:34.00968Z",
-            "modified": "2022-07-01T15:09:34.00968Z",
+            "id": "attack-pattern--b215dbb7-d185-4f82-b78a-5d0be6b14865",
+            "created_by_ref": "identity--123e0e60-76a0-4fff-a084-3cb12e58a4d6",
+            "created": "2022-07-01T16:05:00.213313Z",
+            "modified": "2022-07-01T16:05:00.213313Z",
             "name": "Prepare Assets Impersonating Legitimate Entities",
             "description": "TA16",
             "kill_chain_phases": [
@@ -1054,7 +1054,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--344e5969-b928-48db-b244-3e7ac605f85f"
+                "marking-definition--bce6462f-06a0-4779-bd0d-9c72ee344faa"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1067,10 +1067,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--04cbf1bd-1fb8-476b-8ce0-c630c6bd3cc3",
-            "created_by_ref": "identity--920bcca8-8469-4f6c-bdcf-9ad49ab7a632",
-            "created": "2022-07-01T15:09:34.010139Z",
-            "modified": "2022-07-01T15:09:34.010139Z",
+            "id": "attack-pattern--72e67bd7-dc68-4f56-92e2-ebede4fcb232",
+            "created_by_ref": "identity--ccdd9307-c979-44f4-9e25-2ead07ca1a52",
+            "created": "2022-07-01T16:05:00.21377Z",
+            "modified": "2022-07-01T16:05:00.21377Z",
             "name": "Co-opt Trusted Sources",
             "description": "TA16",
             "kill_chain_phases": [
@@ -1087,7 +1087,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--d2aedb1a-7db1-457b-980b-d8c03720d481"
+                "marking-definition--2b9ceb7a-42e7-4101-be20-7c1d0a567436"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1100,10 +1100,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--99f7029c-a9fb-4296-9c9f-529004b62a0d",
-            "created_by_ref": "identity--b1440ca5-e8b9-45bf-ba29-9c97590da595",
-            "created": "2022-07-01T15:09:34.010597Z",
-            "modified": "2022-07-01T15:09:34.010597Z",
+            "id": "attack-pattern--e480ddb1-ed23-4ccd-8d1f-5a55672ec535",
+            "created_by_ref": "identity--2a26580f-7869-4517-b81f-564b9208e5e4",
+            "created": "2022-07-01T16:05:00.214229Z",
+            "modified": "2022-07-01T16:05:00.214229Z",
             "name": "Create Localized Content",
             "description": "TA05",
             "kill_chain_phases": [
@@ -1120,7 +1120,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--ec2190df-7db3-426e-b696-4cc8a37ed1f9"
+                "marking-definition--c609fcf6-666e-4ebd-9e4e-569888e996c7"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1133,10 +1133,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--2daa9dcc-c491-4f66-809a-bcb1937a5c33",
-            "created_by_ref": "identity--6516a3c2-efb9-4ee1-8024-b5c5ccd89a67",
-            "created": "2022-07-01T15:09:34.011055Z",
-            "modified": "2022-07-01T15:09:34.011055Z",
+            "id": "attack-pattern--237612eb-fed6-46d5-acb5-c4e8be35efe0",
+            "created_by_ref": "identity--09796a62-fa17-4b45-a0af-a53538e03640",
+            "created": "2022-07-01T16:05:00.214686Z",
+            "modified": "2022-07-01T16:05:00.214686Z",
             "name": "Leverage Echo Chambers/Filter Bubbles",
             "description": "TA05",
             "kill_chain_phases": [
@@ -1153,7 +1153,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--4d17caf0-c94a-4211-b6ff-52aca9fe8e5f"
+                "marking-definition--2725b115-8647-4471-8e99-d6f53547560d"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1166,10 +1166,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--6ebdaa6c-d052-4ac8-8f7a-5f8e8fab0b8b",
-            "created_by_ref": "identity--2841f0cc-d09c-4ef0-a478-fe1321f8c6f0",
-            "created": "2022-07-01T15:09:34.011517Z",
-            "modified": "2022-07-01T15:09:34.011517Z",
+            "id": "attack-pattern--f7061101-37d8-47f9-9d26-28023c6c75cd",
+            "created_by_ref": "identity--37c26395-cd89-4a5d-9c93-33251c88ebd9",
+            "created": "2022-07-01T16:05:00.215143Z",
+            "modified": "2022-07-01T16:05:00.215143Z",
             "name": "Livestream",
             "description": "TA07",
             "kill_chain_phases": [
@@ -1186,7 +1186,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--3d27c271-0297-483e-b595-7b2d1ffb0f35"
+                "marking-definition--f698d239-ad1f-4e7d-8cf6-fe7e27fc9598"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1199,10 +1199,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--c5ee499b-d713-4676-a367-cfa0506a2529",
-            "created_by_ref": "identity--252eb57a-ad82-4db5-8acd-ac9b1bf5af5e",
-            "created": "2022-07-01T15:09:34.011974Z",
-            "modified": "2022-07-01T15:09:34.011974Z",
+            "id": "attack-pattern--3880250f-517c-4f9d-b92f-3ccd5a23f966",
+            "created_by_ref": "identity--1830f010-7b82-4f83-8425-370382b557c4",
+            "created": "2022-07-01T16:05:00.215596Z",
+            "modified": "2022-07-01T16:05:00.215596Z",
             "name": "Social Networks",
             "description": "TA07",
             "kill_chain_phases": [
@@ -1219,7 +1219,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--e8e06033-54c3-42a3-8740-4bcddd6a9c2c"
+                "marking-definition--b494c914-0dd8-4b62-9c6c-91c3ef14dc7c"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1232,10 +1232,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--764d2ff5-b708-45b3-8372-24d0476e6c78",
-            "created_by_ref": "identity--51cabca2-3ada-4260-b4f2-391d3571fd0c",
-            "created": "2022-07-01T15:09:34.012431Z",
-            "modified": "2022-07-01T15:09:34.012431Z",
+            "id": "attack-pattern--d685a764-1919-42e3-beca-98f13f01be4c",
+            "created_by_ref": "identity--93653ce1-9137-4ee3-b32e-6457e14c6317",
+            "created": "2022-07-01T16:05:00.216053Z",
+            "modified": "2022-07-01T16:05:00.216053Z",
             "name": "Media Sharing Networks",
             "description": "TA07",
             "kill_chain_phases": [
@@ -1252,7 +1252,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--dd996741-324e-4cb9-aab6-1c26140355cc"
+                "marking-definition--fd951bb4-a89e-4fc0-a91a-4bce97462728"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1265,10 +1265,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--4131cf5f-5401-4c02-a76c-10a7d2624757",
-            "created_by_ref": "identity--08d544a1-f544-4d0d-ad71-0e2ecc54189c",
-            "created": "2022-07-01T15:09:34.01292Z",
-            "modified": "2022-07-01T15:09:34.01292Z",
+            "id": "attack-pattern--8b4ec2a3-8454-4619-bde7-ea34d795fd6f",
+            "created_by_ref": "identity--54e2754b-d637-49e3-8b04-fffdc6ce253a",
+            "created": "2022-07-01T16:05:00.216544Z",
+            "modified": "2022-07-01T16:05:00.216544Z",
             "name": "Discussion Forums",
             "description": "TA07",
             "kill_chain_phases": [
@@ -1285,7 +1285,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--22ca743a-b107-40dd-9baa-1794fcfdc0bd"
+                "marking-definition--18b0f9ec-e37f-4895-86d2-d14c09b5380a"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1298,10 +1298,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--ee69667b-3f40-441d-93a3-3f895215aa2f",
-            "created_by_ref": "identity--a67ca887-a172-40b5-a567-9743c2d2890b",
-            "created": "2022-07-01T15:09:34.013381Z",
-            "modified": "2022-07-01T15:09:34.013381Z",
+            "id": "attack-pattern--72258f50-8372-4c8f-9f4d-e785d4176f97",
+            "created_by_ref": "identity--ae8feac8-1c51-4c78-97aa-31d1367541e9",
+            "created": "2022-07-01T16:05:00.217001Z",
+            "modified": "2022-07-01T16:05:00.217001Z",
             "name": "Bookmarking and Content Curation",
             "description": "TA07",
             "kill_chain_phases": [
@@ -1318,7 +1318,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--494d3906-617a-42fb-a54d-cb246ec5381c"
+                "marking-definition--58a7b0a5-f94b-4093-a4eb-7f8cc50b505f"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1331,10 +1331,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--f03ce00e-16e6-4839-818c-59b3f63e6d15",
-            "created_by_ref": "identity--28e3f198-e2a4-4311-bb15-d8520c6e2ea3",
-            "created": "2022-07-01T15:09:34.013841Z",
-            "modified": "2022-07-01T15:09:34.013841Z",
+            "id": "attack-pattern--23761bf7-50e8-424e-92aa-01615b3c9502",
+            "created_by_ref": "identity--8536bb50-d77c-4111-8606-a9064df5bdf6",
+            "created": "2022-07-01T16:05:00.217461Z",
+            "modified": "2022-07-01T16:05:00.217461Z",
             "name": "Blogging and Publishing Networks",
             "description": "TA07",
             "kill_chain_phases": [
@@ -1351,7 +1351,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--34eb176f-d0de-4860-ae0a-42ebc2bbee5a"
+                "marking-definition--e5a44435-1f99-4afe-a9aa-d8692eb74eed"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1364,10 +1364,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--ad337233-4cec-474c-9a09-5d636fd2bc0f",
-            "created_by_ref": "identity--1eb33009-d1c4-4377-ac46-826af6cd0cd9",
-            "created": "2022-07-01T15:09:34.014299Z",
-            "modified": "2022-07-01T15:09:34.014299Z",
+            "id": "attack-pattern--350eec0a-198f-40c4-9cf2-ccb51bc50129",
+            "created_by_ref": "identity--783fb042-b4d0-4609-9e7e-96a65fd3ecc6",
+            "created": "2022-07-01T16:05:00.21793Z",
+            "modified": "2022-07-01T16:05:00.21793Z",
             "name": "Consumer Review Networks",
             "description": "TA07",
             "kill_chain_phases": [
@@ -1384,7 +1384,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--23f80486-bbf4-4364-89d5-a2feece00db9"
+                "marking-definition--ba839301-5720-43d1-8ddb-84c99e46bce1"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1397,10 +1397,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--baee7728-0a45-4f14-bec1-46a2d36c6460",
-            "created_by_ref": "identity--8090c6b9-373d-4a62-9565-f7756d8a97c9",
-            "created": "2022-07-01T15:09:34.014761Z",
-            "modified": "2022-07-01T15:09:34.014761Z",
+            "id": "attack-pattern--3cd3b98e-4ccd-436c-9887-752e6a2fd8b2",
+            "created_by_ref": "identity--184f68f7-80a4-4776-af10-42a06a4e7f41",
+            "created": "2022-07-01T16:05:00.218387Z",
+            "modified": "2022-07-01T16:05:00.218387Z",
             "name": "Formal Diplomatic Channels",
             "description": "TA07",
             "kill_chain_phases": [
@@ -1417,7 +1417,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--663dc652-d08f-4923-81e3-5d8f80511963"
+                "marking-definition--9c5f1c4c-4e61-4eb0-aee4-d47c6a766694"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1430,10 +1430,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--21d6bd0b-3c28-429e-bfd6-89780f45a15a",
-            "created_by_ref": "identity--e214f35f-aaf3-4f23-a9d0-254301384813",
-            "created": "2022-07-01T15:09:34.015226Z",
-            "modified": "2022-07-01T15:09:34.015226Z",
+            "id": "attack-pattern--d72c7811-6a09-4512-a070-5ccbde36c49f",
+            "created_by_ref": "identity--c405eed7-4581-46f7-85b4-1983105c5af4",
+            "created": "2022-07-01T16:05:00.218847Z",
+            "modified": "2022-07-01T16:05:00.218847Z",
             "name": "Traditional Media",
             "description": "TA07",
             "kill_chain_phases": [
@@ -1450,7 +1450,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--927bd96f-6b8d-4fd4-983d-38a7b3a95024"
+                "marking-definition--aaf45365-74a8-4e7f-92c9-4a16e160e129"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1463,10 +1463,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--8403e5cc-95d8-4ff9-a282-bfa416200d6d",
-            "created_by_ref": "identity--499a3aac-2387-4099-be45-f3d4d641a726",
-            "created": "2022-07-01T15:09:34.015684Z",
-            "modified": "2022-07-01T15:09:34.015684Z",
+            "id": "attack-pattern--52a4863e-c562-4e21-9811-b0651ea85046",
+            "created_by_ref": "identity--55adca39-2785-4718-9722-ec7a1ba01b08",
+            "created": "2022-07-01T16:05:00.219303Z",
+            "modified": "2022-07-01T16:05:00.219303Z",
             "name": "Email",
             "description": "TA07",
             "kill_chain_phases": [
@@ -1483,7 +1483,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--9bbcc1fd-d176-4fba-9d7d-8116c57978f1"
+                "marking-definition--a3cb917a-8ab0-49f3-ab0f-bac366bcebcb"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1496,10 +1496,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--374c01a9-698d-4a67-a3e3-05d47d6b6167",
-            "created_by_ref": "identity--4429f1f3-6a88-4150-9c23-23029768f2a0",
-            "created": "2022-07-01T15:09:34.01614Z",
-            "modified": "2022-07-01T15:09:34.01614Z",
+            "id": "attack-pattern--c8556bd2-70a2-47ce-8ed5-e1b278424c9b",
+            "created_by_ref": "identity--14b7f014-bdf3-4b3e-a236-5e5e90b3dac1",
+            "created": "2022-07-01T16:05:00.21976Z",
+            "modified": "2022-07-01T16:05:00.21976Z",
             "name": "Employ Commercial Analytic Firms",
             "description": "TA08",
             "kill_chain_phases": [
@@ -1516,7 +1516,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--1f25ea9b-ad86-4560-ba68-c715aeae1079"
+                "marking-definition--2d96daa8-7c2f-49b0-913d-afbf64cb4769"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1529,10 +1529,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--02e64035-4522-436a-b271-2fc4765f8a58",
-            "created_by_ref": "identity--1d7f6c54-f6d7-4b53-ab12-c489ebcf7509",
-            "created": "2022-07-01T15:09:34.016595Z",
-            "modified": "2022-07-01T15:09:34.016595Z",
+            "id": "attack-pattern--1d447f51-e894-419d-b227-150fdd2c23d4",
+            "created_by_ref": "identity--e8e509b6-fe99-4532-9981-897bd5490566",
+            "created": "2022-07-01T16:05:00.220216Z",
+            "modified": "2022-07-01T16:05:00.220216Z",
             "name": "Deliver Ads",
             "description": "TA09",
             "kill_chain_phases": [
@@ -1549,7 +1549,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--e0dbcc91-b0ed-454f-9275-3b055e042f1b"
+                "marking-definition--f7cf951e-767f-40c7-aa86-b3c999133133"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1562,10 +1562,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--ceb305bd-4cca-419f-9d9d-a29a4d211920",
-            "created_by_ref": "identity--495f0ad4-dc57-498c-a75b-75efe2b1a5e1",
-            "created": "2022-07-01T15:09:34.017051Z",
-            "modified": "2022-07-01T15:09:34.017051Z",
+            "id": "attack-pattern--dd3ee934-a354-4d93-b6b4-82e2c9fd24e0",
+            "created_by_ref": "identity--3545ed42-1689-4253-a766-0b35dcdf84b9",
+            "created": "2022-07-01T16:05:00.22067Z",
+            "modified": "2022-07-01T16:05:00.22067Z",
             "name": "Post Content",
             "description": "TA09",
             "kill_chain_phases": [
@@ -1582,7 +1582,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--0911ab47-474f-4bae-ab5e-ae87f577478b"
+                "marking-definition--309f49d0-849b-474f-8de9-721b02d197e2"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1595,10 +1595,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--0a20acc3-68fc-48f1-b3e9-ac7cafd0e379",
-            "created_by_ref": "identity--04f8ef53-998c-48de-bfaa-d8d16542face",
-            "created": "2022-07-01T15:09:34.017513Z",
-            "modified": "2022-07-01T15:09:34.017513Z",
+            "id": "attack-pattern--1378a804-9028-4ee9-9e91-19b5e75c2acd",
+            "created_by_ref": "identity--92c002b8-08dd-4d92-b670-ac62342b3c5a",
+            "created": "2022-07-01T16:05:00.221123Z",
+            "modified": "2022-07-01T16:05:00.221123Z",
             "name": "Comment or Reply on Content",
             "description": "TA09",
             "kill_chain_phases": [
@@ -1615,7 +1615,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--5ab3f11e-5f5a-4e52-b05e-48f60adbc817"
+                "marking-definition--0d671d34-76db-4455-bd9d-80b13b69d762"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1628,10 +1628,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--dc1b5f54-4560-415c-84a3-26cef0f69b23",
-            "created_by_ref": "identity--eb730dd2-d2ed-4996-8cdb-61903f7d986a",
-            "created": "2022-07-01T15:09:34.017975Z",
-            "modified": "2022-07-01T15:09:34.017975Z",
+            "id": "attack-pattern--0c97cd17-3187-4681-bd24-1cad1e6a4245",
+            "created_by_ref": "identity--2d9bc59c-7c80-4b6f-84fc-c37b50e89a7e",
+            "created": "2022-07-01T16:05:00.22158Z",
+            "modified": "2022-07-01T16:05:00.22158Z",
             "name": "Attract Traditional Media",
             "description": "TA09",
             "kill_chain_phases": [
@@ -1648,7 +1648,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--e0d1c154-df85-4c3e-9d73-48d202ebd526"
+                "marking-definition--c1d2aa04-525a-43a2-b89e-5ebedf6ae79d"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1661,10 +1661,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--79264399-df90-41a5-999b-f8e2b0921eb7",
-            "created_by_ref": "identity--2daf2dc5-32e9-43ed-bf87-267a0fc7159c",
-            "created": "2022-07-01T15:09:34.018435Z",
-            "modified": "2022-07-01T15:09:34.018435Z",
+            "id": "attack-pattern--b167dda9-23a0-4dc9-aee0-f82d0f2634c3",
+            "created_by_ref": "identity--4887a050-49f5-41d8-a2c0-960d10d3499b",
+            "created": "2022-07-01T16:05:00.222039Z",
+            "modified": "2022-07-01T16:05:00.222039Z",
             "name": "Amplify Existing Narrative",
             "description": "TA17",
             "kill_chain_phases": [
@@ -1681,7 +1681,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--13c1ff9b-7145-4a61-850a-097e61a0e715"
+                "marking-definition--518ee6c9-1809-479c-9873-cbdead4d2419"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1694,10 +1694,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--795db6be-c04c-40af-96ae-3d6c90b47a4c",
-            "created_by_ref": "identity--1552fcde-4016-40e1-a322-dd64c7f30e95",
-            "created": "2022-07-01T15:09:34.018894Z",
-            "modified": "2022-07-01T15:09:34.018894Z",
+            "id": "attack-pattern--eea596a5-2121-439a-ac07-e48c3c439d1b",
+            "created_by_ref": "identity--c3413ab0-9def-4cb2-adc6-45a8ed93e5f7",
+            "created": "2022-07-01T16:05:00.222505Z",
+            "modified": "2022-07-01T16:05:00.222505Z",
             "name": "Cross-Posting",
             "description": "TA17",
             "kill_chain_phases": [
@@ -1714,7 +1714,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--87fcc179-b906-4511-ae97-b1bc3299bfa5"
+                "marking-definition--2d747a79-7bbd-4ea9-967b-f111525725bd"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1727,10 +1727,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--5e8f01b7-e9e4-41b9-8a0d-441fcc45cbc1",
-            "created_by_ref": "identity--c26bb11f-ee05-4436-8c06-27ae8b4d729c",
-            "created": "2022-07-01T15:09:34.019349Z",
-            "modified": "2022-07-01T15:09:34.019349Z",
+            "id": "attack-pattern--501b8ccc-e5de-4cb2-b1a1-b95891847fe9",
+            "created_by_ref": "identity--bee5b756-51aa-4c33-8dad-8fb215d0289c",
+            "created": "2022-07-01T16:05:00.222955Z",
+            "modified": "2022-07-01T16:05:00.222955Z",
             "name": "Incentivize Sharing",
             "description": "TA17",
             "kill_chain_phases": [
@@ -1747,7 +1747,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--3b01d40c-2937-4dc3-82f9-1cf1afb6b085"
+                "marking-definition--0e9f6d64-9cca-44f0-9c3e-401d1a34902d"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1760,10 +1760,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--65645682-a973-4f61-83de-b3d9aee82f44",
-            "created_by_ref": "identity--1f4246ae-a718-496b-906e-b44b60f224fc",
-            "created": "2022-07-01T15:09:34.019812Z",
-            "modified": "2022-07-01T15:09:34.019812Z",
+            "id": "attack-pattern--d2674c62-fca3-489d-a20a-938d5d5d5d5a",
+            "created_by_ref": "identity--182f2ce4-8a75-45ae-a474-0edc801a120d",
+            "created": "2022-07-01T16:05:00.223411Z",
+            "modified": "2022-07-01T16:05:00.223411Z",
             "name": "Manipulate Platform Algorithm",
             "description": "TA17",
             "kill_chain_phases": [
@@ -1780,7 +1780,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--05c453bf-a89b-4102-8e8b-e1fb68d0e345"
+                "marking-definition--c487cc0d-c366-4626-9f80-6a093863feac"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1793,10 +1793,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--b6394d57-b621-4f77-be03-ec59729c7d85",
-            "created_by_ref": "identity--deeb81d7-255d-4293-8ecf-e3214fdfce1e",
-            "created": "2022-07-01T15:09:34.020264Z",
-            "modified": "2022-07-01T15:09:34.020264Z",
+            "id": "attack-pattern--67bdf5a4-0c8d-4955-86bc-51b6b1cf3c4f",
+            "created_by_ref": "identity--4046b416-94dd-4344-a44c-4a9a381d3978",
+            "created": "2022-07-01T16:05:00.223869Z",
+            "modified": "2022-07-01T16:05:00.223869Z",
             "name": "Direct Users to Alternative Platforms",
             "description": "TA17",
             "kill_chain_phases": [
@@ -1813,7 +1813,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--f287bf15-dd59-4669-ba1f-4863c2e40747"
+                "marking-definition--8b396d89-2c32-4a8b-baa9-4417f724a465"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1826,10 +1826,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--d2adee5c-c91c-49b1-9076-62e46a2da37a",
-            "created_by_ref": "identity--08fb5588-e52b-4022-89be-938120e93126",
-            "created": "2022-07-01T15:09:34.020723Z",
-            "modified": "2022-07-01T15:09:34.020723Z",
+            "id": "attack-pattern--7a09a345-3038-4f79-9728-2efd62259c3e",
+            "created_by_ref": "identity--30ad6d7d-e57e-4dd3-b233-39ade2c9515a",
+            "created": "2022-07-01T16:05:00.224321Z",
+            "modified": "2022-07-01T16:05:00.224321Z",
             "name": "Control Information Environment through Offensive Cyberspace Operations",
             "description": "TA18",
             "kill_chain_phases": [
@@ -1846,7 +1846,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--d548ec53-2bbc-458a-be73-d00ca3209eb4"
+                "marking-definition--c2178044-7df5-4943-85e5-9b7496a636af"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1859,10 +1859,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--f181369b-7552-4620-ac3e-fe84636b4689",
-            "created_by_ref": "identity--7d680e67-3999-4ae5-82de-3e8f8f5ed1ab",
-            "created": "2022-07-01T15:09:34.021301Z",
-            "modified": "2022-07-01T15:09:34.021301Z",
+            "id": "attack-pattern--24f5a1af-92aa-4302-8585-80e8bc46042e",
+            "created_by_ref": "identity--4ce6fd23-d704-42ff-8138-428ffa8e5c65",
+            "created": "2022-07-01T16:05:00.224784Z",
+            "modified": "2022-07-01T16:05:00.224784Z",
             "name": "Suppress Opposition",
             "description": "TA18",
             "kill_chain_phases": [
@@ -1879,7 +1879,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--79d27a94-8480-4623-8530-a4fcbd860f1c"
+                "marking-definition--ac748225-bbd2-4ae6-8963-e2dfa7a817bd"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1892,10 +1892,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--7ab812a1-072b-4b7c-9b54-acccc20f6503",
-            "created_by_ref": "identity--47c2775e-1616-4ac0-9505-43194525fe7a",
-            "created": "2022-07-01T15:09:34.021777Z",
-            "modified": "2022-07-01T15:09:34.021777Z",
+            "id": "attack-pattern--dfece534-85da-42d3-a4c9-8d2b00fece29",
+            "created_by_ref": "identity--357eaf95-83d9-41f2-b0c7-07541b90e765",
+            "created": "2022-07-01T16:05:00.22524Z",
+            "modified": "2022-07-01T16:05:00.22524Z",
             "name": "Platform Filtering",
             "description": "TA18",
             "kill_chain_phases": [
@@ -1912,7 +1912,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--56b095c0-b8b8-4933-8f79-882a1903c070"
+                "marking-definition--4c805104-6341-4ccf-882b-008a12927d88"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1925,10 +1925,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--7f346e62-e802-400b-a9d7-87a7758f2c47",
-            "created_by_ref": "identity--791fc5a8-64fb-4acb-a645-c4951363fa1a",
-            "created": "2022-07-01T15:09:34.022241Z",
-            "modified": "2022-07-01T15:09:34.022241Z",
+            "id": "attack-pattern--8cddf9b7-013f-4de5-9c3a-f6e950d6c4b3",
+            "created_by_ref": "identity--c9e149b5-4395-4057-a35c-74f41d67fde7",
+            "created": "2022-07-01T16:05:00.225692Z",
+            "modified": "2022-07-01T16:05:00.225692Z",
             "name": "Encourage Attendance at Events",
             "description": "TA10",
             "kill_chain_phases": [
@@ -1945,7 +1945,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--2047e405-9d16-4b2e-b6e3-5e3a1e6e3791"
+                "marking-definition--5785b838-8cda-406a-baf7-88131423465a"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1958,10 +1958,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--bb82f4d0-b9c3-421f-8cae-039fcefc976a",
-            "created_by_ref": "identity--b3f3f593-de39-4ae2-a016-a508830e99ec",
-            "created": "2022-07-01T15:09:34.022703Z",
-            "modified": "2022-07-01T15:09:34.022703Z",
+            "id": "attack-pattern--7685bf12-5904-43b9-8457-7e7752b649b2",
+            "created_by_ref": "identity--b5c12a76-105a-42a2-ae37-5667bebb2110",
+            "created": "2022-07-01T16:05:00.226153Z",
+            "modified": "2022-07-01T16:05:00.226153Z",
             "name": "Physical Violence",
             "description": "TA10",
             "kill_chain_phases": [
@@ -1978,7 +1978,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--62fe6a75-cd91-4307-9254-84e4e2d2c639"
+                "marking-definition--67ba68f7-f485-4147-a8a3-c22611c268e5"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -1991,10 +1991,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--1d33b901-6dc3-4746-892e-7f49ee9d4e93",
-            "created_by_ref": "identity--f06a4179-a30e-4521-ad4a-30f7f4566575",
-            "created": "2022-07-01T15:09:34.023167Z",
-            "modified": "2022-07-01T15:09:34.023167Z",
+            "id": "attack-pattern--0be42e6d-cce5-4a35-a0bd-9657365b375a",
+            "created_by_ref": "identity--e3d033b8-4209-4dc1-8825-d822ebfbeaa2",
+            "created": "2022-07-01T16:05:00.226609Z",
+            "modified": "2022-07-01T16:05:00.226609Z",
             "name": "Exploit TOS/Content Moderation",
             "description": "TA11",
             "kill_chain_phases": [
@@ -2011,7 +2011,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--98fa4343-7273-4417-951a-5c2141070c36"
+                "marking-definition--a1bd5820-5bb7-4788-ba17-7923b502a198"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2024,10 +2024,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--bdfac7d0-cdec-4a5d-a0af-bf90dad918ae",
-            "created_by_ref": "identity--25a914b0-6e6f-4efc-83b7-1d792c349e6e",
-            "created": "2022-07-01T15:09:34.02363Z",
-            "modified": "2022-07-01T15:09:34.02363Z",
+            "id": "attack-pattern--67fd943f-0b1d-4da9-b8a0-a49193c12f91",
+            "created_by_ref": "identity--ff1a6e88-ab12-49d9-aa0f-870ee144c3eb",
+            "created": "2022-07-01T16:05:00.227066Z",
+            "modified": "2022-07-01T16:05:00.227066Z",
             "name": "Measure Performance",
             "description": "TA12",
             "kill_chain_phases": [
@@ -2044,7 +2044,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--bd37dd95-8b3f-409d-9cce-46e2f48ac100"
+                "marking-definition--d198c053-d219-4cd0-83bd-a9d0fadec52a"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2057,10 +2057,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--73604acb-0f8a-4126-8977-9dc1746847b3",
-            "created_by_ref": "identity--e2f87b55-048f-4d53-83a4-b0598fe328b8",
-            "created": "2022-07-01T15:09:34.024095Z",
-            "modified": "2022-07-01T15:09:34.024095Z",
+            "id": "attack-pattern--914c12b1-cc9e-4984-ae09-59e666babe0e",
+            "created_by_ref": "identity--8d6eb769-d9a9-4c2e-9706-72be75195370",
+            "created": "2022-07-01T16:05:00.227528Z",
+            "modified": "2022-07-01T16:05:00.227528Z",
             "name": "Measure Effectiveness",
             "description": "TA12",
             "kill_chain_phases": [
@@ -2077,7 +2077,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--7e9ed570-624f-4f73-a326-527f975a3c75"
+                "marking-definition--6ee51f32-07da-4435-9145-d898f230b125"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2090,10 +2090,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--f7597759-dd89-4a6f-921a-8738a1ee78ca",
-            "created_by_ref": "identity--468b40c9-38b3-44c8-aadc-a0634ed533d0",
-            "created": "2022-07-01T15:09:34.024561Z",
-            "modified": "2022-07-01T15:09:34.024561Z",
+            "id": "attack-pattern--1409f686-081b-4bd8-8bc5-37ead6bffa46",
+            "created_by_ref": "identity--ca80bbf9-4604-4262-afbf-cea216b6e372",
+            "created": "2022-07-01T16:05:00.227984Z",
+            "modified": "2022-07-01T16:05:00.227984Z",
             "name": "Measure Effectiveness Indicators (or KPIs)",
             "description": "TA12",
             "kill_chain_phases": [
@@ -2110,7 +2110,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--c114fd2d-f0a3-454f-bd5c-d64d289a037f"
+                "marking-definition--c414d3d6-96ef-4fe4-b719-2bbcf39878ed"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2123,10 +2123,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--057e8cb8-68af-4c27-83a1-b3ecc576afb2",
-            "created_by_ref": "identity--8da6f225-9536-45fb-b3cf-fd5734f7c309",
-            "created": "2022-07-01T15:09:34.025026Z",
-            "modified": "2022-07-01T15:09:34.025026Z",
+            "id": "attack-pattern--05c2fd99-2d26-4c4d-9818-1d1054c15dd7",
+            "created_by_ref": "identity--4b951fc2-ac38-49ed-b037-c365d678fb2d",
+            "created": "2022-07-01T16:05:00.228437Z",
+            "modified": "2022-07-01T16:05:00.228437Z",
             "name": "Facilitate State Propaganda",
             "description": "TA02",
             "kill_chain_phases": [
@@ -2143,7 +2143,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--28a0c368-3233-4e2e-9362-761b411f3528"
+                "marking-definition--fe48a730-64b3-497e-a739-a54a0eb4a669"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2156,10 +2156,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--e581395c-ab89-4221-90c8-954165e4d4eb",
-            "created_by_ref": "identity--81ab0f8d-a098-48e3-b5b7-6dc4f4adda25",
-            "created": "2022-07-01T15:09:34.025495Z",
-            "modified": "2022-07-01T15:09:34.025495Z",
+            "id": "attack-pattern--8eb3952e-4fc2-4a6c-a46a-b2782eeed3ac",
+            "created_by_ref": "identity--a4d36447-05b8-43d3-8a86-2bd5e0c95527",
+            "created": "2022-07-01T16:05:00.228926Z",
+            "modified": "2022-07-01T16:05:00.228926Z",
             "name": "Leverage Existing Narratives",
             "description": "TA14",
             "kill_chain_phases": [
@@ -2176,7 +2176,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--24eb4739-e5e2-487d-98fc-43dec5ac2fdb"
+                "marking-definition--b2a8f50e-4e24-419b-a45c-cdae6244879f"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2189,10 +2189,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--a77709e6-5f05-42b4-82e1-340c822acf11",
-            "created_by_ref": "identity--a0f3a107-ab8c-4af1-9c7c-091be28a1dfc",
-            "created": "2022-07-01T15:09:34.025991Z",
-            "modified": "2022-07-01T15:09:34.025991Z",
+            "id": "attack-pattern--974bcf24-061f-43d4-ab9f-a9dd7d75b3ff",
+            "created_by_ref": "identity--2ebfaa69-402a-4169-9510-933c95c639ad",
+            "created": "2022-07-01T16:05:00.229387Z",
+            "modified": "2022-07-01T16:05:00.229387Z",
             "name": "Develop Competing Narratives",
             "description": "TA14",
             "kill_chain_phases": [
@@ -2209,7 +2209,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--a83879d2-6922-400f-9200-727f5b3e9591"
+                "marking-definition--83dc1447-ac46-418b-aa92-6b22dc182708"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2222,10 +2222,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--1e5fa7f1-62c1-4c0d-9cfc-f9fea70a0fbd",
-            "created_by_ref": "identity--e392faaf-6d94-4adc-ae2f-405f875e04d9",
-            "created": "2022-07-01T15:09:34.026452Z",
-            "modified": "2022-07-01T15:09:34.026452Z",
+            "id": "attack-pattern--3d44588d-ebec-48c8-b430-3a82ea202f42",
+            "created_by_ref": "identity--8f312945-d9b0-4dcd-8054-001bd1333532",
+            "created": "2022-07-01T16:05:00.229841Z",
+            "modified": "2022-07-01T16:05:00.229841Z",
             "name": "Create Inauthentic Social Media Pages and Groups",
             "description": "TA15",
             "kill_chain_phases": [
@@ -2242,7 +2242,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--7aed6fad-c270-42fc-8628-551122c76192"
+                "marking-definition--5c3601f1-3546-4df7-bc03-5ac0063d201f"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2255,10 +2255,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--6885b9de-1fb6-4e1c-877e-d22592f4f87a",
-            "created_by_ref": "identity--71da4362-22e9-4f06-811a-25a7cd569d9d",
-            "created": "2022-07-01T15:09:34.026909Z",
-            "modified": "2022-07-01T15:09:34.026909Z",
+            "id": "attack-pattern--385b875a-3634-4353-80e6-bc4a1f41f170",
+            "created_by_ref": "identity--db62649e-6f61-4af5-85c4-a236e2190fbe",
+            "created": "2022-07-01T16:05:00.230292Z",
+            "modified": "2022-07-01T16:05:00.230292Z",
             "name": "Create fake experts",
             "description": "TA16",
             "kill_chain_phases": [
@@ -2275,7 +2275,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--43cbd77a-6d1d-4a38-b958-0c8b36005706"
+                "marking-definition--4797d83a-2ff0-462e-bd4f-b9e47749946d"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2288,10 +2288,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--cf8997a8-c7f2-4eb7-830b-3f2863eb8611",
-            "created_by_ref": "identity--9881c698-61d2-4e67-b07d-dea3ce1fcb14",
-            "created": "2022-07-01T15:09:34.02737Z",
-            "modified": "2022-07-01T15:09:34.02737Z",
+            "id": "attack-pattern--f9175fab-1565-43cb-9dad-ba60f2ca444f",
+            "created_by_ref": "identity--66618a30-bd0e-4889-bd4b-b6ffc5bab273",
+            "created": "2022-07-01T16:05:00.230745Z",
+            "modified": "2022-07-01T16:05:00.230745Z",
             "name": "Cultivate ignorant agents",
             "description": "TA15",
             "kill_chain_phases": [
@@ -2308,7 +2308,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--d6bb4ad8-91e6-4ac4-a903-09becd92cbfd"
+                "marking-definition--b18681de-1db7-4b67-81ee-5b0e1a86ed5e"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2321,10 +2321,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--6d0a1926-6874-4dc6-baa8-1113cb45ee3b",
-            "created_by_ref": "identity--9f5219e9-efe0-4d03-951f-22eb05b635f6",
-            "created": "2022-07-01T15:09:34.027825Z",
-            "modified": "2022-07-01T15:09:34.027825Z",
+            "id": "attack-pattern--a58f2376-39bd-46c9-85e1-84fa4844e975",
+            "created_by_ref": "identity--c122ec2e-1e27-47cb-9a3a-c43534aabb97",
+            "created": "2022-07-01T16:05:00.231195Z",
+            "modified": "2022-07-01T16:05:00.231195Z",
             "name": "Compromise legitimate accounts",
             "description": "TA16",
             "kill_chain_phases": [
@@ -2341,7 +2341,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--eac7f289-5742-48c1-829e-5a2c490d4355"
+                "marking-definition--d14a3dbc-8293-44fc-8a62-4a0afe2716da"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2354,10 +2354,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--e51f85ae-7d7f-4f10-80f9-fbf9a82d7745",
-            "created_by_ref": "identity--1310fa7d-ece4-43ad-b760-53ca738309dc",
-            "created": "2022-07-01T15:09:34.028282Z",
-            "modified": "2022-07-01T15:09:34.028282Z",
+            "id": "attack-pattern--bc424fc5-f948-43aa-8e2c-fb58f763cca5",
+            "created_by_ref": "identity--a5baead6-071c-4619-973e-fd07ddc1dfbb",
+            "created": "2022-07-01T16:05:00.231654Z",
+            "modified": "2022-07-01T16:05:00.231654Z",
             "name": "Create inauthentic websites",
             "description": "TA15",
             "kill_chain_phases": [
@@ -2374,7 +2374,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--8efc4267-6f5c-463a-a2fa-eda1a9106216"
+                "marking-definition--b6027634-6c4e-4ba5-b35d-a22c5ff3766a"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2387,10 +2387,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--d2094c35-88ad-4d7d-83b7-7fbc2e4035ed",
-            "created_by_ref": "identity--e297bbb1-de01-48a1-b122-da4f9776f587",
-            "created": "2022-07-01T15:09:34.028744Z",
-            "modified": "2022-07-01T15:09:34.028744Z",
+            "id": "attack-pattern--d2a7fb39-3eb6-4a69-ad39-9a441f278baa",
+            "created_by_ref": "identity--5b778c7f-9327-4ff6-ac0c-b223a2fd0b01",
+            "created": "2022-07-01T16:05:00.232108Z",
+            "modified": "2022-07-01T16:05:00.232108Z",
             "name": "Prepare fundraising campaigns",
             "description": "TA15",
             "kill_chain_phases": [
@@ -2407,7 +2407,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--f4eb8b32-c9e0-4ab2-8ea1-9f0f739cf2fa"
+                "marking-definition--5e74b5e0-e87b-4abd-94d6-c3682260c92a"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2420,10 +2420,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--ef78bba5-869f-4763-ba58-59819698717d",
-            "created_by_ref": "identity--2a9b1688-acf7-4ec0-86a9-0f9fd75b4383",
-            "created": "2022-07-01T15:09:34.02921Z",
-            "modified": "2022-07-01T15:09:34.02921Z",
+            "id": "attack-pattern--58bfe049-e2a5-48ec-a735-7cfaea70917f",
+            "created_by_ref": "identity--26a29f6a-5ebd-4986-a752-a942a0855d0b",
+            "created": "2022-07-01T16:05:00.232559Z",
+            "modified": "2022-07-01T16:05:00.232559Z",
             "name": "Create hashtags and search artifacts",
             "description": "TA06",
             "kill_chain_phases": [
@@ -2440,7 +2440,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--92b3f3b0-0955-4fac-bd73-94530459c040"
+                "marking-definition--aa922a53-86ad-402b-8fba-79a6a47cd126"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2453,10 +2453,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--1f2c4fc4-83cf-4fd5-b068-76fef3c7dc49",
-            "created_by_ref": "identity--3c860ac0-5a1b-4e36-b4c7-ddb0fedd2d0d",
-            "created": "2022-07-01T15:09:34.029667Z",
-            "modified": "2022-07-01T15:09:34.029667Z",
+            "id": "attack-pattern--f2c933ae-1858-4b19-9e45-a6e1e5258232",
+            "created_by_ref": "identity--4183e175-1422-4189-aa49-9732a5541436",
+            "created": "2022-07-01T16:05:00.23301Z",
+            "modified": "2022-07-01T16:05:00.23301Z",
             "name": "Create Clickbait",
             "description": "TA05",
             "kill_chain_phases": [
@@ -2473,7 +2473,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--269c1e99-bdde-4b3a-965d-a43a61796cd5"
+                "marking-definition--a105d5a6-8dc6-4f29-b278-dd7474285652"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2486,10 +2486,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--68e31b57-f797-42ea-b037-2265aebf8ec5",
-            "created_by_ref": "identity--7157c1c3-11bd-4695-8c00-c255ee89e085",
-            "created": "2022-07-01T15:09:34.030127Z",
-            "modified": "2022-07-01T15:09:34.030127Z",
+            "id": "attack-pattern--539dda01-1323-42bb-a6b2-90e6ae67c2f1",
+            "created_by_ref": "identity--078623d9-fb85-47da-aa61-48ea3e8ae306",
+            "created": "2022-07-01T16:05:00.233559Z",
+            "modified": "2022-07-01T16:05:00.233559Z",
             "name": "Conduct fundraising",
             "description": "TA10",
             "kill_chain_phases": [
@@ -2506,7 +2506,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--ff2c2e63-e551-49eb-b46e-61f7f1a1682a"
+                "marking-definition--474676e7-08f2-45a5-8541-3e2a605a93fc"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2519,10 +2519,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--487fc608-2d7b-4e9a-ac1a-956e891243b6",
-            "created_by_ref": "identity--b96ecf92-e4c3-4950-af87-6759896d118b",
-            "created": "2022-07-01T15:09:34.030592Z",
-            "modified": "2022-07-01T15:09:34.030592Z",
+            "id": "attack-pattern--6ed74a91-2c16-4790-91e4-9e0ef46fd527",
+            "created_by_ref": "identity--e2f0ff7b-71d6-4080-b4eb-f35c760405cd",
+            "created": "2022-07-01T16:05:00.234044Z",
+            "modified": "2022-07-01T16:05:00.234044Z",
             "name": "Purchase Targeted Advertisements",
             "description": "TA05",
             "kill_chain_phases": [
@@ -2539,7 +2539,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--fed43c90-44d0-45d2-b267-f652fb9bb39b"
+                "marking-definition--4db83abd-8b8d-48e9-bb12-04932e9304d8"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2552,10 +2552,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--a0be90fe-143d-4b9c-b416-df130c10703f",
-            "created_by_ref": "identity--79e11dfa-1c9a-428f-9101-75c8fc7721c6",
-            "created": "2022-07-01T15:09:34.031067Z",
-            "modified": "2022-07-01T15:09:34.031067Z",
+            "id": "attack-pattern--3bb64b2d-97f9-4785-b81d-dc11ff8f463d",
+            "created_by_ref": "identity--990b8ced-04e2-408e-99c0-cc31ccd81fa7",
+            "created": "2022-07-01T16:05:00.234514Z",
+            "modified": "2022-07-01T16:05:00.234514Z",
             "name": "Generate information pollution",
             "description": "TA06",
             "kill_chain_phases": [
@@ -2572,7 +2572,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--df32f898-c689-4c0f-9bf6-76dc70e44d80"
+                "marking-definition--c2d00523-a8b6-47a4-9069-419bf90ac92e"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2585,10 +2585,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--c2b6fbb6-f2aa-4116-a421-cef13c173569",
-            "created_by_ref": "identity--9e5a3236-b0c0-4d62-97f6-fe3b0bbba114",
-            "created": "2022-07-01T15:09:34.03153Z",
-            "modified": "2022-07-01T15:09:34.03153Z",
+            "id": "attack-pattern--4a44f633-25ba-486f-82d0-918038a4a190",
+            "created_by_ref": "identity--4d98b5d5-9934-45a6-9be6-32c62b721e23",
+            "created": "2022-07-01T16:05:00.234976Z",
+            "modified": "2022-07-01T16:05:00.234976Z",
             "name": "Trial content",
             "description": "TA08",
             "kill_chain_phases": [
@@ -2605,7 +2605,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--f30e26eb-b551-4c41-851c-1edd6e930b09"
+                "marking-definition--9d1938dd-9d48-4baf-893c-b19e37dcaf44"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2618,10 +2618,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--29b94bc9-4b5c-4662-a086-e72d33773d55",
-            "created_by_ref": "identity--8098dd0a-0f4d-46af-9c38-62b059f5c99e",
-            "created": "2022-07-01T15:09:34.031984Z",
-            "modified": "2022-07-01T15:09:34.031984Z",
+            "id": "attack-pattern--83bd9d8d-ed3d-41a2-baea-aab92b4cae59",
+            "created_by_ref": "identity--cd1eff23-f631-46e2-8d4c-d8f7ed3a696f",
+            "created": "2022-07-01T16:05:00.235445Z",
+            "modified": "2022-07-01T16:05:00.235445Z",
             "name": "Leverage Conspiracy Theory Narratives",
             "description": "TA14",
             "kill_chain_phases": [
@@ -2638,7 +2638,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--933d3945-4dfd-430c-8401-8b4c1740135c"
+                "marking-definition--5646ca14-986c-4795-a470-4c4479ef6ac3"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2651,10 +2651,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--b780a4a3-2cfe-43eb-b409-9f3230a3b57d",
-            "created_by_ref": "identity--bb0adc90-4e7a-49bf-aa11-a59832e7328f",
-            "created": "2022-07-01T15:09:34.032442Z",
-            "modified": "2022-07-01T15:09:34.032442Z",
+            "id": "attack-pattern--d5483c4c-204f-402c-a93c-b6a6212866af",
+            "created_by_ref": "identity--a9ffd7dc-a813-4a51-a227-51f94efc49d6",
+            "created": "2022-07-01T16:05:00.235904Z",
+            "modified": "2022-07-01T16:05:00.235904Z",
             "name": "Distort facts",
             "description": "TA06",
             "kill_chain_phases": [
@@ -2671,7 +2671,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--7079d286-064d-4afc-9169-46a084ac9932"
+                "marking-definition--8da62c96-eff3-47b8-b152-6f14625962d0"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2684,10 +2684,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--a817a72f-23c5-426f-80bf-0114dc3a5603",
-            "created_by_ref": "identity--1db04a87-7a8e-4270-9d82-43b87cead984",
-            "created": "2022-07-01T15:09:34.0329Z",
-            "modified": "2022-07-01T15:09:34.0329Z",
+            "id": "attack-pattern--c87af789-e4b9-4bfa-80c2-383423862a37",
+            "created_by_ref": "identity--7938a88c-9a0e-423b-a37c-96922964b2b6",
+            "created": "2022-07-01T16:05:00.23636Z",
+            "modified": "2022-07-01T16:05:00.23636Z",
             "name": "Online polls",
             "description": "TA07",
             "kill_chain_phases": [
@@ -2704,7 +2704,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--5e07322d-3676-48ed-9a7b-4ca3b23f6ffa"
+                "marking-definition--6083bc47-eceb-4011-ab29-411dbabca2b3"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2717,10 +2717,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--d2f25375-7cb2-4c2e-a986-a424a28b768b",
-            "created_by_ref": "identity--14d9f5d8-ef48-4315-8b25-f52cb7753bc2",
-            "created": "2022-07-01T15:09:34.033357Z",
-            "modified": "2022-07-01T15:09:34.033357Z",
+            "id": "attack-pattern--7e851851-0d60-40e9-bbba-0d3227d8e69f",
+            "created_by_ref": "identity--800b6352-dad8-4093-8b72-e30334533869",
+            "created": "2022-07-01T16:05:00.236815Z",
+            "modified": "2022-07-01T16:05:00.236815Z",
             "name": "Bait legitimate influencers",
             "description": "TA08",
             "kill_chain_phases": [
@@ -2737,7 +2737,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--fc79b91f-97d7-4115-9009-811fe96bc9b5"
+                "marking-definition--7f3ca218-80d3-4ad1-a636-d231e5c59d65"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2750,10 +2750,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--35c0b2fb-fc38-459b-aba6-b5fa5fbb5790",
-            "created_by_ref": "identity--05c4d09a-b600-49d2-af01-42d25a2be643",
-            "created": "2022-07-01T15:09:34.033814Z",
-            "modified": "2022-07-01T15:09:34.033814Z",
+            "id": "attack-pattern--c2e8f585-91fb-428f-a147-e518de660162",
+            "created_by_ref": "identity--5c613162-1d2c-412e-b0d7-80f3b6f7c558",
+            "created": "2022-07-01T16:05:00.237274Z",
+            "modified": "2022-07-01T16:05:00.237274Z",
             "name": "Demand insurmountable proof",
             "description": "TA14",
             "kill_chain_phases": [
@@ -2770,7 +2770,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--b421005c-95e1-490b-b7b2-ec569ad05cd8"
+                "marking-definition--d16e12a0-fc49-4fa9-8963-cc887ce78d38"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2783,10 +2783,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--a6d28e02-efdc-4918-b615-ba40d363164c",
-            "created_by_ref": "identity--82e4dcce-34b8-4182-a210-04d45e665ef2",
-            "created": "2022-07-01T15:09:34.034268Z",
-            "modified": "2022-07-01T15:09:34.034268Z",
+            "id": "attack-pattern--68a06694-0cdc-4fdc-996d-ba0e98e4927f",
+            "created_by_ref": "identity--0c852249-c785-44c8-8f40-d2e1a85a02f5",
+            "created": "2022-07-01T16:05:00.237728Z",
+            "modified": "2022-07-01T16:05:00.237728Z",
             "name": "Seed Kernel of truth",
             "description": "TA08",
             "kill_chain_phases": [
@@ -2803,7 +2803,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--aa32f785-2de1-42aa-9a77-3a7d78701dbb"
+                "marking-definition--a3943424-3fb4-4a56-87c8-9a27fdbeefb8"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2816,10 +2816,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--a3f7a95d-1e71-4a60-af20-e72970179f52",
-            "created_by_ref": "identity--d58bfbf7-ce81-43d4-a6ea-f1009dfd3107",
-            "created": "2022-07-01T15:09:34.03472Z",
-            "modified": "2022-07-01T15:09:34.03472Z",
+            "id": "attack-pattern--2fd8787d-1811-4a8f-be90-dc1749ae80ce",
+            "created_by_ref": "identity--388ab68e-cf3b-4bb6-92f8-cc8d69a6c30b",
+            "created": "2022-07-01T16:05:00.238178Z",
+            "modified": "2022-07-01T16:05:00.238178Z",
             "name": "Chat apps",
             "description": "TA07",
             "kill_chain_phases": [
@@ -2836,7 +2836,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--ca53b2ee-3190-4386-8ab8-3e4286cf6551"
+                "marking-definition--279ed4b2-a335-4dbb-9d5d-21858e3eb65f"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2849,10 +2849,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--4c8b6dbd-d766-4c54-93fb-3892d5aa7e82",
-            "created_by_ref": "identity--bf95f775-0c21-45ab-9a86-fd05d5ad9e30",
-            "created": "2022-07-01T15:09:34.035176Z",
-            "modified": "2022-07-01T15:09:34.035176Z",
+            "id": "attack-pattern--9eb9572a-ae91-4b5a-9f6a-02bfc20f7da6",
+            "created_by_ref": "identity--31d8a09b-3f74-4950-9dab-8d54ca3c6643",
+            "created": "2022-07-01T16:05:00.23863Z",
+            "modified": "2022-07-01T16:05:00.23863Z",
             "name": "Seed distortions",
             "description": "TA08",
             "kill_chain_phases": [
@@ -2869,7 +2869,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--b3b690b5-10d9-49e4-908f-7a8f084f8474"
+                "marking-definition--95f489eb-d92c-40b3-af5b-a4d285b09dbe"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2882,10 +2882,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--d722ad68-0111-4831-bb12-be509dc28d00",
-            "created_by_ref": "identity--67ace28f-3a9b-47b5-b5a9-4c8f03ae47de",
-            "created": "2022-07-01T15:09:34.035638Z",
-            "modified": "2022-07-01T15:09:34.035638Z",
+            "id": "attack-pattern--e84e21ca-c6f9-4f82-aab9-159be8959419",
+            "created_by_ref": "identity--c8965408-c4e8-4b1b-95fa-89a502d80095",
+            "created": "2022-07-01T16:05:00.239097Z",
+            "modified": "2022-07-01T16:05:00.239097Z",
             "name": "Use fake experts",
             "description": "TA08",
             "kill_chain_phases": [
@@ -2902,7 +2902,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--e14901bf-bd4b-43b5-8aed-aaf12ac2a8cc"
+                "marking-definition--a3affa62-1f05-48fa-a402-af76f50be6db"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2915,10 +2915,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--222457d1-1039-4e2f-bbd1-d9115cc99dfc",
-            "created_by_ref": "identity--0289d932-1a5c-47b4-b09c-6334c007e896",
-            "created": "2022-07-01T15:09:34.036095Z",
-            "modified": "2022-07-01T15:09:34.036095Z",
+            "id": "attack-pattern--732e003b-25d1-4a60-aacb-f6581ffdf5c7",
+            "created_by_ref": "identity--a1a3498e-3bef-41af-8967-39365b232d88",
+            "created": "2022-07-01T16:05:00.239556Z",
+            "modified": "2022-07-01T16:05:00.239556Z",
             "name": "Use Search Engine Optimization",
             "description": "TA08",
             "kill_chain_phases": [
@@ -2935,7 +2935,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--f71a5ffe-b8c0-42d6-ae90-f72369d3d737"
+                "marking-definition--9cc942cb-dee3-4e78-ada9-005a627c743a"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2948,10 +2948,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--0847bfc1-8c06-4c01-9597-7581eeaa56a8",
-            "created_by_ref": "identity--966a9fd5-48cb-4c9a-aab2-7f44ad36155f",
-            "created": "2022-07-01T15:09:34.036551Z",
-            "modified": "2022-07-01T15:09:34.036551Z",
+            "id": "attack-pattern--115cc269-606e-41bc-a017-1c4af155a789",
+            "created_by_ref": "identity--84f8b3fb-a1d3-4ad4-9dbb-81b6a0d651ae",
+            "created": "2022-07-01T16:05:00.240015Z",
+            "modified": "2022-07-01T16:05:00.240015Z",
             "name": "Censor social media as a political force",
             "description": "TA18",
             "kill_chain_phases": [
@@ -2968,7 +2968,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--c140102e-fffd-4f54-b37f-8410706aa25a"
+                "marking-definition--5fd6d03b-6c3f-4908-97cb-e2de2cc09d99"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -2981,10 +2981,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--d5035d1e-a75a-4159-bbf9-d634cad9a097",
-            "created_by_ref": "identity--782bfc37-2dc1-4976-a3ad-56af6c4a4c40",
-            "created": "2022-07-01T15:09:34.037006Z",
-            "modified": "2022-07-01T15:09:34.037006Z",
+            "id": "attack-pattern--40e1ef37-c236-40be-b27c-156e5c4f6f36",
+            "created_by_ref": "identity--62756da3-b5bd-4cd3-9aed-881c5d957684",
+            "created": "2022-07-01T16:05:00.24047Z",
+            "modified": "2022-07-01T16:05:00.24047Z",
             "name": "Harass",
             "description": "TA18",
             "kill_chain_phases": [
@@ -3001,7 +3001,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--ae0b9854-7fdf-473d-82a1-674aaf26efe8"
+                "marking-definition--d7cc6408-4ca4-489c-a39c-89c57eff4cfa"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3014,10 +3014,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--ff6ec007-f69d-41a0-8c80-e58fc41f40bd",
-            "created_by_ref": "identity--3cc197f1-171b-42d6-a409-d1f38e2c3b90",
-            "created": "2022-07-01T15:09:34.037462Z",
-            "modified": "2022-07-01T15:09:34.037462Z",
+            "id": "attack-pattern--473afb6f-bbc1-441f-ad98-c48505d799b2",
+            "created_by_ref": "identity--8cc0228f-a477-485d-98b9-3bf579dd2ccd",
+            "created": "2022-07-01T16:05:00.240928Z",
+            "modified": "2022-07-01T16:05:00.240928Z",
             "name": "Flooding the Information Space",
             "description": "TA17",
             "kill_chain_phases": [
@@ -3034,7 +3034,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--829567e7-aa12-4161-998e-e973452cd882"
+                "marking-definition--098fc07c-58b1-46db-8322-b65954c4482c"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3047,10 +3047,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--c445cbe9-645f-49f1-b3cd-00b1b5972eef",
-            "created_by_ref": "identity--a493d930-b50f-40d6-8154-2651ff078305",
-            "created": "2022-07-01T15:09:34.037912Z",
-            "modified": "2022-07-01T15:09:34.037912Z",
+            "id": "attack-pattern--82dddda8-bf3d-4077-8f71-af53ccb4ece9",
+            "created_by_ref": "identity--cdde3e50-0f96-444b-83a1-b865adda57dd",
+            "created": "2022-07-01T16:05:00.241419Z",
+            "modified": "2022-07-01T16:05:00.241419Z",
             "name": "Organize Events",
             "description": "TA10",
             "kill_chain_phases": [
@@ -3067,7 +3067,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--199b02a5-f795-430d-9c6a-4395706d9322"
+                "marking-definition--4feabd5d-f178-4c9a-83eb-b9a628162e41"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3080,10 +3080,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--4a826253-a5f5-43df-9425-0b847bfc9f5d",
-            "created_by_ref": "identity--08f1c11f-4d6d-4951-984e-0ec667d31f23",
-            "created": "2022-07-01T15:09:34.038402Z",
-            "modified": "2022-07-01T15:09:34.038402Z",
+            "id": "attack-pattern--bfba64d7-43af-4e63-b16f-e6fff9cefc4b",
+            "created_by_ref": "identity--0963956b-9a28-4957-9269-7133bef1b097",
+            "created": "2022-07-01T16:05:00.241875Z",
+            "modified": "2022-07-01T16:05:00.241875Z",
             "name": "Play the long game",
             "description": "TA11",
             "kill_chain_phases": [
@@ -3100,7 +3100,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--610fed10-31ac-4e91-947a-0e08c4fb0d25"
+                "marking-definition--dbfc531e-8e01-42b9-b6e1-77a41d72feff"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3113,10 +3113,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--6d7514ea-4157-47c0-992e-ba7b07b9b0c5",
-            "created_by_ref": "identity--1bdd4d01-e0f8-4a65-9f7c-1ec63d787cac",
-            "created": "2022-07-01T15:09:34.038868Z",
-            "modified": "2022-07-01T15:09:34.038868Z",
+            "id": "attack-pattern--0fe0fcf0-4206-41ce-ae1c-aa4df8a625be",
+            "created_by_ref": "identity--31e67f96-ac5c-4382-af3a-2c4fe0513402",
+            "created": "2022-07-01T16:05:00.242335Z",
+            "modified": "2022-07-01T16:05:00.242335Z",
             "name": "Continue to Amplify",
             "description": "TA11",
             "kill_chain_phases": [
@@ -3133,7 +3133,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--d5894e95-2340-4b91-a855-5989525911ee"
+                "marking-definition--2959c46e-926e-402e-880e-242ce894d7fb"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3146,10 +3146,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--1b72fbcf-7a34-4732-a229-c3539eb9e61c",
-            "created_by_ref": "identity--2d8ca8b3-8b6f-49ef-9bb8-666613365837",
-            "created": "2022-07-01T15:09:34.039333Z",
-            "modified": "2022-07-01T15:09:34.039333Z",
+            "id": "attack-pattern--1c854fb1-9d52-4383-b9eb-9f87b87e03d9",
+            "created_by_ref": "identity--0c78b3b7-45a4-44bd-aaab-5b00c6637311",
+            "created": "2022-07-01T16:05:00.242792Z",
+            "modified": "2022-07-01T16:05:00.242792Z",
             "name": "Sell Merchandise",
             "description": "TA10",
             "kill_chain_phases": [
@@ -3166,7 +3166,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--92ccd6b1-d074-4962-88ea-4cbc02ce43b0"
+                "marking-definition--818f1444-3937-4555-8447-dce0acb41394"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3179,10 +3179,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--a37d3413-a429-4cce-8f4f-bc44f0f4e3ae",
-            "created_by_ref": "identity--80675446-0bcb-4445-9e6a-24a6a881ddd1",
-            "created": "2022-07-01T15:09:34.039794Z",
-            "modified": "2022-07-01T15:09:34.039794Z",
+            "id": "attack-pattern--16f3cd60-2fa3-4569-aed9-8a192c55ae10",
+            "created_by_ref": "identity--f12ab983-4717-4fa8-9b43-cd9c7ce08453",
+            "created": "2022-07-01T16:05:00.243248Z",
+            "modified": "2022-07-01T16:05:00.243248Z",
             "name": "Prepare Physical Broadcast Capabilities",
             "description": "TA15",
             "kill_chain_phases": [
@@ -3199,7 +3199,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--dcfc4728-1fde-4bd6-a0aa-12094e7c1e2b"
+                "marking-definition--6249162c-b1b3-4f1a-af8b-4607c8323a38"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3212,10 +3212,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--64beb67b-30cb-44f1-b285-9224f9cba09e",
-            "created_by_ref": "identity--0dda72d2-25cd-4698-87bd-292bd3f5956d",
-            "created": "2022-07-01T15:09:34.04025Z",
-            "modified": "2022-07-01T15:09:34.04025Z",
+            "id": "attack-pattern--064cf4bd-b4a9-4ab1-b8dd-bf5962b9767c",
+            "created_by_ref": "identity--4ab816da-0f51-4ad9-baa3-5ed0db3db444",
+            "created": "2022-07-01T16:05:00.243705Z",
+            "modified": "2022-07-01T16:05:00.243705Z",
             "name": "Degrade Adversary",
             "description": "TA02",
             "kill_chain_phases": [
@@ -3232,7 +3232,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--684f334d-1234-454c-a78a-5abd31f851f2"
+                "marking-definition--e0e5510a-e67e-4f86-8554-28c95e47dc94"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3245,10 +3245,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--28972b02-3a21-4410-b16d-a0b65fce233b",
-            "created_by_ref": "identity--4ca2307f-f6ae-4fa9-8f54-9a46bb68932c",
-            "created": "2022-07-01T15:09:34.040712Z",
-            "modified": "2022-07-01T15:09:34.040712Z",
+            "id": "attack-pattern--080f8798-18a7-446a-8734-7f7d38eb6fe6",
+            "created_by_ref": "identity--c24021e7-9ab2-41d0-b09e-ce2fdad7e58b",
+            "created": "2022-07-01T16:05:00.244161Z",
+            "modified": "2022-07-01T16:05:00.244161Z",
             "name": "Respond to Breaking News Event or Active Crisis",
             "description": "TA14",
             "kill_chain_phases": [
@@ -3265,7 +3265,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--89405a2c-20b0-46d2-84ab-6af4ad2cc0e4"
+                "marking-definition--baa4a116-24ea-4927-a48c-1c992d3bbc7c"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3278,10 +3278,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--4cc6dd7b-ca02-45ad-b1cb-63adbf652f38",
-            "created_by_ref": "identity--204d81a1-c311-4837-aee3-e5ba0fb3755a",
-            "created": "2022-07-01T15:09:34.041175Z",
-            "modified": "2022-07-01T15:09:34.041175Z",
+            "id": "attack-pattern--65a657e2-4da4-4e06-80b3-2016da512d14",
+            "created_by_ref": "identity--4a4bde1c-50e6-4556-a247-8c49d075f2d3",
+            "created": "2022-07-01T16:05:00.244618Z",
+            "modified": "2022-07-01T16:05:00.244618Z",
             "name": "Segment Audiences",
             "description": "TA13",
             "kill_chain_phases": [
@@ -3298,7 +3298,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--efc4bc05-c9dd-4b5b-a49d-3c3cd727b26d"
+                "marking-definition--e7bdc1d6-915b-4e55-931b-dda71c2505b5"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3311,10 +3311,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--ecb6c4ed-aafc-489d-8a2c-fce6a7bfb9f9",
-            "created_by_ref": "identity--08384d93-c458-4be0-992e-85e0af79aeaa",
-            "created": "2022-07-01T15:09:34.041636Z",
-            "modified": "2022-07-01T15:09:34.041636Z",
+            "id": "attack-pattern--9500d70e-14b6-43de-be06-cef7320ff15d",
+            "created_by_ref": "identity--c8792f52-da32-4b06-97d6-9dd592a6dce4",
+            "created": "2022-07-01T16:05:00.245069Z",
+            "modified": "2022-07-01T16:05:00.245069Z",
             "name": "Dismiss",
             "description": "TA02",
             "kill_chain_phases": [
@@ -3331,7 +3331,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--4a826c76-3775-42d1-b615-747c6500470c"
+                "marking-definition--b2782942-0972-428b-8e7a-fed70e79ac70"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3344,10 +3344,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--6e3e61b4-4bc5-4a6f-9813-2ef6dcd681b1",
-            "created_by_ref": "identity--2e3519e3-03bf-47bf-b39b-304275ca0a8f",
-            "created": "2022-07-01T15:09:34.042096Z",
-            "modified": "2022-07-01T15:09:34.042096Z",
+            "id": "attack-pattern--2962b250-e1b1-4412-a368-17c4ac05b5f6",
+            "created_by_ref": "identity--2b897090-2a67-4a3f-899c-bf2abf28f6be",
+            "created": "2022-07-01T16:05:00.245525Z",
+            "modified": "2022-07-01T16:05:00.245525Z",
             "name": "Distort",
             "description": "TA02",
             "kill_chain_phases": [
@@ -3364,7 +3364,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--a7514b44-5cac-4a8a-8278-65035910d769"
+                "marking-definition--2fa96f58-5210-4bae-8d53-49df9cf5a5ca"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3377,10 +3377,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--57741ba5-5de4-425e-b173-466d5ebfc44d",
-            "created_by_ref": "identity--6948b330-932e-4874-932c-24ab31443a72",
-            "created": "2022-07-01T15:09:34.042554Z",
-            "modified": "2022-07-01T15:09:34.042554Z",
+            "id": "attack-pattern--fe099776-0789-4a6e-8ec0-e5a829c86bb5",
+            "created_by_ref": "identity--047cd39b-404c-4f65-8aa7-5ff290b81351",
+            "created": "2022-07-01T16:05:00.246067Z",
+            "modified": "2022-07-01T16:05:00.246067Z",
             "name": "Distract",
             "description": "TA02",
             "kill_chain_phases": [
@@ -3397,7 +3397,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--9747cb48-749d-42b3-965a-9823e9ee80ad"
+                "marking-definition--4396a5f2-c391-4982-9a2b-6686b56c9684"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3410,10 +3410,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--2030beda-da61-4279-8249-578c6847eaa5",
-            "created_by_ref": "identity--cebd8141-6d0e-450c-840e-f430cd3c559f",
-            "created": "2022-07-01T15:09:34.043011Z",
-            "modified": "2022-07-01T15:09:34.043011Z",
+            "id": "attack-pattern--23400959-0d66-468a-90c8-6c1132a3c6ff",
+            "created_by_ref": "identity--44ab0bd9-cb10-44c5-8209-46c5c75e33ad",
+            "created": "2022-07-01T16:05:00.246534Z",
+            "modified": "2022-07-01T16:05:00.246534Z",
             "name": "Dismay",
             "description": "TA02",
             "kill_chain_phases": [
@@ -3430,7 +3430,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--503bba0a-36c1-4530-b51d-09524da63cdc"
+                "marking-definition--10fb8ad9-3237-49a7-bdc8-1b03b7388fcd"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3443,10 +3443,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--2e4b8139-1f67-475d-93af-c3b070c8c703",
-            "created_by_ref": "identity--49671301-5745-41a0-ace3-e2ca5afcf471",
-            "created": "2022-07-01T15:09:34.043559Z",
-            "modified": "2022-07-01T15:09:34.043559Z",
+            "id": "attack-pattern--d0c5e495-0c6a-4f97-b565-a0914460a87b",
+            "created_by_ref": "identity--4fc97f8b-a0a2-48ab-9801-a4f3fa0431c3",
+            "created": "2022-07-01T16:05:00.246998Z",
+            "modified": "2022-07-01T16:05:00.246998Z",
             "name": "Divide",
             "description": "TA02",
             "kill_chain_phases": [
@@ -3463,7 +3463,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--1117b322-d42b-447d-a0f5-765251b78605"
+                "marking-definition--898df923-97f4-437b-b47a-2150dc8b1727"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3476,10 +3476,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--86cfa87b-6ddf-4b5d-a6bc-c2e1bb3c2cbc",
-            "created_by_ref": "identity--566b420d-0de0-4f08-9ad0-6dcf8bd7e348",
-            "created": "2022-07-01T15:09:34.044039Z",
-            "modified": "2022-07-01T15:09:34.044039Z",
+            "id": "attack-pattern--b95a3519-2697-4edb-bf19-b161976d6d11",
+            "created_by_ref": "identity--b88bbfde-7628-4e6b-832c-e0591f2a0d48",
+            "created": "2022-07-01T16:05:00.247459Z",
+            "modified": "2022-07-01T16:05:00.247459Z",
             "name": "Conceal People",
             "description": "TA11",
             "kill_chain_phases": [
@@ -3496,7 +3496,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--02d90fb9-2fae-4507-b01a-c6c60eb3b603"
+                "marking-definition--1cde2f3b-4d39-40de-ae51-f6b8fbc62277"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3509,10 +3509,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--9f3c28af-88ae-4127-9a1c-343092570174",
-            "created_by_ref": "identity--23ee564c-b79c-4a59-83d2-a6c707fcbd72",
-            "created": "2022-07-01T15:09:34.044506Z",
-            "modified": "2022-07-01T15:09:34.044506Z",
+            "id": "attack-pattern--3ed733ba-0977-4755-97ef-b251fb38ad59",
+            "created_by_ref": "identity--452ba415-8f0f-42e4-b139-812c1242b654",
+            "created": "2022-07-01T16:05:00.247916Z",
+            "modified": "2022-07-01T16:05:00.247916Z",
             "name": "Conceal Operational Activity",
             "description": "TA11",
             "kill_chain_phases": [
@@ -3529,7 +3529,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--b0043a4b-ca93-46d8-a4a3-4883032dd4d9"
+                "marking-definition--ee5efa46-e71d-4544-ab4c-7db94155dcaa"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3542,10 +3542,10 @@
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
-            "id": "attack-pattern--cbfa31e4-52f6-4738-87dc-fb5a038a866d",
-            "created_by_ref": "identity--a9942592-4411-4ac7-94d8-4514ac1410c9",
-            "created": "2022-07-01T15:09:34.044969Z",
-            "modified": "2022-07-01T15:09:34.044969Z",
+            "id": "attack-pattern--b8855658-80fb-4aea-bd9a-4279e115f1a9",
+            "created_by_ref": "identity--995bb844-8046-4c1c-97ae-1b23878a805d",
+            "created": "2022-07-01T16:05:00.248365Z",
+            "modified": "2022-07-01T16:05:00.248365Z",
             "name": "Conceal Infrastructure",
             "description": "TA11",
             "kill_chain_phases": [
@@ -3562,7 +3562,7 @@
                 }
             ],
             "object_marking_refs": [
-                "marking-definition--201ed3eb-ecd5-4272-9646-47925cfd2fd3"
+                "marking-definition--f16709ae-964e-4b3e-b5ae-22481e547c3e"
             ],
             "x_mitre_is_subtechnique": false,
             "x_mitre_platforms": [
@@ -3575,28 +3575,28 @@
         {
             "type": "x-mitre-matrix",
             "spec_version": "2.1",
-            "id": "x-mitre-matrix--a4ca0a41-1973-451f-bad6-73f6ccd22bfe",
-            "created": "2022-07-01T15:09:34.045164Z",
-            "modified": "2022-07-01T15:09:34.045164Z",
+            "id": "x-mitre-matrix--b6cfdbf6-dd54-4129-a4ee-eae230a6e104",
+            "created": "2022-07-01T16:05:00.248556Z",
+            "modified": "2022-07-01T16:05:00.248556Z",
             "name": "DISARM Framework",
             "description": "DISARM is a framework designed for describing and understanding disinformation incidents.",
             "tactic_refs": [
-                "x-mitre-tactic--42aa3a69-a1bd-4c3b-8009-b52e10a0c523",
-                "x-mitre-tactic--90bc1fea-85bc-4e82-b3f3-a62b092c868c",
-                "x-mitre-tactic--ad663938-9aea-4bd0-b262-313bb65761f0",
-                "x-mitre-tactic--f7e57e85-0af8-4509-8fff-1bc38780ae32",
-                "x-mitre-tactic--9e15ab88-a8f8-4a72-b991-b4e3e8954683",
-                "x-mitre-tactic--a74eec50-d3a1-4f7d-891c-d7b3d3255bed",
-                "x-mitre-tactic--bb82e3fa-7c63-4173-a5a0-87958eb9171c",
-                "x-mitre-tactic--e9538fe4-9350-4ab3-b2a4-4e1be934869d",
-                "x-mitre-tactic--f2f77d10-dfc5-4add-8087-eb9c2460e9f4",
-                "x-mitre-tactic--828b3a30-f1df-4dce-af72-e5df6d35056c",
-                "x-mitre-tactic--175e021e-9eef-42ed-9af1-8488e709fd92",
-                "x-mitre-tactic--b3e40d2e-2aae-4030-86d0-8229e920a0b7",
-                "x-mitre-tactic--42059db9-5e40-4cd5-b712-aca573884064",
-                "x-mitre-tactic--f629cf94-53c0-4dd5-b3dd-c0862200b3c9",
-                "x-mitre-tactic--35a74706-edfa-4cb3-b152-43fdf0928723",
-                "x-mitre-tactic--edd5c911-0b7f-4fc5-88b7-6a1a7ae5b12b"
+                "x-mitre-tactic--7e68b26a-2828-4f50-810b-af713c95b6ae",
+                "x-mitre-tactic--f04be27c-1340-4ec3-8db3-40f0966bdb6d",
+                "x-mitre-tactic--8eab0661-56ad-43ad-87ae-935a77d16e63",
+                "x-mitre-tactic--994b5321-008e-4905-8f24-16d903ae6875",
+                "x-mitre-tactic--3e28d7aa-6c06-42b7-a5c6-bb48cf875bac",
+                "x-mitre-tactic--9eb11839-c702-4a5d-b392-a645d837aae4",
+                "x-mitre-tactic--3758e79a-6731-4c5b-b7cb-5e0423c6d2bd",
+                "x-mitre-tactic--85800023-ce4b-47cf-9110-cb1e3d8cf6e9",
+                "x-mitre-tactic--a25d8749-3f5f-4bb7-8fc8-3f8500d1b957",
+                "x-mitre-tactic--ec57c769-0dac-4203-8ad2-e31ddb094ce5",
+                "x-mitre-tactic--7d12e420-b94a-4051-bed2-0453e8b3982c",
+                "x-mitre-tactic--d1ce5e35-6fae-48a0-bec7-2e6ff4fe9ae6",
+                "x-mitre-tactic--8a5f957e-a7d9-46fe-a8ff-9f99a06f40f5",
+                "x-mitre-tactic--a0cc992f-e3ff-474f-a09a-273459dbf2ee",
+                "x-mitre-tactic--21836339-3c69-445e-a488-89f3110f2ed5",
+                "x-mitre-tactic--1347dc68-c0fb-4af2-8d7c-04ac3f5324ed"
             ],
             "external_references": [
                 {

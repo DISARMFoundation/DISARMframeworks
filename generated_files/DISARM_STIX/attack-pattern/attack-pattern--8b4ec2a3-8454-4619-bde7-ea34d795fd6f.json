@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--a973e8c4-425b-4d07-a195-077d30680c0a",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--8b4ec2a3-8454-4619-bde7-ea34d795fd6f",
+            "created_by_ref": "identity--54e2754b-d637-49e3-8b04-fffdc6ce253a",
+            "created": "2022-07-01T16:05:00.216544Z",
+            "modified": "2022-07-01T16:05:00.216544Z",
+            "name": "Discussion Forums",
+            "description": "TA07",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0106.md",
+                    "external_id": "T0106"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--18b0f9ec-e37f-4895-86d2-d14c09b5380a"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}
