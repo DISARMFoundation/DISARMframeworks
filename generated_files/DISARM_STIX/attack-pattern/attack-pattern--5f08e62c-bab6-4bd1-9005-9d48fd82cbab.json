@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--793f1b04-ef3c-43e3-8021-ddf8a4da664d",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--5f08e62c-bab6-4bd1-9005-9d48fd82cbab",
+            "created_by_ref": "identity--27307333-299b-481a-b7db-b666cf1879c6",
+            "created": "2022-07-01T16:24:14.460274Z",
+            "modified": "2022-07-01T16:24:14.460274Z",
+            "name": "Determine Target Audiences",
+            "description": "TA01",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-strategy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0073.md",
+                    "external_id": "T0073"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--e4e789bf-173e-4bb0-9284-cd5b04835783"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--a3e7ff4d-a4f6-4026-b6d7-21dfc629bef5",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--d79d165a-5122-4b7f-95e3-c20b98a2849e",
+            "created_by_ref": "identity--a65c0253-4f25-4128-9615-7465157a9846",
+            "created": "2022-07-01T16:24:14.462393Z",
+            "modified": "2022-07-01T16:24:14.462393Z",
+            "name": "Map Target Audience Information Environment",
+            "description": "TA13",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0080.md",
+                    "external_id": "T0080"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--4e7952f9-5c32-4785-b2ab-a6d8bbb7cfd7"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

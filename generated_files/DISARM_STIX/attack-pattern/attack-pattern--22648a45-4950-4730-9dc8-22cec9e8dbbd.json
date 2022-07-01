@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--e465cb88-dd37-494e-a3ce-c8c2f6ad186b",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--22648a45-4950-4730-9dc8-22cec9e8dbbd",
+            "created_by_ref": "identity--7c382789-c188-4a0a-85d4-11479e860784",
+            "created": "2022-07-01T16:24:14.530877Z",
+            "modified": "2022-07-01T16:24:14.530877Z",
+            "name": "Conduct fundraising",
+            "description": "TA10",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-offline-activity"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0017.md",
+                    "external_id": "T0017"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--13b1183f-8816-48a2-b26c-2e2ed75f5a01"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

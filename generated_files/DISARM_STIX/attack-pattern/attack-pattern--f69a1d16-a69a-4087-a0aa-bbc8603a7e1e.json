@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--05fc6582-9d24-4f08-8e04-b96bab7c24da",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--f69a1d16-a69a-4087-a0aa-bbc8603a7e1e",
+            "created_by_ref": "identity--952731c3-9d6e-4d1c-a3fd-b4f9d87fe69e",
+            "created": "2022-07-01T16:24:14.538523Z",
+            "modified": "2022-07-01T16:24:14.538523Z",
+            "name": "Bait legitimate influencers",
+            "description": "TA08",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "conduct-pump-priming"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0039 .md",
+                    "external_id": "T0039 "
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--7d2c28fc-c45b-408e-bfa6-b8417f055016"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

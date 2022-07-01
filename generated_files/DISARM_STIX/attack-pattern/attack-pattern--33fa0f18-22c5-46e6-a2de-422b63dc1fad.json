@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--18983856-f06b-4cdd-8039-7ed9e1c716b7",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--33fa0f18-22c5-46e6-a2de-422b63dc1fad",
+            "created_by_ref": "identity--ea7c9ee7-84bf-4818-a6ba-8e160c64c1be",
+            "created": "2022-07-01T16:24:14.494801Z",
+            "modified": "2022-07-01T16:24:14.494801Z",
+            "name": "Consumer Review Networks",
+            "description": "TA07",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0109.md",
+                    "external_id": "T0109"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--07428d13-3562-40c5-ace4-5c50089fb547"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

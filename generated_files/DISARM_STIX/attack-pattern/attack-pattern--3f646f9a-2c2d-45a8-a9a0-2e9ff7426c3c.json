@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--42ac663c-36e9-4fa8-8835-9ad6e5de3397",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--3f646f9a-2c2d-45a8-a9a0-2e9ff7426c3c",
+            "created_by_ref": "identity--7ee43c4e-6abc-4acb-aeb1-415ff3fae83d",
+            "created": "2022-07-01T16:24:14.496768Z",
+            "modified": "2022-07-01T16:24:14.496768Z",
+            "name": "Traditional Media",
+            "description": "TA07",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0111.md",
+                    "external_id": "T0111"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--34137ead-d4b9-4b1d-8c88-49ec8ef0e030"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

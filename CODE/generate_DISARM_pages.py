@@ -77,6 +77,7 @@ import os
 from sklearn.feature_extraction.text import CountVectorizer
 
 GENERATED_PAGES_DIR = '../generated_pages/'
+GENERATED_PAGES_FUDGE = '../' + GENERATED_PAGES_DIR
 GENERATED_FILES_DIR = '../generated_files/'
 MASTERDATA_DIR = '../DISARM_MASTER_DATA/'
 
@@ -201,7 +202,7 @@ class Disarm:
         for index, row in its[['disarm_id_incident', 'name_incident']].drop_duplicates().sort_values('disarm_id_incident').iterrows():
             techstring = ', '.join(its[its['disarm_id_incident']==row['disarm_id_incident']]['name'].to_list())
             incidentstr += incirow.format(row['disarm_id_incident'], row['name_incident'], 
-                                          GENERATED_PAGES_DIR, techstring)
+                                          GENERATED_PAGES_FUDGE, techstring)
         return incidentstr
 
 
@@ -215,7 +216,7 @@ class Disarm:
         techlist = self.it[self.it['disarm_id_incident'] == incidentid]
         for index, row in techlist.sort_values('disarm_id_technique').iterrows():
             techstr += techrow.format(row['disarm_id_technique'], row['name_technique'], 
-                                      GENERATED_PAGES_DIR, row['disarm_id'], row['name'])
+                                      GENERATED_PAGES_FUDGE, row['disarm_id'], row['name'])
         return techstr
 
 
@@ -228,7 +229,7 @@ class Disarm:
         tactic_tasks = self.df_tasks[self.df_tasks['tactic_id']==tactic_id]
         task_string = '| [{0} {1}]({2}tasks/{0}.md) |\n'
         for index, row in tactic_tasks.sort_values('disarm_id').iterrows():
-            table_string += task_string.format(row['disarm_id'], row['name'], GENERATED_PAGES_DIR)
+            table_string += task_string.format(row['disarm_id'], row['name'], GENERATED_PAGES_FUDGE)
         return table_string
 
 
@@ -241,7 +242,7 @@ class Disarm:
         tactic_techniques = self.df_techniques[self.df_techniques['tactic_id']==tactic_id]
         row_string = '| [{0} {1}]({2}techniques/{0}.md) |\n'
         for index, row in tactic_techniques.sort_values('disarm_id').iterrows():
-            table_string += row_string.format(row['disarm_id'], row['name'], '../'+GENERATED_PAGES_DIR)
+            table_string += row_string.format(row['disarm_id'], row['name'], GENERATED_PAGES_FUDGE)
         return table_string
 
 
@@ -253,7 +254,7 @@ class Disarm:
         object_counters = self.df_counters[self.df_counters[objectcolumn]==object_id]
         row_string = '| [{0} {1}]({2}counters/{0}.md) | {3} |\n'
         for index, row in object_counters.sort_values(['responsetype', 'disarm_id']).iterrows():
-            table_string += row_string.format(row['disarm_id'], row['name'], GENERATED_PAGES_DIR, row['responsetype'])
+            table_string += row_string.format(row['disarm_id'], row['name'], GENERATED_PAGES_FUDGE, row['responsetype'])
         return table_string
 
     def create_technique_counters_string(self, technique_id):
@@ -265,7 +266,7 @@ class Disarm:
         technique_counters = pd.merge(technique_counters, self.df_counters[['disarm_id', 'name', 'responsetype']])
         row_string = '| [{0} {1}]({2}counters/{0}.md) | {3} |\n'
         for index, row in technique_counters.sort_values('disarm_id').iterrows():
-            table_string += row_string.format(row['disarm_id'], row['name'], GENERATED_PAGES_DIR, row['responsetype'])
+            table_string += row_string.format(row['disarm_id'], row['name'], GENERATED_PAGES_FUDGE, row['responsetype'])
         return table_string
 
     def create_counter_actortypes_string(self, counter_id):
@@ -277,7 +278,7 @@ class Disarm:
         counter_actortypes = pd.merge(counter_actortypes, self.df_actortypes[['disarm_id', 'name', 'sector_ids']], left_on='actortype_id', right_on='disarm_id')
         row_string = '| [{0} {1}]({2}actortypes/{0}.md) | {3} |\n'
         for index, row in counter_actortypes.sort_values('actortype_id').iterrows():
-            table_string += row_string.format(row['actortype_id'], row['name'], GENERATED_PAGES_DIR, row['sector_ids'])
+            table_string += row_string.format(row['actortype_id'], row['name'], GENERATED_PAGES_FUDGE, row['sector_ids'])
         return table_string
 
     def create_actortype_counters_string(self, actortype_id):
@@ -289,7 +290,7 @@ class Disarm:
         actortype_counters = pd.merge(actortype_counters, self.df_counters[['disarm_id', 'name', 'responsetype']])
         row_string = '| [{0} {1}]({2}counters/{0}.md) | {3} |\n'
         for index, row in actortype_counters.sort_values('disarm_id').iterrows():
-            table_string += row_string.format(row['disarm_id'], row['name'], GENERATED_PAGES_DIR, row['responsetype'])
+            table_string += row_string.format(row['disarm_id'], row['name'], GENERATED_PAGES_FUDGE, row['responsetype'])
         return table_string
 
     def create_resource_counters_string(self, resource_id):
@@ -301,7 +302,7 @@ class Disarm:
         resource_counters = pd.merge(resource_counters, self.df_counters[['disarm_id', 'name', 'responsetype']])
         row_string = '| [{0} {1}]({2}counters/{0}.md) | {3} |\n'
         for index, row in actortype_counters.sort_values('disarm_id').iterrows():
-            table_string += row_string.format(row['disarm_id'], row['name'], GENERATED_PAGES_DIR, row['responsetype'])
+            table_string += row_string.format(row['disarm_id'], row['name'], GENERATED_PAGES_FUDGE, row['responsetype'])
         return table_string
 
 
@@ -313,7 +314,7 @@ class Disarm:
         # tactic_counters = self.df_counters[self.df_counters['tactic_id']==tactic_id]
         # row_string = '| {0} | [{1} {2}]({3}counters/{1}.md) |\n'
         # for index, row in tactic_counters.sort_values(['responsetype', 'disarm_id']).iterrows():
-        #     table_string += row_string.format(row['responsetype'], row['disarm_id'], row['name'], GENERATED_PAGES_DIR)
+        #     table_string += row_string.format(row['responsetype'], row['disarm_id'], row['name'], GENERATED_PAGES_FUDGE)
         return table_string
 
     def create_counter_techniques_string(self, counter_id):
@@ -325,7 +326,7 @@ class Disarm:
         counter_techniques = pd.merge(counter_techniques, self.df_techniques[['disarm_id', 'name']].rename(columns={'disarm_id': 'technique_id'}))
         row_string = '| [{0} {1}]({2}techniques/{0}.md) |\n'
         for index, row in counter_techniques.sort_values('disarm_id').iterrows():
-            table_string += row_string.format(row['technique_id'], row['name'], GENERATED_PAGES_DIR)
+            table_string += row_string.format(row['technique_id'], row['name'], GENERATED_PAGES_FUDGE)
         return table_string
 
     def create_counter_incidents_string(self, counter_id):
@@ -336,7 +337,7 @@ class Disarm:
         # tactic_counters = self.df_counters[self.df_counters['tactic_id']==tactic_id]
         # row_string = '| {0} | [{1} {2}]({3}counters/{1}.md) |\n'
         # for index, row in tactic_counters.sort_values(['responsetype', 'disarm_id']).iterrows():
-        #     table_string += row_string.format(row['responsetype'], row['disarm_id'], row['name'], GENERATED_PAGES_DIR)
+        #     table_string += row_string.format(row['responsetype'], row['disarm_id'], row['name'], GENERATED_PAGES_FUDGE)
         return table_string
 
 

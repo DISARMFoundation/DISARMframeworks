@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--2085dd04-4975-4394-989e-c8ffa83ee4f3",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--051a61da-3aad-4f2f-9370-bc293f732d17",
+            "created_by_ref": "identity--215a8b86-a5fc-4743-831f-414c2f2f62fc",
+            "created": "2022-07-01T16:24:14.492857Z",
+            "modified": "2022-07-01T16:24:14.492857Z",
+            "name": "Bookmarking and Content Curation",
+            "description": "TA07",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0107.md",
+                    "external_id": "T0107"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f48bbd9a-ab6f-4dbe-b230-42297747aca2"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}
