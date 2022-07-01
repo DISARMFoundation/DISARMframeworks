@@ -241,7 +241,7 @@ class Disarm:
         tactic_techniques = self.df_techniques[self.df_techniques['tactic_id']==tactic_id]
         row_string = '| [{0} {1}]({2}techniques/{0}.md) |\n'
         for index, row in tactic_techniques.sort_values('disarm_id').iterrows():
-            table_string += row_string.format(row['disarm_id'], row['name'], '../../'+GENERATED_PAGES_DIR)
+            table_string += row_string.format(row['disarm_id'], row['name'], '../'+GENERATED_PAGES_DIR)
         return table_string
 
 
