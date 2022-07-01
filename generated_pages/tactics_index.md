@@ -32,7 +32,7 @@
 <tr>
 <td><a href="tactics/TA06.md">TA06</a></td>
 <td>Develop Content</td>
-<td>TBD</td>
+<td>Create or acquire text, images, and other content</td>
 <td>P02</td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ Establishing information assets allows an influence operation to promote messagi
 <tr>
 <td><a href="tactics/TA16.md">TA16</a></td>
 <td>Establish Legitimacy</td>
-<td>TBD</td>
+<td>Establish assets that create trust</td>
 <td>P02</td>
 </tr>
 <tr>
