@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--daa72278-538f-468d-b3e6-750e5cdebad1",
+    "objects": [
+        {
+            "type": "x-mitre-tactic",
+            "spec_version": "2.1",
+            "id": "x-mitre-tactic--1f209f0d-3ae7-4d76-a3c9-8d0fb0855317",
+            "created_by_ref": "identity--5bbac530-b443-488b-b947-88860efb19af",
+            "created": "2022-07-01T17:31:14.934725Z",
+            "modified": "2022-07-01T17:31:14.934725Z",
+            "name": "Drive Online Harms",
+            "description": "Actions taken by an influence operation to harm their opponents in online spaces through harassment, suppression, releasing private information, and controlling the information space through offensive cyberspace operations. ",
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA18.md",
+                    "external_id": "TA18"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--857fac32-e5a2-4db7-af0d-0dbcce5ef628"
+            ],
+            "x_mitre_shortname": "drive-online-harms"
+        }
+    ]
+}

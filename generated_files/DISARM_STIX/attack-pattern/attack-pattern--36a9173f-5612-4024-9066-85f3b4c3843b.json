@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--817f0a37-7665-468c-9f28-fc98e2b654f5",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--36a9173f-5612-4024-9066-85f3b4c3843b",
+            "created_by_ref": "identity--9505fe2b-b3a5-4d84-ad6a-adebd0ab44ca",
+            "created": "2022-07-01T17:31:14.94925Z",
+            "modified": "2022-07-01T17:31:14.94925Z",
+            "name": "Play the long game",
+            "description": "TA11",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0059.md",
+                    "external_id": "T0059"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--306800a0-4b17-427a-a6ce-5700aa5ea5ab"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

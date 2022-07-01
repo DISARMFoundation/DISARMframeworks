@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--d63a9555-390b-4b6a-a6c3-438e215ff144",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--be8faf77-f167-4b78-976a-256fb1f0e9d6",
+            "created_by_ref": "identity--536b0fa8-ce57-4353-a619-e739ca06a43a",
+            "created": "2022-07-01T17:31:14.939884Z",
+            "modified": "2022-07-01T17:31:14.939884Z",
+            "name": "Create hashtags and search artifacts",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0015.md",
+                    "external_id": "T0015"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--35c1f4f0-ff0d-4ea0-9a9f-c32131e17245"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

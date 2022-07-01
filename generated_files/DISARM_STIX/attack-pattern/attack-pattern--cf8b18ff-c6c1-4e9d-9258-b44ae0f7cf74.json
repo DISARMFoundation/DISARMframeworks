@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--ed8083e6-beea-4619-ba6b-131256ba3123",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--cf8b18ff-c6c1-4e9d-9258-b44ae0f7cf74",
+            "created_by_ref": "identity--52c44003-19df-4e31-bade-521bfd3156b8",
+            "created": "2022-07-01T17:31:14.978758Z",
+            "modified": "2022-07-01T17:31:14.978758Z",
+            "name": "Conceal Infrastructure",
+            "description": "TA11",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0130.md",
+                    "external_id": "T0130"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--3c03cdfb-e657-4705-b9a0-114cd269511b"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}

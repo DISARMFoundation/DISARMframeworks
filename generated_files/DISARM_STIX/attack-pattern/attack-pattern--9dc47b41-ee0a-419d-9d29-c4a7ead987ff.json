@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--0b943a6c-15f8-4783-a55d-c165e16612ed",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--9dc47b41-ee0a-419d-9d29-c4a7ead987ff",
+            "created_by_ref": "identity--8ea10779-1811-439f-ad98-f29aab840cb6",
+            "created": "2022-07-01T17:31:14.947366Z",
+            "modified": "2022-07-01T17:31:14.947366Z",
+            "name": "Censor social media as a political force",
+            "description": "TA18",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-online-harms"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0047.md",
+                    "external_id": "T0047"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--401ee811-cf62-4901-9038-6339729ca601"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1,0"
+        }
+    ]
+}
