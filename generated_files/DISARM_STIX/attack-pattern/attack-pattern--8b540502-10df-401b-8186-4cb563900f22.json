@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--9b7b373c-a2e7-4b5e-8e56-93f6a5e2b4b4",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--8b540502-10df-401b-8186-4cb563900f22",
+            "created_by_ref": "identity--c2004f5f-d077-44f5-bc7f-b7e52d6d50d7",
+            "created": "2022-07-02T19:37:33.856847Z",
+            "modified": "2022-07-02T19:37:33.856847Z",
+            "name": "Develop Memes",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0086.001.md",
+                    "external_id": "T0086.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f648d86e-c235-489d-9c17-172cc137e2a6"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

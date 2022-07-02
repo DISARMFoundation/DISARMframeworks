@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--535ca59d-9d83-4311-adfc-33803272fafb",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--4c1031b1-7563-4bb7-9f02-ab4e1cb9f2e4",
+            "created_by_ref": "identity--5549947a-450b-40bc-8ecf-28c6af4deeba",
+            "created": "2022-07-02T19:37:33.914977Z",
+            "modified": "2022-07-02T19:37:33.914977Z",
+            "name": "Use Cryptocurrency",
+            "description": "TA11",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0130.004.md",
+                    "external_id": "T0130.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c7877167-8d8f-4368-8e77-efbe7ea7c903"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

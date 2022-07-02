@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--fe60ab40-1629-4719-89e3-71cacb67ef11",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--e1dacd01-4d8d-41eb-8fbe-e9c895ab42db",
+            "created_by_ref": "identity--c5c42d81-6fb7-42c6-9506-d9973d1600b2",
+            "created": "2022-07-02T19:37:33.889295Z",
+            "modified": "2022-07-02T19:37:33.889295Z",
+            "name": "Radio",
+            "description": "TA07",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0111.003.md",
+                    "external_id": "T0111.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--16f83816-b1d8-4193-8beb-a48874ee98b0"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

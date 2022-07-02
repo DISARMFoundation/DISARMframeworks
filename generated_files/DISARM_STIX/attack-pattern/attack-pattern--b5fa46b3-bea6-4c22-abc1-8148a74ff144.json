@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--6a3a82ed-a904-4a40-a7ea-4849d85fcef2",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--b5fa46b3-bea6-4c22-abc1-8148a74ff144",
+            "created_by_ref": "identity--1918f5a0-1fea-4ab4-8780-8e0d36b59903",
+            "created": "2022-07-02T19:37:33.908206Z",
+            "modified": "2022-07-02T19:37:33.908206Z",
+            "name": "Change Names of Accounts",
+            "description": "TA11",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0128.005.md",
+                    "external_id": "T0128.005"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--e87c4dc1-a9f3-4299-bd7a-4ca96a79cbb1"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

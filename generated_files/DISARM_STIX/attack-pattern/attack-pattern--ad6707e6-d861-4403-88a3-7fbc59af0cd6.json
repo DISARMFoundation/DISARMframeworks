@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--5514208b-3f10-4447-93b5-46e64c3f04e0",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--ad6707e6-d861-4403-88a3-7fbc59af0cd6",
+            "created_by_ref": "identity--45f39bab-59c9-4f00-b9cb-c62d5679c576",
+            "created": "2022-07-02T19:37:33.834303Z",
+            "modified": "2022-07-02T19:37:33.834303Z",
+            "name": "Conduct Keyword Squatting",
+            "description": "TA17",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0049.006.md",
+                    "external_id": "T0049.006"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c31563f9-041e-4d6e-88bb-b2651810bfc3"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

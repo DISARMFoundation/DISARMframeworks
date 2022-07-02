@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--cdc707b5-49c9-453d-a766-1ebfa652cafe",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--392b1881-ec5a-4133-88c6-3e7ec3b2b4de",
+            "created_by_ref": "identity--0e4113ad-67a0-4a1e-95fa-33a8608e9ce1",
+            "created": "2022-07-02T19:37:33.820113Z",
+            "modified": "2022-07-02T19:37:33.820113Z",
+            "name": "Purchase Targeted Advertisements",
+            "description": "TA05",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "microtarget"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0018.md",
+                    "external_id": "T0018"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--3befac77-0eb6-4167-8d61-fda4ab2886e6"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--bd8d16a6-85a2-4dd3-9460-6ae4da6973d4",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--a37bdf98-3cb9-473a-b913-876ff9133a6b",
+            "created_by_ref": "identity--43838b8a-6227-4a5e-92c1-547c0aff7142",
+            "created": "2022-07-02T19:37:33.869971Z",
+            "modified": "2022-07-02T19:37:33.869971Z",
+            "name": "Identify susceptible targets in networks",
+            "description": "TA15",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0094.001.md",
+                    "external_id": "T0094.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--7a582033-0b35-4a5d-bb84-bc24e3941d8c"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

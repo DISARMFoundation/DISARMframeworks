@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--a232c9c7-cb3e-4d24-9269-581416b28633",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--26e71dc7-967b-4e91-8115-c3ef95965a85",
+            "created_by_ref": "identity--c0f3f687-e325-4e68-999d-9ffd0a104bd6",
+            "created": "2022-07-02T19:37:33.892685Z",
+            "modified": "2022-07-02T19:37:33.892685Z",
+            "name": "Post Violative Content to Provoke Takedown and Backlash",
+            "description": "TA09",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "deliver-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0115.002.md",
+                    "external_id": "T0115.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--15d3aa3a-26e8-4862-bd0f-60cd8dd03c5e"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

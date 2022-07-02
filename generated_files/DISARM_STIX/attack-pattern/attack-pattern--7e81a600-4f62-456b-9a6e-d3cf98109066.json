@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--482b499c-0dd1-4112-b1fe-8f99fa073f3c",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--7e81a600-4f62-456b-9a6e-d3cf98109066",
+            "created_by_ref": "identity--c894ea29-36e1-483d-8b22-f832ee346e6f",
+            "created": "2022-07-02T19:37:33.893959Z",
+            "modified": "2022-07-02T19:37:33.893959Z",
+            "name": "Post inauthentic social media comment",
+            "description": "TA09",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "deliver-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0116.001.md",
+                    "external_id": "T0116.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--a7c97e3a-96ac-4b94-b6ca-0b571be3d103"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

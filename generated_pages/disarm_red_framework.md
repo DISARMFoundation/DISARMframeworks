@@ -86,7 +86,7 @@
 <td><a href="techniques/T0128.001.md">T0128.001 Use Pseudonyms</a></td>
 <td><a href="techniques/T0132.003.md">T0132.003 View Focused</a></td>
 <td><a href="techniques/T0072.003.md">T0072.003 Economic Segmentation</a></td>
-<td><a href="techniques/T0022.001.md">T0022.001 Amplify Existing Conspiracy Theory Narrative</a></td>
+<td><a href="techniques/T0022.001.md">T0022.001 Amplify Existing Conspiracy Theory Narratives</a></td>
 <td><a href="techniques/T0014.md">T0014 Prepare fundraising campaigns</a></td>
 <td><a href="techniques/T0097.md">T0097 Create personas</a></td>
 <td><a href="techniques/T0049.003.md">T0049.003 Bots Amplify via Automated Forwarding and Reposting</a></td>
@@ -105,7 +105,7 @@
 <td><a href="techniques/T0133.md">T0133 Measure Effectiveness</a></td>
 <td><a href="techniques/T0072.004.md">T0072.004 Psychographic Segmentation</a></td>
 <td><a href="techniques/T0022.002.md">T0022.002 Develop Original Conspiracy Theory Narratives</a></td>
-<td><a href="techniques/T0014.001.md">T0014.001 From bad actors</a></td>
+<td><a href="techniques/T0014.001.md">T0014.001 Raise funds from malign actors</a></td>
 <td><a href="techniques/T0097.001.md">T0097.001 Backstop personas </a></td>
 <td><a href="techniques/T0049.004.md">T0049.004 Utilize Spamoflauge</a></td>
 <td><a href="techniques/T0048.003.md">T0048.003 Threaten to Dox</a></td>
@@ -123,7 +123,7 @@
 <td><a href="techniques/T0133.001.md">T0133.001 Behavior changes</a></td>
 <td><a href="techniques/T0072.005.md">T0072.005 Political Segmentation</a></td>
 <td><a href="techniques/T0040.md">T0040 Demand insurmountable proof</a></td>
-<td><a href="techniques/T0014.002.md">T0014.002 From ignorant agents</a></td>
+<td><a href="techniques/T0014.002.md">T0014.002 Raise funds from ignorant agents</a></td>
 <td><a href="techniques/T0098.md">T0098 Establish Inauthentic News Sites</a></td>
 <td><a href="techniques/T0049.005.md">T0049.005 Conduct Swarming</a></td>
 <td><a href="techniques/T0048.004.md">T0048.004 Dox</a></td>
@@ -249,7 +249,7 @@
 <td><a href="techniques/T0134.002.md">T0134.002 Social media engagement</a></td>
 <td><a href="techniques/T0081.md">T0081 Identify Social and Technical Vulnerabilities</a></td>
 <td> </td>
-<td><a href="techniques/T0091.md">T0091 Recruit bad actors</a></td>
+<td><a href="techniques/T0091.md">T0091 Recruit malign actors</a></td>
 <td><a href="techniques/T0100.001.md">T0100.001 Co-Opt Trusted Individuals</a></td>
 <td><a href="techniques/T0119.003.md">T0119.003 Post Across Disciplines</a></td>
 <td><a href="techniques/T0124.001.md">T0124.001 Report Non-Violative Opposing Content</a></td>
@@ -263,7 +263,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0129.005.md">T0129.005 Coordinate on encrypted/ closed networks</a></td>
+<td><a href="techniques/T0129.005.md">T0129.005 Coordinate on encrypted/closed networks</a></td>
 <td> </td>
 <td><a href="techniques/T0081.001.md">T0081.001 Find Echo Chambers</a></td>
 <td> </td>
@@ -357,7 +357,7 @@
 <td> </td>
 <td><a href="techniques/T0081.006.md">T0081.006 Identify Wedge Issues</a></td>
 <td> </td>
-<td><a href="techniques/T0092.002.md">T0092.002 Follow Trains</a></td>
+<td><a href="techniques/T0092.002.md">T0092.002 Use Follow Trains</a></td>
 <td> </td>
 <td><a href="techniques/T0122.md">T0122 Direct Users to Alternative Platforms</a></td>
 <td> </td>
@@ -366,7 +366,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0086.003.md">T0086.003 Deceptively Edit Image (Cheap fakes)</a></td>
+<td><a href="techniques/T0086.003.md">T0086.003 Deceptively Edit Images (Cheap fakes)</a></td>
 <td><a href="techniques/T0106.001.md">T0106.001 Anonymous Message Boards</a></td>
 <td> </td>
 <td> </td>
@@ -393,7 +393,7 @@
 <td> </td>
 <td><a href="techniques/T0081.008.md">T0081.008 Identify Media System Vulnerabilities</a></td>
 <td> </td>
-<td><a href="techniques/T0093.md">T0093 Acquire/ recruit Network</a></td>
+<td><a href="techniques/T0093.md">T0093 Acquire/Recruit Network</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -429,7 +429,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0093.002.md">T0093.002 Botnets</a></td>
+<td><a href="techniques/T0093.002.md">T0093.002 Acquire Botnets</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -483,7 +483,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0094.002.md">T0094.002 Utilize Butterfly Attack</a></td>
+<td><a href="techniques/T0094.002.md">T0094.002 Utilize Butterfly Attacks</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -519,7 +519,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0096.md">T0096 Leverage Content Farm</a></td>
+<td><a href="techniques/T0096.md">T0096 Leverage Content Farms</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -528,7 +528,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0089.001.md">T0089.001 Leak Authentic Documents</a></td>
+<td><a href="techniques/T0089.001.md">T0089.001 Obtain Authentic Documents</a></td>
 <td><a href="techniques/T0112.md">T0112 Email</a></td>
 <td> </td>
 <td> </td>
@@ -537,7 +537,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0096.001.md">T0096.001 Create a Content Farm</a></td>
+<td><a href="techniques/T0096.001.md">T0096.001 Create Content Farms</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -546,7 +546,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0089.002.md">T0089.002 Leak False Documents</a></td>
+<td><a href="techniques/T0089.002.md">T0089.002 Create Inauthentic Documents</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -564,7 +564,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0089.003.md">T0089.003 Leak Altered Documents</a></td>
+<td><a href="techniques/T0089.003.md">T0089.003 Alter Authentic Documents</a></td>
 <td> </td>
 <td> </td>
 <td> </td>

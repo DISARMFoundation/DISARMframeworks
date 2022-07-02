@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--a8fc004e-c804-4eea-ac7b-07d61f742aac",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--41b909fa-d9b2-46ea-911d-ff82bb3f9149",
+            "created_by_ref": "identity--197ea789-ec4c-4bde-a1de-07723c6d72ca",
+            "created": "2022-07-02T19:37:33.913688Z",
+            "modified": "2022-07-02T19:37:33.913688Z",
+            "name": "Conceal Sponsorship",
+            "description": "TA11",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0130.001.md",
+                    "external_id": "T0130.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--9563edd9-173d-4899-9acb-3114b83c3bc9"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--e5897000-7a2c-4d4e-9652-bc3e2bd91fd4",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--b3f45d94-43fb-4095-be5f-3ce7dc7fed34",
+            "created_by_ref": "identity--63489239-e92e-4334-88a6-0247dfa673cc",
+            "created": "2022-07-02T19:37:33.830884Z",
+            "modified": "2022-07-02T19:37:33.830884Z",
+            "name": "Threaten to Dox",
+            "description": "TA18",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-online-harms"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0048.003.md",
+                    "external_id": "T0048.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--371fa8c4-3cd7-42f6-8b9b-4b9bb438f328"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

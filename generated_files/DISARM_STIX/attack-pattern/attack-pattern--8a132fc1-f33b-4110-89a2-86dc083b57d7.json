@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--4f4a0acd-a6dc-4493-befa-9e9daca82fe0",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--8a132fc1-f33b-4110-89a2-86dc083b57d7",
+            "created_by_ref": "identity--af3a45de-ee4e-4329-9acb-03522464fe8b",
+            "created": "2022-07-02T19:37:33.847138Z",
+            "modified": "2022-07-02T19:37:33.847138Z",
+            "name": "Conduct Web Traffic Analysis",
+            "description": "TA13",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0080.004.md",
+                    "external_id": "T0080.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--4c815477-1006-4c4a-b914-4c05452d6c58"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

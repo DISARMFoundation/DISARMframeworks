@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--2a8cef94-5353-43ae-854f-db7bad7ece88",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--96b4fe73-ff37-4a1a-8be2-4750735d0441",
+            "created_by_ref": "identity--0f006580-1669-46b4-8a49-d488991888e6",
+            "created": "2022-07-02T19:37:33.869555Z",
+            "modified": "2022-07-02T19:37:33.869555Z",
+            "name": "Infiltrate Existing Networks",
+            "description": "TA15",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0094.md",
+                    "external_id": "T0094"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--8fffb44e-03fc-4f96-b496-ce530d88d422"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

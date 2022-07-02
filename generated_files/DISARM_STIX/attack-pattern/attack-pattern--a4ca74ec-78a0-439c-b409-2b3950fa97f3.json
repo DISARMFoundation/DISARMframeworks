@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--7a212400-9ef6-4c0f-ad3e-ca7ae10d858b",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--a4ca74ec-78a0-439c-b409-2b3950fa97f3",
+            "created_by_ref": "identity--450f9885-309f-4aa0-9571-f17cebc54cff",
+            "created": "2022-07-02T19:37:33.838628Z",
+            "modified": "2022-07-02T19:37:33.838628Z",
+            "name": "Degrade Adversary",
+            "description": "TA02",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0066.md",
+                    "external_id": "T0066"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--733cb5e2-2dc5-4b87-9245-61d9105b3804"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

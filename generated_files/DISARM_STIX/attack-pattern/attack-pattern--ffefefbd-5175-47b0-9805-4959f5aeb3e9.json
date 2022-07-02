@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--003d49f3-efa5-4b4e-8f01-3139868c9990",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--ffefefbd-5175-47b0-9805-4959f5aeb3e9",
+            "created_by_ref": "identity--78e3ff74-15f4-4ed3-8e64-792857647e38",
+            "created": "2022-07-02T19:37:33.861942Z",
+            "modified": "2022-07-02T19:37:33.861942Z",
+            "name": "Create Inauthentic Documents",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0089.002.md",
+                    "external_id": "T0089.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--18b49cbb-c98f-4a03-950b-d318195f2bc6"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

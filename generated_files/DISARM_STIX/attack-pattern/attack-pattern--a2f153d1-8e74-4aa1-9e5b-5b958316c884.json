@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--dd466669-4092-401f-ac25-b84d8f543722",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--a2f153d1-8e74-4aa1-9e5b-5b958316c884",
+            "created_by_ref": "identity--3d27d5e7-85a1-4a92-8985-29cd87dba0ce",
+            "created": "2022-07-02T19:37:33.887631Z",
+            "modified": "2022-07-02T19:37:33.887631Z",
+            "name": "Formal Diplomatic Channels",
+            "description": "TA07",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0110.md",
+                    "external_id": "T0110"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--cf3475aa-a62c-4783-ad97-0625cb975640"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

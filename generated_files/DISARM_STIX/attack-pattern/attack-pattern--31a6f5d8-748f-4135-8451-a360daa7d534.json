@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--9d185f15-7f2b-4ae3-a1dc-10241f98feb2",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--31a6f5d8-748f-4135-8451-a360daa7d534",
+            "created_by_ref": "identity--0465705d-37cf-4cd2-8964-568afe5c091c",
+            "created": "2022-07-02T19:37:33.872497Z",
+            "modified": "2022-07-02T19:37:33.872497Z",
+            "name": "Create personas",
+            "description": "TA16",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0097.md",
+                    "external_id": "T0097"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--92b9e58e-167f-455a-a3c0-539e73b55902"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

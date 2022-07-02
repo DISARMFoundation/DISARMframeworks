@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--91066f9d-93c6-4f27-a1c1-b54c329557b7",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--0408630c-c29f-4235-b7fc-7215bbf46456",
+            "created_by_ref": "identity--2dda1284-686d-4996-bf63-2cf6048467ab",
+            "created": "2022-07-02T19:37:33.824079Z",
+            "modified": "2022-07-02T19:37:33.824079Z",
+            "name": "Reframe Context",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0023.001.md",
+                    "external_id": "T0023.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--9df42b49-73a9-4bcd-8f27-df2f91d8b028"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

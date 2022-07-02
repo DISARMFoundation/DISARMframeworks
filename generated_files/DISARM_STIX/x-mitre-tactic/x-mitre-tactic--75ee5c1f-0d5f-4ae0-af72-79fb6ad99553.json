@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--98201ca9-b601-4a1b-9a22-495d6ade021f",
+    "objects": [
+        {
+            "type": "x-mitre-tactic",
+            "spec_version": "2.1",
+            "id": "x-mitre-tactic--75ee5c1f-0d5f-4ae0-af72-79fb6ad99553",
+            "created_by_ref": "identity--27cc0239-4142-4a71-8d56-2ee7040fa393",
+            "created": "2022-07-02T19:37:33.806746Z",
+            "modified": "2022-07-02T19:37:33.806746Z",
+            "name": "Plan Objectives",
+            "description": "Set clearly defined, measurable, and achievable objectives. Achieving objectives ties execution of tactical tasks to reaching the desired end state. There are four primary considerations: \n- Each desired effect should link directly to one or more objectives \n- The effect should be measurable \n- The objective statement should not specify the way and means of accomplishment \n- The effect should be distinguishable from the objective it supports as a condition for success, not as another objective or task.",
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA02.md",
+                    "external_id": "TA02"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--873a8612-609b-4102-a18e-ab2c2ea756c9"
+            ],
+            "x_mitre_shortname": "plan-objectives"
+        }
+    ]
+}
