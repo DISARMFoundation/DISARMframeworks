@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--1b4c1662-0856-4c91-8e5e-84fb3642171c",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--a8cbd92a-bf04-4f6c-85d2-2d8802d3905e",
+            "created_by_ref": "identity--5122aed8-f506-421b-be45-cc121d92c6c6",
+            "created": "2022-07-02T19:59:12.734746Z",
+            "modified": "2022-07-02T19:59:12.734746Z",
+            "name": "Redirect URLs",
+            "description": "An influence operation may redirect its falsified or typosquatted URLs to legitimate websites to  increase the operation's appearance of legitimacy, complicate attribution, and avoid detection.  ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0129.008.md",
+                    "external_id": "T0129.008"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--8be12637-7a31-4c0f-8d1e-49c0c04f957c"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

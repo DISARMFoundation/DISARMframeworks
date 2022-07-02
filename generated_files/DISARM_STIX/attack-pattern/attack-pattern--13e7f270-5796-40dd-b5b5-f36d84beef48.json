@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--c6685321-559e-442b-b412-dcd0d68b454c",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--13e7f270-5796-40dd-b5b5-f36d84beef48",
+            "created_by_ref": "identity--faff4808-9c88-4a8b-977c-eb2a81e4cef9",
+            "created": "2022-07-02T19:59:12.737293Z",
+            "modified": "2022-07-02T19:59:12.737293Z",
+            "name": "Use Cryptocurrency",
+            "description": "Use Cryptocurrency to conceal sponsorship. Examples include Bitcoin, Monero, and Etherium. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0130.004.md",
+                    "external_id": "T0130.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--baeec09c-f65f-409a-8ccf-5653503ea414"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

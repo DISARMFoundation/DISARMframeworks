@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--6dd84627-d94e-4c4e-a676-ddc0539485fa",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--7e2d4014-b049-4d8a-b902-2f08fd820ef8",
+            "created_by_ref": "identity--b045792e-e2f0-4f9b-86f2-5d0cf07210d2",
+            "created": "2022-07-02T19:59:12.72936Z",
+            "modified": "2022-07-02T19:59:12.72936Z",
+            "name": "Conduct Physical Violence",
+            "description": "An influence operation may directly Conduct Physical Violence to achieve campaign goals. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-offline-activity"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0127.001.md",
+                    "external_id": "T0127.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--3f52d3bf-c1ad-48b6-b5dd-97ef34b4c94e"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

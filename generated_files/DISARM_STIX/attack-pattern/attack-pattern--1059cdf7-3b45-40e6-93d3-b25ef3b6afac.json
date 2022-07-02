@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--41834803-191e-446c-9b27-e085c7c09fbc",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--1059cdf7-3b45-40e6-93d3-b25ef3b6afac",
+            "created_by_ref": "identity--b9b5c65a-3913-4a60-9448-6d4974a5c8e1",
+            "created": "2022-07-02T19:59:12.633371Z",
+            "modified": "2022-07-02T19:59:12.633371Z",
+            "name": "Flooding the Information Space",
+            "description": "Flooding and/or mobbing social media channels feeds and/or hashtag with excessive volume of content to control/shape online conversations and/or drown out opposing points of view. Bots and/or patriotic trolls are effective tools to acheive this effect.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0049.md",
+                    "external_id": "T0049"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--bc33bc74-32ca-49cf-8fcb-c194ed40ccf9"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

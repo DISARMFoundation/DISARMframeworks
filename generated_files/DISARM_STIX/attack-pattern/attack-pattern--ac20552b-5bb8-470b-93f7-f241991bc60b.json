@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--2cbdefdc-feb4-4c3c-b16b-31d6493b1139",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--ac20552b-5bb8-470b-93f7-f241991bc60b",
+            "created_by_ref": "identity--7d1b1243-797f-431e-9cad-f3c2e13c0a61",
+            "created": "2022-07-02T19:59:12.73212Z",
+            "modified": "2022-07-02T19:59:12.73212Z",
+            "name": "Conceal Operational Activity",
+            "description": "Conceal the campaign's operational activity to avoid takedown and attribution.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0129.md",
+                    "external_id": "T0129"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--74bc890b-1a79-435f-ba35-09c5b98ed6a8"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

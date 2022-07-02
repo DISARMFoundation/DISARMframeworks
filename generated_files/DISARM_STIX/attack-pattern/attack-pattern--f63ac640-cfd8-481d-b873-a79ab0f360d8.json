@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--e7b686fc-ad04-4fad-8754-b616bca9e916",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--f63ac640-cfd8-481d-b873-a79ab0f360d8",
+            "created_by_ref": "identity--ab72df52-14e9-4ea8-8116-bbf6822ce4af",
+            "created": "2022-07-02T19:59:12.625897Z",
+            "modified": "2022-07-02T19:59:12.625897Z",
+            "name": "Amplify Existing Conspiracy Theory Narratives",
+            "description": "An influence operation may amplify an existing conspiracy theory narrative that aligns with its incident or campaign goals. By amplifying existing conspiracy theory narratives, operators can leverage the power of the existing communities that support and propagate those theories without needing to expend resources creating new narratives or building momentum and buy in around new narratives. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-narratives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0022.001.md",
+                    "external_id": "T0022.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--a3496ec9-3ed2-4102-bf82-3b590abaf718"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

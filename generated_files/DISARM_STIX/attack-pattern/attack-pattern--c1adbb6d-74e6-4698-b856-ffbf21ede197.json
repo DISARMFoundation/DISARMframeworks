@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--aaa8df62-c4a3-4dc6-bf0c-8a094f8c928d",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--c1adbb6d-74e6-4698-b856-ffbf21ede197",
+            "created_by_ref": "identity--d89f3ba3-9b44-4412-86de-e20d17983c9a",
+            "created": "2022-07-02T19:59:12.6197Z",
+            "modified": "2022-07-02T19:59:12.6197Z",
+            "name": "Create fake experts",
+            "description": "Stories planted or promoted in computational propaganda operations often make use of experts fabricated from whole cloth, sometimes specifically for the story itself. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0009.md",
+                    "external_id": "T0009"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--7b2b57ce-f686-418b-9850-e4543badeaca"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

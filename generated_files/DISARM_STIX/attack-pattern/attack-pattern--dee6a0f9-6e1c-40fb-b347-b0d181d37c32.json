@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--f5c86b9c-35c1-4009-acbe-04b555ff6cb5",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--dee6a0f9-6e1c-40fb-b347-b0d181d37c32",
+            "created_by_ref": "identity--fc0d8814-5f9f-46b4-97ea-4dc54109b2fa",
+            "created": "2022-07-02T19:59:12.674886Z",
+            "modified": "2022-07-02T19:59:12.674886Z",
+            "name": "Media Sharing Networks",
+            "description": "Media sharing networks refer to services whose primary function is the hosting and sharing of specific forms of media. Examples include Instagram, Snapchat, TikTok, Youtube, SoundCloud.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0105.md",
+                    "external_id": "T0105"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--025cb54b-fe99-4ab5-8e60-6bd4d58391e5"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--b603b736-a06b-4607-bc8e-8ed16e665ed8",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--bb7f412a-6e4e-4799-a32c-5ee05016e8b5",
+            "created_by_ref": "identity--0880ddf4-8131-4a9d-97f5-c375eb1cb6ff",
+            "created": "2022-07-02T19:59:12.645246Z",
+            "modified": "2022-07-02T19:59:12.645246Z",
+            "name": "Evaluate Media Surveys",
+            "description": "An influence operation may evaluate its own or third-party media surveys to determine what type  of content appeals to its target audience. Media surveys may provide insight into an audience\u2019s  political views, social class, general interests, or other indicators used to tailor operation messaging to its target audience.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0080.002.md",
+                    "external_id": "T0080.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--0b4b19d6-0881-4258-8ff3-85facacafc96"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--7a348cfb-52a6-46d8-8497-4eabb605157f",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--05792c90-5f5a-42e3-b7bf-b50284f7225e",
+            "created_by_ref": "identity--811faa7c-8fd8-48e8-be93-fa69c386dd9e",
+            "created": "2022-07-02T19:59:12.729033Z",
+            "modified": "2022-07-02T19:59:12.729033Z",
+            "name": "Physical Violence",
+            "description": "Physical violence refers to the use of force to injure, abuse, damage, or destroy. An influence operation may conduct or encourage physical violence to discourage opponents from promoting conflicting content or draw attention to operation narratives using shock value.  ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-offline-activity"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0127.md",
+                    "external_id": "T0127"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--9f29a434-5df1-4abb-9a96-670e46ca3ede"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

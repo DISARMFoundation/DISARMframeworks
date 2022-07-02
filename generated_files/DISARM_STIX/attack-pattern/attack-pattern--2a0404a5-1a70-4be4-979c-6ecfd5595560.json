@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--f2e8acfe-6571-48ea-b3f4-61b39007f04e",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--2a0404a5-1a70-4be4-979c-6ecfd5595560",
+            "created_by_ref": "identity--f45c1a1b-52a1-497c-af7d-3a19009b4031",
+            "created": "2022-07-02T19:59:12.628516Z",
+            "modified": "2022-07-02T19:59:12.628516Z",
+            "name": "Demand insurmountable proof",
+            "description": "Campaigns often leverage tactical and informational asymmetries on the threat surface, as seen in the Distort and Deny strategies, and the \"firehose of misinformation\". Specifically, conspiracy theorists can be repeatedly wrong, but advocates of the truth need to be perfect. By constantly escalating demands for proof, propagandists can effectively leverage this asymmetry while also priming its future use, often with an even greater asymmetric advantage. The conspiracist is offered freer rein for a broader range of \"questions\" while the truth teller is burdened with higher and higher standards of proof.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-narratives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0040.md",
+                    "external_id": "T0040"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--02b0b700-bc50-45e7-a923-9fa628d65eda"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

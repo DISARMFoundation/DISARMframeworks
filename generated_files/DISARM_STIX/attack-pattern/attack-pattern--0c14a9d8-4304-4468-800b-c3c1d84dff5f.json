@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--d7c2082b-b210-4c63-8360-c9622bd2ddea",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--0c14a9d8-4304-4468-800b-c3c1d84dff5f",
+            "created_by_ref": "identity--ef280992-aaca-463b-bb9e-1a8f0eb31c08",
+            "created": "2022-07-02T19:59:12.624385Z",
+            "modified": "2022-07-02T19:59:12.624385Z",
+            "name": "Create fake research",
+            "description": "Create fake academic research. Example: fake social science research is often aimed at hot-button social issues such as gender, race and sexuality. Fake science research can target Climate Science debate or pseudoscience like anti-vaxx",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0019.001.md",
+                    "external_id": "T0019.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--b0fc2160-56aa-4247-8581-413503cb14ad"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

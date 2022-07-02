@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--08822aec-14a1-4e46-84bc-df1d8c0c6605",
+    "objects": [
+        {
+            "type": "x-mitre-tactic",
+            "spec_version": "2.1",
+            "id": "x-mitre-tactic--96fb9f2b-c2bb-44d3-9613-fc3fa46182e7",
+            "created_by_ref": "identity--45bc2bd8-bd63-4e58-a0fb-52a625ffbad0",
+            "created": "2022-07-02T19:59:12.614484Z",
+            "modified": "2022-07-02T19:59:12.614484Z",
+            "name": "Deliver Content",
+            "description": "Release content to general public or larger population",
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA09.md",
+                    "external_id": "TA09"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--81d5e807-ce92-467d-8e86-3ecf79f967d8"
+            ],
+            "x_mitre_shortname": "deliver-content"
+        }
+    ]
+}

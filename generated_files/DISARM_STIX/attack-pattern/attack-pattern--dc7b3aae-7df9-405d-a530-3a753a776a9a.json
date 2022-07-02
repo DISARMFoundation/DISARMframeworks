@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--933bf5f1-7ed7-4e3c-9c8b-3e3b92830c72",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--dc7b3aae-7df9-405d-a530-3a753a776a9a",
+            "created_by_ref": "identity--5e295894-d010-463b-9018-4b8c9a038465",
+            "created": "2022-07-02T19:59:12.680645Z",
+            "modified": "2022-07-02T19:59:12.680645Z",
+            "name": "Social media",
+            "description": "Social Media",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "deliver-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0114.001.md",
+                    "external_id": "T0114.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--40c1c436-5b9d-4547-9132-cc56ec1f9f3a"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

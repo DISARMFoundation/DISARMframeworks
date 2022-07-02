@@ -40,7 +40,7 @@
 <tr>
 <td><a href="techniques/T0009.001.md">T0009.001</a></td>
 <td>Utilize Academic/Pseudoscientific Justifications</td>
-<td></td>
+<td>Utilize Academic/Pseudoscientific Justifications</td>
 <td>TA16</td>
 </tr>
 <tr>
@@ -69,14 +69,14 @@
 </tr>
 <tr>
 <td><a href="techniques/T0014.001.md">T0014.001</a></td>
-<td>From bad actors</td>
-<td></td>
+<td>Raise funds from malign actors</td>
+<td>Raising funds from malign actors may include contributions from foreign agents, cutouts or proxies, shell companies, dark money groups, etc. </td>
 <td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0014.002.md">T0014.002</a></td>
-<td>From ignorant agents</td>
-<td></td>
+<td>Raise funds from ignorant agents</td>
+<td>Raising funds from ignorant agents may include scams, donations intended for one stated purpose but then used for another, etc. </td>
 <td>TA15</td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@
 <tr>
 <td><a href="techniques/T0017.001.md">T0017.001</a></td>
 <td>Conduct Crowdfunding Campaigns</td>
-<td></td>
+<td>An influence operation may Conduct Crowdfunding Campaigns on platforms such as GoFundMe, GiveSendGo, Tipeee, Patreon, etc.</td>
 <td>TA10</td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@
 <tr>
 <td><a href="techniques/T0019.002.md">T0019.002</a></td>
 <td>Hijack Hashtags</td>
-<td></td>
+<td>Hashtag hijacking occurs when users ‚Äú[use] a trending hashtag to promote topics that are substantially different from its recent context‚Äù (VanDam and Tan, 2016) or ‚Äúto promote one‚Äôs own social media agenda‚Äù (Darius and Stephany, 2019).</td>
 <td>TA06</td>
 </tr>
 <tr>
@@ -141,14 +141,14 @@
 </tr>
 <tr>
 <td><a href="techniques/T0022.001.md">T0022.001</a></td>
-<td>Amplify Existing Conspiracy Theory Narrative</td>
-<td></td>
+<td>Amplify Existing Conspiracy Theory Narratives</td>
+<td>An influence operation may amplify an existing conspiracy theory narrative that aligns with its incident or campaign goals. By amplifying existing conspiracy theory narratives, operators can leverage the power of the existing communities that support and propagate those theories without needing to expend resources creating new narratives or building momentum and buy in around new narratives. </td>
 <td>TA14</td>
 </tr>
 <tr>
 <td><a href="techniques/T0022.002.md">T0022.002</a></td>
 <td>Develop Original Conspiracy Theory Narratives</td>
-<td></td>
+<td>While this requires more resources than amplifying existing conspiracy theory narratives, an influence operation may develop original conspiracy theory narratives in order to achieve greater control and alignment over the narrative and their campaign goals. Prominent examples include the USSR's Operation INFEKTION disinformation campaign run by the KGB in the 1980s to plant the idea that the United States had invented HIV/AIDS as part of a biological weapons research project at Fort Detrick, Maryland. More recently, Fort Detrick featured prominently in a new conspiracy theory narratives around the origins of the COVID-19 outbreak and pandemic. </td>
 <td>TA14</td>
 </tr>
 <tr>
@@ -202,13 +202,13 @@
 <tr>
 <td><a href="techniques/T0043.001.md">T0043.001</a></td>
 <td>Use Encrypted Chat Apps</td>
-<td></td>
+<td>Examples include Signal, WhatsApp, Discord, Wire, etc.</td>
 <td>TA07</td>
 </tr>
 <tr>
 <td><a href="techniques/T0043.002.md">T0043.002</a></td>
 <td>Use Unencrypted Chats Apps</td>
-<td></td>
+<td>Examples include SMS, etc.</td>
 <td>TA07</td>
 </tr>
 <tr>
@@ -578,19 +578,19 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) ‚Ä
 <tr>
 <td><a href="techniques/T0084.002.md">T0084.002</a></td>
 <td>Plagiarize Content</td>
-<td></td>
+<td>An influence operation may take content from other sources without proper attribution. This content may be either misinformation content shared by others without malicious intent but now leveraged by the campaign as disinformation or disinformation content from other sources. </td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0084.003.md">T0084.003</a></td>
 <td>Deceptively Labeled or Translated</td>
-<td></td>
+<td>An influence operation may take authentic content from other sources and add deceptive labels or deceptively translate the content into other langauges. </td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0084.004.md">T0084.004</a></td>
 <td>Appropriate Content</td>
-<td></td>
+<td>An influence operation may take content from other sources with proper attribution. This content may be either misinformation content shared by others without malicious intent but now leveraged by the campaign as disinformation or disinformation content from other sources. Examples include the appropriation of content from one inauthentic news site to another inauthentic news site or network in ways that align with the originators licensing or terms of service.</td>
 <td>TA06</td>
 </tr>
 <tr>
@@ -608,13 +608,13 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) ‚Ä
 <tr>
 <td><a href="techniques/T0085.002.md">T0085.002</a></td>
 <td>Develop False or Altered Documents</td>
-<td></td>
+<td>Develop False or Altered Documents</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0085.003.md">T0085.003</a></td>
 <td>Develop Inauthentic News Articles</td>
-<td></td>
+<td>An influence operation may develop false or misleading news articles aligned to their campaign goals or narratives. </td>
 <td>TA06</td>
 </tr>
 <tr>
@@ -637,14 +637,14 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) ‚Ä
 </tr>
 <tr>
 <td><a href="techniques/T0086.003.md">T0086.003</a></td>
-<td>Deceptively Edit Image (Cheap fakes)</td>
+<td>Deceptively Edit Images (Cheap fakes)</td>
 <td>Cheap fakes utilize less sophisticated measures of altering an image, video, or audio for example, slowing, speeding, or cutting footage to create a false context surrounding an image or event.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0086.004.md">T0086.004</a></td>
 <td>Aggregate Information into Evidence Collages</td>
-<td>image files that aggregate positive evidence (Joan Donovan)</td>
+<td>Image files that aggregate positive evidence (Joan Donovan)</td>
 <td>TA06</td>
 </tr>
 <tr>
@@ -691,20 +691,20 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) ‚Ä
 </tr>
 <tr>
 <td><a href="techniques/T0089.001.md">T0089.001</a></td>
-<td>Leak Authentic Documents</td>
-<td></td>
+<td>Obtain Authentic Documents</td>
+<td>Procure authentic documents that are not publicly available, by whatever means -- whether legal or illegal, highly-resourced or less so. These documents can be "leaked" during later stages in the operation.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0089.002.md">T0089.002</a></td>
-<td>Leak False Documents</td>
-<td></td>
+<td>Create Inauthentic Documents</td>
+<td>Create inauthentic documents intended to appear as if they are authentic non-public documents. These documents can be "leaked" during later stages in the operation.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0089.003.md">T0089.003</a></td>
-<td>Leak Altered Documents</td>
-<td>Obtain documents (eg by theft or leak), then alter and release, possibly among factual documents/sources.</td>
+<td>Alter Authentic Documents</td>
+<td>Alter authentic documents (public or non-public) to achieve campaign goals. The altered documents are intended to appear as if they are authentic can be "leaked" during later stages in the operation.</td>
 <td>TA06</td>
 </tr>
 <tr>
@@ -740,20 +740,20 @@ Amplifier bots promote operation content through reposts, shares, and likes to i
 </tr>
 <tr>
 <td><a href="techniques/T0091.md">T0091</a></td>
-<td>Recruit bad actors</td>
+<td>Recruit malign actors</td>
 <td>Operators recruit bad actors paying recruiting, or exerting control over individuals includes trolls, partisans, and contractors.</td>
 <td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0091.001.md">T0091.001</a></td>
 <td>Recruit Contractors</td>
-<td></td>
+<td>Operators recruit paid contractor to support the campaign.</td>
 <td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0091.002.md">T0091.002</a></td>
 <td>Recruit Partisans</td>
-<td></td>
+<td>Operators recruit partisans (ideologically-aligned individuals) to support the campaign.</td>
 <td>TA15</td>
 </tr>
 <tr>
@@ -777,19 +777,19 @@ Classic trolls refer to regular people who troll for personal reasons, such as a
 </tr>
 <tr>
 <td><a href="techniques/T0092.002.md">T0092.002</a></td>
-<td>Follow Trains</td>
-<td></td>
+<td>Use Follow Trains</td>
+<td>A follow train is a group of people who follow each other on a social media platform, often as a way for an individual or campaign to grow its social media following. Follow trains may be a violation of platform Terms of Service. They are also known as follow-for-follow groups.  </td>
 <td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0092.003.md">T0092.003</a></td>
 <td>Create Community or Sub-group</td>
-<td></td>
+<td>When there is not an existing community or sub-group that meets a campaign's goals, an influence operation may seek to create a community or sub-group. </td>
 <td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0093.md">T0093</a></td>
-<td>Acquire/ recruit Network</td>
+<td>Acquire/Recruit Network</td>
 <td>Operators acquire an existing network by paying, recruiting, or exerting control over the leaders of the existing network. </td>
 <td>TA15</td>
 </tr>
@@ -803,8 +803,8 @@ Classic trolls refer to regular people who troll for personal reasons, such as a
 </tr>
 <tr>
 <td><a href="techniques/T0093.002.md">T0093.002</a></td>
-<td>Botnets</td>
-<td></td>
+<td>Acquire Botnets</td>
+<td>A botnet is a group of bots that can function in coordination with each other. </td>
 <td>TA15</td>
 </tr>
 <tr>
@@ -816,12 +816,12 @@ Classic trolls refer to regular people who troll for personal reasons, such as a
 <tr>
 <td><a href="techniques/T0094.001.md">T0094.001</a></td>
 <td>Identify susceptible targets in networks</td>
-<td></td>
+<td>When seeking to infiltrate an existing network, an influence operation may identify individuals and groups that might be susceptible to being co-opted or influenced.</td>
 <td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0094.002.md">T0094.002</a></td>
-<td>Utilize Butterfly Attack</td>
+<td>Utilize Butterfly Attacks</td>
 <td>Butterfly attacks occur when operators pretend to be members of a certain social group, usually  a group that struggles for representation. An influence operation may mimic a group to insert  controversial statements into the discourse, encourage the spread of operation content, or promote harassment among group members. Unlike astroturfing, butterfly attacks aim to  infiltrate and discredit existing grassroots movements, organizations, and media campaigns.  </td>
 <td>TA15</td>
 </tr>
@@ -833,14 +833,14 @@ Classic trolls refer to regular people who troll for personal reasons, such as a
 </tr>
 <tr>
 <td><a href="techniques/T0096.md">T0096</a></td>
-<td>Leverage Content Farm</td>
+<td>Leverage Content Farms</td>
 <td>Using the services of large-scale content providers for creating and amplifying campaign artifacts at scale.</td>
 <td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0096.001.md">T0096.001</a></td>
-<td>Create a Content Farm</td>
-<td></td>
+<td>Create Content Farms</td>
+<td>An influence operation may create an organization for creating and amplifying campaign artifacts at scale.</td>
 <td>TA15</td>
 </tr>
 <tr>
@@ -870,14 +870,13 @@ Classic trolls refer to regular people who troll for personal reasons, such as a
 <tr>
 <td><a href="techniques/T0098.001.md">T0098.001</a></td>
 <td>Create Inauthentic News Sites</td>
-<td></td>
+<td>Create Inauthentic News Sites</td>
 <td>TA16</td>
 </tr>
 <tr>
 <td><a href="techniques/T0098.002.md">T0098.002</a></td>
 <td>Leverage Existing Inauthentic News Sites</td>
-<td>An influence operation may prepare assets impersonating legitimate entities to further conceal its  network identity and add a layer of legitimacy to its operation content. Users will more likely  believe and less likely fact-check news from recognizable sources rather than unknown sites.  Legitimate entities may include authentic news outlets, public figures, organizations, or state  entities.  
-An influence operation may use a wide variety of cyber techniques to impersonate a legitimate  entity‚Äôs website or social media account. Typosquatting87 is the international registration of a  domain name with purposeful variations of the impersonated domain name through intentional  typos, top-level domain (TLD) manipulation, or punycode. Typosquatting facilitates the creation  of falsified websites by creating similar domain names in the URL box, leaving it to the user to  confirm that the URL is correct.  </td>
+<td>Leverage Existing Inauthentic News Sites</td>
 <td>TA16</td>
 </tr>
 <tr>
@@ -896,7 +895,7 @@ An influence operation may use a wide variety of cyber techniques to impersonate
 <tr>
 <td><a href="techniques/T0099.002.md">T0099.002</a></td>
 <td>Spoof/parody account/site</td>
-<td></td>
+<td>An influence operation may prepare assets impersonating legitimate entities to further conceal its  network identity and add a layer of legitimacy to its operation content. Users will more likely  believe and less likely fact-check news from recognizable sources rather than unknown sites.  Legitimate entities may include authentic news outlets, public figures, organizations, or state  entities.  </td>
 <td>TA16</td>
 </tr>
 <tr>
@@ -911,19 +910,19 @@ An influence operation may use a wide variety of cyber techniques to impersonate
 <tr>
 <td><a href="techniques/T0100.001.md">T0100.001</a></td>
 <td>Co-Opt Trusted Individuals</td>
-<td></td>
+<td>Co-Opt Trusted Individuals</td>
 <td>TA16</td>
 </tr>
 <tr>
 <td><a href="techniques/T0100.002.md">T0100.002</a></td>
 <td>Co-Opt Grassroots Groups</td>
-<td></td>
+<td>Co-Opt Grassroots Groups</td>
 <td>TA16</td>
 </tr>
 <tr>
 <td><a href="techniques/T0100.003.md">T0100.003</a></td>
 <td>Co-opt Influencers</td>
-<td></td>
+<td>Co-opt Influencers</td>
 <td>TA16</td>
 </tr>
 <tr>
@@ -941,13 +940,13 @@ An influence operation may use a wide variety of cyber techniques to impersonate
 <tr>
 <td><a href="techniques/T0102.001.md">T0102.001</a></td>
 <td>Use existing Echo Chambers/Filter Bubbles</td>
-<td></td>
+<td>Use existing Echo Chambers/Filter Bubbles</td>
 <td>TA05</td>
 </tr>
 <tr>
 <td><a href="techniques/T0102.002.md">T0102.002</a></td>
 <td>Create Echo Chambers/Filter Bubbles</td>
-<td></td>
+<td>Create Echo Chambers/Filter Bubbles</td>
 <td>TA05</td>
 </tr>
 <tr>
@@ -984,19 +983,19 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) ‚Ä
 <tr>
 <td><a href="techniques/T0104.001.md">T0104.001</a></td>
 <td>Mainstream Social Networks</td>
-<td>Examples include Facebook, Twitter, LinkedIn, VK, </td>
+<td>Examples include Facebook, Twitter, LinkedIn, etc.</td>
 <td>TA07</td>
 </tr>
 <tr>
 <td><a href="techniques/T0104.002.md">T0104.002</a></td>
 <td>Dating Apps</td>
-<td></td>
+<td>A video livestream refers to an online video broadcast capability that allows for real-time communication to closed or open networks. Examples include Facebook Live, Instagram, Youtube, Tik Tok, and Twitter. </td>
 <td>TA07</td>
 </tr>
 <tr>
 <td><a href="techniques/T0104.003.md">T0104.003</a></td>
 <td>Private/Closed Social Networks</td>
-<td></td>
+<td>An audio livestream refers to an online audio broadcast capability that allows for real-time communication to closed or open networks. Examples include Twitter Spaces, </td>
 <td>TA07</td>
 </tr>
 <tr>
@@ -1086,19 +1085,19 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) ‚Ä
 <tr>
 <td><a href="techniques/T0111.001.md">T0111.001</a></td>
 <td>TV</td>
-<td></td>
+<td>TV</td>
 <td>TA07</td>
 </tr>
 <tr>
 <td><a href="techniques/T0111.002.md">T0111.002</a></td>
 <td>Newspaper</td>
-<td></td>
+<td>Newspaper</td>
 <td>TA07</td>
 </tr>
 <tr>
 <td><a href="techniques/T0111.003.md">T0111.003</a></td>
 <td>Radio</td>
-<td></td>
+<td>Radio</td>
 <td>TA07</td>
 </tr>
 <tr>
@@ -1122,7 +1121,7 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) ‚Ä
 <tr>
 <td><a href="techniques/T0114.001.md">T0114.001</a></td>
 <td>Social media</td>
-<td></td>
+<td>Social Media</td>
 <td>TA09</td>
 </tr>
 <tr>
@@ -1146,7 +1145,7 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) ‚Ä
 <tr>
 <td><a href="techniques/T0115.002.md">T0115.002</a></td>
 <td>Post Violative Content to Provoke Takedown and Backlash</td>
-<td></td>
+<td>Post Violative Content to Provoke Takedown and Backlash.</td>
 <td>TA09</td>
 </tr>
 <tr>
@@ -1188,19 +1187,19 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) ‚Ä
 <tr>
 <td><a href="techniques/T0119.001.md">T0119.001</a></td>
 <td>Post Across Groups</td>
-<td></td>
+<td>An influence operation may post content across groups to spread narratives and content to new communities within the target audiences or to new target audiences. </td>
 <td>TA17</td>
 </tr>
 <tr>
 <td><a href="techniques/T0119.002.md">T0119.002</a></td>
 <td>Post Across Platform</td>
-<td></td>
+<td>An influence operation may post content across platforms to spread narratives and content to new communities within the target audiences or to new target audiences. Posting across platforms can also remove opposition and context, helping the narrative spread with less opposition on the cross-posted platform. </td>
 <td>TA17</td>
 </tr>
 <tr>
 <td><a href="techniques/T0119.003.md">T0119.003</a></td>
 <td>Post Across Disciplines</td>
-<td></td>
+<td>Post Across Disciplines</td>
 <td>TA17</td>
 </tr>
 <tr>
@@ -1212,13 +1211,13 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) ‚Ä
 <tr>
 <td><a href="techniques/T0120.001.md">T0120.001</a></td>
 <td>Use Affiliate Marketing Programs</td>
-<td></td>
+<td>Use Affiliate Marketing Programs</td>
 <td>TA17</td>
 </tr>
 <tr>
 <td><a href="techniques/T0120.002.md">T0120.002</a></td>
 <td>Use Contests and Prizes</td>
-<td></td>
+<td>Use Contests and Prizes</td>
 <td>TA17</td>
 </tr>
 <tr>
@@ -1296,7 +1295,7 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) ‚Ä
 <tr>
 <td><a href="techniques/T0124.003.md">T0124.003</a></td>
 <td>Exploit Platform TOS/Content Moderation</td>
-<td></td>
+<td>Exploit Platform TOS/Content Moderation</td>
 <td>TA18</td>
 </tr>
 <tr>
@@ -1314,7 +1313,7 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) ‚Ä
 <tr>
 <td><a href="techniques/T0126.001.md">T0126.001</a></td>
 <td>Call to action to attend </td>
-<td></td>
+<td>Call to action to attend an event</td>
 <td>TA10</td>
 </tr>
 <tr>
@@ -1332,13 +1331,13 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) ‚Ä
 <tr>
 <td><a href="techniques/T0127.001.md">T0127.001</a></td>
 <td>Conduct Physical Violence</td>
-<td></td>
+<td>An influence operation may directly Conduct Physical Violence to achieve campaign goals. </td>
 <td>TA10</td>
 </tr>
 <tr>
 <td><a href="techniques/T0127.002.md">T0127.002</a></td>
 <td>Encourage Physical Violence</td>
-<td></td>
+<td>An influence operation may Encourage others to engage in Physical Violence to achieve campaign goals. </td>
 <td>TA10</td>
 </tr>
 <tr>
@@ -1409,8 +1408,8 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) ‚Ä
 </tr>
 <tr>
 <td><a href="techniques/T0129.005.md">T0129.005</a></td>
+<td>Coordinate on encrypted/closed networks</td>
 <td>Coordinate on encrypted/ closed networks</td>
-<td></td>
 <td>TA11</td>
 </tr>
 <tr>
@@ -1465,19 +1464,19 @@ Influence operations may use a variety of techniques to mask the location of the
 <tr>
 <td><a href="techniques/T0130.003.md">T0130.003</a></td>
 <td>Use Shell Organizations</td>
-<td></td>
+<td>Use Shell Organizations to conceal sponsorship.</td>
 <td>TA11</td>
 </tr>
 <tr>
 <td><a href="techniques/T0130.004.md">T0130.004</a></td>
 <td>Use Cryptocurrency</td>
-<td></td>
+<td>Use Cryptocurrency to conceal sponsorship. Examples include Bitcoin, Monero, and Etherium. </td>
 <td>TA11</td>
 </tr>
 <tr>
 <td><a href="techniques/T0130.005.md">T0130.005</a></td>
 <td>Obfuscate Payment</td>
-<td></td>
+<td>Obfuscate Payment</td>
 <td>TA11</td>
 </tr>
 <tr>
@@ -1495,7 +1494,7 @@ Influence operations may use a variety of techniques to mask the location of the
 <tr>
 <td><a href="techniques/T0131.002.md">T0131.002</a></td>
 <td>Post Borderline Content</td>
-<td></td>
+<td>Post Borderline Content</td>
 <td>TA11</td>
 </tr>
 <tr>
@@ -1507,19 +1506,19 @@ Influence operations may use a variety of techniques to mask the location of the
 <tr>
 <td><a href="techniques/T0132.001.md">T0132.001</a></td>
 <td>People Focused</td>
-<td></td>
+<td>Measure the performance individuals in achieving campaign goals</td>
 <td>TA12</td>
 </tr>
 <tr>
 <td><a href="techniques/T0132.002.md">T0132.002</a></td>
 <td>Content Focused</td>
-<td></td>
+<td>Measure the performance of campaign content</td>
 <td>TA12</td>
 </tr>
 <tr>
 <td><a href="techniques/T0132.003.md">T0132.003</a></td>
 <td>View Focused</td>
-<td></td>
+<td>View Focused</td>
 <td>TA12</td>
 </tr>
 <tr>
@@ -1537,25 +1536,25 @@ Influence operations may use a variety of techniques to mask the location of the
 <tr>
 <td><a href="techniques/T0133.002.md">T0133.002</a></td>
 <td>Content</td>
-<td></td>
+<td>Measure current system state with respect to the effectiveness of campaign content. </td>
 <td>TA12</td>
 </tr>
 <tr>
 <td><a href="techniques/T0133.003.md">T0133.003</a></td>
 <td>Awareness</td>
-<td></td>
+<td>Measure current system state with respect to the effectiveness of influencing awareness. </td>
 <td>TA12</td>
 </tr>
 <tr>
 <td><a href="techniques/T0133.004.md">T0133.004</a></td>
 <td>Knowledge</td>
-<td></td>
+<td>Measure current system state with respect to the effectiveness of influencing knowledge. </td>
 <td>TA12</td>
 </tr>
 <tr>
 <td><a href="techniques/T0133.005.md">T0133.005</a></td>
 <td>Action/attitude</td>
-<td></td>
+<td>Measure current system state with respect to the effectiveness of influencing action/attitude. </td>
 <td>TA12</td>
 </tr>
 <tr>

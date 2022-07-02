@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--e7bdb8b7-1b61-440d-9142-a8f59795a732",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--90b784fc-b681-48ab-a15e-f9e38ff64f27",
+            "created_by_ref": "identity--96822444-15f6-4ffb-baaf-b487dc116cc0",
+            "created": "2022-07-02T19:59:12.722935Z",
+            "modified": "2022-07-02T19:59:12.722935Z",
+            "name": "Use Affiliate Marketing Programs",
+            "description": "Use Affiliate Marketing Programs",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0120.001.md",
+                    "external_id": "T0120.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--5eda3001-d48f-41fa-a7da-f270a5f9a1ab"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

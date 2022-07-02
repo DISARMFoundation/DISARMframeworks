@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--68aba449-84d3-4c93-ad33-928287d7739a",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--36203197-90da-4681-b394-0bad48a2dea5",
+            "created_by_ref": "identity--04cfd5d6-8344-4af2-b058-fdd2e7c79970",
+            "created": "2022-07-02T19:59:12.622991Z",
+            "modified": "2022-07-02T19:59:12.622991Z",
+            "name": "Conduct fundraising",
+            "description": "Fundraising campaigns refer to an influence operation\u2019s systematic effort to seek financial  support for a charity, cause, or other enterprise using online activities that further promote  operation information pathways while raising a profit. Many influence operations have engaged  in crowdfunding services166 on platforms including Tipee, Patreon, and GoFundMe. An operation  may use its previously prepared fundraising campaigns to promote operation messaging while raising money to support its activities.  ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-offline-activity"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0017.md",
+                    "external_id": "T0017"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--dc4ba4b0-d802-43e8-a1f1-7f8ee6ef3f77"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

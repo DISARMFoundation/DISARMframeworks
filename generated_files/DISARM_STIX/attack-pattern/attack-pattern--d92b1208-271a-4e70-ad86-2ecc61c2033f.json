@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--65083ab8-6d1f-43c8-989a-5c2cb378da69",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--d92b1208-271a-4e70-ad86-2ecc61c2033f",
+            "created_by_ref": "identity--dc371a33-51e4-48f9-a98f-cc39ae8cb87f",
+            "created": "2022-07-02T19:59:12.642907Z",
+            "modified": "2022-07-02T19:59:12.642907Z",
+            "name": "Distort",
+            "description": "Twist the narrative. Take information, or artifacts like images, and change the framing around them.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0076.md",
+                    "external_id": "T0076"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--35294f15-a41f-4332-8fc9-b6a07e5e8784"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

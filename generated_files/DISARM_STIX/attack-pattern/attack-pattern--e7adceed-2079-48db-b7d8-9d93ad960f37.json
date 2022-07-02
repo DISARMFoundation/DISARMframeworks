@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--18c4eb1d-4d49-4ed7-a628-38fff768f6d9",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--e7adceed-2079-48db-b7d8-9d93ad960f37",
+            "created_by_ref": "identity--a7d1279f-4a10-4236-80b4-6d00ed9dab89",
+            "created": "2022-07-02T19:59:12.644857Z",
+            "modified": "2022-07-02T19:59:12.644857Z",
+            "name": "Monitor Social Media Analytics",
+            "description": "An influence operation may use social media analytics to determine which factors will increase  the operation content\u2019s exposure to its target audience on social media platforms, including  views, interactions, and sentiment relating to topics and content types. The social media platform  itself or a third-party tool may collect the metrics.  ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0080.001.md",
+                    "external_id": "T0080.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--ac981015-659c-4aa5-bb45-d8be36bc6121"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

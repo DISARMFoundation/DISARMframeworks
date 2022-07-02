@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--2e794870-fd94-4be6-8e6b-f3fdcdd0ea75",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--06504d3c-f7cc-46fd-a6a4-5f1fb3291232",
+            "created_by_ref": "identity--0d8fc69a-bd53-450e-a29e-d1e994f07b6d",
+            "created": "2022-07-02T19:59:12.621676Z",
+            "modified": "2022-07-02T19:59:12.621676Z",
+            "name": "Raise funds from malign actors",
+            "description": "Raising funds from malign actors may include contributions from foreign agents, cutouts or proxies, shell companies, dark money groups, etc. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0014.001.md",
+                    "external_id": "T0014.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--a6f5dcd4-b345-4f31-8f8c-c2294dc9e7c5"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

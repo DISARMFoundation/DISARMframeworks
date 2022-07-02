@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--435f68e0-cce3-46c6-89dc-05e5fee94ed0",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--a18dda94-01e8-413a-98c4-125f28091614",
+            "created_by_ref": "identity--57d46698-88d9-4a9c-965c-e490522af3a9",
+            "created": "2022-07-02T19:59:12.730137Z",
+            "modified": "2022-07-02T19:59:12.730137Z",
+            "name": "Conceal People",
+            "description": "Conceal the identity or provenance of a campaign's account and people assets to avoid takedown and attribution.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0128.md",
+                    "external_id": "T0128"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--bc374c8b-e7e6-46fe-b3b6-927bf6aef187"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

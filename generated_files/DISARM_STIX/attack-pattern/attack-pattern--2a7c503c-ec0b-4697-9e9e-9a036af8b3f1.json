@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--3a1ced50-b989-4aa8-b54d-e4f2f0eba88b",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--2a7c503c-ec0b-4697-9e9e-9a036af8b3f1",
+            "created_by_ref": "identity--fe9ad911-7029-4966-a74c-776f17908d1e",
+            "created": "2022-07-02T19:59:12.628924Z",
+            "modified": "2022-07-02T19:59:12.628924Z",
+            "name": "Seed Kernel of truth",
+            "description": "Wrap lies or altered context/facts around truths. Influence campaigns pursue a variety of objectives with respect to target audiences, prominent among them: 1. undermine a narrative commonly referenced in the target audience; or 2. promote a narrative less common in the target audience, but preferred by the attacker. In both cases, the attacker is presented with a heavy lift. They must change the relative importance of various narratives in the interpretation of events, despite contrary tendencies. When messaging makes use of factual reporting to promote these adjustments in the narrative space, they are less likely to be dismissed out of hand; when messaging can juxtapose a (factual) truth about current affairs with the (abstract) truth explicated in these narratives, propagandists can undermine or promote them selectively. Context matters.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "conduct-pump-priming"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0042.md",
+                    "external_id": "T0042"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--09c6b85a-54b3-425b-abb1-d196e40d30af"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

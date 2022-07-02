@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--3d1853dd-4885-4fc0-a5d9-de90abc2a0cb",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--d1bed9f5-c57a-463b-a7e0-1217d5e91eeb",
+            "created_by_ref": "identity--701206ed-d478-456d-8056-471c43876dca",
+            "created": "2022-07-02T19:59:12.724599Z",
+            "modified": "2022-07-02T19:59:12.724599Z",
+            "name": "Control Information Environment through Offensive Cyberspace Operations",
+            "description": "Controlling the information environment through offensive cyberspace operations uses cyber tools and techniques to alter the trajectory of  content in the information space to either prioritize operation messaging or block opposition messaging.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-online-harms"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0123.md",
+                    "external_id": "T0123"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--b9978975-39c2-41de-b0f1-305296e69d07"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--ca863949-46b8-4107-89bb-85b911cdfb65",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--a6e4691f-4907-4270-ab84-fbb1b01be00c",
+            "created_by_ref": "identity--2011c19d-8b82-4ba8-b189-8e29794d2689",
+            "created": "2022-07-02T19:59:12.634456Z",
+            "modified": "2022-07-02T19:59:12.634456Z",
+            "name": "Bots Amplify via Automated Forwarding and Reposting",
+            "description": "Automated forwarding and reposting refer to the proliferation of operation content using  automated means, such as artificial intelligence or social media bots. An influence operation may  use automated activity to increase content exposure without dedicating the resources, including  personnel and time, traditionally required to forward and repost content. \nUse bots to amplify narratives above algorithm thresholds. Bots are automated/programmed profiles designed to amplify content (ie: automatically retweet or like) and give appearance it's more \"popular\" than it is. They can operate as a network, to function in a coordinated/orchestrated manner. In some cases (more so now) they are an inexpensive/disposable assets used for minimal deployment as bot detection tools improve and platforms are more responsive.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0049.003.md",
+                    "external_id": "T0049.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--dc054ca6-5041-44df-85a7-d2542b491c76"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

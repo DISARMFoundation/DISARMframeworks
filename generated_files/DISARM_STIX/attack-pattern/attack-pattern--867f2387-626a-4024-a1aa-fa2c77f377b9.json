@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--94047545-9641-41c9-b433-4e0ddfd9d377",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--867f2387-626a-4024-a1aa-fa2c77f377b9",
+            "created_by_ref": "identity--8e23b3b6-73c9-4984-8f58-d2a4b71f41c6",
+            "created": "2022-07-02T19:59:12.676914Z",
+            "modified": "2022-07-02T19:59:12.676914Z",
+            "name": "Bookmarking and Content Curation",
+            "description": "Platforms for searching, sharing, and curating content and media. Examples include Pinterest, Flipboard, etc.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0107.md",
+                    "external_id": "T0107"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--7796e8d4-1459-4884-bd46-7b7194cfb775"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

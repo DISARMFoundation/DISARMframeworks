@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--d1ab6c67-add6-416d-86e1-e87ce0c2e4fc",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--15bd2bb3-531e-4a14-8650-613bf8dda25c",
+            "created_by_ref": "identity--ea577b4d-c331-4c65-b032-44577305e622",
+            "created": "2022-07-02T19:59:12.64054Z",
+            "modified": "2022-07-02T19:59:12.64054Z",
+            "name": "Economic Segmentation",
+            "description": "An influence operation may target populations based on their income bracket, wealth, or other  financial or economic division. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0072.003.md",
+                    "external_id": "T0072.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--24a4b640-e34c-44dc-aa8e-591e9fef9e5f"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

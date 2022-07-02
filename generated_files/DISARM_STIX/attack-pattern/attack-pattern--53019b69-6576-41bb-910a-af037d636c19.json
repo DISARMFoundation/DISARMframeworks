@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--5d0731f3-da56-4d36-b08a-1acbc75d878f",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--53019b69-6576-41bb-910a-af037d636c19",
+            "created_by_ref": "identity--2882715d-765c-449e-9906-2c4c3eb2687c",
+            "created": "2022-07-02T19:59:12.620698Z",
+            "modified": "2022-07-02T19:59:12.620698Z",
+            "name": "Compromise legitimate accounts",
+            "description": "Hack or take over legimate accounts to distribute misinformation or damaging content.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0011.md",
+                    "external_id": "T0011"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--2b6a6a04-7c14-45c5-9a54-3df187f44345"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

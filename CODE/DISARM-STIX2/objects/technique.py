@@ -43,7 +43,7 @@ def make_disarm_techniques(data):
 
         technique = AttackPattern(
             name=f"{t[1]}",
-            description=f"{t[3]}",
+            description=f"{t[4]}",
             external_references=external_references,
             object_marking_refs=objects.marking_definition.make_disarm_marking_definition(),
             created_by_ref=objects.identity.make_disarm_identity(),

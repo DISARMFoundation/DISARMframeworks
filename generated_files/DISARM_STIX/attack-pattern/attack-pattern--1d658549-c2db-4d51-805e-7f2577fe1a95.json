@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--5fdd8801-f09a-4a4e-968c-ad1ee38a874a",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--1d658549-c2db-4d51-805e-7f2577fe1a95",
+            "created_by_ref": "identity--cdeac2b0-99ec-42d6-920e-6a42e2ae603e",
+            "created": "2022-07-02T19:59:12.651441Z",
+            "modified": "2022-07-02T19:59:12.651441Z",
+            "name": "Appropriate Content",
+            "description": "An influence operation may take content from other sources with proper attribution. This content may be either misinformation content shared by others without malicious intent but now leveraged by the campaign as disinformation or disinformation content from other sources. Examples include the appropriation of content from one inauthentic news site to another inauthentic news site or network in ways that align with the originators licensing or terms of service.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0084.004.md",
+                    "external_id": "T0084.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--b20d4b56-d323-4906-87be-2ab192133807"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}
