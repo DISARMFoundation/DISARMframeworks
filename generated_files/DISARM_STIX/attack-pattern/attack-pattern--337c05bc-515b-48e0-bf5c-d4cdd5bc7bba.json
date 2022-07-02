@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--84234c7f-3f20-4fb6-8c96-1d8f8ad26ec6",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--337c05bc-515b-48e0-bf5c-d4cdd5bc7bba",
+            "created_by_ref": "identity--0c7a74b3-5f15-4ce9-a4d6-801bc9e3d440",
+            "created": "2022-07-02T17:28:36.982541Z",
+            "modified": "2022-07-02T17:28:36.982541Z",
+            "name": "Co-Opt Trusted Individuals",
+            "description": "TA16",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0100.001.md",
+                    "external_id": "T0100.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--949b58c0-5ed3-4978-ae48-7387549fc4d4"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

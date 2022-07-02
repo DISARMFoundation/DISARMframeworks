@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--9f8dc19f-0a05-496e-876b-5daddb726307",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--6edfcca7-7816-4f40-b22b-88567ca6a84e",
+            "created_by_ref": "identity--357a76bf-0a55-4a94-97c6-1c6d5351db82",
+            "created": "2022-07-02T17:28:37.012608Z",
+            "modified": "2022-07-02T17:28:37.012608Z",
+            "name": "Obfuscate Payment",
+            "description": "TA11",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0130.005.md",
+                    "external_id": "T0130.005"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--4ee2ffe4-c50b-4bda-bf32-a779fbe97814"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

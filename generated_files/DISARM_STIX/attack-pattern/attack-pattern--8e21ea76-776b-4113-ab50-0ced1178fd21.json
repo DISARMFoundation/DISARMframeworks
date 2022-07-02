@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--760a3a1d-726e-42cd-8bc0-fd5b9ff11058",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--8e21ea76-776b-4113-ab50-0ced1178fd21",
+            "created_by_ref": "identity--67c908f4-e055-4f71-af47-77b74f7ea9b2",
+            "created": "2022-07-02T17:28:36.964251Z",
+            "modified": "2022-07-02T17:28:36.964251Z",
+            "name": "Use Copypasta",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0084.001.md",
+                    "external_id": "T0084.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--b3f38281-19ec-4cef-94f5-5f12b3f70455"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

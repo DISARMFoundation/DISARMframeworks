@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--f37fd67a-7c37-48d4-af02-26e75c111200",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--8c2967be-eca2-4a8e-948c-b94e0ca8e436",
+            "created_by_ref": "identity--03da93ff-db58-418f-8f65-46c5a6a0e76d",
+            "created": "2022-07-02T17:28:37.009731Z",
+            "modified": "2022-07-02T17:28:37.009731Z",
+            "name": "Delete Accounts/Account Activity",
+            "description": "TA11",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0129.007.md",
+                    "external_id": "T0129.007"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--602595fb-1aa1-483c-bd2c-db588c5ed584"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

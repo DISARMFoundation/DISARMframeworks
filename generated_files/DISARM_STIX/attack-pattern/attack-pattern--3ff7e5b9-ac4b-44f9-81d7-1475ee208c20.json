@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--752b6734-8756-487c-8861-b1ff70708910",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--3ff7e5b9-ac4b-44f9-81d7-1475ee208c20",
+            "created_by_ref": "identity--d0ea6102-778f-4d35-a141-4d7ab4a8dd71",
+            "created": "2022-07-02T17:28:36.954654Z",
+            "modified": "2022-07-02T17:28:36.954654Z",
+            "name": "Political Segmentation",
+            "description": "TA13",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0072.005.md",
+                    "external_id": "T0072.005"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--5f9a364f-d1e8-42f6-a108-bba8d4b1eb70"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

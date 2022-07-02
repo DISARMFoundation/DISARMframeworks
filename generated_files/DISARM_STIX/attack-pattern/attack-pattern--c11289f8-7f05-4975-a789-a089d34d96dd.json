@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--54b14714-206b-4ba8-956c-ad41f957f254",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--c11289f8-7f05-4975-a789-a089d34d96dd",
+            "created_by_ref": "identity--b76fd6d5-acff-40ef-b674-d4eecc317af5",
+            "created": "2022-07-02T17:28:36.938855Z",
+            "modified": "2022-07-02T17:28:36.938855Z",
+            "name": "Create fake research",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0019.001.md",
+                    "external_id": "T0019.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--67d0bd27-6c9f-491b-8568-05a9a88b92bf"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

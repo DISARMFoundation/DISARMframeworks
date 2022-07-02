@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--dc86ff6e-c319-4cc6-83d0-68fe0691fabd",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--21ea7783-4105-47f2-a8dd-aaa2ff34b0fa",
+            "created_by_ref": "identity--967749e1-c653-450d-84d1-cea23c65e1c1",
+            "created": "2022-07-02T17:28:36.933327Z",
+            "modified": "2022-07-02T17:28:36.933327Z",
+            "name": "Leverage Existing Narratives",
+            "description": "TA14",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-narratives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0003.md",
+                    "external_id": "T0003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--3d055099-7b53-4537-ba8f-06dd874cbdb7"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

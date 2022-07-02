@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--7d974fc9-45b6-4540-9799-27b94fddfd4e",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--9175c5c5-5e10-492c-823d-17178bdd1406",
+            "created_by_ref": "identity--f1e7062a-a677-4559-9499-004155582f93",
+            "created": "2022-07-02T17:28:36.962232Z",
+            "modified": "2022-07-02T17:28:36.962232Z",
+            "name": "Identify Wedge Issues",
+            "description": "TA13",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0081.006.md",
+                    "external_id": "T0081.006"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--a4f3cf5a-f71c-48e9-899e-a2c199fb8dd7"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

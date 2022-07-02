@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--7d81921c-aa9f-47a5-919b-1a4f887487ab",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--a632a961-4906-4e38-9e9d-fe2f0d523776",
+            "created_by_ref": "identity--8fa0040a-ad7a-4ac0-a1e7-a80981bcd626",
+            "created": "2022-07-02T17:28:36.939179Z",
+            "modified": "2022-07-02T17:28:36.939179Z",
+            "name": "Hijack Hashtags",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0019.002.md",
+                    "external_id": "T0019.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f5bbcd48-69f1-4e99-99a7-cf6a4fa364d6"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

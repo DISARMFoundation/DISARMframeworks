@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--0c89c9fc-8fd6-4c9b-a6fe-04a51e5ead03",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--4c41d3b8-b60c-428a-b728-24e58c506687",
+            "created_by_ref": "identity--d65a2ea9-4cab-4694-b8e1-70da1489ddfa",
+            "created": "2022-07-02T17:28:36.98478Z",
+            "modified": "2022-07-02T17:28:36.98478Z",
+            "name": "Exploit Data Voids",
+            "description": "TA05",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "microtarget"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0102.003.md",
+                    "external_id": "T0102.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--912fa75b-11ac-4b4b-a3d0-b9fb9376b80a"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

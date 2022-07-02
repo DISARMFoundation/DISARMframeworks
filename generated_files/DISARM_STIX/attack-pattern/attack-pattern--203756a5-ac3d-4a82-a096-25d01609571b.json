@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--2bf353c7-6fe1-422d-95bf-9da1b9314f47",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--203756a5-ac3d-4a82-a096-25d01609571b",
+            "created_by_ref": "identity--5490fecd-9a34-4016-861d-2a0bc4483486",
+            "created": "2022-07-02T17:28:36.965875Z",
+            "modified": "2022-07-02T17:28:36.965875Z",
+            "name": "Develop AI-Generated Text",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0085.001.md",
+                    "external_id": "T0085.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--6575f8b2-caaf-4d2c-a43f-4a52eaac72a7"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--cc148da3-6438-4239-8489-8301c003b4a7",
+    "objects": [
+        {
+            "type": "x-mitre-tactic",
+            "spec_version": "2.1",
+            "id": "x-mitre-tactic--51bb4e10-02fc-471f-9478-0cce0e4cb958",
+            "created_by_ref": "identity--0411e9d8-4c88-42e1-aba9-1216bda19f75",
+            "created": "2022-07-02T17:28:36.928556Z",
+            "modified": "2022-07-02T17:28:36.928556Z",
+            "name": "Microtarget",
+            "description": "Target very specific populations of people",
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA05.md",
+                    "external_id": "TA05"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--d2cae706-2737-49d7-a72f-6bc6b5c806e0"
+            ],
+            "x_mitre_shortname": "microtarget"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--aa74a0b1-4ec2-412f-9f88-2d7c5279b970",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--18dfaddc-b4d8-43dc-baff-e92c4ad7b6c1",
+            "created_by_ref": "identity--afa36676-23d9-491d-bcc0-a88be3320eb7",
+            "created": "2022-07-02T17:28:36.969219Z",
+            "modified": "2022-07-02T17:28:36.969219Z",
+            "name": "Deceptively Edit Video (Cheap fakes)",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0087.002.md",
+                    "external_id": "T0087.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--badf82a7-0778-48a2-afb4-fa793734fb2d"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

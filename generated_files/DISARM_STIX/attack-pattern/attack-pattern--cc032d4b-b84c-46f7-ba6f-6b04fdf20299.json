@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--91ecb165-fc0c-40c2-8e80-f18c2d17fb03",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--cc032d4b-b84c-46f7-ba6f-6b04fdf20299",
+            "created_by_ref": "identity--5feeb817-b252-4e5f-91e1-ebd2595dbbc1",
+            "created": "2022-07-02T17:28:37.00169Z",
+            "modified": "2022-07-02T17:28:37.00169Z",
+            "name": "Conduct Server Redirect",
+            "description": "TA18",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-online-harms"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0123.004.md",
+                    "external_id": "T0123.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--4cab0f8d-83cf-45fa-a664-e08aa60122bf"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

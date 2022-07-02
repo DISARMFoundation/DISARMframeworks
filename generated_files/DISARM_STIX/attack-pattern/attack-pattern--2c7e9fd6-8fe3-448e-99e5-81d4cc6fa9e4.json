@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--c72d73fe-f000-489c-904c-533819200340",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--2c7e9fd6-8fe3-448e-99e5-81d4cc6fa9e4",
+            "created_by_ref": "identity--db6a9846-f6ad-4cf5-9421-38011a93c696",
+            "created": "2022-07-02T17:28:36.947255Z",
+            "modified": "2022-07-02T17:28:36.947255Z",
+            "name": "Trolls amplify and manipulate",
+            "description": "TA17",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0049.001.md",
+                    "external_id": "T0049.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--5a4bd136-ad2f-4f6b-8432-cd8f1e85846f"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

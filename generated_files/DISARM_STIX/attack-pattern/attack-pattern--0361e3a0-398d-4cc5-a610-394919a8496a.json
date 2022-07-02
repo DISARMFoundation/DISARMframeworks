@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--9fa2c273-62b6-48e0-9b42-de26f2813c71",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--0361e3a0-398d-4cc5-a610-394919a8496a",
+            "created_by_ref": "identity--fb3f1bee-835c-4dc3-b994-8a7236f796e5",
+            "created": "2022-07-02T17:28:36.987313Z",
+            "modified": "2022-07-02T17:28:36.987313Z",
+            "name": "Interest-Based Networks",
+            "description": "TA07",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0104.004.md",
+                    "external_id": "T0104.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--cfb0e917-a8c1-4820-8b5b-fd9060b7db68"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

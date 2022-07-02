@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--9a92b7c3-29e4-4177-aedf-5ff3974be288",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--a500a0b8-2780-497c-82cf-6b053542e489",
+            "created_by_ref": "identity--2ef2211e-b641-42b9-98e2-159ef661e69a",
+            "created": "2022-07-02T17:28:36.967807Z",
+            "modified": "2022-07-02T17:28:36.967807Z",
+            "name": "Deceptively Edit Image (Cheap fakes)",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0086.003.md",
+                    "external_id": "T0086.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--875151fe-6dd1-4cf7-a4e4-30e6fa796f51"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

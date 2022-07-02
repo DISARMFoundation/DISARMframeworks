@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--ffe3c30d-ed34-4b3c-abce-600dc234dd77",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--e5d4cc77-8a4c-4121-aafd-f8683a9d322c",
+            "created_by_ref": "identity--7af33b9b-9421-451e-8892-51eda2ea4f1a",
+            "created": "2022-07-02T17:28:36.957871Z",
+            "modified": "2022-07-02T17:28:36.957871Z",
+            "name": "Monitor Social Media Analytics",
+            "description": "TA13",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0080.001.md",
+                    "external_id": "T0080.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--28c83306-a1ae-4588-b7d0-96040153d1c1"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

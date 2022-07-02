@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--e5ddf048-bf49-4eec-ad76-95c1c277d126",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--52e46e86-b4be-44e2-919d-98c5e4869bec",
+            "created_by_ref": "identity--446ec9a0-af34-499e-a3ce-765014ffad9f",
+            "created": "2022-07-02T17:28:36.935638Z",
+            "modified": "2022-07-02T17:28:36.935638Z",
+            "name": "Create inauthentic websites",
+            "description": "TA15",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0013.md",
+                    "external_id": "T0013"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--156a15e6-e151-4328-b0f2-632d90f7a7bd"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

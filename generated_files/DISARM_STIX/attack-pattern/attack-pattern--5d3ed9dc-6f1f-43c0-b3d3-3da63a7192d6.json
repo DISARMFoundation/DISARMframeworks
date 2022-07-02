@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--64acf876-63de-4d73-8494-58d866dd1294",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--5d3ed9dc-6f1f-43c0-b3d3-3da63a7192d6",
+            "created_by_ref": "identity--b10c17d1-4cfc-44b8-9ef2-652a999231e1",
+            "created": "2022-07-02T17:28:36.958201Z",
+            "modified": "2022-07-02T17:28:36.958201Z",
+            "name": "Evaluate Media Surveys",
+            "description": "TA13",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0080.002.md",
+                    "external_id": "T0080.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--a19e2a10-e12f-4587-a4e9-ffe0ff290931"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

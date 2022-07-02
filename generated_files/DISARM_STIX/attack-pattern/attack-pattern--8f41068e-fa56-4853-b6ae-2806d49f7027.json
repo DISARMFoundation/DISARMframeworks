@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--1ada7d39-6a5d-4fff-a66a-0b09fc5ae474",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--8f41068e-fa56-4853-b6ae-2806d49f7027",
+            "created_by_ref": "identity--25ced9c5-c4d7-4c85-b43b-1783e5c0cbae",
+            "created": "2022-07-02T17:28:36.95936Z",
+            "modified": "2022-07-02T17:28:36.95936Z",
+            "name": "Assess Degree/Type of Media Access",
+            "description": "TA13",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0080.005.md",
+                    "external_id": "T0080.005"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--7cb7ec5d-cb29-472e-8c50-9ad45282011d"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--7523abbf-936d-476e-bb37-052fc321a7c5",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--e977dd1f-45db-4762-a34d-2f06c2bd788b",
+            "created_by_ref": "identity--9bab100e-2406-494a-b41b-ebb02e77d314",
+            "created": "2022-07-02T17:28:36.966205Z",
+            "modified": "2022-07-02T17:28:36.966205Z",
+            "name": "Develop False or Altered Documents",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0085.002.md",
+                    "external_id": "T0085.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--2ca25000-cc0d-4629-b4e0-8c8de388f192"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}
