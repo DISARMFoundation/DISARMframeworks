@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--2d5dba6a-7f95-492d-9a4d-817875b51e96",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--1e917de4-6ee5-44e3-a3e8-1bdd5b20d38b",
+            "created_by_ref": "identity--21744e1f-0f4f-40c0-9e22-09c3335cfb50",
+            "created": "2022-07-02T04:22:03.140956Z",
+            "modified": "2022-07-02T04:22:03.140956Z",
+            "name": "Facilitate logistics or support for attendance",
+            "description": "Facilitate logistics or support for travel, food, housing, etc.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-offline-activity"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0126.002.md",
+                    "external_id": "T0126.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--3b36cee1-a9b6-4614-9a79-3482bdc2fdb4"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

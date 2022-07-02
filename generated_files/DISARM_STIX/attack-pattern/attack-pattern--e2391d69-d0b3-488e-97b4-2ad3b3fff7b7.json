@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--aa31984f-8b18-45e8-91a1-b93e4e3f6783",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--e2391d69-d0b3-488e-97b4-2ad3b3fff7b7",
+            "created_by_ref": "identity--fdf09d4a-eb4e-4c9b-9dd3-618a2e71ed66",
+            "created": "2022-07-02T04:22:03.140618Z",
+            "modified": "2022-07-02T04:22:03.140618Z",
+            "name": "Call to action to attend ",
+            "description": "nan",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-offline-activity"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0126.001.md",
+                    "external_id": "T0126.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--ab1042f8-73e8-479c-9d71-7eb8c93f5fc8"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

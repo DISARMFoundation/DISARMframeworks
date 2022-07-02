@@ -34,11 +34,6 @@ def make_disarm_matrix(tactics):
     ]
     name = 'DISARM Framework'
 
-    # print(tactics)
-    # p =[i.id for i in tactics]
-    # r = properties.ReferenceProperty()
-    # f = properties.ListProperty(r)
-
     tactic_refs = [i.id for i in tactics]
 
     matrix = Matrix(

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--3bff7bb3-db3a-4c83-8595-92e5fa33d22b",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--76c16f1e-f6ab-48d0-9775-b4d6d73adbaa",
+            "created_by_ref": "identity--c8b56e60-e5c4-4d6c-b778-bde23a60665e",
+            "created": "2022-07-02T04:22:03.149613Z",
+            "modified": "2022-07-02T04:22:03.149613Z",
+            "name": "Legacy web content",
+            "description": "Make incident content visible for a long time, e.g. by exploiting platform terms of service, or placing it where it's hard to remove or unlikely to be removed.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0131.001.md",
+                    "external_id": "T0131.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--b7b13058-e7c6-4d5d-8604-99f17a56e73b"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

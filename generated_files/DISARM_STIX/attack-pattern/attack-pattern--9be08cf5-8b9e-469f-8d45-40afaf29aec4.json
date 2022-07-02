@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--0b2807c0-522d-481b-925f-34b88dfad9a9",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--9be08cf5-8b9e-469f-8d45-40afaf29aec4",
+            "created_by_ref": "identity--bca2e702-4da8-49ee-b3c5-b54bc52de544",
+            "created": "2022-07-02T04:22:03.12915Z",
+            "modified": "2022-07-02T04:22:03.12915Z",
+            "name": "Video Sharing",
+            "description": "Examples include Youtube, TikTok, ShareChat, Rumble, etc",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0105.002.md",
+                    "external_id": "T0105.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--4b4f4304-5490-48fc-b30a-9c6314c9bd04"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

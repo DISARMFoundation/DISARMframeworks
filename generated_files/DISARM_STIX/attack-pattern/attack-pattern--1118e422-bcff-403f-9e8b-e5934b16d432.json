@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--bbea67b4-3f12-4e6c-8f9e-5f176b3bebdd",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--1118e422-bcff-403f-9e8b-e5934b16d432",
+            "created_by_ref": "identity--4de17c2a-872b-4b49-bedd-4edaa92b0ffb",
+            "created": "2022-07-02T04:22:03.130435Z",
+            "modified": "2022-07-02T04:22:03.130435Z",
+            "name": "Newspaper",
+            "description": "nan",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0111.002.md",
+                    "external_id": "T0111.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--ee2e77f1-43fa-4886-baa8-9d0e83ebbe86"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

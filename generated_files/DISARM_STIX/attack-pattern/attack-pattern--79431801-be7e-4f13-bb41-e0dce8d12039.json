@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--69d5b041-ae0c-4715-ae2c-4cb392d10f41",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--79431801-be7e-4f13-bb41-e0dce8d12039",
+            "created_by_ref": "identity--28e136e7-63f0-4464-8a99-aa1e14bbc80c",
+            "created": "2022-07-02T04:22:03.121721Z",
+            "modified": "2022-07-02T04:22:03.121721Z",
+            "name": "Utilize Academic/Pseudoscientific Justifications",
+            "description": "nan",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0009.001.md",
+                    "external_id": "T0009.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--464fa755-91e6-4a76-982d-5cd32b54f0f5"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

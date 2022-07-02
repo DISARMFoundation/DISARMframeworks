@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--7d092c8d-fa17-4341-a512-93e23662dea8",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--a40d0704-c0ad-4e08-a8b3-a47366c904a0",
+            "created_by_ref": "identity--c19f6731-fa07-4661-bef7-56b06033a8ef",
+            "created": "2022-07-02T04:22:03.109467Z",
+            "modified": "2022-07-02T04:22:03.109467Z",
+            "name": "Deceptively Labeled or Translated",
+            "description": "nan",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0084.003.md",
+                    "external_id": "T0084.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--9832e089-54d9-460a-ba2b-891684aee4a7"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

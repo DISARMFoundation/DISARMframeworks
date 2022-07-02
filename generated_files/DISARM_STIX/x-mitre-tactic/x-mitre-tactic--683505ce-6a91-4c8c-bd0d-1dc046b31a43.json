@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--037cef26-c864-43ed-9b03-87b1a3786a5d",
+    "objects": [
+        {
+            "type": "x-mitre-tactic",
+            "spec_version": "2.1",
+            "id": "x-mitre-tactic--683505ce-6a91-4c8c-bd0d-1dc046b31a43",
+            "created_by_ref": "identity--7be23c48-d4ef-480e-b1e8-ce89e6050d7a",
+            "created": "2022-07-02T04:22:03.068383Z",
+            "modified": "2022-07-02T04:22:03.068383Z",
+            "name": "Establish Social Assets",
+            "description": "Establishing information assets generates messaging tools, including social media accounts,  operation personnel, and organizations, including directly and indirectly managed assets. For assets under their direct control, the operation can add,  change, or remove these assets at will.  \nEstablishing information assets allows an influence operation to promote messaging directly to  the target audience without navigating through external entities. Many online influence operations create or compromise social media accounts as a primary vector of information  dissemination.",
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA15.md",
+                    "external_id": "TA15"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--bdfe64bf-7961-4de7-8cf6-5f7b578934e9"
+            ],
+            "x_mitre_shortname": "establish-social-assets"
+        }
+    ]
+}

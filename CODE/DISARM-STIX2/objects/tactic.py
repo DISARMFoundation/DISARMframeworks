@@ -3,6 +3,11 @@ from stix2 import CustomObject, properties, ExternalReference
 import objects.marking_definition
 from objects import identity, marking_definition
 
+valid_tactics = ["plan-strategy", "plan-objectives", "microtarget", "develop-content",
+                 "select-channels-and-affordances", "conduct-pump-priming", "deliver-content",
+                 "drive-offline-activity", "persist-in-the-information-environment", "assess-effectiveness",
+                 "target-audience-analysis", "develop-narratives", "establish-social-assets", "establish-legitimacy",
+                 "maximize-exposure", "drive-online-harms"]
 
 @CustomObject('x-mitre-tactic', [
     ('name', properties.StringProperty(required=True)),
@@ -12,14 +17,8 @@ from objects import identity, marking_definition
 ])
 class Tactic(object):
     def __init__(self, x_mitre_shortname=None, **kwargs):
-        if x_mitre_shortname and x_mitre_shortname not in ["strategic-planning", "objective-planning",
-                                                           "develop-people", "develop-persona",
-                                                           "develop-networks", "microtargeting", "develop-content",
-                                                           "channel-selection", "pump-priming", "exposure",
-                                                           "go-physical",
-                                                           "persistence", "measure-effectiveness"]:
-            # raise ValueError("'%s' is not a recognized DISARM Tactic." % x_mitre_shortname)
-            print("'%s' is not a recognized DISARM Tactic." % x_mitre_shortname)
+        if x_mitre_shortname and x_mitre_shortname not in valid_tactics:
+            raise ValueError("'%s' is not a recognized DISARM Tactic." % x_mitre_shortname)
 
 
 def make_disarm_tactics(data):
@@ -54,4 +53,3 @@ def make_disarm_tactics(data):
         tactics.append(tactic)
 
     return tactics
-

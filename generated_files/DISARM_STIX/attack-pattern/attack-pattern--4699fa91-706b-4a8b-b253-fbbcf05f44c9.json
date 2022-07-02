@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--c45ee792-7da0-4b18-8f61-0227431b520d",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--4699fa91-706b-4a8b-b253-fbbcf05f44c9",
+            "created_by_ref": "identity--bc415869-0cc0-47ef-9354-eb85469ffe10",
+            "created": "2022-07-02T04:22:03.103346Z",
+            "modified": "2022-07-02T04:22:03.103346Z",
+            "name": "Conduct Web Traffic Analysis",
+            "description": "An influence operation may conduct web traffic analysis to determine which search engines,  keywords, websites, and advertisements gain the most traction with its target audience.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0080.004.md",
+                    "external_id": "T0080.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--d15b9bec-1b95-49cc-919b-118748be8bc9"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

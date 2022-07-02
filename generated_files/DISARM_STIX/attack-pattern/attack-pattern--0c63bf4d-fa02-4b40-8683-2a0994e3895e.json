@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--df6c406c-2f4c-4860-9292-2de500a45afd",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--0c63bf4d-fa02-4b40-8683-2a0994e3895e",
+            "created_by_ref": "identity--c069cbb5-940d-487b-a145-5b1c124a2104",
+            "created": "2022-07-02T04:22:03.122694Z",
+            "modified": "2022-07-02T04:22:03.122694Z",
+            "name": "Leverage Existing Inauthentic News Sites",
+            "description": "An influence operation may prepare assets impersonating legitimate entities to further conceal its  network identity and add a layer of legitimacy to its operation content. Users will more likely  believe and less likely fact-check news from recognizable sources rather than unknown sites.  Legitimate entities may include authentic news outlets, public figures, organizations, or state  entities.  \nAn influence operation may use a wide variety of cyber techniques to impersonate a legitimate  entity\u2019s website or social media account. Typosquatting87 is the international registration of a  domain name with purposeful variations of the impersonated domain name through intentional  typos, top-level domain (TLD) manipulation, or punycode. Typosquatting facilitates the creation  of falsified websites by creating similar domain names in the URL box, leaving it to the user to  confirm that the URL is correct.  ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0098.002.md",
+                    "external_id": "T0098.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--cb63418c-7066-4b07-8733-094849c1e160"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

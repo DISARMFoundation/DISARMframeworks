@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--85d89d04-15e4-4794-9bde-fe900b8d835d",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--623b66b8-356f-4982-8831-db67abf46dec",
+            "created_by_ref": "identity--255ebc5e-1dfd-45d0-9d1d-6b7a09683392",
+            "created": "2022-07-02T04:22:03.075967Z",
+            "modified": "2022-07-02T04:22:03.075967Z",
+            "name": "Demand insurmountable proof",
+            "description": "TA14",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-narratives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0040.md",
+                    "external_id": "T0040"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--4ee312e7-edb9-410f-90c3-a08b0ae3b2e3"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

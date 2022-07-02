@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--f1d5bf3b-2a36-4b06-8d75-2433d0ff313d",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--2ac3960b-813b-4722-ba29-9e692d88341b",
+            "created_by_ref": "identity--88f2a537-1478-489d-9cf1-6281cd09fe3a",
+            "created": "2022-07-02T04:22:03.138733Z",
+            "modified": "2022-07-02T04:22:03.138733Z",
+            "name": "Block Content",
+            "description": "Content blocking refers to actions taken to restrict internet access or render certain areas of the  internet inaccessible. An influence operation may restrict content based on both network and  content attributes. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-online-harms"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0123.002.md",
+                    "external_id": "T0123.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--16a459ec-0f6b-4501-8308-a1b5fb1c17f9"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

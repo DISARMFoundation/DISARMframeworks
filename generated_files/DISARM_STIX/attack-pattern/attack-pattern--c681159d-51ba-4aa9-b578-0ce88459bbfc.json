@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--2aecd3cb-ffbf-4b23-b30f-cf0d3b591014",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--c681159d-51ba-4aa9-b578-0ce88459bbfc",
+            "created_by_ref": "identity--865275c7-53d1-4a31-834c-583ce81898e7",
+            "created": "2022-07-02T04:22:03.125272Z",
+            "modified": "2022-07-02T04:22:03.125272Z",
+            "name": "Exploit Data Voids",
+            "description": "A data void refers to a word or phrase that results in little, manipulative, or low-quality search  engine data. Data voids are hard to detect and relatively harmless until exploited by an entity  aiming to quickly proliferate false or misleading information during a phenomenon that causes a  high number of individuals to query the term or phrase. In the Plan phase, an influence operation  may identify data voids for later exploitation in the operation.  \nA 2019 report by Michael Golebiewski identifies five types of data voids. (1) \u201cBreaking news\u201d  data voids occur when a keyword gains popularity during a short period of time, allowing an  influence operation to publish false content before legitimate news outlets have an opportunity to  publish relevant information. (2) An influence operation may create a \u201cstrategic new terms\u201d data  void by creating their own terms and publishing information online before promoting their  keyword to the target audience. (3) An influence operation may publish content on \u201coutdated  terms\u201d that have decreased in popularity, capitalizing on most search engines\u2019 preferences for  recency. (4) \u201cFragmented concepts\u201d data voids separate connections between similar ideas,  isolating segment queries to distinct search engine results. (5) An influence operation may use  \u201cproblematic queries\u201d that previously resulted in disturbing or inappropriate content to promote  messaging until mainstream media recontextualizes the term.  ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "microtarget"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0102.003.md",
+                    "external_id": "T0102.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--d7c7fb04-3628-4c3f-bd62-55a4a290522b"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

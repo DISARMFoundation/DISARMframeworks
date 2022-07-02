@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--e271ede1-12e6-4e53-b85c-a0339e01fe38",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--2eb2d8bf-774e-44dd-942b-11302d6defc2",
+            "created_by_ref": "identity--048ac8e8-6785-4993-9eb7-8d80999da439",
+            "created": "2022-07-02T04:22:03.1152Z",
+            "modified": "2022-07-02T04:22:03.1152Z",
+            "name": "Leak False Documents",
+            "description": "nan",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0089.002.md",
+                    "external_id": "T0089.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--032397fc-9948-420a-af54-11f30f1f7f76"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

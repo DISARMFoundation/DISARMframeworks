@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--9cc4865c-7f92-41ca-a660-6ef31221c5d9",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--fec44019-d2d5-4393-81ac-d2592019b607",
+            "created_by_ref": "identity--018da3c9-9f21-427a-9f39-031e427e5698",
+            "created": "2022-07-02T04:22:03.148009Z",
+            "modified": "2022-07-02T04:22:03.148009Z",
+            "name": "Conceal Sponsorship",
+            "description": "Concealing sponsorship aims to mislead or obscure the identity of the hidden sponsor behind an operation rather than entity publicly running the operation. Operations that conceal sponsorship  may maintain visible falsified groups, news outlets, non-profits, or other organizations, but seek  to mislead or obscure the identity sponsoring, funding, or otherwise supporting these entities.  \nInfluence operations may use a variety of techniques to mask the location of their social media  accounts to complicate attribution and conceal evidence of foreign interference. Operation  accounts may set their location to a false place, often the location of the operation\u2019s target  audience, and post in the region\u2019s language",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0130.001.md",
+                    "external_id": "T0130.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--cc5be8d6-4c38-415d-add0-9e010a80e455"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

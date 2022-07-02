@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--bea81e8f-47a2-421f-81f7-2c9334956e18",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--fa50dba7-db6c-4c37-9864-a9ba37eda147",
+            "created_by_ref": "identity--f2d773e0-cccc-477f-8c2a-ba2295ad8b2d",
+            "created": "2022-07-02T04:22:03.137139Z",
+            "modified": "2022-07-02T04:22:03.137139Z",
+            "name": "Boycott/\"Cancel\" Opponents",
+            "description": "Cancel culture refers to the phenomenon in which individuals collectively refrain from  supporting an individual, organization, business, or other entity, usually following a real or  falsified controversy. An influence operation may exploit cancel culture by emphasizing an  adversary\u2019s problematic or disputed behavior and presenting its own content as an alternative. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-online-harms"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0048.001.md",
+                    "external_id": "T0048.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c201d69d-f206-4380-ae9d-458555ea5f23"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

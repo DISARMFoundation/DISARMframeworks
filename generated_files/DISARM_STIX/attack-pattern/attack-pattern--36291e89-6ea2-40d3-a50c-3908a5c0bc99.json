@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--e44d80fc-fd82-40af-852a-5f85810cd6dc",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--36291e89-6ea2-40d3-a50c-3908a5c0bc99",
+            "created_by_ref": "identity--461e5e65-6430-4261-bf34-e1c7005aac64",
+            "created": "2022-07-02T04:22:03.081167Z",
+            "modified": "2022-07-02T04:22:03.081167Z",
+            "name": "Segment Audiences",
+            "description": "TA13",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0072.md",
+                    "external_id": "T0072"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--e05f4c1b-05a0-4c94-9d8a-360ff3187774"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

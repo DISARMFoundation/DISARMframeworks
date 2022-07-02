@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--97fdadd6-8790-4c8d-ba9b-11045a979830",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--7e534b57-590a-4a35-8025-1d5682691584",
+            "created_by_ref": "identity--349ee88b-36ea-46e8-8929-fe18f342963e",
+            "created": "2022-07-02T04:22:03.097581Z",
+            "modified": "2022-07-02T04:22:03.097581Z",
+            "name": "Direct Users to Alternative Platforms",
+            "description": "TA17",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0122.md",
+                    "external_id": "T0122"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--3cc768a1-dd75-45eb-a3cd-c3156177f0ae"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

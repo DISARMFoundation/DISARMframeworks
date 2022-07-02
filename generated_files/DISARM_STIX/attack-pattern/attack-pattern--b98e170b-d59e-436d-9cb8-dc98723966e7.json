@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--7e2ee960-ab96-4909-893f-e66f16b49fef",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--b98e170b-d59e-436d-9cb8-dc98723966e7",
+            "created_by_ref": "identity--11cf62c9-26ab-417f-b2dc-94f03d8a7930",
+            "created": "2022-07-02T04:22:03.126891Z",
+            "modified": "2022-07-02T04:22:03.126891Z",
+            "name": "Mainstream Social Networks",
+            "description": "Examples include Facebook, Twitter, LinkedIn, VK, ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0104.001.md",
+                    "external_id": "T0104.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--7fb9ac6d-382e-45b6-b10f-5e9d8181b90b"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

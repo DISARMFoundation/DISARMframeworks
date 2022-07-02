@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--f9c79e0e-95b6-44d9-b226-4e7763dbe471",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--3942dc6a-1632-404a-ac65-e8c6b18a944b",
+            "created_by_ref": "identity--5cfcaf48-cfd4-48ef-8f20-224be4f6b04e",
+            "created": "2022-07-02T04:22:03.142594Z",
+            "modified": "2022-07-02T04:22:03.142594Z",
+            "name": "Encourage Physical Violence",
+            "description": "nan",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-offline-activity"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0127.002.md",
+                    "external_id": "T0127.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--cf763ecf-6930-4b34-8e34-e5a3fa489016"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

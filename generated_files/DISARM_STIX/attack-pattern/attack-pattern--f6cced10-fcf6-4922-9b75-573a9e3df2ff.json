@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--c699cc16-f4c4-447e-85e3-a73431d54fc8",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--f6cced10-fcf6-4922-9b75-573a9e3df2ff",
+            "created_by_ref": "identity--7015aabf-4558-40f4-9864-5c776f7d6503",
+            "created": "2022-07-02T04:22:03.129784Z",
+            "modified": "2022-07-02T04:22:03.129784Z",
+            "name": "Anonymous Message Boards",
+            "description": "Examples include the Chans",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0106.001.md",
+                    "external_id": "T0106.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--11aad034-a94b-41a6-b528-2cda3523257d"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}
