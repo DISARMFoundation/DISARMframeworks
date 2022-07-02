@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--5f889896-1565-499d-ad53-6cf7eb20c31f",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--3d2940d4-9e8b-4bad-aab8-3ac52b65c2ce",
+            "created_by_ref": "identity--c21779fb-809a-4561-8e69-d904f65ddc82",
+            "created": "2022-07-02T04:22:03.079565Z",
+            "modified": "2022-07-02T04:22:03.079565Z",
+            "name": "Continue to Amplify",
+            "description": "TA11",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0060.md",
+                    "external_id": "T0060"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--409c183e-7f53-4d8d-8bb4-7cfd49f07ff0"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

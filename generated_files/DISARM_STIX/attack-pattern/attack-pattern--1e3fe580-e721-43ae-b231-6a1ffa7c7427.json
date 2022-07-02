@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--80dd5f27-4931-4230-9e57-4ab69a016cbf",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--1e3fe580-e721-43ae-b231-6a1ffa7c7427",
+            "created_by_ref": "identity--06d6bbce-9166-4ecf-8033-76d96d6ae7f9",
+            "created": "2022-07-02T04:22:03.092074Z",
+            "modified": "2022-07-02T04:22:03.092074Z",
+            "name": "Media Sharing Networks",
+            "description": "TA07",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0105.md",
+                    "external_id": "T0105"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--ecb980c1-872e-4bef-989e-3a44e5b68c8f"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

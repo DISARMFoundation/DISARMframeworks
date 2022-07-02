@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--d1723c74-1b85-4f8a-ba54-8f88e7a5a612",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--2025e8cd-69d0-48df-b8f7-d945860a0034",
+            "created_by_ref": "identity--a9f26548-18ad-408b-a602-5c6cb0d52008",
+            "created": "2022-07-02T04:22:03.125907Z",
+            "modified": "2022-07-02T04:22:03.125907Z",
+            "name": "Use Unencrypted Chats Apps",
+            "description": "nan",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0043.002.md",
+                    "external_id": "T0043.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--d5edaffd-54c8-407e-8df9-8d08328a4e8b"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--9d4fbe02-a8b1-4494-8085-b308d4e377e0",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--90ef8d98-5329-46fb-be8a-cdeb612e12b6",
+            "created_by_ref": "identity--44972925-55f9-4321-afa5-54bfd65b55ab",
+            "created": "2022-07-02T04:22:03.133953Z",
+            "modified": "2022-07-02T04:22:03.133953Z",
+            "name": "Utilize Spamoflauge",
+            "description": "Spamoflauge refers to the practice of disguising spam messages as legitimate. Spam refers to  the use of electronic messaging systems to send out unrequested or unwanted messages in bulk.  Simple methods of spamoflauge include replacing letters with numbers to fool keyword-based  email spam filters, for example, \"you've w0n our jackp0t!\". Spamoflauge may extend to more complex techniques such as modifying the grammar or word choice of the language, casting  messages as images which spam detectors cannot automatically read, or encapsulating messages  in password protected attachments, such as .pdf or .zip files. Influence operations may use spamoflauge to avoid spam filtering systems and increase the likelihood of the target audience  receiving operation messaging. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0049.004.md",
+                    "external_id": "T0049.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--ae894403-0a44-465c-8b39-c33c59edffeb"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

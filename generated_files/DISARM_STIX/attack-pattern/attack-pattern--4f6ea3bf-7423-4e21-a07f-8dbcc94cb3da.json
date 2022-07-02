@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--fd57b310-d4ea-4a61-a319-cea7409f2314",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--4f6ea3bf-7423-4e21-a07f-8dbcc94cb3da",
+            "created_by_ref": "identity--e351e54d-bd4a-43e3-823c-c27f8f392a01",
+            "created": "2022-07-02T04:22:03.141303Z",
+            "modified": "2022-07-02T04:22:03.141303Z",
+            "name": "Pay for Physical Action",
+            "description": "Paying for physical action occurs when an influence operation pays individuals to act in the  physical realm. An influence operation may pay for physical action to create specific situations  and frame them in a way that supports operation narratives, for example, paying a group of  people to burn a car to later post an image of the burning car and frame it as an act of protest. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-offline-activity"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0057.001.md",
+                    "external_id": "T0057.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--86d83fcc-efd8-4453-851a-375e5a73022a"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

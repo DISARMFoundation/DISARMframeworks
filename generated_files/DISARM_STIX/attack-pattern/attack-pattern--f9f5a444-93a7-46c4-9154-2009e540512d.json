@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--ecd27134-c01a-492e-a12f-13bdf687603c",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--f9f5a444-93a7-46c4-9154-2009e540512d",
+            "created_by_ref": "identity--94104d7c-e804-42cd-aac4-f5a78afa8dac",
+            "created": "2022-07-02T04:22:03.120766Z",
+            "modified": "2022-07-02T04:22:03.120766Z",
+            "name": "From ignorant agents",
+            "description": "nan",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0014.002.md",
+                    "external_id": "T0014.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--05785852-397f-4a65-aade-4ae4fa40fb42"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

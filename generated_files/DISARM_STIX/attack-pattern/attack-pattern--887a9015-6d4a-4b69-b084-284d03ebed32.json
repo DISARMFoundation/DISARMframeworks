@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--88fadfa0-d8a2-410a-8fb5-55811982dab6",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--887a9015-6d4a-4b69-b084-284d03ebed32",
+            "created_by_ref": "identity--4ca338bb-6c23-43fb-bf7a-a183dc1cf3c7",
+            "created": "2022-07-02T04:22:03.071769Z",
+            "modified": "2022-07-02T04:22:03.071769Z",
+            "name": "Compromise legitimate accounts",
+            "description": "TA16",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0011.md",
+                    "external_id": "T0011"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--df27fb77-bf84-44a4-8194-10a9a383d923"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

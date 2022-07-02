@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--5bca87ec-0c69-48b1-8b81-8c6c2a621d29",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--ec47a70a-3821-4f0e-9e10-f2bb7e836116",
+            "created_by_ref": "identity--6c054e9d-12db-4d94-8a78-874c2de1e6eb",
+            "created": "2022-07-02T04:22:03.123323Z",
+            "modified": "2022-07-02T04:22:03.123323Z",
+            "name": "Spoof/parody account/site",
+            "description": "nan",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0099.002.md",
+                    "external_id": "T0099.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--ee36e8ff-7aa7-4c31-aa6d-9e3c5f05edb1"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

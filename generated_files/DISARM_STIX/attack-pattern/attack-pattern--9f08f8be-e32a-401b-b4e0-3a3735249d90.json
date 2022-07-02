@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--c81e98a3-246e-4f25-979f-e7377a237bf6",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--9f08f8be-e32a-401b-b4e0-3a3735249d90",
+            "created_by_ref": "identity--91c7cd6e-96a1-4228-887b-6d75eb56181b",
+            "created": "2022-07-02T04:22:03.096613Z",
+            "modified": "2022-07-02T04:22:03.096613Z",
+            "name": "Cross-Posting",
+            "description": "TA17",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0119.md",
+                    "external_id": "T0119"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fb899ba8-e72c-4e1e-a93f-d74c0ab60d7b"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

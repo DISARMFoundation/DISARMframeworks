@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--754a7fdb-e267-4c78-ad67-4cadb6c96d81",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--ff94a50e-964e-4f7e-b6fd-781319cc6268",
+            "created_by_ref": "identity--22ddf033-449a-4adb-aa8f-d660d3c3425a",
+            "created": "2022-07-02T04:22:03.137457Z",
+            "modified": "2022-07-02T04:22:03.137457Z",
+            "name": "Harass People Based on Identities",
+            "description": "Examples include social identities like gender, sexuality, race, ethnicity, religion, ability, nationality, etc. as well as roles and occupations like journalist or activist.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-online-harms"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0048.002.md",
+                    "external_id": "T0048.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--0b542708-f829-464e-9461-cbc3641052f6"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

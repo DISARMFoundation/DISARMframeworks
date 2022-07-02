@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--bf02d0c2-d04a-441f-99ea-9ae5a3ae1270",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--f6c8dde2-9957-47df-843c-3d0760995351",
+            "created_by_ref": "identity--fddfbe8c-294a-495f-966a-7b3907af02ba",
+            "created": "2022-07-02T04:22:03.127886Z",
+            "modified": "2022-07-02T04:22:03.127886Z",
+            "name": "Interest-Based Networks",
+            "description": "Examples include smaller and niche networks including Gettr, Truth Social, Parler, etc.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0104.004.md",
+                    "external_id": "T0104.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--dfa954bb-1a8f-4947-830a-4dee5e9d6dae"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--e150ad83-f2ad-4e8c-a3d6-9bf60bf3b81a",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--29750664-9ed2-4c58-b10b-68ab1eb02dc6",
+            "created_by_ref": "identity--38878c6f-1db3-4eae-bd7a-07b36bcc2f3c",
+            "created": "2022-07-02T04:22:03.143879Z",
+            "modified": "2022-07-02T04:22:03.143879Z",
+            "name": "Distance Reputable Individuals from Operation",
+            "description": "Distancing reputable individuals from the operation occurs when enlisted individuals, such as  celebrities or subject matter experts, actively disengage themselves from operation activities and  messaging. Individuals may distance themselves from the operation by deleting old posts or  statements, unfollowing operation information assets, or otherwise detaching themselves from  the operation\u2019s timeline. An influence operation may want reputable individuals to distance  themselves from the operation to reduce operation exposure, particularly if the operation aims to remove all evidence.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0128.003.md",
+                    "external_id": "T0128.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--11441662-c80b-435d-bfb2-b925624fe053"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

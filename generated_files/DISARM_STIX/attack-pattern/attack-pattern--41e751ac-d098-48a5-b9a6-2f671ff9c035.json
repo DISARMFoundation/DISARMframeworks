@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--f04e8884-a39c-4fb9-8133-fe6ab4e0447b",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--41e751ac-d098-48a5-b9a6-2f671ff9c035",
+            "created_by_ref": "identity--69b8c806-3de4-4b21-9abd-00817341f626",
+            "created": "2022-07-02T04:22:03.078926Z",
+            "modified": "2022-07-02T04:22:03.078926Z",
+            "name": "Organize Events",
+            "description": "TA10",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-offline-activity"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0057.md",
+                    "external_id": "T0057"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c1c812a2-5c51-49e6-b920-4da49282862a"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

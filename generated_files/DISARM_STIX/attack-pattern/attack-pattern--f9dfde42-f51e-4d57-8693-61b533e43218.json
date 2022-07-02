@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--28b65fdd-d3d6-4ad7-9d68-dc303287ba64",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--f9dfde42-f51e-4d57-8693-61b533e43218",
+            "created_by_ref": "identity--a9f26954-74fc-44d8-9c1e-242a134ee100",
+            "created": "2022-07-02T04:22:03.118853Z",
+            "modified": "2022-07-02T04:22:03.118853Z",
+            "name": "Create Community or Sub-group",
+            "description": "nan",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0092.003.md",
+                    "external_id": "T0092.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--5d126bc3-2463-48f1-8d67-2924e508e7af"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

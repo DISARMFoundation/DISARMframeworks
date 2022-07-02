@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--1b29cd83-49a3-4633-aed3-215cd45ebb9d",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--08148393-fc91-438a-95c6-c67caafd3f66",
+            "created_by_ref": "identity--437d5bfb-26b4-4574-a665-5bfb482aea0d",
+            "created": "2022-07-02T04:22:03.124593Z",
+            "modified": "2022-07-02T04:22:03.124593Z",
+            "name": "Use existing Echo Chambers/Filter Bubbles",
+            "description": "nan",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "microtarget"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0102.001.md",
+                    "external_id": "T0102.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--66247d10-aeed-4da1-b681-7367f7501519"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

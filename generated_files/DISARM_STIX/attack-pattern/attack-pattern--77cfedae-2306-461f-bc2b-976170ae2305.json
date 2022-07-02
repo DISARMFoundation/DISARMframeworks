@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--d26c371f-2b07-4424-b3f8-0125660682e3",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--77cfedae-2306-461f-bc2b-976170ae2305",
+            "created_by_ref": "identity--5ae001c6-18fc-41a6-bf37-8564f5519ca9",
+            "created": "2022-07-02T04:22:03.08085Z",
+            "modified": "2022-07-02T04:22:03.08085Z",
+            "name": "Respond to Breaking News Event or Active Crisis",
+            "description": "TA14",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-narratives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0068.md",
+                    "external_id": "T0068"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--5dcdd76b-e488-4016-bb89-72664e886e9c"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

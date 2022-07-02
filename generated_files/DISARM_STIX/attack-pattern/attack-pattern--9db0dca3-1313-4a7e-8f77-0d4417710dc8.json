@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--d701eb63-ce8d-40a1-9658-d4a49b121d65",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--9db0dca3-1313-4a7e-8f77-0d4417710dc8",
+            "created_by_ref": "identity--e69adbcf-af5e-4a37-96bb-1a8cbefb9d74",
+            "created": "2022-07-02T04:22:03.132653Z",
+            "modified": "2022-07-02T04:22:03.132653Z",
+            "name": "Post inauthentic social media comment",
+            "description": "Use government-paid social media commenters, astroturfers, chat bots (programmed to reply to specific key words/hashtags) influence online conversations, product reviews, web-site comment forums.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "deliver-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0116.001.md",
+                    "external_id": "T0116.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--1d91d248-0547-431e-9d07-1918356fbccb"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--03eac4a8-cba8-4cf6-9264-d424f5ec77f7",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--8f28ec38-0448-4189-9ec5-2d026cbe0af9",
+            "created_by_ref": "identity--f0897e83-4815-45a9-9549-baf0ba350ad7",
+            "created": "2022-07-02T04:22:03.114879Z",
+            "modified": "2022-07-02T04:22:03.114879Z",
+            "name": "Leak Authentic Documents",
+            "description": "nan",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0089.001.md",
+                    "external_id": "T0089.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--770373d4-4520-4bc2-802c-fad7ecc7a8a2"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--73bd3cc6-bfe1-4ee4-91fa-a4c0b318b847",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--ab6e9b70-4b9e-414c-93ea-405058270218",
+            "created_by_ref": "identity--38f55dd2-91b3-4ceb-8598-9f9c492e522a",
+            "created": "2022-07-02T04:22:03.123956Z",
+            "modified": "2022-07-02T04:22:03.123956Z",
+            "name": "Co-Opt Grassroots Groups",
+            "description": "nan",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0100.002.md",
+                    "external_id": "T0100.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--d498617c-36fd-41c6-aeb3-4209cff0913d"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}
