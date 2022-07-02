@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--24c1dc8f-b6b7-48a4-a240-024a22e1707e",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--501987ea-c8a7-494e-a250-f5f25314959c",
+            "created_by_ref": "identity--2fc3a9cf-526d-4780-9d84-e6dc9076cf69",
+            "created": "2022-07-02T19:59:12.741193Z",
+            "modified": "2022-07-02T19:59:12.741193Z",
+            "name": "Awareness",
+            "description": "Measure current system state with respect to the effectiveness of influencing awareness. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "assess-effectiveness"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0133.003.md",
+                    "external_id": "T0133.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--19a0c7d3-34c8-4e1b-b54a-33cda63a82fc"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

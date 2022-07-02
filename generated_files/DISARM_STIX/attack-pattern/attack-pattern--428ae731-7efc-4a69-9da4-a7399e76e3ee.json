@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--622bf972-c2d8-47a7-9e81-e872bc20670d",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--428ae731-7efc-4a69-9da4-a7399e76e3ee",
+            "created_by_ref": "identity--36cafddb-0259-4c61-934f-3bf91229afd6",
+            "created": "2022-07-02T19:59:12.739896Z",
+            "modified": "2022-07-02T19:59:12.739896Z",
+            "name": "View Focused",
+            "description": "View Focused",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "assess-effectiveness"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0132.003.md",
+                    "external_id": "T0132.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--9d4537a2-0e1f-4c94-a12b-dbb224406b72"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

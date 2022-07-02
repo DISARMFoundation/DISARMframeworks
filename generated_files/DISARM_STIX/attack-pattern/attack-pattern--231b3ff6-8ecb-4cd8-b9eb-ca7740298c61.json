@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--9c1288f1-5dfd-4167-bc59-fa8d638c1504",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--231b3ff6-8ecb-4cd8-b9eb-ca7740298c61",
+            "created_by_ref": "identity--d8019794-70dc-47da-9bae-5dffca5e9949",
+            "created": "2022-07-02T19:59:12.655093Z",
+            "modified": "2022-07-02T19:59:12.655093Z",
+            "name": "Develop AI-Generated Videos (Deepfakes)",
+            "description": "Deepfakes refer to AI-generated falsified photos, videos, or soundbites. An influence operation may use deepfakes to depict an inauthentic situation by synthetically recreating an individual\u2019s face, body, voice, and physical gestures.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0087.001.md",
+                    "external_id": "T0087.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--0a97bad2-3a12-41fe-8c81-42b21d3e0934"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

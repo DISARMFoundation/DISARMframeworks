@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--780bb150-7915-4730-8030-d47484f40929",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--01643bc5-725d-4764-a19b-2bb004359165",
+            "created_by_ref": "identity--09650018-a5d0-4735-85b3-5339986d0d48",
+            "created": "2022-07-02T19:59:12.630712Z",
+            "modified": "2022-07-02T19:59:12.630712Z",
+            "name": "Use fake experts",
+            "description": "Use the fake experts that were set up during Establish Legitimacy. Pseudo-experts are disposable assets that often appear once and then disappear. Give \"credility\" to misinformation. Take advantage of credential bias",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "conduct-pump-priming"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0045.md",
+                    "external_id": "T0045"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--77fae784-a245-4fbc-a20e-5d81073ddd34"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

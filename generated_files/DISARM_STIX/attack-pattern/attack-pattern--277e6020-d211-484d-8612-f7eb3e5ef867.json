@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--21dd4925-6008-4106-ab77-b7b6b396993d",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--277e6020-d211-484d-8612-f7eb3e5ef867",
+            "created_by_ref": "identity--653b5bd3-9007-4137-9e3c-7e5e0e02d5a6",
+            "created": "2022-07-02T19:59:12.669783Z",
+            "modified": "2022-07-02T19:59:12.669783Z",
+            "name": "Create Localized Content",
+            "description": "Localized content refers to content that appeals to a specific community of individuals, often in defined geographic areas. An operation may create localized content using local language and dialects to resonate with its target audience and blend in with other local news and social media. Localized content may help an operation increase legitimacy, avoid detection, and complicate external attribution.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "microtarget"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0101.md",
+                    "external_id": "T0101"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--e440ec90-1df2-46d9-bc31-b0c89d7e6240"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

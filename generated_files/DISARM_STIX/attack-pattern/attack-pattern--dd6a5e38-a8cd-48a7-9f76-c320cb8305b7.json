@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--8df4cf1f-ddcb-4be1-8f60-0b310b4d682d",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--dd6a5e38-a8cd-48a7-9f76-c320cb8305b7",
+            "created_by_ref": "identity--a8c616e1-c75d-45a5-814e-6faf15c3f49e",
+            "created": "2022-07-02T19:59:12.741833Z",
+            "modified": "2022-07-02T19:59:12.741833Z",
+            "name": "Action/attitude",
+            "description": "Measure current system state with respect to the effectiveness of influencing action/attitude. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "assess-effectiveness"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0133.005.md",
+                    "external_id": "T0133.005"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--0f227a86-f2bb-42fa-9b2c-ab90e1115259"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

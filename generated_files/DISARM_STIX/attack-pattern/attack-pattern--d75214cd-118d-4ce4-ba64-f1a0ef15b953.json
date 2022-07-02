@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--2f7f5b1b-88b5-4c53-817b-faf0860e8d27",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--d75214cd-118d-4ce4-ba64-f1a0ef15b953",
+            "created_by_ref": "identity--98b6c229-8789-4a75-a9f5-76000c9c7566",
+            "created": "2022-07-02T19:59:12.657683Z",
+            "modified": "2022-07-02T19:59:12.657683Z",
+            "name": "Alter Authentic Documents",
+            "description": "Alter authentic documents (public or non-public) to achieve campaign goals. The altered documents are intended to appear as if they are authentic can be \"leaked\" during later stages in the operation.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0089.003.md",
+                    "external_id": "T0089.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--744df4b6-2091-44e3-907c-441330536d7d"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

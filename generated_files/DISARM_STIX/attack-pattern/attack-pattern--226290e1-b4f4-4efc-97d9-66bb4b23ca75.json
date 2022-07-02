@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--cf42c9cf-dadd-4d6b-9003-b4a8a2c610d7",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--226290e1-b4f4-4efc-97d9-66bb4b23ca75",
+            "created_by_ref": "identity--375b2c10-2551-48f0-b064-7bf0351c5234",
+            "created": "2022-07-02T19:59:12.718561Z",
+            "modified": "2022-07-02T19:59:12.718561Z",
+            "name": "Share Memes",
+            "description": "Memes are one of the most important single artefact types in all of computational propaganda. Memes in this framework denotes the narrow image-based definition. But that naming is no accident, as these items have most of the important properties of Dawkins' original conception as a self-replicating unit of culture. Memes pull together reference and commentary; image and narrative; emotion and message. Memes are a powerful tool and the heart of modern influence campaigns.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "deliver-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0115.001.md",
+                    "external_id": "T0115.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--6e625e76-5743-4b29-8f9c-898aaece03e4"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

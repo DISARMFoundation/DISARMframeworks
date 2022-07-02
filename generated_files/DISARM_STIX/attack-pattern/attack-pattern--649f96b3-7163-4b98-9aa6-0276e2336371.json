@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--63939dad-e52c-40fb-9a5d-735c13273943",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--649f96b3-7163-4b98-9aa6-0276e2336371",
+            "created_by_ref": "identity--1fd731cd-2c70-490a-9bb6-041d45013dfe",
+            "created": "2022-07-02T19:59:12.678665Z",
+            "modified": "2022-07-02T19:59:12.678665Z",
+            "name": "TV",
+            "description": "TV",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0111.001.md",
+                    "external_id": "T0111.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--d16c3d64-6a6e-417d-94ec-c8855ea30737"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

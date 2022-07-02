@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--5de78ba1-59a0-49b4-830d-ca3dd6b9ae62",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--6632ab1a-e798-45f7-8703-e09c110f11ea",
+            "created_by_ref": "identity--fb417f9a-c4ea-446c-8e69-b17ec5f2f1f4",
+            "created": "2022-07-02T19:59:12.737944Z",
+            "modified": "2022-07-02T19:59:12.737944Z",
+            "name": "Exploit TOS/Content Moderation",
+            "description": "Exploiting weaknesses in platforms' terms of service and content moderation policies to avoid takedowns and platform actions.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0131.md",
+                    "external_id": "T0131"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--5ef9eab3-8a48-42f7-b1da-1675e5e39de0"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

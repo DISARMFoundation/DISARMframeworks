@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--b5be1bed-779b-47bd-a21c-c90f0c0d8e7c",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--3d6c883e-34bb-4c1a-8784-6d3265683039",
+            "created_by_ref": "identity--c95de225-6152-492c-8361-18ec68fb7f2c",
+            "created": "2022-07-02T19:59:12.727352Z",
+            "modified": "2022-07-02T19:59:12.727352Z",
+            "name": "Exploit Platform TOS/Content Moderation",
+            "description": "Exploit Platform TOS/Content Moderation",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-online-harms"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0124.003.md",
+                    "external_id": "T0124.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--8e2ee928-c4ad-437b-9f09-cd9b10b20436"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

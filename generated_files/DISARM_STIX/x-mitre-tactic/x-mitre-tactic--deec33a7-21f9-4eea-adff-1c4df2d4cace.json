@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--ad63709e-d70e-4adb-8538-d1207dd1cc9e",
+    "objects": [
+        {
+            "type": "x-mitre-tactic",
+            "spec_version": "2.1",
+            "id": "x-mitre-tactic--deec33a7-21f9-4eea-adff-1c4df2d4cace",
+            "created_by_ref": "identity--82661400-5ddb-4daa-ab03-b573f5562771",
+            "created": "2022-07-02T19:59:12.614068Z",
+            "modified": "2022-07-02T19:59:12.614068Z",
+            "name": "Conduct Pump Priming",
+            "description": "Release content on a targetted small scale, prior to general release, including releasing seed. Used for preparation before broader release, and as message honing. Used for preparation before broader release, and as message honing. ",
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA08.md",
+                    "external_id": "TA08"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f4b05b16-1c2b-47c2-bc6a-a1151adcf5a2"
+            ],
+            "x_mitre_shortname": "conduct-pump-priming"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--d6df7c43-a845-41d5-b6ec-3f39b6085bd0",
+    "objects": [
+        {
+            "type": "x-mitre-tactic",
+            "spec_version": "2.1",
+            "id": "x-mitre-tactic--103f5cc2-a673-43a8-b497-4ba1d8be65bc",
+            "created_by_ref": "identity--ca6d8f63-8cb2-46f7-9570-5cd40cd72734",
+            "created": "2022-07-02T19:59:12.615954Z",
+            "modified": "2022-07-02T19:59:12.615954Z",
+            "name": "Target Audience Analysis",
+            "description": "Identifying and analyzing the target audience examines target audience member locations,  political affiliations, financial situations, and other attributes that an influence operation may incorporate into its messaging strategy. During this tactic, influence operations may also identify  existing similarities and differences between target audience members to unite like groups and  divide opposing groups. Identifying and analyzing target audience members allows influence operations to tailor  operation strategy and content to their analysis. ",
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA13.md",
+                    "external_id": "TA13"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--767fb3e7-7b15-419d-a943-e7bc1550548a"
+            ],
+            "x_mitre_shortname": "target-audience-analysis"
+        }
+    ]
+}

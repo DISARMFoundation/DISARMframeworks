@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--afa1c407-089b-410c-93c0-989d24b246c8",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--437280b4-4445-456f-ab6c-2ef6d9913c4d",
+            "created_by_ref": "identity--7e4b79b1-425b-4343-8d3c-24031ad1d8bc",
+            "created": "2022-07-02T19:59:12.660033Z",
+            "modified": "2022-07-02T19:59:12.660033Z",
+            "name": "Recruit Contractors",
+            "description": "Operators recruit paid contractor to support the campaign.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0091.001.md",
+                    "external_id": "T0091.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--84169122-4c45-4b07-8046-f8b412019ef1"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

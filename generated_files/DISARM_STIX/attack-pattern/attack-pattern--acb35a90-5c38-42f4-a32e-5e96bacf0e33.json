@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--72f38df6-0714-4f84-b5bc-11b014f776c0",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--acb35a90-5c38-42f4-a32e-5e96bacf0e33",
+            "created_by_ref": "identity--ab023978-2067-49be-9e74-7f0c42fdca15",
+            "created": "2022-07-02T19:59:12.650147Z",
+            "modified": "2022-07-02T19:59:12.650147Z",
+            "name": "Reuse Existing Content",
+            "description": "When an operation recycles content from its own previous  operations or plagiarizes from external operations. An operation may launder information to  conserve resources that would have otherwise been utilized to develop new content. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0084.md",
+                    "external_id": "T0084"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--84551930-9961-4062-8a9f-57d4cdc42233"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

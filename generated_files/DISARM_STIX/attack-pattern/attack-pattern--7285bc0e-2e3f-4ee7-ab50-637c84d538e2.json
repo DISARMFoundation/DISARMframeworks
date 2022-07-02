@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--21ce1bfc-ef05-4e29-bf63-3a4e76ded74c",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--7285bc0e-2e3f-4ee7-ab50-637c84d538e2",
+            "created_by_ref": "identity--b992546e-8144-4e4c-80fd-59bb821a1b74",
+            "created": "2022-07-02T19:59:12.645587Z",
+            "modified": "2022-07-02T19:59:12.645587Z",
+            "name": "Identify Trending Topics/Hashtags",
+            "description": "An influence operation may identify trending hashtags on social media platforms for later use in  boosting operation content. A hashtag40 refers to a word or phrase preceded by the hash symbol  (#) on social media used to identify messages and posts relating to a specific topic. All public  posts that use the same hashtag are aggregated onto a centralized page dedicated to the word or  phrase and sorted either chronologically or by popularity. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0080.003.md",
+                    "external_id": "T0080.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f87997ed-0d5d-43ac-9d10-a6e7951292d6"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

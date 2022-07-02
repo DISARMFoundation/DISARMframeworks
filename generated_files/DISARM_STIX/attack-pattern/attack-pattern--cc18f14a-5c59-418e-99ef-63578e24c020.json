@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--bf3a4ebb-2a90-42df-b8a7-3e4099af1eaa",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--cc18f14a-5c59-418e-99ef-63578e24c020",
+            "created_by_ref": "identity--4933a852-ba49-4e7a-b91b-71c2b2875ab6",
+            "created": "2022-07-02T19:59:12.621024Z",
+            "modified": "2022-07-02T19:59:12.621024Z",
+            "name": "Create inauthentic websites",
+            "description": "Create media assets to support inauthentic organizations (e.g. think tank), people (e.g. experts) and/or serve as sites to distribute malware/launch phishing operations.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0013.md",
+                    "external_id": "T0013"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--b0e007a6-3cb6-44e3-87b7-f45200baf0dd"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

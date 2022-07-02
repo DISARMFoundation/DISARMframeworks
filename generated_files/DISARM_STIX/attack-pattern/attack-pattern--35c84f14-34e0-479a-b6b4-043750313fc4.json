@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--a0472552-89fc-4d00-bb57-8cee6e46bb5c",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--35c84f14-34e0-479a-b6b4-043750313fc4",
+            "created_by_ref": "identity--10551072-2fec-440f-808e-d46a00535785",
+            "created": "2022-07-02T19:59:12.668178Z",
+            "modified": "2022-07-02T19:59:12.668178Z",
+            "name": "Spoof/parody account/site",
+            "description": "An influence operation may prepare assets impersonating legitimate entities to further conceal its  network identity and add a layer of legitimacy to its operation content. Users will more likely  believe and less likely fact-check news from recognizable sources rather than unknown sites.  Legitimate entities may include authentic news outlets, public figures, organizations, or state  entities.  ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0099.002.md",
+                    "external_id": "T0099.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--5f6fba74-b814-4c81-9023-d43ddd1b84ee"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

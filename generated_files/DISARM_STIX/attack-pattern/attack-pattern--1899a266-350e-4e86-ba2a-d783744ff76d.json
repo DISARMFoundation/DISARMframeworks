@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--9f2222c2-16bf-42f6-9516-ed416eba81ce",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--1899a266-350e-4e86-ba2a-d783744ff76d",
+            "created_by_ref": "identity--43cb3419-f997-45de-bbab-300f2db14906",
+            "created": "2022-07-02T19:59:12.642258Z",
+            "modified": "2022-07-02T19:59:12.642258Z",
+            "name": "Dismiss",
+            "description": "Push back against criticism by dismissing your critics. This might be arguing that the critics use a different standard for you than with other actors or themselves; or arguing that their criticism is biased.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0075.md",
+                    "external_id": "T0075"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--e29453eb-0dae-4f36-be8d-8e1b2958e147"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

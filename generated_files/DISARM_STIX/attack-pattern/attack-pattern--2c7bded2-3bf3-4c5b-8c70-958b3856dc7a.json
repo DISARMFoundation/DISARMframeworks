@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--76dc05f2-fc6d-438e-a43a-5e2ab38d0f5b",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--2c7bded2-3bf3-4c5b-8c70-958b3856dc7a",
+            "created_by_ref": "identity--95f06451-4dbd-4c09-a0aa-1a7f73694fab",
+            "created": "2022-07-02T19:59:12.673593Z",
+            "modified": "2022-07-02T19:59:12.673593Z",
+            "name": "Private/Closed Social Networks",
+            "description": "An audio livestream refers to an online audio broadcast capability that allows for real-time communication to closed or open networks. Examples include Twitter Spaces, ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0104.003.md",
+                    "external_id": "T0104.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--48408254-1db7-4679-85d5-c85aefa93b8a"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

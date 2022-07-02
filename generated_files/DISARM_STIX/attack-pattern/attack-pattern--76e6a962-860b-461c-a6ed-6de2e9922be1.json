@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--88c7f3fa-106d-4e93-bdff-4c32b4373cc7",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--76e6a962-860b-461c-a6ed-6de2e9922be1",
+            "created_by_ref": "identity--8797daf0-5b36-41bb-8d6e-05467371987e",
+            "created": "2022-07-02T19:59:12.662591Z",
+            "modified": "2022-07-02T19:59:12.662591Z",
+            "name": "Acquire/Recruit Network",
+            "description": "Operators acquire an existing network by paying, recruiting, or exerting control over the leaders of the existing network. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0093.md",
+                    "external_id": "T0093"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--bc25de8f-c6cb-4aef-b7a7-26cc71b3be42"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

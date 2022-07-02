@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--49efa15a-24f8-4f10-a17d-cb027f1a5897",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--0b98e731-1c93-49ef-9f07-0377be20ff34",
+            "created_by_ref": "identity--e961bf5e-69ef-48f4-b322-8a565f83f490",
+            "created": "2022-07-02T19:59:12.72327Z",
+            "modified": "2022-07-02T19:59:12.72327Z",
+            "name": "Use Contests and Prizes",
+            "description": "Use Contests and Prizes",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0120.002.md",
+                    "external_id": "T0120.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--6ae81d81-f7bf-44fe-974b-0aa08c1a967e"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

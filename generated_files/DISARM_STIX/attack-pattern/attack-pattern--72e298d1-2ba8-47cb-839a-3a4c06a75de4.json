@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--892017c9-ebee-49de-a632-a696852538c3",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--72e298d1-2ba8-47cb-839a-3a4c06a75de4",
+            "created_by_ref": "identity--3f7bbc05-2e56-46f8-a7c7-0a9656837742",
+            "created": "2022-07-02T19:59:12.726258Z",
+            "modified": "2022-07-02T19:59:12.726258Z",
+            "name": "Suppress Opposition",
+            "description": "Operators can suppress the opposition by exploiting platform content moderation tools and processes like reporting non-violative content to platforms for takedown and goading opposition actors into taking actions that result in platform action or target audience disapproval. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-online-harms"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0124.md",
+                    "external_id": "T0124"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--20461297-9aee-4b63-b87e-ef04ce19ae83"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

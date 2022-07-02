@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--f889df7a-a99f-4bca-814c-961eb95ae506",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--748bd382-1819-41d9-addc-de7081097b73",
+            "created_by_ref": "identity--d2d19e9f-ba7d-4bf0-84f0-6c17ee813d6b",
+            "created": "2022-07-02T19:59:12.634036Z",
+            "modified": "2022-07-02T19:59:12.634036Z",
+            "name": "Hijack existing hashtag",
+            "description": "Take over an existing hashtag to drive exposure.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0049.002.md",
+                    "external_id": "T0049.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--861a80d4-23e8-424d-9020-53653045adba"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--3de7a681-3c63-4b2c-a296-d8949e2ac827",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--970f666f-aa3b-4cea-9ca6-c8e2410dedbb",
+            "created_by_ref": "identity--068e7816-d23e-4a0f-80c4-d6f75343eb00",
+            "created": "2022-07-02T19:59:12.666241Z",
+            "modified": "2022-07-02T19:59:12.666241Z",
+            "name": "Backstop personas ",
+            "description": "Create other assets/dossier/cover/fake relationships and/or connections or documents, sites, bylines, attributions, to establish/augment/inflate crediblity/believability",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0097.001.md",
+                    "external_id": "T0097.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--b3bd7c6c-a4f6-4280-b62b-e71d80231d2e"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

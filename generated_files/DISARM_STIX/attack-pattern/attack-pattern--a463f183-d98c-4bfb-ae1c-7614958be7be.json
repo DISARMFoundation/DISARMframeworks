@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--ec3e152c-18b7-4bc1-b8a9-b63a8c00b5ac",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--a463f183-d98c-4bfb-ae1c-7614958be7be",
+            "created_by_ref": "identity--c2f635ef-12ba-4738-9072-571178b45620",
+            "created": "2022-07-02T19:59:12.725924Z",
+            "modified": "2022-07-02T19:59:12.725924Z",
+            "name": "Conduct Server Redirect",
+            "description": "A server redirect, also known as a URL redirect, occurs when a server automatically forwards a  user from one URL to another using server-side scripting languages. An influence operation may  conduct a server redirect to divert target audience members from one website to another without  their knowledge. The redirected website may pose as a legitimate source, host malware, or  otherwise aid operation objectives.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-online-harms"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0123.004.md",
+                    "external_id": "T0123.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--02d672fc-6539-46fa-8381-6145b1930202"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

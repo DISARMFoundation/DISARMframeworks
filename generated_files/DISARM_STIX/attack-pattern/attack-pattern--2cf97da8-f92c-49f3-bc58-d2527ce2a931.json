@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--b0e59946-83ee-41b3-9122-b78afd0cd70f",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--2cf97da8-f92c-49f3-bc58-d2527ce2a931",
+            "created_by_ref": "identity--6fafe263-0f92-45ca-a9fd-246d4bf6bdd6",
+            "created": "2022-07-02T19:59:12.655418Z",
+            "modified": "2022-07-02T19:59:12.655418Z",
+            "name": "Deceptively Edit Video (Cheap fakes)",
+            "description": "Cheap fakes utilize less sophisticated measures of altering an image, video, or audio for example, slowing, speeding, or cutting footage to create a false context surrounding an image or event.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0087.002.md",
+                    "external_id": "T0087.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--974c743a-3157-4513-ac26-b95b97291258"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--704baf7d-eab7-43d1-b557-80466cf6ccea",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--8e486393-6d94-4855-989e-9a9fa9acdd13",
+            "created_by_ref": "identity--ee117265-a292-4a05-a9da-e856f57630d1",
+            "created": "2022-07-02T19:59:12.639572Z",
+            "modified": "2022-07-02T19:59:12.639572Z",
+            "name": "Segment Audiences",
+            "description": "Create audience segmentations by features of interest to the influence campaign, including political affiliation, geographic location, income, demographics, and psychographics. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0072.md",
+                    "external_id": "T0072"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--115c0f3e-a0a1-434d-abf2-c28ceeacb491"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

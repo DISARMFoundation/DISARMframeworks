@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--88337ec9-e5ad-48a0-b696-cbaf5be6945c",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--1df3f525-2142-439a-94c1-a600464e1e6e",
+            "created_by_ref": "identity--fad6e3e4-434b-4351-a9a9-ff717bf0c296",
+            "created": "2022-07-02T19:59:12.637924Z",
+            "modified": "2022-07-02T19:59:12.637924Z",
+            "name": "Sell Merchandise",
+            "description": "Sell mechandise refers to getting the message or narrative into physical space in the offline world while making money",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-offline-activity"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0061.md",
+                    "external_id": "T0061"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--38b3f210-25ee-412d-b683-bc0cfd6c6353"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

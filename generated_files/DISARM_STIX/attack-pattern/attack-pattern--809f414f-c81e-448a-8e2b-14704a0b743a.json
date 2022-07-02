@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--54e7a7d2-75a0-4b2e-9821-fd10829510e1",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--809f414f-c81e-448a-8e2b-14704a0b743a",
+            "created_by_ref": "identity--a96cb603-3f6d-4f99-9954-e8e800e23cf7",
+            "created": "2022-07-02T19:59:12.675894Z",
+            "modified": "2022-07-02T19:59:12.675894Z",
+            "name": "Audio sharing",
+            "description": "Examples include podcasting apps, Soundcloud, etc.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0105.003.md",
+                    "external_id": "T0105.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--59b3d332-2dc8-4477-8cc9-b3c123771299"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

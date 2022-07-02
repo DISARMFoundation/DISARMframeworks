@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--adb4e5e3-9feb-4dae-a951-b81a3ef06c68",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--9d40d2ec-4083-40d0-a2ef-370a7366d0aa",
+            "created_by_ref": "identity--9c93c304-5f9f-4786-951d-24eed34bf51e",
+            "created": "2022-07-02T19:59:12.649494Z",
+            "modified": "2022-07-02T19:59:12.649494Z",
+            "name": "Develop New Narratives",
+            "description": "Actors may develop new narratives to further strategic or tactical goals, especially when existing narratives adequately align with the campaign goals. New narratives provide more control in terms of crafting the message to achieve specific goals. However, new narratives may require more effort to disseminate than adapting or adopting existing narratives. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-narratives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0082.md",
+                    "external_id": "T0082"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--be1a2137-010b-4a3f-84f5-fa557f9dacba"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

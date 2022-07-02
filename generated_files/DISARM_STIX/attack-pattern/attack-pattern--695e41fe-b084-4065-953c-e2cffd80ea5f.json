@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--eff44465-0c76-43c9-b7bc-292cde1f5922",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--695e41fe-b084-4065-953c-e2cffd80ea5f",
+            "created_by_ref": "identity--fe106c43-02ee-48da-bc4a-4ce3f45c1997",
+            "created": "2022-07-02T19:59:12.649163Z",
+            "modified": "2022-07-02T19:59:12.649163Z",
+            "name": "Identify Media System Vulnerabilities",
+            "description": "An influence operation may exploit existing weaknesses in a target\u2019s media system. These  weaknesses may include existing biases among media agencies, vulnerability to false news  agencies on social media, or existing distrust of traditional media sources. An existing distrust  among the public in the media system\u2019s credibility holds high potential for exploitation by an  influence operation when establishing alternative news agencies to spread operation content. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0081.008.md",
+                    "external_id": "T0081.008"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--11eb273f-6181-4492-901f-218ebca563ae"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

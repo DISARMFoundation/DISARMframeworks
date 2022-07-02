@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--57e40d28-3a10-4ac6-9d64-18e7aed22807",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--1a85979f-226f-4f03-bd53-4bd81807bd7b",
+            "created_by_ref": "identity--86789132-0ca6-4685-bf56-7c369788883a",
+            "created": "2022-07-02T19:59:12.671407Z",
+            "modified": "2022-07-02T19:59:12.671407Z",
+            "name": "Livestream",
+            "description": "A livestream refers to an online broadcast capability that allows for real-time communication to closed or open networks.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0103.md",
+                    "external_id": "T0103"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--bf332cd4-6a38-4fba-a6c6-f0f125ce6b66"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

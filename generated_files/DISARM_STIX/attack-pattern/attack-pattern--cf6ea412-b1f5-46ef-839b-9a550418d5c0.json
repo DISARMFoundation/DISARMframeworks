@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--b3bfffa4-3800-4a4d-92fd-2c48554976c4",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--cf6ea412-b1f5-46ef-839b-9a550418d5c0",
+            "created_by_ref": "identity--04fe0474-f10e-4552-8f5e-7158aba4546f",
+            "created": "2022-07-02T19:59:12.642582Z",
+            "modified": "2022-07-02T19:59:12.642582Z",
+            "name": "Discredit Credible Sources",
+            "description": "Plan to delegitimize the media landscape and degrade public trust in reporting, by discrediting credible sources. This makes it easier to promote influence operation content.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0075.001.md",
+                    "external_id": "T0075.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--5be7fa61-2b10-4583-8c9c-9f300864e5f1"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

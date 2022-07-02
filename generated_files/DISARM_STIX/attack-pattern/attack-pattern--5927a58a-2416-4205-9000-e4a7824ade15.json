@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--eabd858d-7a31-46f1-bf23-03192672ec70",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--5927a58a-2416-4205-9000-e4a7824ade15",
+            "created_by_ref": "identity--6fe4287e-52e4-432a-9161-8747372811e1",
+            "created": "2022-07-02T19:59:12.719223Z",
+            "modified": "2022-07-02T19:59:12.719223Z",
+            "name": "One-Way Direct Posting",
+            "description": "Direct posting refers to a method of posting content via a one-way messaging service, where the  recipient cannot directly respond to the poster\u2019s messaging. An influence operation may post  directly to promote operation narratives to the target audience without allowing opportunities for  fact-checking or disagreement, creating a false sense of support for the narrative. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "deliver-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0115.003.md",
+                    "external_id": "T0115.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--323b4d6c-a3a6-41f9-a7f1-d7ef2e7e5ae6"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

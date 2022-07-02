@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--0f5f692e-31a2-4c4d-a935-fedfbd45e8c0",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--c6cfb4ba-463c-4bcc-a981-9b8db1114fd7",
+            "created_by_ref": "identity--39310d97-7721-430c-a3ff-946545bcb395",
+            "created": "2022-07-02T19:59:12.721501Z",
+            "modified": "2022-07-02T19:59:12.721501Z",
+            "name": "Post Across Groups",
+            "description": "An influence operation may post content across groups to spread narratives and content to new communities within the target audiences or to new target audiences. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0119.001.md",
+                    "external_id": "T0119.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--a7b18c77-4e6b-4eb0-a193-c5ee9f2b5a1f"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}
