@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--0372728c-d747-44d6-9347-2beb2e9cec8c",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--841a7027-21e2-47f0-a8be-cc43d0e85faf",
+            "created_by_ref": "identity--9f57ca6b-1cb8-4d45-93e3-26f6fee85399",
+            "created": "2022-07-02T17:28:36.975738Z",
+            "modified": "2022-07-02T17:28:36.975738Z",
+            "name": "Follow Trains",
+            "description": "TA15",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0092.002.md",
+                    "external_id": "T0092.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--8f36e44d-f28a-4f6e-943b-5199f32bf6d2"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

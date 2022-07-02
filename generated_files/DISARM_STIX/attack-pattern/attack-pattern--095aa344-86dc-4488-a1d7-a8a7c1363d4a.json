@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--fdc2d2fc-7bbf-42b1-84c3-4392a844e895",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--095aa344-86dc-4488-a1d7-a8a7c1363d4a",
+            "created_by_ref": "identity--c0f933b4-d46e-4419-868f-db37873512be",
+            "created": "2022-07-02T17:28:36.948044Z",
+            "modified": "2022-07-02T17:28:36.948044Z",
+            "name": "Bots Amplify via Automated Forwarding and Reposting",
+            "description": "TA17",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0049.003.md",
+                    "external_id": "T0049.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--778b8674-094f-4ba7-b58c-79a77b05dea5"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

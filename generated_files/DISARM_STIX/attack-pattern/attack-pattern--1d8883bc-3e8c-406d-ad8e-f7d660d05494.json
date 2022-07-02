@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--d5126e46-fbad-47e4-94d2-c9880b6284ec",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--1d8883bc-3e8c-406d-ad8e-f7d660d05494",
+            "created_by_ref": "identity--c0e3a9f3-db28-4270-b125-c8c15ab52242",
+            "created": "2022-07-02T17:28:36.945596Z",
+            "modified": "2022-07-02T17:28:36.945596Z",
+            "name": "Boycott/\"Cancel\" Opponents",
+            "description": "TA18",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-online-harms"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0048.001.md",
+                    "external_id": "T0048.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--d681785f-ab54-4f82-bf66-75d3d447bba9"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

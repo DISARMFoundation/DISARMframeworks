@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--6f7dc487-30a4-4033-a504-d58883c23e21",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--4a332cd3-c862-46e1-b571-e888a67ce45a",
+            "created_by_ref": "identity--111045d1-6a2e-4077-a536-5024c741a30f",
+            "created": "2022-07-02T17:28:36.956907Z",
+            "modified": "2022-07-02T17:28:36.956907Z",
+            "name": "Dismay",
+            "description": "TA02",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0078.md",
+                    "external_id": "T0078"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--4ba7978a-0a00-4041-91e0-da3e1f74bef5"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

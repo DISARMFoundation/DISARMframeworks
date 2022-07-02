@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--63554396-d203-4f38-a545-e161f7c7e8aa",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--20a5cd5a-48be-48e4-83a7-c03efe6f66fa",
+            "created_by_ref": "identity--ea725fa9-8b4b-4ecd-9d90-9c4611efa4c3",
+            "created": "2022-07-02T17:28:36.963605Z",
+            "modified": "2022-07-02T17:28:36.963605Z",
+            "name": "Integrate Target Audience Vulnerabilities into Narrative",
+            "description": "TA14",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-narratives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0083.md",
+                    "external_id": "T0083"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--eb5a95f9-cb0a-4fd9-878d-baffa84f72bd"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

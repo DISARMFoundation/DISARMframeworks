@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--0be1b964-99b6-4d5d-9944-981f957e3b8b",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--d0cadcb4-3f75-43cf-9124-86e7caf7ee45",
+            "created_by_ref": "identity--a2fb8caa-de6e-4d3d-9267-23a941d8455d",
+            "created": "2022-07-02T17:28:37.013559Z",
+            "modified": "2022-07-02T17:28:37.013559Z",
+            "name": "Post Borderline Content",
+            "description": "TA11",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0131.002.md",
+                    "external_id": "T0131.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--9a4a24a5-fe80-4058-823f-7796be2262d1"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

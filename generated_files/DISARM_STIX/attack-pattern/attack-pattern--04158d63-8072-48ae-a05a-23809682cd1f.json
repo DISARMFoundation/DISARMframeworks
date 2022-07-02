@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--d7af83eb-bddf-4046-bd8c-595165846619",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--04158d63-8072-48ae-a05a-23809682cd1f",
+            "created_by_ref": "identity--ab867de0-2067-4bd5-93af-886a89f62d00",
+            "created": "2022-07-02T17:28:36.979936Z",
+            "modified": "2022-07-02T17:28:36.979936Z",
+            "name": "Backstop personas ",
+            "description": "TA16",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0097.001.md",
+                    "external_id": "T0097.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--0d66717e-e6af-4eb0-926b-0b8d2fed6911"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

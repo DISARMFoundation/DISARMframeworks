@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--e5441da6-c752-4db2-9640-5bd710766218",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--c6118c1f-e163-4eb0-a647-44a9d4074bb0",
+            "created_by_ref": "identity--72eda25d-1364-455d-9244-708fc0e890fd",
+            "created": "2022-07-02T17:28:36.940776Z",
+            "modified": "2022-07-02T17:28:36.940776Z",
+            "name": "Distort facts",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0023.md",
+                    "external_id": "T0023"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--78e76db8-c5ea-4236-8bd1-0901fdd3d6fa"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

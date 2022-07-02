@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--a433e9a5-5f57-40d9-a62c-13654acebeac",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--52d6fdeb-d6c6-4a0b-bf8e-6bc7b29e37ec",
+            "created_by_ref": "identity--49b61c97-8260-4d89-9c3b-6ed4fe263946",
+            "created": "2022-07-02T17:28:36.974405Z",
+            "modified": "2022-07-02T17:28:36.974405Z",
+            "name": "Recruit Partisans",
+            "description": "TA15",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0091.002.md",
+                    "external_id": "T0091.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--b487d22d-05cb-4169-91f3-a2735c9bb9aa"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

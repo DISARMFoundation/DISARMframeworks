@@ -21,12 +21,11 @@ def make_disarm_subtechnique_relationship(source, target):
     return relationship
 
 
-def make_disarm_subtechnique_relationships(techniques, subtechniques):
+def make_disarm_subtechnique_relationships(techniques):
     """Creates a map of technique and sub-technique.
 
     Args:
         techniques (list): List of STIX2 technique objects.
-        subtechniques (list): List of STIX2 subtechnique objects.
 
     Returns:
         A Relationship object.
@@ -37,9 +36,10 @@ def make_disarm_subtechnique_relationships(techniques, subtechniques):
         technique_ids[technique["external_references"][0]["external_id"]] = technique["id"]
 
     relationships = []
-    for subtechnique in subtechniques:
-        technique_id = technique_ids[subtechnique["external_references"][0]["external_id"].split(".")[0]]
-        relationship = make_disarm_subtechnique_relationship(subtechnique["id"], technique_id)
-        relationships.append(relationship)
+    for technique in techniques:
+        if technique["x_mitre_is_subtechnique"]:
+            technique_id = technique_ids[technique["external_references"][0]["external_id"].split(".")[0]]
+            relationship = make_disarm_subtechnique_relationship(technique["id"], technique_id)
+            relationships.append(relationship)
 
     return relationships

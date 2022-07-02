@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--c5662bd4-24c4-48de-9e08-5d80c3aa633a",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--d230f9c5-757d-4a27-a808-fa5a60b42824",
+            "created_by_ref": "identity--38a77815-7d37-41b4-aa0e-c1c30262d365",
+            "created": "2022-07-02T17:28:36.97035Z",
+            "modified": "2022-07-02T17:28:36.97035Z",
+            "name": "Deceptively Edit Audio (Cheap fakes)",
+            "description": "TA06",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0088.002.md",
+                    "external_id": "T0088.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--52bcb8cb-9c93-47e9-8518-16cd5aa590c6"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

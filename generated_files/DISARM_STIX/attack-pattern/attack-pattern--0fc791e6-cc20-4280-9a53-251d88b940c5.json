@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--65f83c81-9726-4303-aed7-0192ba62d495",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--0fc791e6-cc20-4280-9a53-251d88b940c5",
+            "created_by_ref": "identity--0b71bdf6-0f28-40df-ac4d-ccbc480b24e2",
+            "created": "2022-07-02T17:28:37.011653Z",
+            "modified": "2022-07-02T17:28:37.011653Z",
+            "name": "Utilize Bulletproof Hosting",
+            "description": "TA11",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0130.002.md",
+                    "external_id": "T0130.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--3c23d001-ee41-49e8-b3ae-39b9b06e6a5f"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

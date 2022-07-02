@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--6b1867dd-0068-4439-9fa5-36b5beeec319",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--3dc7575f-3242-497a-a47c-23d50e05cbfc",
+            "created_by_ref": "identity--a7a4f86b-050a-45f8-be5d-d6c0d2be6bf5",
+            "created": "2022-07-02T17:28:36.973402Z",
+            "modified": "2022-07-02T17:28:36.973402Z",
+            "name": "Create Sockpuppet Accounts",
+            "description": "TA15",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0090.004.md",
+                    "external_id": "T0090.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--13adfddf-3975-421a-963b-753e100927e1"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

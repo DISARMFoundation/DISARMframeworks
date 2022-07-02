@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--0ec0e063-a7a8-4285-b629-29aca65c09f0",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--a9e19bbd-eceb-4167-a6e9-3de030befeff",
+            "created_by_ref": "identity--0ee865aa-e017-4429-a1dc-9562ba3b1ddb",
+            "created": "2022-07-02T17:28:36.994665Z",
+            "modified": "2022-07-02T17:28:36.994665Z",
+            "name": "Share Memes",
+            "description": "TA09",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "deliver-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0115.001.md",
+                    "external_id": "T0115.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f411e668-466b-4446-b399-e13755aee1c7"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

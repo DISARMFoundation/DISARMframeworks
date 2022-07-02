@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--0cd385b9-28ab-4d8c-83b4-cb9155efe806",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--f16b324b-cb5f-496e-8575-f3ff97963e54",
+            "created_by_ref": "identity--66f4fccb-98c6-4a94-87c1-9a3d5d40487d",
+            "created": "2022-07-02T17:28:36.948384Z",
+            "modified": "2022-07-02T17:28:36.948384Z",
+            "name": "Utilize Spamoflauge",
+            "description": "TA17",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0049.004.md",
+                    "external_id": "T0049.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--887ec817-05d2-4027-94cb-362a1b1d2abc"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--45de2d42-8a12-47c4-bf59-2c9510105e0e",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--3ff18f87-55ce-47c5-822d-94f2cd6aeb9f",
+            "created_by_ref": "identity--4eb4c2a4-3763-434b-b492-479c3f3cc162",
+            "created": "2022-07-02T17:28:36.962946Z",
+            "modified": "2022-07-02T17:28:36.962946Z",
+            "name": "Identify Media System Vulnerabilities",
+            "description": "TA13",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0081.008.md",
+                    "external_id": "T0081.008"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--6e6a2078-8bd8-4fc4-a609-02a11a8f77b2"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

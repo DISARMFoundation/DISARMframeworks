@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--84012216-e7cb-4afd-beba-9b110127cab6",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--a921ea75-6d2f-4c29-a2ab-2710e554af59",
+            "created_by_ref": "identity--2cf13eaa-affd-4359-8354-b65f97ddb14e",
+            "created": "2022-07-02T17:28:36.949386Z",
+            "modified": "2022-07-02T17:28:36.949386Z",
+            "name": "Inauthentic Sites Amplify News and Narratives",
+            "description": "TA17",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0049.007.md",
+                    "external_id": "T0049.007"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--9c5c84db-8553-4334-8ba6-54b93b8fcd1e"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--c2f9114d-7255-416e-a2b7-2784c6dfafaa",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--d4a81525-7093-4cf1-8a25-5f65270f9663",
+            "created_by_ref": "identity--747da886-528f-4535-baf2-70ebc56a21e1",
+            "created": "2022-07-02T17:28:36.954319Z",
+            "modified": "2022-07-02T17:28:36.954319Z",
+            "name": "Psychographic Segmentation",
+            "description": "TA13",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0072.004.md",
+                    "external_id": "T0072.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--867f2693-67db-4758-a04e-b397bc84e138"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

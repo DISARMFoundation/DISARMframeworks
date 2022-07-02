@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--2293d6b5-2fd7-45ba-89b2-915bdd89f9d4",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--da6adc03-a37d-45bf-973c-1297375f3f94",
+            "created_by_ref": "identity--9922dc47-7bf3-4dbf-9d2f-87e7cea04781",
+            "created": "2022-07-02T17:28:36.953668Z",
+            "modified": "2022-07-02T17:28:36.953668Z",
+            "name": "Demographic Segmentation",
+            "description": "TA13",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0072.002.md",
+                    "external_id": "T0072.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--877c1556-6477-4d45-8bb5-da084b772050"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

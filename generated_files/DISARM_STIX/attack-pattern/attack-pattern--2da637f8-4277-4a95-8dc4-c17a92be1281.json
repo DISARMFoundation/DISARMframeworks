@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--e53ebad9-c97b-401f-9b2f-6615996016d6",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--2da637f8-4277-4a95-8dc4-c17a92be1281",
+            "created_by_ref": "identity--f782b122-e140-49b5-9788-e6b26fdc6d24",
+            "created": "2022-07-02T17:28:37.01677Z",
+            "modified": "2022-07-02T17:28:37.01677Z",
+            "name": "Action/attitude",
+            "description": "TA12",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "assess-effectiveness"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0133.005.md",
+                    "external_id": "T0133.005"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--94db7dbd-42e7-4cd0-9274-c1d979b4c123"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

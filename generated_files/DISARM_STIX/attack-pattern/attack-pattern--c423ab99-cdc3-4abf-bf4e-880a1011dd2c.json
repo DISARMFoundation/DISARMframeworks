@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--f9b7aea4-c368-4833-9615-5da59f185909",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--c423ab99-cdc3-4abf-bf4e-880a1011dd2c",
+            "created_by_ref": "identity--258abf5a-e7af-4cc3-a37e-2114fefc92f0",
+            "created": "2022-07-02T17:28:36.940459Z",
+            "modified": "2022-07-02T17:28:36.940459Z",
+            "name": "Develop Original Conspiracy Theory Narratives",
+            "description": "TA14",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-narratives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0022.002.md",
+                    "external_id": "T0022.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--7f58f248-e688-4c86-a23e-412b3b42ad30"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

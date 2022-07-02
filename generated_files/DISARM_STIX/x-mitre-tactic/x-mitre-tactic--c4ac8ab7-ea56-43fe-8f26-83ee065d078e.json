@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--e9bb555d-e244-4277-80c7-1efa146feb78",
+    "objects": [
+        {
+            "type": "x-mitre-tactic",
+            "spec_version": "2.1",
+            "id": "x-mitre-tactic--c4ac8ab7-ea56-43fe-8f26-83ee065d078e",
+            "created_by_ref": "identity--a34190ba-0c2c-4436-b0d3-4c973958f322",
+            "created": "2022-07-02T17:28:36.927901Z",
+            "modified": "2022-07-02T17:28:36.927901Z",
+            "name": "Plan Strategy",
+            "description": "Define the desired end state, i.e. the set of required conditions that defines achievement of all objectives.",
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA01.md",
+                    "external_id": "TA01"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fd46b7f0-c2ff-434b-bc22-6970f53e77c1"
+            ],
+            "x_mitre_shortname": "plan-strategy"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--b9843b4e-43fa-4914-9016-78894d53ea4e",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--cd282f8b-686c-44c1-af4d-02ce5b4c707a",
+            "created_by_ref": "identity--44a7a18b-0aa1-4a7f-b8d4-7c780e1bb169",
+            "created": "2022-07-02T17:28:36.960089Z",
+            "modified": "2022-07-02T17:28:36.960089Z",
+            "name": "Find Echo Chambers",
+            "description": "TA13",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0081.001.md",
+                    "external_id": "T0081.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--5dc1f9e5-601f-478d-b52e-c6b1c097ee52"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

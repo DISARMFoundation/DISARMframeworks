@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--b7c36349-548f-4780-92b3-f30d0e533f92",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--418a55bf-5c5e-4a90-8f10-a18fc80a2964",
+            "created_by_ref": "identity--cb3afbf2-a35b-4868-b001-0b1eb75d6194",
+            "created": "2022-07-02T17:28:37.004582Z",
+            "modified": "2022-07-02T17:28:37.004582Z",
+            "name": "Physical Violence",
+            "description": "TA10",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-offline-activity"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0127.md",
+                    "external_id": "T0127"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--323e88e9-808d-4c69-b9e6-e2ab8bae52cf"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}

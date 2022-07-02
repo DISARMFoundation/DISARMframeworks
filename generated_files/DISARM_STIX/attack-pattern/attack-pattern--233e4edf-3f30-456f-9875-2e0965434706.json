@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--ad4e8155-52a0-4125-bdfb-78a39b221e08",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--233e4edf-3f30-456f-9875-2e0965434706",
+            "created_by_ref": "identity--262d6a84-6c99-49a5-b7bd-87dc1a686ec1",
+            "created": "2022-07-02T17:28:36.999572Z",
+            "modified": "2022-07-02T17:28:36.999572Z",
+            "name": "Bypass Content Blocking",
+            "description": "TA17",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0121.001.md",
+                    "external_id": "T0121.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--2825c31e-6488-47d6-8ded-f24b8c94ec21"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "1.0"
+        }
+    ]
+}
