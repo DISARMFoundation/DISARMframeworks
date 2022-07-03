@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--8d689444-dc9c-4042-a260-4c4634eed34f",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--c31542d3-d9c4-4fe4-ac5d-47632225a425",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2022-07-03T23:52:02.924665Z",
+            "modified": "2022-07-03T23:52:02.924665Z",
+            "name": "Report Non-Violative Opposing Content",
+            "description": "Reporting opposing content refers to notifying and providing an instance of a violation of a  platform\u2019s guidelines and policies for conduct on the platform. In addition to simply reporting  the content, an operation may leverage copyright regulations to trick social media and web  platforms into removing opposing content by manipulating the content to appear in violation of  copyright laws. Reporting opposing content facilitates the suppression of contradictory  information and allows operation narratives to take priority in the information space. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "drive-online-harms"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0124.001.md",
+                    "external_id": "T0124.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

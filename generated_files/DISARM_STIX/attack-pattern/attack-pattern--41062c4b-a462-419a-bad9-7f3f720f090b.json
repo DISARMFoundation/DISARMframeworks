@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--90aea2cf-82c0-491b-9e92-800adf6e79cb",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--41062c4b-a462-419a-bad9-7f3f720f090b",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2022-07-03T23:52:02.908749Z",
+            "modified": "2022-07-03T23:52:02.908749Z",
+            "name": "Identify Social and Technical Vulnerabilities",
+            "description": "Identifying social and technical vulnerabilities determines weaknesses within the target audience  information environment for later exploitation. Vulnerabilities include decisive political issues,  weak cybersecurity infrastructure, search engine data voids, and other technical and non technical weaknesses in the target information environment.  \nIdentifying social and technical vulnerabilities facilitates the later exploitation of the identified  weaknesses to advance operation objectives. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0081.md",
+                    "external_id": "T0081"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

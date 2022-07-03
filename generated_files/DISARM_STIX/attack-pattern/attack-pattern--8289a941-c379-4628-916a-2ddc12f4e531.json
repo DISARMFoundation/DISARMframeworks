@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--63a75858-09c5-4c4e-9902-780a012c555c",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--8289a941-c379-4628-916a-2ddc12f4e531",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2022-07-03T23:52:02.907965Z",
+            "modified": "2022-07-03T23:52:02.907965Z",
+            "name": "Map Target Audience Information Environment",
+            "description": "Mapping the target audience information environment analyzes the information space itself,  including social media analytics, web traffic, and media surveys. Mapping the information  environment may help the influence operation determine the most realistic and popular  information channels to reach its target audience. \nMapping the target audience information environment aids influence operations in determining  the most vulnerable areas of the information space to target with messaging.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0080.md",
+                    "external_id": "T0080"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

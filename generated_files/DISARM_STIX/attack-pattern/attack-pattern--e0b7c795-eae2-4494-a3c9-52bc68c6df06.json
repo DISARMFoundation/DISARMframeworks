@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--b613c613-ce33-425a-bcae-4da3fc7bba20",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--e0b7c795-eae2-4494-a3c9-52bc68c6df06",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2022-07-03T23:52:02.900012Z",
+            "modified": "2022-07-03T23:52:02.900012Z",
+            "name": "Raise funds from ignorant agents",
+            "description": "Raising funds from ignorant agents may include scams, donations intended for one stated purpose but then used for another, etc. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0014.002.md",
+                    "external_id": "T0014.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

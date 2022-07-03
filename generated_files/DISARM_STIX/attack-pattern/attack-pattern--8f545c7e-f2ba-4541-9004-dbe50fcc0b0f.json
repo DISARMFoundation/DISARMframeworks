@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--dad1ad2b-2d9d-4c27-a758-61d6a7e6193c",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--8f545c7e-f2ba-4541-9004-dbe50fcc0b0f",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2022-07-03T23:52:02.915416Z",
+            "modified": "2022-07-03T23:52:02.915416Z",
+            "name": "Utilize Butterfly Attacks",
+            "description": "Butterfly attacks occur when operators pretend to be members of a certain social group, usually  a group that struggles for representation. An influence operation may mimic a group to insert  controversial statements into the discourse, encourage the spread of operation content, or promote harassment among group members. Unlike astroturfing, butterfly attacks aim to  infiltrate and discredit existing grassroots movements, organizations, and media campaigns.  ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0094.002.md",
+                    "external_id": "T0094.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

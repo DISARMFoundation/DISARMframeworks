@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--e1b6cb01-685c-4876-8570-a7deb127e5d8",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--d522f417-ba0e-4e2d-ae96-df2c1fd607e6",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2022-07-03T23:52:02.914948Z",
+            "modified": "2022-07-03T23:52:02.914948Z",
+            "name": "Fund Proxies",
+            "description": "An influence operation may fund proxies, or external entities that work for the operation. An  operation may recruit/train users with existing sympathies towards the operation\u2019s narratives  and/or goals as proxies. Funding proxies serves various purposes including: \n- Diversifying operation locations to complicate attribution  \n- Reducing the workload for direct operation assets  ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0093.001.md",
+                    "external_id": "T0093.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

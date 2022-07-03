@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--965f4e64-c223-4aad-860d-1a23cd92f371",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--6b495bb5-d2ab-4da7-9530-a1aadd488803",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2022-07-03T23:52:02.926326Z",
+            "modified": "2022-07-03T23:52:02.926326Z",
+            "name": "Launder Accounts",
+            "description": "Account laundering occurs when an influence operation acquires control of previously legitimate  online accounts from third parties through sale or exchange and often in contravention of terms  of use. Influence operations use laundered accounts to reach target audience members from an  existing information channel and complicate attribution.  ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0128.004.md",
+                    "external_id": "T0128.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

@@ -136,7 +136,7 @@
 <td><a href="techniques/T0103.002.md">T0103.002 Audio Livestream</a></td>
 <td><a href="techniques/T0113.md">T0113 Employ Commercial Analytic Firms</a></td>
 <td><a href="techniques/T0115.003.md">T0115.003 One-Way Direct Posting</a></td>
-<td><a href="techniques/T0061.001.md">T0061.001 Sell Merchandise</a></td>
+<td><a href="techniques/T0126.md">T0126 Encourage Attendance at Events</a></td>
 <td><a href="techniques/T0128.004.md">T0128.004 Launder Accounts</a></td>
 <td><a href="techniques/T0133.002.md">T0133.002 Content</a></td>
 <td><a href="techniques/T0080.md">T0080 Map Target Audience Information Environment</a></td>
@@ -154,7 +154,7 @@
 <td><a href="techniques/T0104.md">T0104 Social Networks</a></td>
 <td> </td>
 <td><a href="techniques/T0116.md">T0116 Comment or Reply on Content</a></td>
-<td><a href="techniques/T0126.md">T0126 Encourage Attendance at Events</a></td>
+<td><a href="techniques/T0126.001.md">T0126.001 Call to action to attend </a></td>
 <td><a href="techniques/T0128.005.md">T0128.005 Change Names of Accounts</a></td>
 <td><a href="techniques/T0133.003.md">T0133.003 Awareness</a></td>
 <td><a href="techniques/T0080.001.md">T0080.001 Monitor Social Media Analytics</a></td>
@@ -172,7 +172,7 @@
 <td><a href="techniques/T0104.001.md">T0104.001 Mainstream Social Networks</a></td>
 <td> </td>
 <td><a href="techniques/T0116.001.md">T0116.001 Post inauthentic social media comment</a></td>
-<td><a href="techniques/T0126.001.md">T0126.001 Call to action to attend </a></td>
+<td><a href="techniques/T0126.002.md">T0126.002 Facilitate logistics or support for attendance</a></td>
 <td><a href="techniques/T0129.md">T0129 Conceal Operational Activity</a></td>
 <td><a href="techniques/T0133.004.md">T0133.004 Knowledge</a></td>
 <td><a href="techniques/T0080.002.md">T0080.002 Evaluate Media Surveys</a></td>
@@ -190,7 +190,7 @@
 <td><a href="techniques/T0104.002.md">T0104.002 Dating Apps</a></td>
 <td> </td>
 <td><a href="techniques/T0117.md">T0117 Attract Traditional Media</a></td>
-<td><a href="techniques/T0126.002.md">T0126.002 Facilitate logistics or support for attendance</a></td>
+<td><a href="techniques/T0127.md">T0127 Physical Violence</a></td>
 <td><a href="techniques/T0129.001.md">T0129.001 Conceal Network Identity</a></td>
 <td><a href="techniques/T0133.005.md">T0133.005 Action/attitude</a></td>
 <td><a href="techniques/T0080.003.md">T0080.003 Identify Trending Topics/Hashtags</a></td>
@@ -208,7 +208,7 @@
 <td><a href="techniques/T0104.003.md">T0104.003 Private/Closed Social Networks</a></td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0127.md">T0127 Physical Violence</a></td>
+<td><a href="techniques/T0127.001.md">T0127.001 Conduct Physical Violence</a></td>
 <td><a href="techniques/T0129.002.md">T0129.002 Generate Content Unrelated to Narrative</a></td>
 <td><a href="techniques/T0134.md">T0134 Measure Effectiveness Indicators (or KPIs)</a></td>
 <td><a href="techniques/T0080.004.md">T0080.004 Conduct Web Traffic Analysis</a></td>
@@ -226,7 +226,7 @@
 <td><a href="techniques/T0104.004.md">T0104.004 Interest-Based Networks</a></td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0127.001.md">T0127.001 Conduct Physical Violence</a></td>
+<td><a href="techniques/T0127.002.md">T0127.002 Encourage Physical Violence</a></td>
 <td><a href="techniques/T0129.003.md">T0129.003 Break Association with Content</a></td>
 <td><a href="techniques/T0134.001.md">T0134.001 Message reach</a></td>
 <td><a href="techniques/T0080.005.md">T0080.005 Assess Degree/Type of Media Access</a></td>
@@ -244,7 +244,7 @@
 <td><a href="techniques/T0104.005.md">T0104.005 Use hashtags</a></td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0127.002.md">T0127.002 Encourage Physical Violence</a></td>
+<td> </td>
 <td><a href="techniques/T0129.004.md">T0129.004 Delete URLs</a></td>
 <td><a href="techniques/T0134.002.md">T0134.002 Social media engagement</a></td>
 <td><a href="techniques/T0081.md">T0081 Identify Social and Technical Vulnerabilities</a></td>

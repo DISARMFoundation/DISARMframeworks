@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--ed8245f1-6230-482f-8607-439da8c4622b",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--db93e285-c516-40b0-bb5a-36bbaf5c08b9",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2022-07-03T23:52:02.913491Z",
+            "modified": "2022-07-03T23:52:02.913491Z",
+            "name": "Create Cyborg Accounts",
+            "description": "Cyborg accounts refer to partly manned, partly automated social media accounts. Cyborg  accounts primarily act as bots, but a human operator periodically takes control of the account to  engage with real social media users by responding to comments and posting original content.  Influence operations may use cyborg accounts to reduce the amount of direct human input  required to maintain a regular account but increase the apparent legitimacy of the cyborg account  by occasionally breaking its bot-like behavior with human interaction. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-social-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0090.002.md",
+                    "external_id": "T0090.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

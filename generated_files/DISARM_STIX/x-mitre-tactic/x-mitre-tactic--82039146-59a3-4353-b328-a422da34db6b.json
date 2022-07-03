@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--c191a3be-e627-4a1a-aef3-f36d48be51c1",
+    "objects": [
+        {
+            "type": "x-mitre-tactic",
+            "spec_version": "2.1",
+            "id": "x-mitre-tactic--82039146-59a3-4353-b328-a422da34db6b",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2022-07-03T23:52:02.896772Z",
+            "modified": "2022-07-03T23:52:02.896772Z",
+            "name": "Develop Content",
+            "description": "Create or acquire text, images, and other content",
+            "external_references": [
+                {
+                    "source_name": "DISARM",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA06.md",
+                    "external_id": "TA06"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_shortname": "develop-content"
+        }
+    ]
+}

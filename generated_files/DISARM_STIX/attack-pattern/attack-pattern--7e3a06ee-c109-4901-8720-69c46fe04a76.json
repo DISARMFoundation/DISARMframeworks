@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--ae4d996d-5332-4c09-9fc0-5b356b702137",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--7e3a06ee-c109-4901-8720-69c46fe04a76",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2022-07-03T23:52:02.923551Z",
+            "modified": "2022-07-03T23:52:02.923551Z",
+            "name": "Manipulate Platform Algorithm",
+            "description": "Manipulating a platform algorithm refers to conducting activity on a platform in a way that  intentionally targets its underlying algorithm. After analyzing a platform\u2019s algorithm (see: Select  Platforms), an influence operation may use a platform in a way that increases its content  exposure, avoids content removal, or otherwise benefits the operation\u2019s strategy. For example, an  influence operation may use bots to amplify its posts so that the platform\u2019s algorithm recognizes  engagement with operation content and further promotes the content on user timelines.  ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0121.md",
+                    "external_id": "T0121"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

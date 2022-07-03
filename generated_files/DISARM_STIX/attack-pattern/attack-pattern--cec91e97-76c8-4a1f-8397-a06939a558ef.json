@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--61167c93-b899-4dcd-8f53-a9b84f875685",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--cec91e97-76c8-4a1f-8397-a06939a558ef",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2022-07-03T23:52:02.904991Z",
+            "modified": "2022-07-03T23:52:02.904991Z",
+            "name": "Inauthentic Sites Amplify News and Narratives",
+            "description": "Inauthentic sites circulate cross-post stories and amplify narratives. Often these sites have no masthead, bylines or attribution.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximize-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0049.007.md",
+                    "external_id": "T0049.007"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

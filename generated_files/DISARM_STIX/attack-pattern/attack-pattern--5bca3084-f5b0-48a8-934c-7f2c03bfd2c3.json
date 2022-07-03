@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--a4497703-db3b-4d02-a8b0-e2bb97649650",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--5bca3084-f5b0-48a8-934c-7f2c03bfd2c3",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2022-07-03T23:52:02.926441Z",
+            "modified": "2022-07-03T23:52:02.926441Z",
+            "name": "Change Names of Accounts",
+            "description": "Changing names of accounts occurs when an operation changes the name of an existing social  media account. An operation may change the names of its accounts throughout an operation to  avoid detection or alter the names of newly acquired or repurposed accounts to fit operational  narratives.  ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persist-in-the-information-environment"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0128.005.md",
+                    "external_id": "T0128.005"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

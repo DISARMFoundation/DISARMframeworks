@@ -351,12 +351,6 @@ Use bots to amplify narratives above algorithm thresholds. Bots are automated/pr
 <td>TA10</td>
 </tr>
 <tr>
-<td><a href="techniques/T0061.001.md">T0061.001</a></td>
-<td>Sell Merchandise</td>
-<td>Selling merchandise refers to the sale of often branded items to the target audience. An influence  operation may sell merchandise to raise funds and promote its messaging in the physical  information space, for example, by selling t-shirts with operational messaging displayed on the clothing. </td>
-<td>TA10</td>
-</tr>
-<tr>
 <td><a href="techniques/T0065.md">T0065</a></td>
 <td>Prepare Physical Broadcast Capabilities</td>
 <td>Create or coopt broadcast capabilities (e.g. TV, radio etc).</td>
@@ -965,13 +959,13 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) â€
 <tr>
 <td><a href="techniques/T0103.001.md">T0103.001</a></td>
 <td>Video Livestream</td>
-<td></td>
+<td>A video livestream refers to an online video broadcast capability that allows for real-time communication to closed or open networks.</td>
 <td>TA07</td>
 </tr>
 <tr>
 <td><a href="techniques/T0103.002.md">T0103.002</a></td>
 <td>Audio Livestream</td>
-<td></td>
+<td>An audio livestream refers to an online audio broadcast capability that allows for real-time communication to closed or open networks.</td>
 <td>TA07</td>
 </tr>
 <tr>
@@ -1343,7 +1337,7 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) â€
 <tr>
 <td><a href="techniques/T0128.md">T0128</a></td>
 <td>Conceal People</td>
-<td>Conceal the identity or provenance of a campaign's account and people assets to avoid takedown and attribution.</td>
+<td>Conceal the identity or provenance of a campaign account and people assets to avoid takedown and attribution.</td>
 <td>TA11</td>
 </tr>
 <tr>

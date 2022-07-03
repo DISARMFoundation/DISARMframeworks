@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--c81db8b4-8a35-4fc8-9c44-865d8803ac95",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--032f24c1-bc1d-457a-8f43-6c5fc416f733",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2022-07-03T23:52:02.901769Z",
+            "modified": "2022-07-03T23:52:02.901769Z",
+            "name": "Reframe Context",
+            "description": "Reframing context refers to removing an event from its surrounding context to distort its  intended meaning. Rather than deny that an event occurred, reframing context frames an event in  a manner that may lead the target audience to draw a different conclusion about its intentions. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0023.001.md",
+                    "external_id": "T0023.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

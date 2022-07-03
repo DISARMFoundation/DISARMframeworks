@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--a291d9d1-a5d4-4f0c-945f-ab44f9fd97dd",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--c729368d-246a-47eb-8e4b-ab5b0a3510ec",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2022-07-03T23:52:02.908628Z",
+            "modified": "2022-07-03T23:52:02.908628Z",
+            "name": "Assess Degree/Type of Media Access",
+            "description": "An influence operation may survey a target audience\u2019s Internet availability and degree of media  freedom to determine which target audience members will have access to operation content and  on which platforms. An operation may face more difficulty targeting an information  environment with heavy restrictions and media control than an environment with independent  media, freedom of speech and of the press, and individual liberties. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "target-audience-analysis"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0080.005.md",
+                    "external_id": "T0080.005"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

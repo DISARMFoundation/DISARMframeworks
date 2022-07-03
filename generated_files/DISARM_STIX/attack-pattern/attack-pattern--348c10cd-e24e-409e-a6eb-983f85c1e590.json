@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--5fd20bc1-bce5-4bea-a5ac-e090a78f92cd",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--348c10cd-e24e-409e-a6eb-983f85c1e590",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2022-07-03T23:52:02.901053Z",
+            "modified": "2022-07-03T23:52:02.901053Z",
+            "name": "Hijack Hashtags",
+            "description": "Hashtag hijacking occurs when users \u201c[use] a trending hashtag to promote topics that are substantially different from its recent context\u201d (VanDam and Tan, 2016) or \u201cto promote one\u2019s own social media agenda\u201d (Darius and Stephany, 2019).",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0019.002.md",
+                    "external_id": "T0019.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}
