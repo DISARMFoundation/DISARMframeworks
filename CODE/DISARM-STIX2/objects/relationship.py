@@ -1,7 +1,7 @@
 from stix2 import Relationship, properties, ExternalReference
 
 
-def make_disarm_subtechnique_relationship(source, target):
+def make_disarm_subtechnique_relationship(source, target, marking_id):
     """Creates a relationship between the parent technique and sub-technique.
 
     Args:
@@ -15,13 +15,15 @@ def make_disarm_subtechnique_relationship(source, target):
     relationship = Relationship(
         source_ref=source,
         target_ref=target,
-        relationship_type="subtechnique-of"
+        description="",
+        relationship_type="subtechnique-of",
+        object_marking_refs=marking_id
     )
 
     return relationship
 
 
-def make_disarm_subtechnique_relationships(techniques):
+def make_disarm_subtechnique_relationships(techniques, marking_id):
     """Creates a map of technique and sub-technique.
 
     Args:
@@ -39,7 +41,7 @@ def make_disarm_subtechnique_relationships(techniques):
     for technique in techniques:
         if technique["x_mitre_is_subtechnique"]:
             technique_id = technique_ids[technique["external_references"][0]["external_id"].split(".")[0]]
-            relationship = make_disarm_subtechnique_relationship(technique["id"], technique_id)
+            relationship = make_disarm_subtechnique_relationship(technique["id"], technique_id, marking_id)
             relationships.append(relationship)
 
     return relationships

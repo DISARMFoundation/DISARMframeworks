@@ -21,7 +21,7 @@ class Tactic(object):
             raise ValueError("'%s' is not a recognized DISARM Tactic." % x_mitre_shortname)
 
 
-def make_disarm_tactics(data):
+def make_disarm_tactics(data, identity_id, marking_id):
     """Create all DISARM tactic objects.
 
     Args:
@@ -46,10 +46,11 @@ def make_disarm_tactics(data):
             description=f"{t[5]}",
             x_mitre_shortname=f'{t[1].lower().replace(" ", "-")}',
             external_references=external_references,
-            object_marking_refs=objects.marking_definition.make_disarm_marking_definition(),
-            created_by_ref=objects.identity.make_disarm_identity()
+            object_marking_refs=marking_id,
+            created_by_ref=identity_id
         )
 
         tactics.append(tactic)
 
     return tactics
+

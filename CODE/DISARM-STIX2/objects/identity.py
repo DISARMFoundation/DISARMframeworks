@@ -13,4 +13,4 @@ def make_disarm_identity():
         identity_class="organization",
         description="DISARM is a framework designed for describing and understanding disinformation incidents.",
     )
-    return identity
+    return [identity]

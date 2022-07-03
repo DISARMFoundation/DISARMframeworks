@@ -4,7 +4,7 @@ import pandas as pd
 from objects import identity, marking_definition
 
 
-def make_disarm_techniques(data):
+def make_disarm_techniques(data, identity_id, marking_id):
     """Create all DISARM Techniques objects.
 
     Args:
@@ -20,7 +20,7 @@ def make_disarm_techniques(data):
         external_references = [
             {
                 'external_id': f'{t[0]}'.strip(),
-                'source_name': 'DISARM',
+                'source_name': 'mitre-attack',
                 'url': f'https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/{t[0]}.md'
             }
         ]
@@ -45,12 +45,12 @@ def make_disarm_techniques(data):
             name=f"{t[1]}",
             description=f"{t[4]}",
             external_references=external_references,
-            object_marking_refs=objects.marking_definition.make_disarm_marking_definition(),
-            created_by_ref=objects.identity.make_disarm_identity(),
+            object_marking_refs=marking_id,
+            created_by_ref=identity_id,
             kill_chain_phases=kill_chain_phases,
             custom_properties={
                 'x_mitre_platforms': x_mitre_platforms,
-                'x_mitre_version': "1.0",
+                'x_mitre_version': "2.1",
                 'x_mitre_is_subtechnique': x_mitre_is_subtechnique
             }
         )
