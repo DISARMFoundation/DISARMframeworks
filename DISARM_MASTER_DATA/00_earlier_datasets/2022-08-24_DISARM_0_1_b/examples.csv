@@ -1,0 +1,74 @@
+disarm_id,object_id,name,summary
+E000001,T0002,Diba Facebook Expedition,"2016 Diba Facebook Expedition, coordinated to overcome China’s Great Firewall, to flood the Facebook pages of Taiwanese politicians and news agencies with a pro-PRC message)."
+E000002,T0003,Narrative examples,"Midwesterners are generous, Russia is under attack from outside."
+E000003,T0004,MH17 competing narratives,"""Russian Foreign Ministry again claimed that “absolutely groundless accusations are put forward against the Russian side, which are aimed at discrediting Russia in the eyes of the international community"" (deny); ""The Dutch MH17 investigation is biased, anti-Russian and factually inaccurate"" (dismiss). "
+E000004,T0006,Master narratives promoted by major powers," ""Huawei is determined to build trustworthy networks"""
+E000005,T0006,Master narratives promoted by major powers,Russia is the victim of bullying by NATO powers
+E000006,T0006,Master narratives promoted by major powers,USA is guided by its founding principles of liberty and egalitarianism
+E000007,T0007,Paying for access to existing accounts,Ukraine elections (2019) circumvent Facebook’s new safeguards by paying Ukrainian citizens to give a Russian agent access to their personal pages. 
+E000008,T0007,Avaaz-reported pages and groups,EU Elections (2019) Avaaz reported more than 500 suspicious pages and groups to Facebook related to the three-month investigation of Facebook disinformation networks in Europe. 
+E000009,T0007,Fakes listed in the US Mueller report,"Mueller report (2016) The IRA was able to reach up to 126 million Americans on Facebook via a mixture of fraudulent accounts, groups, and advertisements, the report says. Twitter accounts it created were portrayed as real American voices by major news outlets. It was even able to hold real-life rallies, mobilizing hundreds of people at a time in major cities like Philadelphia and Miami. "
+E000010,T0008,Denver Guardian,"A prominent case from the 2016 era was the _Denver Guardian_, which purported to be a local newspaper in Colorado and specialized in negative stories about Hillary Clinton."
+E000011,T0009,Jade Helm fake experts,"For example, in the Jade Helm conspiracy theory promoted by SVR in 2015, a pair of experts--one of them naming himself a “Military Intelligence Analyst / Russian Regional CME” and the other a “Geopolitical Strategist, Journalist & Author”--pushed the story heavily on LinkedIn."
+E000012,T0011,White House explosions,Syrian Electronic Army (2013) series of false tweets from a hijacked Associated Press Twitter account claiming that President Barack Obama had been injured in a series of explosions near the White House. The false report caused a temporary plunge of 143 points on the Dow Jones Industrial Average.
+E000013,T0012,Ten_GOP,"2016 @TEN_GOP profile where the actual Tennessee Republican Party tried unsuccessfully for months to get Twitter to shut it down, and 2019 Endless Mayfly is an Iran-aligned network of inauthentic personas and social media accounts that spreads falsehoods and amplifies narratives critical of Saudi Arabia, the United States, and Israel."
+E000014,T0014,VaccinateUS gofundme,"2016: #VaccinateUS Gofundme campaigns to pay for Targetted facebook ads (Larry Cook, targetting Washington State mothers, $1,776 to boost posts over 9 months)."
+E000015,T0015,ColumbianChemicals hashtag,#ColumbianChemicals to promote a fake story about a chemical spill in Louisiana. 
+E000016,T0016,Pope endorses Trump,"2016: “Pope Francis shocks world, endorses Donald Trump for president.” "
+E000017,T0016,FBI director rumours,"2016: ""FBI director received millions from Clinton Foundation, his brother’s law firm does Clinton’s taxes”."
+E000018,T0022,Qanon conspiracy,"Example: QAnon: conspiracy theory is an explanation of an event or situation that invokes a conspiracy by sinister and powerful actors, often political in motivation, when other explanations are more probable """
+E000019,T0024,Slowed-down Pelosi video,Pelosi video (making her appear drunk)
+E000020,T0024,Shark on streets,Photoshopped shark on flooded streets of Houston TX.
+E000021,T0025,Sekondary Infektion,"2019: DFRLab report ""Secondary Infektion” highlights incident with key asset being a forged “letter” created by the operation to provide ammunition for far-right forces in Europe ahead of the election."
+E000022,T0029,FCC comments,Flooding FCC with comments
+E000023,T0029,fake engagement metrics,Creating fake engagement metrics of Twitter/Facebook polls to manipulate perception of given issue. 
+E000024,T0044,Canadians arrested for spying,"(2019) China formally arrests Canadians Spavor and Kovrig, accuses them of spying (in retaliation to detention of Hauwei CFO). "
+E000025,T0044,Rumour about syrian rebels gassing their own people,"(2018) The Russian ministry of defence put out a press release, claiming that they had intelligence Syrian rebel forces were about to gas their own people in Idlib province as part of a “false flag” operation to frame the Syrian government."
+E000026,T0047,Singapore act,"2019 Singapore Protection from Online Falsehoods and Manipulation Bill would make it illegal to spread ""false statements of fact"" in Singapore, where that information is ""prejudicial"" to Singapore's security or ""public tranquility."" "
+E000027,T0047,Social media cut off in Kashmir,"India/New Delhi has cut off services to Facebook and Twitter in Kashmir 28 times in the past five years, and in 2016, access was blocked for five months -- on the grounds that these platforms were being used for anti-social and ""anti-national"" purposes."
+E000028,T0048,Rappler,"Philippines, Maria Ressa and Rappler journalists targeted Duterte regime, lawsuits, trollings, banned from the presidential palace where press briefings take place. "
+E000029,T0048,ProPublica,2017 bot attack on five ProPublica Journalists.
+E000030,T0049,Saudi bots,2018: bots flood social media promoting messages which support Saudi Arabia with intent to cast doubt on allegations that the kingdom was involved in Khashoggi’s death.
+E000031,T0050,50 Cent army,"popularized by China (50cent Army manage message inside the ""Great Firewall"") "
+E000032,T0050,Positive images of China,"technique used by Chinese English-language social media influence operations are seeded by state-run media, which overwhelmingly present a positive, benign, and cooperative image of China. "
+E000033,T0051,FCC comments,2017: the FCC was inundated with nearly 22 million public comments on net neutrality (many from fake accounts)
+E000034,T0052,Tertiary sites,"Examples of tertiary sites include Russia Insider, The Duran, geopolitica.ru, Mint Press News, Oriental Review, globalresearch.ca."
+E000035,T0052,Star News Digital Media,"2019, US Domestic news: Snopes reveals Star News Digital Media, Inc. may look like a media company that produces local news, but operates via undisclosed connections to political activism. "
+E000036,T0052,Iranian sites including Liberty Front Press,"(2018) FireEye reports on Iranian campaign that created between April 2018 and March 2019 sites used to spread inauthentic content from websites such as Liberty Front Press (LFP), US Journal, and Real Progressive Front during the 2018 US mid-terms."
+E000037,T0053,Issues that can be politicised,"BlackLivesMatter, MeToo"
+E000038,T0054,TrudeauMustGo,2019: #TrudeauMustGo 
+E000039,T0055,PhosphorusDisaster hashtag,#PhosphorusDisaster
+E000040,T0056,RT/Sputnik,RT/Sputnik or antivax websites seeding stories.
+E000041,T0057,IRA organising US political rallies,"(Example) Mueller's report, highlights, the IRA organized political rallies in the U.S. using social media starting in 2015 and continued to coordinate rallies after the 2016 election"
+E000042,T0057,Facebook groups coordinating public space activities,Facebook groups/pages coordinate/more divisive/polarizing groups and actvities into the public space.
+E000043,T0059,China messaging on Taiwan and Hong Kong,China constant messaging that Taiwan and Hong Kong are part of one China.
+E000044,C00008,Snopes,Snopes is best-known example of fact-checking sites. 
+E000045,C00012,2018 EU regulations,"In 2018, the European Union created significant new regulations on the role of social media in media"
+E000046,C00012,German social media content regulations,German model: facebook forced to police content by law
+E000047,C00014,Buzzfeed rumour list,Buzzfeed real-time disaster rumour list
+E000048,C00014,FEMA rumour list,FEMA real-time disaster rumour list
+E000049,C00030,counter narrative handbook,Handbook at https://www.isdglobal.org/wp-content/uploads/2016/06/Counter-narrative-Handbook_1.pdf 
+E000050,C00030,Reality Team,Realityteam.org
+E000051,C00048,USAID programs,"USAID has been restructuring its programs to address predatory Chinese development projects and the information operations that support them. USAID’s new strategy has tailored programs to counter Chinese educational exchange programs and to support free and fair elections, youth empowerment, democratic governance, and free press. USAID’s Russia regional teams have also been compiling a strategy for Russia’s information operations. One strong point of USAID’s programming is a system of indicators and measurements for a country’s vulnerability to foreign influence and information operations.  Note that USAID operations were at a different level."
+E000052,C00066,kPop hashtag flooding,kPop stans flooding extremist hashtags with pop videos and images. 
+E000053,C00070,2018 DDOS of troll farms,midterm-2018 elections DDOS against troll farms
+E000054,C00073,Learn to Discern,"The ""Learn to Discern"" Program, funded by the Canadian government, operated in Ukraine from July 2015 to March 2016. The program trained 15,000 Ukrainians in ‘’safe, informed media consumption techniques,’’ including avoiding emotional manipulation, verifying sources, identifying hate speech, verifying expert credentials, detecting censorship, and debunking news, photos, and videos.” "
+E000055,C00073,Baltic Center for Media Excellence,"NGO Baltic Centre for Media Excellence, with some international funding, provides training to journalists in the Baltics and conducts media literacy training in the region. In addition to helping journalists avoid becoming “unwitting multipliers of misleading information,” the organization works with school teachers in the region to help them “decode media and incorporate media research into teaching.”"
+E000056,C00082,Reality Team ground truthing,RealityTeam work that adds clear information to spaces with disinformation in.  
+E000057,C00086,Reddit channels flooded with jokes,"This sounds eerlily like many Reddit communities where the most upvoted comments are all jokes, preventing serious discussion from being discovered by those who filter by upvotes."
+E000058,C00087,kPop hashtag flooding,
+E000059,C00087,LGBT flooding of #proudboys,
+E000060,C00093,Pro-Truth Pledge,community code of conduct
+E000061,C00111,The Commons Project,The Commons Project from BuildUp. 
+E000062,C00156,US Forces in Latvia,"In Latvia, for example, U.S. soldiers have reportedly conducted numerous civil engagements with the local populations. In one example, soldiers cut firewood for local Russian-speaking Latvians. Locals were reportedly overheard saying, “A Russian soldier wouldn’t do that.”"
+E000063,C00178,Current Time videos,"Using Current Time videos (viewed 40 million times online) to draw viewers away from Russian TV programming in RT and Sputnik. POtential content for this includes conventional entertainment programming (source: The conomist, “America’s Answer to Russian Propaganda TV,” 2017)."
+E000064,C00182,Bedep Trojan,"(2015) Trustwave reported that a Bedep Trojan malware kit had begun infecting machines and forcing them to browse certain sites, artificially inflating traffic to a set of pro-Russia"
+E000065,C00188,2014 Russian poll in France,"August 2014, Russian news agency Rossiya Segodnya commissioned a poll in France with poorly worded questions and a statistically insignificant subsample that RT used to back a story titled “15% of French people back ISIS [Islamic State of Iraq and Syria] militants, poll finds.” The story and summary infographic circulated on the internet, initially appearing primarily on French sites. After a week, the generally respectable digital U.S. news outlet Vox ran the story, now titled “One in Six French People Say They Support ISIS.” Although this effect has now worn off or been overwritten, for a time—despite a later story from The Washington Post debunking the claim—typing “ISIS France” into Google resulted in an autosuggestion of “ISIS France support” (Borthwick, 2015)."
+E000066,C00188,Latvian newsrooms,"Using eastern Latvia media outlets as an example, one expert noted that the media outlets are “very weak,” are often politically affiliated, or have “little local oligarchs that control them.”"
+E000067,C00195,Using Adwords to redirect ISIS content readers,"Taking advantage of the technology behind Google AdWords, this method identifies potential ISIS recruits through their Google searches and exposes them to curated YouTube videos debunking ISIS recruiting themes. Can apply this method to Russian propaganda.  "
+E000068,C00200,India,Indian influencers and aunties countering misinformation. 
+E000069,C00202,Macron election in France,Macron election team modified docs to spike a hack and leak. 
+E000070,C00207,Saudi tit for tat campaign,
+E000071,C00211,Baltic Elves,"Baltic Elves.
+https://balkaninsight.com/2019/06/07/disinformation-nation-the-slovaks-fighting-in-defence-of-facts/ "
+E000072,C00211,Taiwan humor over rumor, Taiwan humor over rumor strategy.https://www.theguardian.com/commentisfree/2021/feb/17/humour-over-rumour-taiwan-fake-news and https://internews.org/story/using-comedy-and-social-media-educate-disinformation 

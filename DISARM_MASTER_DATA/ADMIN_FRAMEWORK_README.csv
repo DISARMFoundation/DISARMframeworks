@@ -1,0 +1,40 @@
+MASTER COPY OF DISARM TTPS,Unnamed: 1,Unnamed: 2,Unnamed: 3
+,,,
+HISTORY OF THIS SPREADSHEET,,,
+,,,
+Date,Who,Description,Comments
+2019-11-15 00:00:00,ALL,"""Blue Team"" workshop, Washington DC 15-16 Nov 2019",
+2019-12-05 00:00:00,SJT,copied all wall post-its into spreadsheet,
+2019-12-06 00:00:00,SJT,Took copy for cleaning,
+2019-12-06 00:00:00,SJT,Put notes here if you spot something unusual or do something you want crosschecking,
+2019-12-06 00:00:00,SJT,"First task: look for the techniques for each row in the spreadsheet, and add them to the ""techniques"" column. A list of Technique numbers is best; if it applies to all techniques in a tactic, put the tactic number; if it applies to all techniques, put “all”.",
+2019-12-21 00:00:00,Eric D.,"I am unsure to what extent content dissemination is included in the ""Develop"" phases or Channel Selection, compared to belonging more or less solely within Pump Priming, Exposure, Go Physical and Persistence.",
+2020-01-07 00:00:00,SJT,"Content dissemination is generally right of boom, but might be needed as part of eg. creating convincing sockpuppets or groups in a channel",
+2020-01-10 00:00:00,SJT,"New copy of spreadsheet. Going to put all counters in here, as a playbook",
+2020-01-12 00:00:00,SJT,"Included post-it notes from 2019-11 workshop. Included incident-counters from 2019-11 preparation worksheet. Included general-counters from 2019-11 preparation worksheet. Added References worksheet, to hold URLs to references (excel only allows 1 URL per cell, which wipes data if we're not careful)",
+2020-01-13 00:00:00,SJT,"Included counters and playbooks from teams 1,2,3,4,D",
+2020-01-14 00:00:00,SJT,"Took copy of spreadsheet, so we have a snapshot of all the inputs into it. Now it's time to get cleaning!",
+2020-01-20 00:00:00,SJT,"Started the cleanup. First, gave every counter an id. ",
+2020-01-31 00:00:00,SJT,"Split output report into two: ""finding ways to counter disinformation campaigns"" and ""Disinformation counters"" so we can publish the first part faster",
+2020-02-10 00:00:00,Roger J.,"Add ""Measure of Effectiveness"" and ""Measure of Performance"" sheet. This is a requirement for effective data pollution where the objective is to degrade the adversary's ability to measure their affect.",
+2020-05-14 00:00:00,SJT,"Clean up tactic and response names in countermeasures sheet, so they don’t mess up the generators",
+,,,
+,,,
+SUGGESTED TASKS,,,
+,,,
+Date,Suggested by,Suggested Task,Comments
+,SJT,"Add links to references with each counter in, to the rows for those counters. Add each document to the REFERENCES tab, and its [ref] to the column ""References"" in the Countermeasures sheet. ",
+,SJT,"Check through spreadsheet for duplicate counters, and counters at the wrong level of details (e.g. work out what should be at the counter level, and what should be at the playbook level). Clean up accordingly.",
+,SJT,"Create code similar to the DISARM github code, that creates: a page for each technique, listing the counters relevant to that technique; a page for each tactic, listing the counters relevant to that tactic, by response type then alphabetically; a COA grid with the number of responses for each tactic/response combination ",done
+,SJT,"Create a chapter in the summary document for each tactic, describing the types of counter relevant at that tactic stage. ",Done
+,SJT,Write a document chapter on viewing disinformation as an ecosystem and potential solution space to be explored. ,
+2021-07-17 00:00:00,SJT,"Look at SG note for wording, counters we haven't listed https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf",
+REFERENCES USED,,,
+,,,
+ID,URL,Reference,Comments
+RAND2237,https://www.rand.org/pubs/research_reports/RR2237.html,"Helmus et al, ""Russian Social Media Influence: understanding Russian propaganda in Eastern Europe"", Rand Corporation 2018",Scraped before 2019-11 workshop
+Corker18,https://www.foreign.senate.gov/imo/media/doc/FinalRR.pdf,"Corker et al, ""Putin's asymmetric assault on democracy in Russia and Europe: implications for US national security"", 2018",
+Hicks19,https://www.csis.org/analysis/other-means-part-i-campaigning-gray-zone,"Hicks et al, ""By other means part 1: campaigning in the gray zone"", 2019",Scraped before 2019-11 workshop
+Dalton19,csis.org/analysis/other-means-part-ii-adapting-compete-gray-zone,"Dalton et al, ""By other means part 2: adapting to compete in the gray zone"", 2019",Scraped before 2019-11 workshop
+Taylor81,http://media.leeds.ac.uk/papers/pmt/exhibits/2742/ToP.pdf,"Philip M. Taylor (1981): Techniques of persuasion: basic ground rules of British propaganda during the Second World War, Historical Journal of Film, Radio and Television, 1:1, 57 – 66",https://web.archive.org/web/20170226100346/http://media.leeds.ac.uk/papers/pmt/exhibits/2742/ToP.pdf
+,https://www.psywar.org/content/irdSpecialOperations,,

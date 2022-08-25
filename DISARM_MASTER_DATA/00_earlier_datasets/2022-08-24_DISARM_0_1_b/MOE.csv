@@ -1,0 +1,9 @@
+disarm_id,info_category,info_type,meta,name,brainstorm,phase,tactic,counter,summary,longname
+ME00001,,,,,,TA06 - Develop Content,T0008 - Create fake or imposter news sites,Identify affilliated imposter accounts,,ME00001
+ME00002,,,,,,TA15 - Establish Social Assets,T0009 - Create fake experts,Verify published research accreditation,,ME00002
+ME00003,,,,,"-measure credibility of expert, credibility of each media company, their amplification factor, as a metric of the value the expert provides.
+
+
+
+X media power, measure whether actor can be knocked off one class of ""credible media"" down to the next in the ladder",TA15 - Establish Social Assets,T0009 - Create fake experts,Publicly deplatform fake experts,,ME00003
+ME00004,,,,,-MOE = predictive value of differentiation by intent via other counters related to polls?,TA07 - Channel Selection,T0029 - Manipulate online polls,Categorize polls by intent,,ME00004

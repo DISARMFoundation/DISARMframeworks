@@ -1,0 +1,22 @@
+disarm_object,id_prefix,id_digits,next number on stack
+actortype,A,3,
+countermeasure,C,5,
+responsetype,D,2,
+example,E,6,
+detection,F,5,
+framework,FW,2,
+group,G,6,
+incident,I,5,
+metatechnique,M,3,
+moe,ME,5,
+mop,MP,5,
+narrative,N,5,
+phase,P,2,P05
+playbook,PB,5,
+resource,R,3,
+sector,S,3,
+technique,T,4,T0073
+tactic,TA,2,TA19
+task,TK,4,
+tool,TL,5,
+subtechnique,ST,4,

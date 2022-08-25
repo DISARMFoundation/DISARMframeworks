@@ -1,0 +1,1755 @@
+0,1,2
+"counter","C00066","
+
+New content.  
+
+If a group has the ability - e.g. enough dedicated person-hours - it can hijack the artifacts and narratives of a disinformation incident, by flooding them with counter-content.   This has been seen in the past as accidental hashtag flooding - e.g. a new disinformation hashtag was unknowingly chosen that was the same as a children's swim team, which became active during a swim meet.  In 2020, kPop stans flooded disinformation-carrying hashtags including #whitelivesmatter, and gay men flooded the #proudboys hashtag. 
+
+This is an example of a countertechnique that mirrors an existing disinformation technique - in this case T0049.  
+"
+"incident","I00002","
+
+Actor: IRA, individuals (e.g. Larry Cook).
+
+Timeframe: 
+
+Date: 
+
+Presumed goals:
+Physical damage to country? 
+
+Method: 
+
+* Targetted facebook ads (Larry Cook, targetting Washington State mothers, $1,776 to boost posts over 9 months). 
+* Gofundme campaigns to pay for ads (Larry Cook)
+
+Effects:
+
+* “The U.S. anti-vax movement has been blamed for two outbreaks of measles that have infected some 300 people—mostly children—in New York and the Pacific Northwest.”
+
+Counters:
+
+* American Medical Association “warned social-media giants, including Amazon, Facebook, Google, Pinterest, Twitter, and YouTube, that they were helping to amplify the propaganda and confuse parents.”
+* Gofundme banned antivaxxers: “Campaigns raising money to promote misinformation about vaccines violate GoFundMe’s terms of service and will be removed from the platform”.  Less than 10 campaigns reported as removed.
+
+Related incidents:
+
+Artefacts:
+
+Search terms vaccination, anti-vaccination, “vaccine choice”. 
+
+Notes:
+
+Started by looking for vaccine-related content in my misinformation datasets
+Then did google search for “antivax misinformation” to get references etc. 
+Larry Cook runs “Stop Mandatory Vaccination”: “donations go “directly” to his bank account and funds “may be used to pay [his] personal bills.”
+
+
+References;
+
+* https://www.thedailybeast.com/brooklyn-hasidic-community-is-in-the-midst-of-a-dire-measles-outbreak
+* https://www.thedailybeast.com/amazon-wont-take-a-stand-in-war-over-forrest-maready-book-the-autism-vaccine
+* https://www.bmj.com/content/362/bmj.k3739
+* https://hub.jhu.edu/2018/08/24/russian-trolls-bots-spread-vaccine-misinformation/
+* https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2018.304567 
+* Arciga, [GoFundMe Bans Anti-Vaxxers Who Raise Money to Spread Misinformation](https://www.thedailybeast.com/gofundme-bans-anti-vaxxers-who-raise-money-to-spread-misinformation), Daily Beast 2019-03-22
+* Arciga, [Anti-Vaxxer Larry Cook Has Weaponized Facebook Ads in War Against Science](https://www.thedailybeast.com/anti-vaxxer-larry-cook-has-weaponized-facebook-ads-in-war-against-science), Daily Beast 2019-02-15
+* Gofundmes (removed, but check archives) https://www.gofundme.com/help-save-vaccine-exemptions-in-washington-state https://www.gofundme.com/parents-wake-up-vaccines-kill 
+* Markay, [Anti-Vaccine Facebook Ads Target Women in Measles-Stricken States](https://www.thedailybeast.com/anti-vaccine-facebook-ads-target-women-in-measles-stricken-states/), Daily Beast 2019-02-14
+
+Data
+
+
+"
+"incident","I00053","
+
+Actor: China
+
+Timeframe: December 5, 2018 - still active on 04/03/2019
+
+Date: December 5, 2018
+
+Presumed goals: 
+
+* Unlike Russia, Chinese state has employed a plethora of state-run media to exploit the openness of American democratic society in an effort to insert an intentionally distorted and biased narrative portraying a utopian view of the Chinese government and party. 
+
+Method: 
+
+* China’s state-run social media operations are largely positive and coordinated because those techniques support Chinese strategic goals. State-run media seeds foreign influence environment
+* Distorted, saccharine “news” about the Chinese State and Party
+* Events coordinated and promoted across media platforms
+* Extend from digital into physical space with gatherings, ie: support for Meng outside courthouse
+
+* In the case of Chinese state-run information manipulation campaigns — to distinguish the political intent and national strategies underlying these campaigns as different from simply another perspective on the news. China also play’s victim, innocence, plays by rules, misunderstood narrative… they too have their version of the 4D’s. Examples: “Chinese ambassador Lu Shaye has accused Canada of applying a double standard, and has decried what he sees as “Western egotism and white supremacy” in the treatment of detained Huawei executive Meng Wanzhou.” - Op-Ed in Globe & Mail. The Chinese embassy in Canada says the Vancouver arrest of a top Huawei executive amounts to a “political conspiracy” to undermine the telecom giant and it dismisses Prime Minister Justin Trudeau’s assertion that he had no role in the high-profile case. Canada's arrest of a senior Huawei executive was the ""backstabbing"" of a friend, Chinese ambassador Lu Shaye said Thursday, and he warned of repercussions if the federal government bars her telecom company from building a Canadian 5G network.
+
+Counters: none identified/researched
+
+Related incidents: 
+
+* See Poland (arrest of Huawei employee); Czech republic; 
+* Five Eyes to ban or not ban Huawei 5G network equipment 
+
+
+References: 
+
+* https://www.theglobeandmail.com/politics/article-chinas-envoy-says-white-supremacy-played-part-in-canadas-arrest-of/
+* https://twitter.com/globaltimesnews
+* https://twitter.com/UserExperienceU
+* https://www.universityworldnews.com/post.php?story=20190125061623487
+* https://www.theglobeandmail.com/business/article-canadian-universities-continuing-rd-funding-partnerships-with/
+* http://fortune.com/2019/01/18/oxford-university-huawei-research-funding/
+* https://www.reuters.com/article/us-usa-china-security-universities-insig/u-s-universities-unplug-from-chinas-huawei-under-pressure-from-trump-idUSKCN1PI0GV
+
+
+* Beyond Hybrid War: How China Exploits Social Media to Sway American Opinion
+https://www.theglobeandmail.com/politics/article-china-says-arrest-of-huawei-cfo-part-of-political-conspiracy-by/
+* https://www.theatlantic.com/international/archive/2019/03/czech-zeman-babis-huawei-xi-trump/584158
+* https://www.defenseone.com/technology/2019/04/installing-chinese-5g-gear-dangerous-and-probably-inevitable-nato-report/156007/?oref=defenseone_today_nl
+* https://www.ctvnews.ca/politics/canada-s-arrest-of-huawei-exec-an-act-of-backstabbing-chinese-ambassador-says-1.4258201
+* https://www.cnn.com/2019/01/09/asia/china-canada-meng-huawei-intl/index.html
+* https://www.theglobeandmail.com/opinion/article-on-china-has-canada-lost-its-sense-of-justice/
+* https://portswigger.net/daily-swig/proper-news-or-propaganda-chinas-social-media-manipulations-exposed
+* https://globalnews.ca/news/4758109/china-bully-canada-release-huawei-cfo/
+* https://www.ctvnews.ca/canada/canada-will-pay-chinese-state-media-threaten-repercussions-over-huawei-arrest-1.4216293
+* https://business.financialpost.com/telecom/inside-huaweis-rather-awkward-charm-offensive-to-convince-the-world-its-ok
+* https://www.scmp.com/comment/letters/article/3001272/despite-us-allegations-huawei-has-done-nothing-wrong-why-should-it
+
+Datasets: none identified (mining more Twitter data, Reddit, and comment forums could be valuable research)
+
+Notes: 
+
+While a hypothesis and not related to Meng’s arrest, research done by John Gray (using  Mentionmapp data from January 13, 2019) also suggests the need to look at adjecent/tangential flow of social data. In this case (could be coincidence) simutatneaous flow of tweets via State Media @globaltimesnews (reporting on Poland arrest) and of “influencer” (using bots to amplify content) @UserExperienceU tweeting favorable about Huawei technology. Need to consider the amplifiers/influencers operate to support/put the happy face on Huawei. More work needs to be done researching social behavior outside the “Great Firewall” using trolls, bots, cyborgs, and “willing/unwitting” idiots. Just like Russia, we also need to give more consideration to how bots/automation (low-volume in particular) is operating to amplify State Media in order to gain higher fidelity in search engines.  
+
+We should also recognize another form of Huawei/China manipulation in the form of research programs in Universities across North America and Europe
+https://www.universityworldnews.com/post.php?story=20190125061623487
+https://www.theglobeandmail.com/business/article-canadian-universities-continuing-rd-funding-partnerships-with/
+fortune.com/2019/01/18/oxford-university-huawei-research-funding/
+https://www.reuters.com/article/us-usa-china-security-universities-insig/u-s-universities-unplug-from-chinas-huawei-under-pressure-from-trump-idUSKCN1PI0GV
+
+Timeline of events
+
+Dec. 6: China demands Canada release Meng and “immediately correct the mistake” officials made in arresting her. The Chinese also say they were not briefed on the reasons for Meng’s arrest.
+In Ottawa, Prime Minister Justin Trudeau says Meng’s case is part of an independent legal process with no outside political influence.
+Dec. 7: In Vancouver, Meng appears in court, where allegations of fraud are laid out. The U.S. alleges Meng misled American banks in a bid to get around American sanctions on Iran.
+Dec. 8: Canada’s ambassador to China, John McCallum, is summoned to a meeting with China’s assistant foreign minister so the country can register complaints about Meng’s arrest. “China strongly urges the Canadian side to immediately release the detained Huawei executive … or face grave consequences that the Canadian side should be held accountable for,” the assistant minister, Le Yucheng, says in a statement.
+
+Dec. 12: China’s foreign ministry says it has no information about Kovrig, but says the organization he worked with – the International Crisis Group – was not registered in China, making its activities in the country illegal.
+
+Dec. 13: China’s foreign ministry says Kovrig and Spavor have been detained on suspicion of “endangering national security.”
+
+Dec. 20: Indictments unsealed in the United States allege two Chinese citizens targeted companies in Canada and around the world as part of a years-long hacking campaign to steal data.
+
+Dec. 24: China’s foreign ministry calls out the U.S., Britain and EU, saying the trio should be condemning Canada for Meng’s arrest. Spokeswoman Hua Chunying says Canada should “correct its mistakes” and stop acting at the behest of the United States. She says Kovrig and Spavor’s rights are being respected in custody.
+
+Jan. 9: China’s envoy in Ottawa suggests Canada and its Western allies are white supremacists for calling for the release of two Canadians imprisoned last month by his country’s communist government. Ambassador Lu Shaye makes the accusation in an op-ed in the Hill Times.
+
+Jan. 15: China expresses its “strong dissatisfaction” with Trudeau over his criticism of Schellenberg’s sentence. Trudeau should “respect the rule of law, respect China’s judicial sovereignty, correct mistakes and stop making irresponsible remarks,” foreign ministry spokeswoman Hua Chunying says.
+
+Jan. 17: Ambassador Shaye says Canada’s arrest of Meng was an act of “backstabbing” by a friend. Lu warns of “repercussions” if Canada bars the firm from its new 5G network for security reasons, as have three of its intelligence-sharing allies.
+
+Jan. 22: China demands the U.S. drop a request that Canada extradite Meng. Foreign Ministry spokeswoman Hua Chunying said Meng’s case was out of the ordinary and Canada’s extradition treaty with the U.S. infringed on the “safety and legitimate rights and interests of Chinese citizens.”
+Jan. 28: The U.S. Department of Justice formally levels criminal charges against Huawei, two subsidiaries and Meng. The charges, contained in two newly unsealed indictments, allege that Huawei misrepresented its ownership of a Hong Kong-based subsidiary to circumvent American sanctions against Iran. Furthermore, they say Huawei stole telecommunications technology, trade secrets and equipment from U.S. cellphone provider T-Mobile USA. Meng is charged with bank fraud, wire fraud and two counts of conspiracy to commit both. In a statement, Huawei denied committing any of the violations cited in the indictment.
+
+Jan. 29:China calls on the U.S. to “stop the unreasonable crackdown” on Huawei, saying it will “firmly defend” its companies.
+
+March 6: A lawyer for Meng tells a judge the United States’ bid for extradition raises serious concerns about the political motivations behind the case as the matter is scheduled to return to court on May 8 to set hearing dates.
+
+
+"
+"incident","I00032","
+
+Summary:  
+
+Actors: 
+
+* IRA; other Russian state actors; 
+* Roger Stone, Alex Jones, gamergaters
+
+Timeframe: Fall 2018
+
+Date: September-October 2018
+
+Presumed goals: 
+
+* Divide the American public on gender and party lines; Harass and intimidate anti-Trump voices; 
+* Promote epistemic confusion; 
+* Seed the narrative terrain for future operations; 
+* Promote “both sides” relativism; 
+
+Method: 
+
+* Amplify extreme and hyper-partisan rhetoric; 
+* Promote divisive conspiracy theories; 
+* Re-up debunked theories in new contexts (e.g. hashtags); 
+* Re-center debates on emotional, rather than rational, content; 
+* Alter “ground-truth” resources, such as Wikipedia
+
+Counters: None / Media exposure
+
+Related incidents: 
+
+* gamergate; 
+* 2016 election
+
+References
+
+* [Russian trolls and bots are flooding Twitter with Ford-Kavanaugh disinformation](https://qz.com/1409102/russian-trolls-and-bots-are-flooding-twitter-with-ford-kavanaugh-disinformation/)
+* [Brett Kavanaugh and the information terrorists trying to reshape America](https://www.wired.com/story/information-terrorists-trying-to-reshape-america/)
+* [How the Kavanaugh information war mirrors real warzones](https://www.wired.com/story/how-the-kavanaugh-information-war-mirrors-real-warzones/)
+* [How Facebook polarized us during the Kavanaugh hearings](https://www.theverge.com/2018/10/6/17943680/facebook-polarization-kavanaugh-partisan-news-groups)
+* [Brett Kavanaugh has huge opposition in the U.S. - but Russian state propaganda loves Donald Trump's nominee](https://www.newsweek.com/brett-kavanaugh-has-huge-opposition-us-russian-state-propaganda-loves-donald-1155046)
+
+Details
+
+Last month, the attorney of Christine Blasey Ford, the California professor who has accused Supreme Court nominee Brett Kavanaugh of sexual assault at a long-ago high school party, revealed that Blasey Ford and her family were in hiding and had hired private security after Blasey Ford received death threats over email and social media. Among those cheering on the hate-trollers were many familiar faces from the sewers of the modern far-right disinformation metropolis: dandified Republican rogue (and likely Mueller investigee) Roger Stone, his alt-media protégés Mike Cernovich and Jack Posobiec, anarchist turned Kremlin propaganda employee turned Bernie backer turned Trump backer Cassandra Fairbanks, and breathless Infowars conspiracist-in-chief Alex Jones. And not surprisingly, alt-right super-troll Chuck Johnson had his own connection to players in the scandal.
+
+This is an operational unit of information terrorists helping to transform the way Americans consume news in the age of Trump—some of the central nodes that give order to the information deluge and around which bot armies and human amplification networks can be organized, wiped out, reconstituted, and armed for attack.
+
+The attacks on Blasey Ford aimed to discredit and silence her using the same tactics that have been deployed to discredit and silence others over the past few years. As others have come forward to accuse Kavanaugh of wrongdoing—including Deborah Ramirez and Julie Swetnick—they have been similarly harassed and smeared by the same machinery and themes.
+
+Online Twitter accounts tied to Russia are heavily involved in discussing the Supreme Court nominee and allegations against him online. Hamilton68, a project run by the German Marshall Fund think tank that tracks tweets “tied to Russia-linked influence networks,” listed Kavanaugh, Trump, the FBI, and Ford as the top four topics mentioned by Russia-linked accounts on the evening of Oct.1.
+
+The Russia-linked accounts are largely lending their support to Kavanaugh, says Jonathon Morgan, CEO of New Knowledge, the company that built the software behind Hamilton68. Morgan, who is currently tracking a set of around 1,000 accounts he believes are tied to Russia, says the Kavanaugh hearings have unleashed more US domestic-focused propaganda from foreign-linked networks than his firm has seen in months.
+
+Posts about Ford and Kavanaugh are “really cluttered and confused,” with various pieces of clear fabrication from both sides, says Decker.
+
+The effort to introduce a doppelganger aligned with another key method used in LikeWars around the world: muddying the debate by throwing out alternative theories. Russia has long been the master of this disinformation tactic. After its 2014 shootdown of the MH-17 airliner over Ukraine, for instance, Russia spread over a dozen different theories of what had really happened. Many were contradictory and debunked previous claims. But the goal wasn’t to find the truth—it was to obscure it behind a smokescreen of lies.
+
+Similarly, the Kavanaugh debate has given rise to false claims and ridiculous photoshopped images, often spread under fake identities. There have been debunked rumors that Kavanaugh had ruled against Ford’s parents in a house foreclosure and that Ford’s brother was part of the Russia investigation. There was even a flurry of unsubstantiated sexual assault charges leveled against Kavanaugh in the hours before the hearing. His supporters were outraged; those opposed to Kavanaugh's nomination speculated that they were placed so that his defenders could point to the media’s unreliability and cast doubt on Ford's credibility.
+
+The state-funded outlet RT, which was recently obligated to register its U.S. branch under the Foreign Agents Registration Act, trumpeted the news that the White House had found no proof of sexual misconduct by Kavanaugh after reviewing the findings of a time-limited FBI investigation into the allegations.
+
+The same outlet also called attention to the arrest of several high-profile celebrities, actress and comedian Amy Schumer and model Emily Ratajkowski, who were protesting Kavanaugh’s potential appointment in front of the Supreme Court on Thursday. “Obstruction of Justice?” the outlet asked.
+
+Pro-Kavanaugh accounts have pushed out false smears aimed at discrediting Ford. One notable anti-Kavanaugh post picked up more than 11,000 retweets while purporting to to cite a Wall Street Journal article that in fact didn’t exist.
+
+Other accounts are using popular interest in the Ford-Kavanaugh dispute to push unrelated disinformation. A common tactic is to re-up a conspiracy theory or previously debunked story and add tags related to Kavanaugh so the tweet gains more traction.
+
+Examples include re-circulating debunked sexual assault allegations against Democrats like representative Keith Ellison, senator Cory Booker, and former vice president Joe Biden; or against Republicans like senator Lindsey Graham. “Both sides are coopting matters that may have been killed off and never gained traction, and using the Kavanaugh incident to rehash these different claims,” Decker said.
+
+Morgan says the Russian bots he’s tracking are largely using this latter method, seemingly with the broad aim of making Kavanaugh seem no worse than Democrats. The approach differs from Russian activity during the 2016 election, where influence campaigns aimed to sow discontent among both liberals and conservatives by pushing propaganda that appealed to both sides.
+
+This has all taken on a new heady energy as pushback to #MeToo—and riding the coattails of the conspiracy bandwagon. But the intent is the same: to demonize the opponent, define identity, activate the base around emotional rather than rational concepts, and build a narrative that can be used to normalize marginal and radical political views. It is, after all, very convenient to have a narrative positing that all your political opponents are part of a secret cabal of sexual predators, which thus exonerates your side by default.
+
+Daily Wire’s top story about Kavanaugh confirmation was published Oct. 1 with the headline “Prosecutor Who Questioned Ford Shreds Her Case In Five-Page Memo.” It’s generated more than 205,000 engagements. The site also received just under 180,000 engagements for the story, “Bill Clinton Rape Accuser Juanita Broaddrick Crashes Kavanaugh Hearing, Slams Dems For ‘Biggest Double Standard.’”
+
+Occupy Democrats’ top story about Kavanaugh-Ford is headlined “Matt Damon just DESTROYED Kavanaugh and Senate Republicans in hilarious SNL cold open.” It had just under 70,000 engagements. Another story about the Kavanaugh confirmation, “Bernie Sanders just demanded the FBI investigate five lies Kavanaugh told at his hearing,” generated over 44,000 engagements.
+
+This is the ideological landscape that has been so swiftly leveraged in the defense of Brett Kavanaugh.
+
+The cadre and their followers knew exactly what to do when the allegations made against Kavanaugh by Christine Blasey Ford became public. They did not disappoint. Rapid efforts by far-right blogs and personalities to dox and troll Blasey Ford resulted in the targeting of the wrong Christine Blasey Ford; Posobiec was one of those reportedly amping this misguided doxxing. Cernovich said Blasey Ford was a ""far left wing activist"" who had been ""scrubbing"" her social media profile, so her accusations were ""activism."" Alex Jones made a joke of the whole thing, with Infowars saying Blasey Ford is a ""leftist"" whose accusations were a ""political ploy."" Fairbanks: ""She can't prove it… Her clothes were on… Fuck that lady."" That's a particularly strong comment from a one-time anti-rape activist. Stone: ""This is a woman looking for her Anita Hill moment.""
+
+This is the information that flowed through the architecture the Stone cadre popularized and mainstreamed over the past few years, moving it from the fringe to a central pillar of the conservative agenda, cartoonifying legitimate issues of conservative concern and recruiting new supporters as they went. The narrative was set long ago—allegations are false, men (especially white men) are oppressed, the people who stand against you are corrupt perverts worthy of demonization, and everything that is the America you know will fall apart if you don't fight for some notion of the way things were and should be again. And the best way to achieve this, since the system will fight back, is viciousness.
+
+This architecture is established, and permanently in transmit mode.
+
+Consider the now-infamous and disavowed (but archived here) Ed Whelan twitter thread, an odd diversionary narrative hyped as an alternate theory of the night Blasey Ford describes. Its gist: mistaken identity of the perpetrator. Potential defamation issues aside, it seemed to build on the groundwork being laid by Senate Republicans and the White House to carefully insinuate that Blasey Ford wasn't lying, merely mistaken about who attacked her. But Whelan transformed it into a bonkers Twitterverse conspiracy theory about the bedroom at the top of the stairs.
+
+An analysis of the accounts that retweeted Whelan's teaser for his conspiracy most frequently post content from right and far-right media, several of which are anchors in the far-right disinformation ecosphere (and Russian disinformation, to boot).
+
+Posted for less than 24 hours, Whelan's mistaken-identity theory sparked a wave of blog posts and discussions on far-right sites that live on even after Whelan backed off. This post, for example, repeats Whelan's claims and suggests they all but vindicate Kavanaugh. It was a top-trending piece on disinformation trackers and was still being circulated on Twitter days after the source was deleted. And so was this one, this one, and this one. Some 1.5 million ""Fox and Friends"" viewers heard all about the mistaken-identity theory live on TV. Once it's out there, you can't pull it back.
+
+The narratives to defend Kavanaugh were mostly about discrediting Blasey Ford: that she was part of a secret CIA mind-control project (the CIA connection was also alluded to by Kremlin disinformation purveyors); that George Soros was behind her allegations; that her lawyer was linked to Hillary Clinton; that she was motivated by profit; that she did this as revenge for a foreclosure case where Kavanaugh's mother, also a judge, ruled against Blasey Ford's parents (only, she didn't—she ruled in their favor); that she had also made false allegations against Neil Gorsuch; and many more.
+
+In the course of his angry self-defense, Kavanaugh stamped a lot of bingo squares: attempted rape allegations as a political tool, false allegations, Clinton, secret conspiracies. By going out and taking the big swing, he elicited a powerful emotional response in his defense—an activated response from a hardened base. #ConfirmKavanaugh was trending—with support of far-right and Russian-linked accounts—after the hearing.
+
+Not even history itself is safe—at least the online version of it, which we increasingly depend on. When Kavanaugh testified that Devil's Triangle, as mentioned on his high school yearbook page, was a drinking game, there was no online evidence to back up his claim. (Other sources asserted it was a known sexual term.) So an anonymous person immediately updated Wikipedia to support Kavanaugh's definition. It was a near perfect parallel to how Russian operatives repeatedly edited the Wikipedia entry for “MH17” in the hours after the airliner was shot down to try to provide an alternative history.
+
+Examples
+
+"
+"incident","I00063","
+
+Actor: Russia
+
+Timeframe: July 18, 2016 - ongoing
+
+Date: July 18, 2016
+
+Presumed goals: 
+
+* Sports ie the Olympics is another platform to project power, and bans on Russian athletes, the stripping of medals is serious business. Deflect from negative West perspective as state-run cheats/crooks; World/West plot against us; Proclaim Russian innocence & image to domestic audience; 
+
+Method: 
+
+* Some Russians described the allegations as an anti-Russian plot while others stated that Russia was ""just doing what the rest of the world does"" Just like MH17 and Skripal, Russia gets caught and goes into 4-D mode… ie: the above comment - dismiss/”what-aboutism”
+* Deny - Russian President Vladimir Putin said that Russia had ""never supported any violations in sport, we have never supported it at the state level, and we will never support this"" and that the allegations were part of an ""anti-Russia policy"" by the West.
+* Dismiss - Russian Minister of Foreign Affairs, Sergey Lavrov, commented that the United States ""fears honest competition"", affirming Vladimir Putin's position that the United States used its influence within the IOC to ""orchestrate the doping scandal""
+* Many Russians believed that the IOC was retaliating against Russia for their discriminatory anti-gay law which provoked considerable controversy with the IOC during the 2014 Winter Olympics. Russian MP Dmitry Svishchev, who is also the head of Russia's Curling Federation, was quoted by Ria Novosti news agency as saying: ""This is what we expected. There's nothing new, only empty allegations against all of us. If you are Russian, you'll get accused of every single sin."" Aleksei Pushkov, chairman of Russia's parliamentary foreign affairs committee, said that the IAAF's decision to uphold its ban was ""an act of political revenge against Russia for its independent foreign policy."" A member of Russia's parliament, Vadim Dengin, stated, ""The entire doping scandal is a pure falsification, invented to discredit and humiliate Russia
+Talking points as above are futher amplifed/spun via Russian media, and public apologists; while this happened prior to 2016 US Elections, suggesting the IRA along with trolls & bots operating in the social space (Twitter, FB, YouTube, Reddit) could be deemed naive. 
+
+Counters: 
+
+Related incidents:  
+
+* Prelude to 2016
+* the end of the 2014 Sochi Olympics where Russian athletes dominate (in combination with Euromaiden “crisis”)  “emboldens” Putin/Russia to make move on Ukraine invasion. 
+* Russians allegedly tried to hack the World Anti-Doping Agency (WADA)... The Justice Department filed criminal charges against seven members of the GRU, Russia's main military intelligence unit, accusing them of hacking into the U.S. Anti-Doping Agency in Colorado Springs, Colorado, as well as four international sports governing bodies. A grand jury indictment said the operation was in retaliation for the exposure of Russia's state-sponsored athlete doping program that resulted in a ban from the 2016 summer Olympics in Brazil.
+
+References: 
+
+* https://www.nbcnews.com/news/world/international-olympic-committee-bars-russia-2018-winter-games-over-doping-n826671
+
+* https://www.nytimes.com/2016/05/13/sports/russia-doping-sochi-olympics-2014.html?module=inline
+* https://www.bbc.com/sport/38261608
+* https://en.wikipedia.org/wiki/Doping_in_Russia
+* https://www.theguardian.com/technology/2016/aug/22/russian-hackers-world-anti-doping-agency-dnc-hack-fancy-bear
+* https://www.dw.com/en/two-russians-probed-for-hacking-anti-doping-agency-wada/a-45502397
+* https://www.nytimes.com/2018/01/10/sports/olympics/russian-hackers-emails-doping.html
+* https://qz.com/1413474/all-of-the-victims-named-in-the-latest-russian-hacking-scandal/
+* https://www.nbcnews.com/news/us-news/7-russians-indicted-hacking-related-olympic-doping-scandal-nerve-agent-n916656
+
+
+"
+"incident","I00006","
+
+Actor: probably IRA (source: recordedfuture)
+
+Timeframe: 1 day
+
+Date: Sept 11 2014
+
+Presumed goals: test deployment
+
+Method: 
+* Artefacts: text messages, images, video
+* Create messages. e.g. “A powerful explosion heard from miles away happened at a chemical plant in Centerville, Louisiana #ColumbianChemicals”
+* Post messages from fake twitter accounts; include handles of local and global influencers (journalists, media, politicians, e.g. @senjeffmerkley)
+* Amplify, by repeating messages on twitter via fake twitter accounts
+* Not seen: interaction, refutation etc. 
+* TL;DR: early attempts to create fake incidents had limited traction. 
+
+Counters:
+
+* None seen.  Fake stories were debunked very quickly. 
+
+Related incidents: 
+
+* BP oil spill tsunami
+* #PhosphorusDisaster - fake story about water contamination scare
+* #EbolaInAtlanta -  fake story about Ebola outbreak in Atlanta
+* #shockingmurderinatlanta -  fake story about unarmed black woman killed by police in Atlanta
+
+These were all well-produced fake news stories, promoted on Twitter to influencers through a single dominant hashtag (the single hashtag might have been something learned from crisismapping practice of forcing a single hashtag for each disaster because it was easier to track)
+
+References:
+
+* [RecordedFuture trace of attack]()
+
+* https://en.wikipedia.org/wiki/Columbian_Chemicals_Plant_explosion_hoax 
+* https://www.recordedfuture.com/columbianchemicals-hoax-analysis/
+* https://www.nytimes.com/2015/06/07/magazine/the-agency.html?_r=0 
+* https://twitter.com/hashtag/PhosphorusDisaster?src=hash
+
+
+"
+"incident","I00047","
+
+Actor: Russia
+
+Timeframe: November 25, 2018 - ongoing
+
+Date: November 25, 2018
+
+Presumed goals: 
+
+* Russian media,quoted authorities who accused Kyiv of seeking to “create a conflict situation.” 
+“The same Moscow spokespeople who assured us in 2014 that the little green men who seized Crimea were not Russian soldiers—until Vladimir Putin himself spilled the beans weeks later—are now telling the world that volatile maneuvers of Ukrainian ships led to the collision November 25. 
+* Russian FSB security service blamed Ukraine for sparking the clashes, saying their ""irrefutable"" evidence would ""soon be made public"". Foreign Minister Sergey Lavrov said on the next day that Ukraine had violated international legal norms by failing to obtain authorisation for its vessels.  Deputy Chairman of the State Duma Pyotr Tolstoy warned of the danger of a war.
+* The goal of this campaign is to create confusion, to portray Ukraine as the culprit for both the Kerch Strait incident and the deteriorating security situation in the region, and to exonerate Russia of any responsibility.
+
+Method: 
+
+* (Distort) Kremlin-controlled RT cited Russian Minister of Foreign Affairs Sergei Lavrov suggesting that Ukraine deliberately provoked Russia in hopes of gaining additional support from the United States and Europe.
+distracting the audience from the main issue – Russia shooting at Ukrainian boats and capturing the vessels and crews. Instead they target the president of Ukraine, Petro Poroshenko: “Washington incited Poroshenko to launch this “sea provocation” against Russia in order to “thwart the Putin -Trump meeting”” and “President of Ukraine Petro Poroshenko uses the Kerch provocation for a coup d’état“. But in reality, the Ukrainian Parliament adopted a resolution scheduling the presidential elections for 31 March 2019.
+Dismissing the critic has also found its place under the sun of Kremlin info-war. Claims were spread that the Russian ships have moved so far ahead “in their technological development” that they “do not use ramming as a tactic“.
+
+* Attempts to pollute the German Twitter: Russian disinformation does not only rely on its own resources to spread its narratives about Ukraine. Twitter has been used so heavily that Russia Today and Sputnik are scoring more engagement than some of the German quality media combined. Between Sunday and Tuesday, more than 10,000 German-language Tweets from 3,000 unique accounts mentioned Ukraine, almost all of them relating to the confrontation in the Sea of Azov. Despite the large overall number of tweeters, a small group of 30 accounts has been driving a significant share of the debate so far.
+ 
+* Dmitry Peskov described Ukrainian navy’s actions as “an invasion of foreign military ships into Russia’s territorial waters.” Belittling Ukraine’s navy; Ridiculing and dehumanising Ukrainians - This ridiculing of Ukraine’s navy echoes other cases when disinformation has been used to show Ukraine as weak and dependent.
+
+Counters: 
+
+Related incidents: 
+
+* This is not the first time the Kremlin has used the four-D tactics. 
+* @DFRLab has documented the Kremlin’s use of the 4Ds of disinformation to deny its involvement in the downing of the Malaysian Airlines flight MH17 over Ukraine, the Skripal poisoning, and the interference in the U.S. Presidential elections in 2016.
+
+References: 
+
+* https://euvsdisinfo.eu/report/washington-incited-poroshenko-to-launch-a-sea-provocation-to-thwart-the-putin-trump-meeting/
+* https://euvsdisinfo.eu/report/kerch-confrontation-part-of-poroshenkos-plan-to-postpone-the-ukrainian-elections/
+* https://euvsdisinfo.eu/report/russia-does-not-shirk-international-law/
+* https://meduza.io/en/feature/2018/11/26/how-russia-captured-three-ukrainian-ships-in-the-black-sea
+* https://medium.com/dfrlab/uk-poisoning-russia-recycles-responses-77e1d357b777
+* https://medium.com/dfrlab/propaganda-pushed-around-indictment-f63b85ac0587
+* https://www.dw.com/en/the-scars-of-ukraines-war-in-mariupol/a-19430738
+* https://www.dw.com/en/crimea-applies-for-annexation-by-moscow-after-secession-referendum-wins-968-approval/a-17500659
+
+* https://euvsdisinfo.eu/wave-of-disinformation-from-the-azov-sea/
+* https://medium.com/dfrlab/minskmonitor-disinformation-tactics-extend-to-kerch-c32351c7c293
+* https://www.bellingcat.com/news/uk-and-europe/2018/11/30/investigating-the-kerch-strait-incident/
+* https://www.justsecurity.org/61835/rogue-kremlin-push-international-law/
+* https://www.stopfake.org/en/denigrating-ukraine-with-disinformation/
+
+* https://www.dw.com/en/what-you-need-to-know-about-the-conflict-in-the-sea-of-azov/a-46461361
+* https://www.atlanticcouncil.org/blogs/new-atlanticist/russia-ukraine-feud-heats-up-the-sea-of-azov
+* https://en.wikipedia.org/wiki/Kerch_Strait_incident
+
+
+Datasets: 
+
+Notes: 
+
+Given anything related to the ukraine is a key testing ground/flashpoint for Russia narrative manipultion & anti-democracy disinformation, the incident and geographic chokepoint will be an ongoing issue. 
+
+The Kerch Strait is the only connection between the Black Sea and the Sea of Azov, and the only way to reach two important Ukrainian ports, Mariupol and Berdiansk. The route is vital for Mariupol's two large metallurgical plants. Russia has controlled the strait since annexing Crimea in 2014, which has made traffic significantly more difficult for Ukrainian ships. The consequences of Russian control have become particularly noticeable since the completion of the Crimean Bridge in May 2018. The bridge connects the Russian mainland with the occupied peninsula. The FSB inspects all ships bound for Ukraine, sometimes taking days, which has aggravated the situation. The volume of freight has steadily declined since then. The war in Ukraine's Donbass region is also problematic for Ukraine's ports.
+
+this most recent escalation in the Kerch Strait is aggravating the already existing conflict between Ukraine and Russia that began after the annexation of Crimea in 2014.
+ 
+On the evening of 28 November, Ukrainian Infrastructure Minister Volodymyr Omelyan said that vessels bound for the ports of Berdyansk and Mariupol awaited entrance to the Sea of Azov and vessels were also waiting to go southbound. He characterised this as a virtual blockade. No vessels were identified as Ukrainian. On 4 December Omelyan stated that Russia did let ships reach Berdyansk and Mariupol again. The same day the Ukrainian Ministry of Temporarily Occupied Territories and IDPs claimed that the accumulation of ships waiting to go to the Ukrainian ports had led to several accidents. Russia denied it ever blocked vessels from sailing to Ukrainian ports and asserted that any possible disruptions were due to bad weather
+On 19 January 2019, USS Donald Cook entered the Black Sea, being the second American vessel to arrive in the Black Sea after the Kerch Strait incident after USS Fort McHenry entered in 10 January 2019
+In March 2019, Canada, the United States and the EU imposed sanctions on Russian citizens and companies for their participation in the incident and activities in Crimea and separatist-controlled eastern Ukraine
+
+"
+"incident","I00022","
+
+Actor: 
+
+* 4chan user with Latvian IP address, 
+* pro-Trump Twitter accounts
+
+Timeframe: a few days
+
+Date: Two days before the second round of French 2017 election (May 5, 2017)
+
+Presumed goals: sabotaging Macron campaign in the last stage of the election.
+
+Method:
+
+* Hashtag campaign: #MacronLeaks with use of bots. 
+* Hashtags initially launched in the US, then got publicized by alt-right influencer, Le Pen’s supporters, Wikileaks.
+
+Counters:
+
+* French agencies that monitor cybersecurity, electoral integrity.
+* Technical precautions: ending e-voting.
+* Facebook removed 70,000 suspicious accounts in France 10 days before the vote.
+* Campaign staff responding to social media posts and comments.
+* Technically, placing traps along the way, using fake passwords, email addresses, documents to trap hackers.
+* Stop offering press credentials to propaganda outlets.
+* Use encrypted apps for confidential communication.
+* Requesting the media not to report false information.
+
+Related incidents:
+
+References:
+
+* https://www.niemanlab.org/2018/09/how-france-beat-back-information-manipulation-and-how-other-democracies-might-do-the-same/
+* https://www.buzzfeednews.com/article/ryanhatesthis/heres-how-far-right-trolls-are-spreading-hoaxes-about
+* https://medium.com/dfrlab/hashtag-campaign-macronleaks-4a3fb870c4e8
+"
+"incident","I00033","
+
+Actor: China
+
+Timeframe: 2011
+
+Date:
+
+Presumed goals: 
+
+* Commentators’ duty to guide public opinion in a “constructive” way and engage the internet as “an important battlefield of ideology.” The vice minister of public security said that the police should use microblogs as a communication platform to “release correct information and dispel misunderstandings.”
+* Accounts describing the operations of progovernment commentators that have emerged in recent years indicate that they are also involved in identifying and recommending content for deletion. Other testimonies highlight the fact that the posts do not only praise or support the CCP and government policy, but also target government critics with negative remarks. Other forms of misdirection involve deliberate attempts to muddy the facts of a particular incident—for example, a false eyewitness can contradict the account of a netizen reporting a case of police abuse.
+* The Chinese government has long been suspected of hiring as many as 2,000,000 people to surreptitiously insert huge numbers of pseudonymous and other deceptive writings into the stream of real social media posts, as if they were the genuine opinions of ordinary people. Many academics, and most journalists and activists, claim that these so-called “50c party” posts vociferously argue for the government’s side in political and policy debates.
+
+Method: 
+
+* Astroturfing: “surreptitiously post large numbers of fabricated social media comments, as if they were the genuine opinions of ordinary Chinese people""
+* Cow online opinion leaders into submission
+* Bombard Taiwan social media (Facebook, twitter, chat groups) with ani-DPP, anti-Tsai content.
+
+Counters: 
+
+Related incidents: 
+
+Notes: 
+
+(Recorded Future) The term “Great Firewall” was coined in a June 1997 Wired magazine article in which an anonymous Communist Party official stated that the firewall was “designed to keep Chinese cyberspace free of pollutants of all sorts, by the simple means of requiring ISPs [internet service providers] to block access to ‘problem’ sites abroad.”
+
+Our research focused on the English-language social media activity of six major state-run propaganda organizations from October 1, 2018 through January 21, 2019, which included over 40,000 posts. We selected these six organizations — Xinhua, People’s Daily, China Global Television (CGTN), China Central Television (CCTV), China Plus News, and the Global Times — because they: Are highly digitized; Possess accounts on multiple English language social media platforms; Are associated with Chinese intelligence agencies and/or English language propaganda systems
+
+Because our intent was to map out Chinese state-run influence campaigns targeting the American public, we evaluated only English language posts and comments, as the posts in Chinese were unlikely to affect most Americans. Further, our research focused on answering two fundamental questions about Chinese influence operations: Does China employ the same influence tactics in the English-language social media space as it does domestically? How do Chinese state-run influence operations differ from Russian ones? In what ways are they similar and different, and why?
+
+The information-control regime in China has evolved to include a dizzying array of techniques, technologies, and resources: Blocking traffic via IP address and domain; Mobile application bans; Protocol blocking, specifically Virtual Private Network protocols and applications; Filtering and blocking keywords in domains (URL filtering); Resetting TCP connections; Packet filtering; Distributed denial-of-service (DDoS) attacks (the so-called Great Cannon); Man-in-the-middle (MiTM) attacks; Search engine keyword filtering; Government-paid social media commenters and astroturfers; Social media account blocking, topic filtering, content censorship; State-run media monopoly and censorship; Social Credit System; Mandatory real-name account registration; 
+
+This tool set, combined with the now-ubiquitous mass physical surveillance systems, place China at the forefront of integrating information technology, influence operations, surveillance, and censorship in a model referred to by two scholars from MERICS as “IT-based authoritarianism.”
+
+In addition to the constraints imposed by the Great Firewall and content censorship, the Chinese state also employs a series of active disinformation and distortion measures to influence domestic social media users. One of the most widely studied has been the so-called “50 Cent Party.” The 50 Cent Party is a group of people hired by the Chinese government to “surreptitiously post large numbers of fabricated social media comments, as if they were the genuine opinions of ordinary Chinese people.” The name is derivative of a rumor that these fake commentators were paid 50 Chinese cents per comment (this has been largely disproven). This fabrication of social media comments and sentiment is largely known by the term “astroturfing.” Among scholars of the Chinese domestic social media environment, there is much disagreement regarding what the goals or objectives of government-paid astroturfers are. One study by professors at Harvard, Stanford, and UC San Diego, published in April 2017, determined that one in every 178 social media posts are fabricated by the government and that comments and campaigns are focused and directed against specific topics or issues. Additionally, these scholars have assessed that domestic social media influence operations focus primarily on “cheerleading” or presenting or furthering a positive narrative about the Chinese state. Conversely, a separate set of scholars at the University of Michigan, who also examined posts from the 50 Cent Party astroturfers, determined that at least one in every six posts on Chinese domestic social media was fabricated by the government. Further, these scholars argued that less than 40 percent of astroturfed comments could be classified as “cheerleading” and that the rest were a combination of vitriol, racism, insults, and rage against events or individuals. They additionally argue that censors and state-sponsored influence campaigns focus much of their resources on “opinion leaders” and users with large numbers of followers as opposed to simply intervening based on content.
+
+ Chinese government has used a combination of muscle and guile to cow online opinion leaders into submission, muzzling social media as a political force, and leaching public dialogue of much of its independence. But beneath the peppy, pablum-filled surface that has resulted, Chinese social media remains a contested space.
+
+(Taiwan election) Tsai futilely urged Taiwanese citizens to see Beijing’s effort for what it was — a Russian-style influence campaign. The island’s 23 million citizens were bombarded with anti-Tsai and anti-DPP content through Facebook, Twitter and online chat groups, promoted by China’s “50-cent army” of paid social media trolls. There are also dozens of investigations into allegations that Chinese money went to fund Taiwanese candidates opposing Tsai and the DPP.
+After the elections, Chinese state media pointed to Tsai’s losses as evidence that her tough stance vis-à-vis China was unpopular and wrongheaded. Beijing’s overall goal is to replace her with a more malleable leader in Taipei as part of its broad effort to exert control over Taiwan and weaken Taipei’s relationships with the international community.
+The Chinese government is bribing or coercing foreign governments to break diplomatic relations with Taiwan, pressuring them to evict Taiwan from international organizations. Beijing is also threatening foreign companies unless they literally erase Taiwan from their websites. Their ultimate goal is to dissolve the U.S.-Taiwan partnership and subjugate the island to the People’s Republic of China (PRC).
+
+There are numerous agencies sponsoring internet commentators, including local propaganda offices, ministries and even schools and state-owned enterprises. For instance, China’s largest oil and gasoline producer, Sinopec, was found to be running an astroturfing campaign justifying rising gasoline prices in 2011 (Wang 2011). 
+The following excerpt from a recruiting flyer from the Propaganda Department of the Zhengding Party Committee, Hebei, provides an example of what online commentators are expected to do (Zhonggong Zhengding Xianwei Xuanchuanbu 2009): 
+compose original postings and carry out positive publicity online to promote the priorities and major deployments of the party committee and the government; 
+release authoritative information on major incidents to hinder the spread of rumours and ensure correct direction of online opinion; 
+answer questions and clarify confusion for netizens on hotbutton incidents, interpret the policies of and measures taken by the party and the government and divert netizens’ emotions; 
+strengthen information management on the internet and tightly integrate the analysis of online opinion, disposing of harmful information and guiding online opinion. 
+
+These instructions show that besides monitoring public opinion, the primary mission for online commentators is to facilitate state propaganda and defuse crises. In online propaganda campaigns, commentators work to attract public attention and fabricate an audience, if necessary. 
+
+ “American Cent Party” (美分党) who express western democratic values and criticize the Chinese communist regime online, and the “internet water army” (网络水军), which refers to for-hire astroturfers working for and advancing the interests of companies and other actors willing to pay their fees.
+Prominent dissident Ai Weiwei said “If you oppose the US and Japan [online], you are a member of the 50 cents army” (Strafella and Berg, 2015). 50c party members “combat hostile energy,” defined as posts that “go against socialist core values,” or “are not amenable to the unity of the people.” Such information should be “resolutely resisted, proactively refuted, and eagerly reported to Internet authorities.” 4 (Haley, 2010). Through active engagement of opposition views, they try to “sway public opinion” (Editors, 2016; Jason Ng, 2011), “influence public opinion. . . pretending to be ordinary citizens and defending or promoting the government’s point of view” (O. Lam, 2013), or “steer conversations in the right direction” (Editors, 2013). Estimates by journalists of the size of the 50c party is between 500,000 to 2 million (Philipp, 2015).
+
+References:
+
+* https://www.wired.com/1997/06/china-3/
+* https://en.greatfire.org/analyzer
+* https://www.nytimes.com/2017/01/04/business/media/new-york-times-apps-apple-china.html
+* https://techcrunch.com/2017/07/29/apple-removes-vpn-apps-from-the-app-store-in-china/
+* https://pdfs.semanticscholar.org/9fc1/d1815a678583c1e73233bb93aaaab7d0fd4f.pdf
+* https://www.cl.cam.ac.uk/~rnc1/ignoring.pdf
+* https://citizenlab.ca/2015/04/chinas-great-cannon/
+* https://drive.google.com/file/d/1xjHWI0Ih3abONxL0WoXj2swlcBuiRCXO/view
+* https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2738325
+* http://www.spiegel.de/international/world/china-s-xinjiang-province-a-surveillance-state-unlike-any-the-world-has-ever-seen-a-1220174.html
+* https://www.merics.org/sites/default/files/2018-07/MPOC_ChinasCoreExecutive_web.pdf
+* https://www.freedomhouse.org/template.cfm?page=691&cmb=34#Vice
+* http://cmp.hku.hk/2011/05/09/12125
+* http://chinadigitaltimes.net/2008/05/chinese-bloggers-on-the-history-and-influence-of-the-fifty-cent-party/
+* http://gking.harvard.edu/files/gking/files/50c.pdf?m=1463587807
+* http://blakeapm.com/
+* https://www.washingtonpost.com/news/monkey-cage/wp/2017/02/21/can-the-chinese-government-really-control-the-internet-we-found-cracks-in-the-great-firewall/
+* https://drive.google.com/file/d/1xjHWI0Ih3abONxL0WoXj2swlcBuiRCXO/view
+* https://foreignpolicy.com/2014/01/30/whisper-together/
+* https://www.nytimes.com/2018/11/22/world/asia/taiwan-elections-meddling.html
+* http://www.taipeitimes.com/News/front/archives/2018/10/23/2003702864
+* https://www.aljazeera.com/news/2018/11/news-rattles-taiwan-elections-181123005140173.html
+* https://www.reuters.com/article/us-taiwan-politics/china-heaps-pressure-on-taiwan-president-after-poll-defeat-idUSKCN1NV02X
+* https://www.washingtonpost.com/opinions/global-opinions/trump-is-failing-to-counter-chinas-diplomatic-assault-on-taiwan/2018/09/06/e744f97c-b20c-11e8-9a6a-565d92a3585d_story.html
+* https://www.washingtonpost.com/news/josh-rogin/wp/2018/05/05/white-house-calls-chinas-threats-to-airlines-orwellian-nonsense/
+* https://gking.harvard.edu/files/gking/files/how_the_chinese_government_fabricates_social_media_posts_for_strategic_distraction_not_engaged_argument.pdf 
+* https://www.voanews.com/a/who-is-that-chinese-troll/3540663.html
+* https://journals.sub.uni-hamburg.de/giga/jcca/article/viewFile/850/851
+* https://www.scmp.com/culture/books/article/2144692/how-china-censors-its-internet-and-controls-information-great-firewall
+* https://freedomhouse.org/blog/china%E2%80%99s-growing-army-paid-internet-commentators
+* https://www.recordedfuture.com/china-social-media-operations/
+* https://foreignpolicy.com/2016/05/19/meet-the-chinese-internet-trolls-pumping-488-million-posts-harvard-stanford-ucsd-research/
+* https://www.washingtonpost.com/opinions/2018/12/18/chinas-interference-elections-succeeded-taiwan/
+
+"
+"incident","I00062","
+
+See also I00005."
+"incident","I00056","
+
+Actor: Iran
+
+Timeframe: 2012 - ongoing
+
+Date: Aug 21, 20198
+
+Presumed goals: 
+
+* Iran’s meddling in the politics of the Arab states has become more conspicuous since the Arab Spring of 2011. Iran has been trying to widen its influence in the region in its political jousting against Saudi Arabia which is sometimes referred to as “the Arab Cold War”. Although the two regional rivals have never declared war, the two players have been involved in proxy wars in the region including Syria and Yemen.
+* Pages promoted or amplified views in line with Iranian government’s international stances. The pages posted content with strong bias for the government in Tehran and against the “West” and regional neighbors, such as Saudi Arabia and Israel.The operation was noteworthy, however, that more than 30 percent of the removed assets were active for five or more years, indicating that Iranian entities have been engaged in social media influence campaigns since as early as 2010 (DFRLab)
+
+
+Method:  
+
+* In August 2018, Facebook removed 652 pages, groups, and accounts on Facebook and Instagram originating from Iran for engaging in a “coordinated inauthentic behaviour”. 15 These operations targeted people in the Middle East, Latin America, the UK, and the US. In October 2018, Facebook announced the removal of another 82 pages, groups, and accounts on Facebook and Instagram. This time the company announced that these accounts and pages targeted people in the US and the UK.16 Some of these accounts masqueraded as American citizens pushing anti-Saudi and anti-Israel narratives.
+* In October 2018, Twitter published two data sets comprising 3,841 accounts affiliated with the Internet Research Agency (IRA), and 770 accounts that could be traced back to Iran. These accounts were suspended by Twitter in August 2018 for engaging in coordinated manipulation on the platform. Twitter believes that the information operations linked to Iran are potentially backed by the state
+* 70 websites found by Reuters which push Iranian propaganda to 15 countries, in an operation that cybersecurity experts, social media firms and journalists are only starting to uncover. The sites found by Reuters are visited by more than half a million people a month, and have been promoted by social media accounts with more than a million followers… the sites in the campaign have been active at different times since 2012. They look like normal news and media outlets,but only a couple disclose any Iranian ties.
+* The social media companies have closed hundreds of accounts that promoted the sites or pushed Iranian messaging. Facebook said last month it had taken down 82 pages, groups and accounts linked to the Iranian campaign; these had gathered more than one million followers in the United States and Britain. But the sites uncovered by Reuters have a much wider scope. They have published in 16 different languages, from Azerbaijani to Urdu, targeting Internet users in less-developed countries. That they reached readers in tightly controlled societies such as Egypt, which has blocked hundreds of news websites since 2017, highlights the campaign’s reach.
+* Ten outlets targeting readers in Yemen, where Iran and U.S. ally Saudi Arabia have been fighting a proxy conflict since civil war broke out in 2015; A media outlet offering daily news and satirical cartoons in Sudan. Reuters could not reach any of its staff; A website called Realnie Novosti, or “Real News,” for Russian readers. It offers a downloadable mobile phone app but its operator could not be traced.
+* One of IUVM’s most popular users is a site called Sudan Today, which SimilarWeb data shows receives almost 150,000 unique visitors each month. On Facebook, it tells its 57,000 followers that it operates without political bias. Its 18,000 followers on Twitter have included the Italian Embassy in Sudan, and its work has been cited in a report by the Egyptian Electricity Ministry.
+The office address registered for Sudan Today in 2016 covers a whole city district in north Khartoum, according to archived website registration details provided by WhoisAPI Inc and DomainTools LLC. The phone number listed in those records does not work.
+* We have observed inauthentic social media personas, masquerading as American liberals supportive of U.S. Senator Bernie Sanders, heavily promoting Quds Day, a holiday established by Iran in 1979 to express support for Palestinians and opposition to Israel. (FireEye)
+* Broadly speaking, the intent behind this activity appears to be to promote Iranian political interests, including anti-Saudi, anti-Israeli, and pro-Palestinian themes, as well as to promote support for specific U.S. policies favorable to Iran, such as the U.S.-Iran nuclear deal (JCPOA). In the context of the U.S.-focused activity, this also includes significant anti-Trump messaging and the alignment of social media personas with an American liberal identity. However, it is important to note that the activity does not appear to have been specifically designed to influence the 2018 U.S. midterm elections, as it extends well beyond U.S. audiences and U.S. politics. (FireEye)
+* All 17 of the pages containing information about manager location had managers from Iran. Canada, Saudi Arabia, and Syria were other common locations of page managers. (DFRLab)
+Promoting Shi’a Political and Militant Views
+* One of the removed pages — @alalsadrr1 — promoted Moqtada al-Sadr, an influential Shi’a cleric and militia leader from Iraq and leader of the Mahdi Army. According to the Wilson Center, in the mid-2000’s, the Mahdi Army received weapons and training from the Islamic Revolutionary Guard Corps and Lebanese Hezbollah agents. In May 2018, The Atlantic reported that the “controversial” leader and his followers had committed brutal atrocities in Iraq, fought the U.S. military in Sadr City and Basra, and were known for corruption. (DfRLab)
+* In January, Facebook took down 783 accounts and pages, which it assessed as “directed from Iran, in some cases repurposing Iranian state media content.” (DFRLab - March 26, 2019)
+The operation strongly resembled the earlier IUVM operation. Facebook did not attribute it to IUVM directly, but the latest network used the same techniques and pointed to some of the same websites, making attribution to the same network likely, although not confirmed.
+In particular, pages across the network reproduced IUVM content, as well as content from other websites which have featured in earlier exposés and takedowns.
+The network functioned by steering users towards ostensibly independent news websites, which amplified Iranian regime propaganda, often copied verbatim from regime assets. The social media content therefore served as a secondary amplifier, rather than a direct audience-engagement tool.
+Despite the heterogeneous nature of the assets — they were spread across many countries, languages, and cultures — their messaging was largely homogeneous. It dealt with issues of importance to the Iranian government, supporting Palestinians and Shia Muslims on one hand, and attacking Israel, the United States, Saudi Arabia, and the conduct of the military campaign in Yemen on the other.
+The focus on South Asia was noteworthy. Indonesia and India had the most pages targeted at them; African countries also featured prominently. This expands the known area of Iranian influence operations, which have thus far been primarily exposed in the Middle East and in the West.
+
+
+Counters: 
+
+* Facebook and Twitter content take-downs
+
+Related incidents:  
+
+* See Venezuela:
+https://www.bloomberg.com/news/articles/2019-02-01/iran-slams-u-s-over-venezuela-secretly-some-may-be-relieved
+https://www.rand.org/blog/2019/02/hezbollah-is-in-venezuela-to-stay.html
+
+
+References: 
+
+* http://www.state.gov/e/eb/tfs/spi/iran/jcpoa/
+* http://www.arabnews.com/node/1329971/middle-east
+* https://www.wilsoncenter.org/article/part-2-pro-iran-militias-iraq
+* https://www.theatlantic.com/international/archive/2018/05/iraq-moqtada-sadr/559499/
+* https://www.amnesty.org/en/latest/news/2014/10/iraq-evidence-war-crimes-government-backed-shi-militias/
+* http://www.washingtonpost.com/wp-dyn/content/article/2008/04/18/AR2008041803429.html
+* https://www.telegraph.co.uk/news/worldnews/middleeast/iraq/1498970/UK-troops-left-isolated-as-Mahdi-Army-weaves-a-web-of-official-corruption.html
+* https://medium.com/dfrlab/trolltracker-outward-influence-operation-from-iran-cc4539684c8d
+* https://newsroom.fb.com/news/2019/01/removing-cib-iran/
+* https://www.reuters.com/article/us-cyber-iran-specialreport/special-report-how-iran-spreads-disinformation-around-the-world-idUSKCN1NZ1FT
+* https://www.rand.org/blog/2018/08/irans-disinformation-campaigns.html
+* https://medium.com/dfrlab/takedown-details-of-the-iranian-propaganda-network-d1fad32fdf30
+* https://medium.com/dfrlab/trolltracker-outward-influence-operation-from-iran-cc4539684c8d
+* https://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2019/04/Iran-Memo.pdf
+* https://www.fireeye.com/blog/threat-research/2018/08/suspected-iranian-influence-operation.html
+
+"
+"incident","I00007","
+
+Actor: RT/Sputnik
+
+Timeframe: 2 weeks
+
+Date: July-August 2016
+
+Presumed goals: 
+
+Method: 
+
+Counters: 
+
+Related incidents:  
+
+* Jade Helm exercise
+* Black Lives Matter protests
+* Bundy Ranch standoff
+
+Notes:
+
+Story was that the Incirlik NATO base in Turkey was under attack by terrorists. 
+2016-08-14 Paul Manafort cited that the Incirlik NATO base in Turkey was under attack by terrorists, as an example of an unreported true story. 
+“The weekend of July 30, RT.com and Sputnik reported 7,000 armed police with heavy vehicles had surrounded Incirlik air base in Adana, Turkey, where 2,500 U.S. troops are stationed and some 50 U.S. nuclear weapons are stored. The two Kremlin-funded outlets suggested that the lockdown was in response to another coup attempt after a faction of the Turkish military failed to overthrow Turkish President Recep Tayyip Erdoğan.”
+“On the evening of 30 July 2016, my colleagues and I watched as RT and Sputnik news simultaneously launched false stories about the U.S. air base in Incirlik, Turkey being overrun by terrorists,” he told the committee. Within minutes pro-Russian social media aggregators and automated bots amplified this false news story,” Watts said. “There were more than 4,000 tweets in the first 75 to 78 minutes after launching this false story. Perhaps the most stunning development for Watt and his companions was that the rapid proliferation of that story was linked back to the active measures accounts (Russian bots) they had tracked for the preceding two years. These previously identified accounts almost simultaneously appearing from different geographic locations and communities amplified the big news story in unison,” Watts said. The hashtags promoted by the bots, according to Watts, were “nuclear, media, Trump and Benghazi. The most common words, he said found in English speaking Twitter user profiles were “God, military Trump, family, country, conservative, Christian, America and constitution. The objective of the messages, Watts said, “clearly sought to convince Americans that U.S. military bases being overrun in a terrorist attack.”
+
+Data
+
+* Looked at Twitter for these dates: https://twitter.com/search?l=&q=incirlik%20until%3A2014-08-14&src=typd
+https://twitter.com/ElectionLawCtr/status/492850603039522816
+
+
+References: 
+* https://www.rt.com/news/354042-turkish-police-incirlik-nato-coup/
+* https://sputniknews.com/middleeast/20160731/1043797161/incirlik-turkey-erdogan-nato-nukes.html
+* https://www.politifact.com/truth-o-meter/statements/2016/aug/16/paul-manafort/trump-campaign-chair-misquotes-russian-media-makes/
+* https://wtop.com/j-j-green-national/2017/09/anatomy-russian-attack-first-signs/slide/1/ 
+"
+"incident","I00017","
+
+Actor: IRA
+
+Timeframe: 2 years
+
+Date: December 2015 - 2017
+
+Presumed goals: “Russia’s goals were to undermine public faith in the US democratic process, denigrate Secretary Clinton, and harm her electability and potential presidency” - James Clapper
+
+Method:
+
+* Facebook ads promoting minor candidates (Jill Stein)
+
+References:
+* https://medium.com/dfrlab/electionwatch-beyond-russian-impact-2f5777677cc0
+* https://www.thedailybeast.com/exclusive-secret-documents-from-russias-election-trolls-leak
+
+Notes:
+
+DailyBeast article gives sizings and method - 80 people on this.  If they were working 8-6, that gives us a sizing on how much trolling they could do. 
+
+"
+"incident","I00003","
+
+Actor: IRA
+
+Timeframe: 
+
+Date: 
+
+Presumed goals:
+
+Method: 
+
+Counters:
+
+Related incidents:
+
+
+References:
+
+* https://twitter.com/JuliaDavisNews/status/994704834577215495 
+* https://twitter.com/donie/status/957246815056908288 
+* https://www.theguardian.com/us-news/2018/may/10/russia-facebook-ads-us-elections-congress
+"
+"incident","I00042","
+
+Actor: 
+
+* Saudi Arabia / Qatar /Turkey. 
+* While the dispute is between these two Kingdoms, it’s with certainty that one can suggest Iran (both projection and the containment of its power/influence in the region) is at the center of it.
+
+Timeframe: May - September 2017 
+
+Date: May, 2017
+
+Presumed goals: 
+
+* The programmatic/synthetic amplification of respective “positions and/or plights.” 
+* The respective hashtags can not be categorized as organic in nature, but launched in conjunction with the botnet deployments. As well, none of the identified bot related activity points to an effort to drown out/flood the opponents. 
+
+Method: 
+
+* Twitter campaign; bots/botnets seriously distorted the conversation on Twitter.
+* Commercial botnets (these are created en masse and rented out to any user who is willing to pay for retweets, likes, and follow—either for their own account or for somebody else’s. They are thus the easiest and quickest way to obtain artificial amplification)
+* On 24 May 2017, for example, pro-Qatar users launched the hashtag or “Qatar is not alone.”
+* Supporters of Saudi Arabia also turned to apparently commercial bots to promote their messages. On 21 July, supporters of Qatar launched another hashtag, or “Tamim the Glorious,” in honor of the Emir. In response, supporters ,#تميم_المج ُد of Saudi Arabia used a botnet to attack the hashtag. The attack began when an account called @al_muhairiuae posted a photoshopped image of the Emir designed to make him look foolish.
+* Combined with the Korean imagery, this suggests they were a commercial botnet that an unknown user rented to amplify the anti-Qatar tweet and to subvert the pro-Qatar hashtag, which had only just started to trend.
+* At least one botnet seemed based in Turkey, joining the fray in mid-September in a bid to support Qatar.”
+
+Counters: 
+
+* Essentially the was a tit-for-tat campaign with a brief “incursion”/support/spike of activity most likely (but not officially verified) from Turkey in support of Qatar
+
+* Global Research (Pro-Kremlin publication/organization located in Montreal, QC) contributed anti-Saudi spin via their blog. Global Research (anti-Saudi… campaign); Global Research (more)
+
+Related incidents: 
+
+* Jamal Khashoggi incident will bear hallmarks of the incident, but moves beyond a regional information operation into one of global significance. In 2018 the NY Times investigates Saudi Arabia’s Troll Army
+
+References: 
+
+* https://www.globalresearch.ca/saudi-arabias-march-towards-civil-war/5616699
+* https://www.globalresearch.ca/the-machiavellian-plot-to-provoke-saudi-arabia-and-qatar-into-a-blood-border-war/5593870
+* https://www.nytimes.com/2018/10/20/us/politics/saudi-image-campaign-twitter.html
+* https://jia.sipa.columbia.edu/robot-wars-how-bots-joined-battle-gulf
+* https://www.washingtonpost.com/news/monkey-cage/wp/2017/06/07/hacking-bots-and-information-wars-in-the-qatar-spat/
+* https://www.independent.co.uk/news/world/middle-east/russian-hackers-qatar-fake-news-gulf-diplomatic-row-fbi-doha-saudi-arabia-bahrain-uae-egypt-a7776446.html
+* https://qz.com/1107023/the-inside-story-of-the-hack-that-nearly-started-another-middle-east-war/
+* https://theconversation.com/the-world-cup-in-digital-and-social-the-viewers-the-tweets-and-the-trolls-99625
+
+* https://www.bbc.com/news/blogs-trending-44294826
+* https://jia.sipa.columbia.edu/robot-wars-how-bots-joined-battle-gulf
+
+Datasets:  Mining and analyzing Twitter data is unlikely to “prove” or offer much more insight than Ben Nimmo’s work.
+
+Notes: 
+
+Given the apparent use of commercial botnets, it’s difficult to attribute much of the activity to state actors, however it is fair to suggest some of this behavior would undoubtedly needed tacit state support… private “patriots” of the state?
+
+This article https://jia.sipa.columbia.edu/robot-wars-how-bots-joined-battle-gulf highlights the mechanics and dynamics of the bot operations/amplification in some cases to short life span of the activity and assets (quickly deleted from the platform), but doesn’t communicate the underlying political issues that drove these incidents.
+ 
+The focus of these Arabic-language hashtags was clearly local and regional rather than international; this was a question of messaging to the domestic population and to Arabic-language rivals, rather than the non-Arabic-speaking world.
+Claims of Russian involvement/hack are reported by both the Washington Post and the Independent UK (cites CNN as source). Quartz as well cites the Russian connection, further citing documentation shared with them via Qatar (flimsy at best) and further point blame for the affair at President Trump. 
+
+Post incident - Given Qatar is hosting the 2022 World Cup of Soccer, the World Cup 2018, was a “test” ground for this ongoing online “war” while subtle was evident (Mentionmapp Analytics… John’s research) "
+"incident","I00008","
+
+Actor: 
+
+Timeframe: 
+
+Date: 
+
+Presumed goals:
+
+Method: 
+
+Counters:
+
+Related incidents:
+
+References:
+
+* https://www.ceas-serbia.org/images/2018/201803_CEAS_Report.pdf
+* https://www.stopfake.org/en/vencislav-the-virgin-hostile-operation-by-vencislav-bujic-seas-foundation-and-its-network-of-collaborators/
+* https://seas.foundation/en/2018/03/15/155
+
+"
+"incident","I00049","
+
+Actor: Russia, Syrian Government and Iran
+
+Timeframe: April-June
+
+Date: April 8, 2018
+
+Presumed goals: 
+
+* can’t trust anyone who is reporting about it & fit into the “false flag,” commonly used conspiracy trope positing that mass casualty incidents are engineered internally to provide pretext for either government repression or military action 
+
+Method: 
+
+* One novel attack on the White Helmets in the wake of the Douma attacks featured the claim that the group had run a film studio in the besieged city, and used it to stage propaganda videos. This was initially reported by Lebanon-based Al-Aahed News[81] and Iran’s Fars News,[82] each of which attributed it to the other. It was then picked up by Russian state outlets in both Russian[83] and English.[84] As Bellingcat was quick to point out, the images of the studio were actually taken from the Facebook page of a film called Revolution Man.[85] The way in which this demonstrably false claim was amplified on pro-Assad channels reinforces the conclusion that its purpose was to discredit the White Helmets because their reporting was accurate—not because it was false.
+* A separate line of argument focused on the Western response to the Douma attack, and the conclusion that the chemical attack had indeed been launched by Assad’s forces. This argument claimed, in essence, that the West’s response was hasty, ill-judged, and went beyond the evidence.[86]
+* A third line of attack focused on accusing the West of condoning or staging chemical attacks, including the Douma one, and thus delegitimizing Western outrage. On April 13, the Russian Ministry of Defense said that it had “evidence proving the United Kingdom’s direct involvement in the organization of this provocation in eastern Ghouta,”[91]
+* A fourth tactic featured apocalyptic warnings that any Western strike into Syria that harmed Russians could trigger World War III. On April 8, for example, the Russian Foreign Ministry warned of “very grave consequences” of an American strike.[93]
+
+Counters: 
+
+* Fact checking (Snopes & Bellingcat)
+
+Related incidents: 
+
+* foundation to Russia ramping up chemical weapon disinformation leading-op to Idlib offensive 
+
+References: 
+
+* https://eeas.europa.eu/headquarters/headquarters-homepage/42657/syria-eu-calls-accountability-after-yet-another-chemical-attack_en
+* This is the most detailed article/resource helps lay the background, details, players, tactics http://www.publications.atlanticcouncil.org/breakingghouta/disinformation-2/
+* https://www.washingtonpost.com/news/monkey-cage/wp/2018/09/17/russia-is-gearing-up-to-misinform-the-u-s-public-about-syria-heres-our-cheat-sheet-to-identify-twitter-trolls/?utm_term=.7d3c56b0b03a
+* https://euvsdisinfo.eu/report/bbc-admits-that-reason-for-bombing-syria-was-fake/
+* https://www.bellingcat.com/news/mena/2018/12/18/chemical-weapons-and-absurdity-the-disinformation-campaign-against-the-white-helmets/
+* https://www.bellingcat.com/news/mena/2018/08/30/russian-chem-disinfo-idlib/
+* https://www.bellingcat.com/tag/chlorine/
+* https://www.nybooks.com/daily/2018/10/16/why-assad-and-russia-target-the-white-helmets/
+* https://www.snopes.com/news/2018/04/12/disinformation-conspiracy-trolling-syrian-chemical-attack/
+* https://www.snopes.com/fact-check/is-this-proof-white-helmets-staged-chemical-attack/
+* https://www.dw.com/en/russias-syria-chemical-weapons-attack-warning-dubious-experts-say/a-45250441
+* https://euvsdisinfo.eu/report/new-chemical-attack-to-be-staged-by-the-white-helmets-in-idlib/
+* https://www.nytimes.com/2018/04/08/world/middleeast/syria-chemical-attack-ghouta.html
+
+Datasets: 
+
+Notes: 
+
+For the Syrian opposition, the use of these weapons in high-casualty attacks now brought the possibility of US military intervention. For the Syrian government and Russia, that same possibility brought an urgent need to sow doubt around the veracity of any claims of chemical weapons use—including by claiming that the reports of chemical weapons use were a conspiracy launched by foreign enemies to trigger more strikes.
+In parallel, perhaps in an attempt to deflect potential consequences, Russian government sources began claiming that rebel groups and the White Helmets rescue organization, backed by Western powers, were planning “false flag” chemical attacks, designed to kill civilians and point the blame at the Syrian government. Against the background of the 2017 US strikes that followed the Khan Sheikhoun attack, such claims introduced the idea of American complicity in any future attacks, suggesting that such attacks would be a false flag to cover an already-decided US engagement, rather than a consequence of the regime or Russia’s decision to use chemical weapons. This seeded a narrative that could later be passed on to anti-interventionist media outlets and campaigners in the West.
+The claim that a given incident was a false flag attack, designed to discredit the Russian government, has regularly been deployed by Kremlin supporters—for example, over the downing of Malaysia Airlines flight MH17 over Ukraine and the poisoning of former Russian spy Sergei Skripal in England, as well as in Syria. Such claims have been repeated and disseminated through a complex ecosystem of blogs and social media posts, largely written in English by self-styled “investigative journalists” with ties to Kremlin-operated media outlets.[18] These provided vital validation to the Syrian/Russian narrative, and played an important role in its dissemination.
+The disinformation campaign waged by the Syrian and Russian regimes was large scale, persistent, and supported by a range of Western commentators. In the immediate aftermath of the attack, its impact was limited, and the bulk of mainstream reporting focused on establishing the series of events. According to an online scan of Twitter mentions of the word “Douma” conducted with the Sysomos online service, none of the ten most-retweeted tweets posted on April 7-9 contained pro-Assad content, indicating that the conversation was dominated by other voices.[110] In all, the scan collected some 435,000 tweets. Progressively, however, the mainstream media shifted their focus to other issues, while the supporters of the Syrian and Russian regimes kept their focus on Douma; thus, the overall volume of traffic declined, and the share of the conversation dominated by pro-Assad voices increased. In a similar scan of the period from April 10-16, six of the ten most-retweeted posts came from Assad supporters, out of a total of 487,000 posts.[111]
+This analysis also reveals the integration of government-funded media (RT, SputnikNews) and geopolitical think tanks (GlobalResearch) as source content for anti-WH [anti-White Helmet] narratives.”[120]
+Pro-Assad and pro-Russian disinformation was further amplified by a group of ostensibly independent news websites that have since been demonstrated to have Iranian links,[121] and which systematically promoted pro-Iranian regime messaging.[122] These sites included IUVMPress.com, an apparent news site that reproduced content from Iranian regime and pro-regime sources, stripped it of its attribution, and passed it onto other sites; institutomanquehue.org, ostensibly a think tank focused on Latin America; and britishleft.com, apparently a site dedicated to left-wing British politics
+Commentators such as Beeley, Bartlett, and 21st Century Wire colleague Patrick Henningsen bridged the gap between the “alt-right” movement in the United States and the Russian state communications network, being cited both on sites such as RT, and alt-right hubs such as Infowars. Beeley and Bartlett contribute to both 21st Century Wire[129] and RT;[130] Henningsen formerly wrote for Infowars,[131] writes for 21st Century Wire, and is featured as a contributor on RT’s site.[132] Their contributions helped to spread pro-Assad and pro-Kremlin messaging into US audiences, very much in the manner described by Simonyan, when she spoke of the need for “English-speaking talking heads” to validate the Kremlin’s view.
+
+On at least one occasion, their messaging broke into the mainstream. On April 13, 2018, rock guitarist Roger Waters told a concert in Barcelona that he thought the White Helmets were a “fake organization that is creating propaganda for jihadists and terrorists”—a very similar misrepresentation to that publicized by the Kremlin disinformation networks.[134
+A video clip of his comments was repeatedly uploaded to YouTube by Kremlin and pro-Kremlin users, including RT UK,[136]Beeley,[137] Hands Off Syria,[138] and Clarity of Signal.[139] Together, these totalled more than 140,000 views by September 19, 2018
+
+When incidents such as the Waters amplification are taken into account, the reason that Russia’s General Dvornikov spoke so highly of information operations becomes clear. The combination of state-funded outlets, covert outlets such as IUVMPress, official statements, and supporting bloggers and trolls allowed the pro-Assad narrative to dominate the online conversation for extended periods, especially during times when the credible media outlets were focusing on other issues.
+"
+"incident","I00039","
+
+Actor:
+
+* Right-wing FB pages
+* Fake news sites e.g. yesimright.com; shoebat.com; endingthefed.com; truthfeed.com; yournewswire.com.
+* British tabloids: Express, MailOnline.
+
+Timeframe: Data was collected and analyzed in 2016.
+
+Date: 2016.
+
+Presumed goals:
+* To attack Merkel’s liberal position on the refugee crisis.
+
+Method:
+* Fake news sites mix legitimate partisan political content with false and conspiratorial information.
+* Large right-wing FB pages in the US also share anti-Merkel content.
+* Most popular Merkel articles on Facebook also come from legitimate, but negative and right-wing news sources.
+* German links that generated most engagement in 2016 spread conspiratorial claims about Merkel’s mental health.
+
+Counters:
+* No counter actions were taken.
+
+Related incidents: 
+
+* Defamation of Modamani – a Syrian refugee - who took a selfie with Merkel and was accused on social media as having links to terrorism.
+
+References:
+
+* Source: Buzzfeed analysis
+* https://www.buzzfeed.com/albertonardelli/hyperpartisan-sites-and-facebook-pages-are-publishing-false
+* https://www.nytimes.com/2017/02/06/business/syria-refugee-anas-modamani-germany-facebook.html
+ "
+"incident","I00029","
+
+Actor: Russia 
+
+Timeframe: July 2014 - still active
+
+Date: July 17, 2014
+
+Presumed goals: 
+
+* Ongoing campaign to discredit/undermine Ukraine & NATO & Democracy
+
+Method: 
+
+* Multi-pronged media & source driven campaign… ie: 
+* Russian state sources military, embassy, media (RT, Sputnik, TASS); 
+* Kremlin’s “witting idiots” ie: 21Wire, Global research; trolls & bots. 
+* “All” media platforms… ie: Youtube; Twitter; Reddit
+* See collection of visual assets 
+
+Counters: 
+
+* Bellingcat; Dutch gov’t, DFRLab
+
+Related incidents: 
+
+* Anything related to Ukraine
+* Donetsk
+* Crimea
+* Sea of Azov
+* Ukrainian election (2019)
+
+References:
+
+* [Bellingcat (collection of related investigations)](https://www.bellingcat.com/?s=MH17) 
+Ie: [“The Kremlin’s Shifting, Self-Contradicting Narratives on MH17”](https://www.bellingcat.com/news/uk-and-europe/2018/01/05/kremlins-shifting-self-contradicting-narratives-mh17/)
+
+* [DFRLab MH17 4D's ""playbook""](https://medium.com/dfrlab/putinatwar-dismissing-mh17-8268d2968b9) 
+* [In social networks on the fingers showed how the Kremlin bots work](https://news.online.ua/754036/v-sotssetyah-na-paltsah-pokazali-kak-rabotayut-boty-kremlya-opublikovany-foto/):
+“Censoring” the news (Facebook page “takedown”) [Facebook blocked Sergey Parkhomenko for commenting on the report of the downed ""Boeing""](https://www.novayagazeta.ru/news/2015/05/07/112052-facebook-zablokiroval-sergeya-parhomenko-za-kommentariy-doklada-o-sbitom-171-boinge-187%20)
+* [The most comprehensive guide ever to MH17 conspiracies](http://euromaidanpress.com/2015/10/14/confuse-and-obfuscate-the-most-comprehensive-guide-ever-to-mh17-conspiracies/)
+
+* http://tass.com/world/1050324
+* https://www.mirror.co.uk/news/world-news/ukraine-involved-mh17-downing-claims-14184413
+* https://www.bellingcat.com/resources/case-studies/2014/07/17/geolocating-the-missile-launcher-linked-to-the-downing-of-mh17/
+* https://globalnews.ca/news/4993120/russia-rising-part-5-maskirovka/
+* http://euromaidanpress.com/2018/12/06/ukraine-related-narratives-dominate-russian-propaganda/
+
+Datasets: none searched for
+
+Notes:
+
+Russia still accusing Ukraine (03.25.2019)... TASS and UK Daily Mirror 
+
+First Bellingcat report: Efforts to Geolocate the Launcher 07/17/14
+Countless example of Elliot Higgins & team getting trolled since, popular hashtag is #bellingcrap
+
+This is a good summary: 
+“But not only did Russia fiercely deny those accusations, a number of Russian leaders, officials and broadcasters responded by offering dozens of different alternative explanations, “including quite outlandish theories,” says Nilsson.
+
+“For instance, that an airplane would’ve been loaded with already dead people and that Ukrainian airplanes would then have shot it down to make it look like Russia was shooting down passenger airplanes,” he explains.
+
+“There were tons of these stories going around, quite a few of them coming from official Russian sources. And they were not meant to be taken seriously. They were simply supposed to occupy the attention span of the world for a while, to the extent that everyone would lose track of the original explanation, which turned out to be quite the right one.” https://globalnews.ca/news/4993120/russia-rising-part-5-maskirovka/
+
+Topics of Ukraine-related narratives
+http://euromaidanpress.com/2018/12/06/ukraine-related-narratives-dominate-russian-propaganda/
+Back in 2016, StopFake co-founder Yevhen Fedchenko identified 18 major Ukraine-related fake narrative topics spread by Russian propaganda by analyzing 500 debunked disinformation items.
+The Euromaidan Revolution as a “coup d’état“
+Ukraine as a “fascist state“
+Ukraine as a “failed state“
+“Russia is not a part of the occupation/war in Ukraine“
+Discrediting the Ukrainian Armed Forces (UAF)
+Discrediting the volunteer battalions (which officially became a part of UAF in 2015)
+Donbas and Crimean internally displaced persons (IDPs) and refugees
+Territorial disintegration of Ukraine
+“Territorial claims” for parts of Ukraine from neighboring Poland, Hungary, Romania, and Slovakia
+Fake “international legitimization” of annexation and occupation of Crimea
+The war in Ukraine “conducted by the US, NATO or Western private contractors”
+The West’s “Ukraine fatigue“
+Manipulating international organizations
+Fakes about EU-Ukraine relations
+“Decay” of the US and West in general, and the “disintegration of the EU”
+Flight MH17 crash fakes
+The West “uses biological weapons” in Ukraine
+Mix-ups of the fake narratives about Ukraine, Syria, ISIS terrorists (e.g., Crimean Tatars being depicted as jihadists or Ukraine as a training ground for terrorists)
+For post-Maidan Ukraine, Russian propaganda’s most used narratives were the Euromaidan as “coup d’etat” which brought a “Western-backed junta” (mostly “US-backed”) to power, and “fascism” as the main ideology of the post-Maidan government, Fedchenko notes.
+
+"
+"incident","I00009"," 
+
+Suspected actors:
+
+* Attacker: IRA or more broadly Russian state-sponsored disinformation campaign.
+* Amplifiers: through the persona of “Adam Garrie” (who first appeared on RT (Russian Today) and pro-Russia sites, with no background in Asia and Philippine affairs but suddenly rose to become a global affairs expert).
+* Garrie was then promoted by pro-Duterte officials, social media pages and news outlets.
+ 
+Timeframe: After Putin and Philippine’s president Duterte met in Russia in May 2017 and forged a partnership in information dissemination. Duterte and Putin signed a number of national security agreements, including a deal on intelligence sharing, an “MOU on Cooperation in Mass Communications.”
+ 
+Date: 2017- ongoing
+
+Presumed goals:
+
+* To spread pro-Duterte and Russian propaganda through collaborative effort of both Philippine and Russian disinformation actors.
+
+Method:
+ 
+* Footprint of Garrie on the Philippine media scene started from his connection with Russian IRA websites and pages (GI Analytics Facebook page, Russia Insider, The Duran, Geopolitica.ru, Mint Press News, Oriental Review, globalresearch.ca.)
+ 
+* RT, one of media outlets that interviewed Garrie, was identified by the US Office of the Director of National Intelligence in January 2017 as the primary source of propaganda that the Russians used to further their interests in the 2016 US elections.
+ 
+* Also has appearance on Iran’s IRIB (Islamic Republic of Iran Broadcasting), which was identified by the US Department of the Treasury in 2013 as a network that broadcasts false reports and forced confessions of political detainees and has ties with “politically motivated phishing” accounts on Google.
+ 
+* The Daily Sentry, a Philippine news site emerged at the start of 2018 (no ownership information), started citing Adam Garrie as a global expert after Philippine-Russian ties grew stronger. Between Feb 2018 and Jan 2019, The Daily Sentry cited Garrie in 41% of posts on Facebook that mentioned experts.
+ 
+* By March 2018, Garrie started to come to the mainstream: The Manila Times – a supporter outlet of the Philippine president, cited by pro-Duterte social media pages.
+ 
+* Philippine online groups and pages began to spread Russian propaganda. Some sites link to Duterte officials and supporters including Duterte’s former assistant secretary. For example, Duterte’s former assistant secretary shared content from Trending News Portal site.
+ 
+Counters:
+
+* Facebook took down 220 pages and 73 Philippine accounts for spam, including pages of The Daily Sentry and its affiliates, TNP page and related pages.
+ 
+Related incidents:
+
+References:
+
+* http://www.interaksyon.com/breaking-news/2017/05/30/75431/ph-russia-communication-offices-to-partner-in-info-dissemination/
+* https://www.rappler.com/nation/188378-ph-russia-sign-bilateral-agreements
+* https://www.dni.gov/files/documents/ICA_2017_01.pdf
+* 
+* https://codastory.com/disinformation/how-a-little-known-pro-kremlin-analyst-became-a-philippine-expert-overnight/
+* https://www.rappler.com/technology/social-media/220741-facebook-remove-trending-news-portal-twinmark-media-enterprises
+* https://www.rappler.com/thought-leaders/221422-facebook-maria-ressa-rappler-philippines
+* https://www.rappler.com/nation/194814-maria-ressa-pcoo-training-china-russia
+* http://www.interaksyon.com/breaking-news/2017/05/30/75431/ph-russia-communication-offices-to-partner-in-info-dissemination/
+
+"
+"incident","I00019","
+
+Actor: 
+
+* individual accounts on 4chan (IP addresses indicate locations of Sweden, US, France), 
+* accounts on Twitter (both identifiable and anonymous).
+
+Timeframe: a few days
+
+Date: few hours after Macron and Le Pen were declared winners of the first round of France’s presidential election (April 23, 2017).
+
+Presumed goals: creating and spreading hoaxes and misinformation related to Macron’s personal life, marriage, sexuality, position on terrorism, etc. to spur support for Le Pen in the second round of voting.
+
+Method: posts and memes started on 4chan and later shared in Twitter
+
+Counters: no actions noted.
+
+Related incidents:
+
+* #MacronGate and #MacronCacheCash: fake documents on 4chan about Macron’s alleged offshore account.
+
+References:
+* https://www.buzzfeednews.com/article/ryanhatesthis/heres-how-far-right-trolls-are-spreading-hoaxes-about
+* https://www.niemanlab.org/2018/09/how-france-beat-back-information-manipulation-and-how-other-democracies-might-do-the-same/
+"
+"incident","I00004","
+
+Actor: IRA
+
+Timeframe: 1 day (plus preparation)
+
+Date: May 2017
+
+Presumed goals: reduce Emmanuel Macron’s chance of winning French presidential election
+
+Method:
+
+* fake documents posted on 4chan about Macron’s alleged offshore account, 
+* amplified by pro-Trump Twitter accounts using #MacronGate and #MacronCacheCash
+
+Counters: 
+
+* preparation (resilience, account removals), 
+* honeytraps, 
+* counter-response with humour.
+
+Related incidents:
+
+* DNC document release, US presidential elections, 2016
+
+
+References:
+
+* Source: https://www.patreon.com/posts/macrongate-tied-11940855 
+* http://www.niemanlab.org/2018/09/how-france-beat-back-information-manipulation-and-how-other-democracies-might-do-the-same/
+* https://www.theguardian.com/world/2017/may/08/macron-hackers-linked-to-russian-affiliated-group-behind-us-attack 
+"
+"incident","I00045","
+
+Actor: Russia
+
+Timeframe: March 4, 2018 - ongoing
+
+Date: March 4, 2018
+
+Presumed goals: 
+
+* Russian officials have sought to exploit holes in the complicated narrative of the poisoning to suggest an anti-Russian conspiracy. Mark Galeotti, an expert on the Russian intelligence services, wrote in an op-ed in The Moscow Times… “The Kremlin is enjoying the reputation of being a swashbuckling maverick, ruthless, dangerous and decisive,” he wrote. “This has a certain value, not least in deterring the fainthearted.”
+* Reuters: Commentary: For Putin’s Russia, a poisoned spy sends a political message “the poisoning as a sign of just how committed Vladimir Putin’s Kremlin has become to eradicating its enemies – and reminding others it can do so.”
+
+Method: 
+
+* Multi-source/channel/media response 
+* highlighting conspiracies: It was a British “false flag” operation; It could be the CIA; Because of Donald Trump; There’s always Ukraine
+* The conspiracy theories did not stop here. Multiple special-interest groups have attempted to lay the blame for the Skripals’ poisoning at the door of their chosen enemies. A UKIP branch in High Wycombe, in the English Home Counties, tweeted to accuse “a third party such as the EU” of “trying to interfere in UK Russian relations.” Sputnik even misquoted former Kremlin advisor Alexander Nekrassov as accusing “rouge agents” [sic] of carrying out the attack, “for some sort agenda [sic] such as slander or tarnish Russia [sic] or cause friction between Britain and Russia.” Matteo Salvini, Italian politician and member of the Italian senate, shared an article on his Facebook page, titled “The Skripal Case is a hoax, the war of the West against Russia is terribly true”. His post was liked 3,800 times and generated over 800 shares.
+* Here are 20 different narratives offered by Russian media and officials for the poisoning: The United Kingdom did it to fuel anti-Russian sentiment (source: Russia 1 TV channel); Ukraine did it to frame Russia (Russia 1); The United States did it to destabilize the world (Russia 1); Theresa May helped orchestrate the attack because she is a friend of CIA director Gina Haspel (Zvezda); It was an attempted suicide (Russia 1)
+It was an accidental overdose (RIA Novosti); It was due to accidental exposure from Britain’s Porton Down research facility (Russia 24 TV channel); The Porton Down lab carried out illicit human testing and is lying about not producing Novichok (RT); Skripal’s future mother-in-law did it (Moskovsky Komsomolets: mk.ru)
+Terrorists did it (Russian ministry of foreign affairs spokesperson); American-British financier Bill Browder — blacklisted in Russia for denouncing corruption — did it (Russia 1); A drone did it (Zvezda and Russian defense ministry); Skripal was a chemical weapons smuggler (Pravda); The West is using the case to deflect attention from Russia’s successes in Syria (Russian ministry of foreign affairs spokesperson); Britain is using the case to deflect attention from Brexit (Russian Foreign Minister Sergei Lavrov, Russian UN ambassador, Russian OSCE ambassador); The attack was an attempt by a rival faction to undermine Vladimir Putin (state TV); Russia has destroyed all its stockpiles of Novichok (Sputnik); Russia never developed Novichok (Interfax); Only the Czech Republic, Slovakia, and Sweden have Novichok (Russian ministry of foreign affairs spokesperson). All three countries have denied the claim.; There is no evidence that the nerve agent used against the Skripals was Novichok, Porton Down lab is struggling to identify the substance (RT)
+
+Counters: 
+
+* Bellingcat; 
+* DFRLab; 
+
+Related incidents: 
+
+* ties to ongoing campaigns/narrative - Ukraine; NATO; EU; Brexit
+
+References:
+
+* https://www.themoscowtimes.com/2019/03/03/a-year-after-the-skripal-poisoning-how-much-has-really-changed-a64677
+* https://www.reuters.com/article/us-apps-poisoning-commentary/commentary-for-putins-russia-a-poisoned-spy-sends-a-political-message-idUSKCN1GK309
+* https://twitter.com/UKIPHighWycombe/status/971773863230164992
+* https://sputniknews.com/analysis/201803141062498438-uk-novichok-nerve-agent-skripal/
+* https://www.facebook.com/salviniofficial/posts/10155663618083155
+* http://www.linkiesta.it/it/article/2018/03/28/il-caso-skripal-e-una-bufala-la-guerra-delloccidente-alla-russia-e-ter/37595/
+* https://www.rt.com/news/452946-skripal-anniversary-truth-novichok/
+* https://disinfoportal.org/sputnik-abkhazias-disinformation-about-porton-down-allegedly-denying-russian-trace-in-skripal-poisoning/
+* https://www.nytimes.com/2019/03/04/world/europe/russia-skripal-poisoning-britain.html
+
+
+* https://www.bellingcat.com/tag/skripal/
+* https://medium.com/dfrlab/skripal-poisoning-if-not-russia-then-1d49f086e3e0
+* https://medium.com/dfrlab/uk-poisoning-russia-recycles-responses-77e1d357b777
+* https://medium.com/dfrlab/putinatwar-social-media-surge-on-skripal-b5132db6f439
+* https://euvsdisinfo.eu/conspiracy-mania-marks-one-year-anniversary-of-the-skripal-poisoning/
+* https://www.nytimes.com/2019/03/04/world/europe/russia-skripal-poisoning-britain.html
+* https://www.reuters.com/article/us-britain-russia-skripal/third-suspect-in-skripal-poisoning-is-russian-gru-agent-bellingcat-idUSKCN1Q32BZ
+* http://euromaidanpress.com/2018/04/11/five-ways-russia-is-generating-a-conspiracy-smokescreen-around-the-skripal-poisoning/
+* http://euromaidanpress.com/2018/03/30/russian-media-have-published-20-different-narratives-on-skripal-poisoning/
+* https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal
+
+Visual assets (Google Drive)
+
+Datasets: 
+
+Notes: 
+
+On 6 March 2018 Andrey Lugovoy, deputy of Russia's State Duma (the Liberal Democratic Party of Russia) and alleged killer of Alexander Litvinenko, in his interview with the Echo of Moscow said: ""Something constantly happens to Russian citizens who either run away from Russian justice, or for some reason choose for themselves a way of life they call a change of their Motherland. So the more Britain accepts on its territory every good-for-nothing, every scum from all over the world, the more problems they will have.""
+Russian Foreign Minister Sergey Lavrov on 9 March rejected Britain's claim of Russia's involvement in Skripal's poisoning and accused the United Kingdom of spreading ""propaganda"". Lavrov said that Russia was ""ready to cooperate"" and demanded access to the samples of the nerve-agent which was used to poison Skripal. The request was rejected by the British government.
+
+Ongoing… one year later
+https://disinfoportal.org/sputnik-abkhazias-disinformation-about-porton-down-allegedly-denying-russian-trace-in-skripal-poisoning/
+On February 7, 2019, Sputnik-Abkhazia released an article headlined “Scotland Yard about the third suspect in the Skripal case: the investigation continues.” According to Sputnik-Abkhazia, the Russian Foreign Ministry caught British Prime Minister Theresa May in a lie, because the Porton Down Laboratory denied that a nerve agent that poisoned Russian ex-spy, Sergei Skripal and his daughter, Yulia had been produced in Russia
+
+https://www.nytimes.com/2019/03/04/world/europe/russia-skripal-poisoning-britain.html
+Rather than ignoring the anniversary, however, Russia punctuated the occasion on Monday with an hourlong news conference at the United Nations and a 52-page report rehashing the episode in detail, amplified by extensive coverage on its English-language government channel, RT.
+ 
+Russian officials also have tried to turn the tables, accusing Britain of violating international law by refusing to provide Russian consular officials access to the Skripals, who survived and whose whereabouts has not been made public. 
+
+
+"
+"incident","I00051","
+
+Actor: Russia
+
+Timeframe: December 2018 - (ongoing)
+
+Date: December 10, 2018
+
+Presumed goals: 
+
+* Russian disinformation intended to confuse audiences and discredit an organisation (Integrity Inititative)which is working independently to tackle the threat of disinformation. Russia’s state-owned media outlets have seized on the posted materials, with the government’s RT and Sputnik news sites writing dozens of stories claiming that the materials prove that the British government, rather than Russia, is trying to poison internet discourse with propaganda.
+ 
+Method: 
+
+* Hack (email), leak, amplify, smear MSM
+
+Counters: none identified
+
+Related incidents: 
+
+* The campaign also threads other organization into the “conspiracy” such as Britsh Military, NATO and the CIA.
+* With it, efforts to further discredit MH17 for instance; tie-in Soro’s (dog-whistle for the far-right); 
+* yet at the same defend the far-left alleging Integrity Initiative was running a smear campaign again UK Labour/Jeremy Corbyn
+
+References: 
+* https://eaworldview.com/2019/01/counter-russia-disinformation-integrity-initiative/
+* https://www.stopfake.org/en/kremlin-watch-briefing-the-eu-has-to-start-taking-pro-kremlin-disinformation-seriously/
+* https://www.buzzfeednews.com/article/kevincollier/russian-hackers-british-institute
+* https://www.bbc.com/news/uk-46509956
+* https://www.thetimes.co.uk/article/anti-propaganda-website-forced-offline-by-hacking-b0ds2bkbp
+* https://eaworldview.com/2019/01/counter-russia-disinformation-integrity-initiative/
+* https://news.sky.com/story/highly-likely-moscow-hacked-uk-agency-countering-russian-disinformation-11656539
+* http://euromaidanpress.com/2019/01/17/russian-attack-on-the-integrity-initiative-what-makes-the-mafia-different-from-the-police/
+
+Datasets: 
+
+Notes: 
+
+RT and Sputnik claim that the Integrity Initiative hack was the work of freelancers aligned with the online Anonymous collective and who were not affiliated with the Russian government. The primary evidence for that, according to RT and Sputnik, is that the stolen Integrity Initiative material was posted to the website of a hacktivist collective called CyberGuerrilla, alongside manifestos claiming “We are Anonymous” and posts saying “We have warned the UK government that it must conduct an honest and transparent investigation into the activity of the Integrity Initiative and the Institute for Statecraft.”
+
+The Integrity Initiative has pulled down its website, replacing it with a reiteration of its mission, a description of the hack, and a call for tips.
+“This international public programme was set up in 2015 to counter disinformation and other forms of malign influence being conducted by states and sub-state actors seeking to interfere in democratic processes and to undermine public confidence in national political institutions,” a spokesperson said in a statement.
+
+ 
+
+"
+"incident","I00034","
+
+Actor: China
+
+Timeframe: 72 hours?
+
+Date: January 20th, 2016
+
+Presumed goals: 
+
+* The trolls planned their attack for 7pm, China time, on January 20. Members of Di Ba—one of the largest message boards on the internet—would organize into groups, leap over the Great Firewall to reach Facebook, and flood it with the message that Taiwan is part of China. The anti-independence and pro-China posts started to take over the Facebook page of Tsai Ing-wen, Taiwan’s newly elected president
+
+Method: 
+
+* Tsai’s latest Facebook post, about a meeting she had with leaders from her Democratic Progressive Party (DPP), attracted nearly 40,000 Facebook comments in just eight hours.
+* News of the attack spread far and wide, with a number of posts making their way around social network WeChat. * For most of the day “Di Ba’s Facebook battle” has been at the top of the list of searched terms on Weibo, a Chinese microblog site similar to Twitter. News outlets in Taiwan covered the story (link in Chinese).
+* Information also spread suggesting that Di Ba’s battle was organized and well-prepared. Screenshots showed that attackers were separated into six “columns,” in the military sense: information gathering; posting; writing opinions and creating images; translation; miscellaneous Facebook tasks such as liking posts; and a vanguard to head things up.
+* The majority of the 26K comments consisted of lines copied and pasted from the officially designated messages
+*  more than 42,000 people had made comments on a single post of Ms Tsai's Facebook page, demanding her self-ruled island be brought under Chinese control.
+* Beginning at 7 pm on January 20, 2016 CST (China Standard Time), tens of thousands of
+comments against Taiwan independence appeared in posts of Taiwan President-elect Ms. Tsai Ing-Wen’s Facebook page as well as news media’s such as Sanli News and Apple Daily. While the organizers claim to taking further steps on issues against Taiwan independence, the event lasted for less than two days due to Chinese government’s intervention, leaving tens of thousands of comments either deleted or unattended.
+* Within this most active group, every username posted 6 comments at least and 12 comments
+on average. The most productive one posted 192 comments during this period. Two interesting
+findings come from the discrepant mapping result of Facebook usernames and IDs, which imply
+participants’ strategy. First, users might share account. We found five IDs, each of which is
+associated with different usernames. According to one internal document downloaded from the
+QQ group, some participants would register Facebook accounts in advance, and then give them to those responsible for attack. Since Facebook allows users to change their usernames anytime, we speculate whether this may be due to the sharing of accounts but changing the name to differentiate the identity.
+* Second, users shared some usernames to maintain the consistency of their identities. The total
+number of IDs is more than the number of unique usernames. Many usernames are shared by
+different IDs, which account for 2.82% of all 16,891 IDs. One possible reason for this practice is
+that during the attack, reporting and blocking accounts is a prevalent tactic used by both sides as defense. Once the account is “dead”, the user has to register for a new account to keep fighting. One commenter said that he/she was blocked over 3 times, but kept registering new accounts to fight. It is thus not surprising to see a small percentage of users who have more than one ID while maintaining the same username.
+* More notable is the case where one username is shared by more than 10 IDs. One possible
+explanation is that someone dedicates himself/herself to this event and intends to increase their
+visibility. However, for those usernames associated with over 30 IDs, we argue that it might be a
+unique strategy for attacking or trolling, because it is difficult to log into multiple accounts and
+post comments by a single user.
+
+Counters: 
+
+Related incidents: 
+
+References:
+
+* https://www.ideals.illinois.edu/handle/2142/96746
+* https://qz.com/598812/an-army-of-chinese-trolls-has-jumped-the-great-firewall-to-attack-taiwanese-independence-on-facebook/
+* https://www.abc.net.au/news/2016-01-21/chinese-facebook-users-flooding-taiwan-president-elect-account/7105228
+* https://www.businessinsider.com/chinese-people-are-flooding-the-internet-with-a-campaign-against-taiwan-2016-1
+
+
+
+"
+"incident","I00010","
+
+Actors: IRA, Alex Jones, far right and far left trolls
+
+Timeframe: Ongoing
+
+Date: February 2018
+
+Presumed goals: Divide the American public on the issues of guns, race, generational politics and activism
+
+Method: Amplification via sockpuppet and cyborg accounts
+
+Counters: None / Media exposure
+
+Related incidents: 
+
+* Sandy Hook hoaxers / Sandy Hook fatalists
+
+References
+
+* [How Russian trolls exploited Parkland mass shooting on social media](https://www.politifact.com/truth-o-meter/article/2018/feb/22/how-russian-trolls-exploited-parkland-mass-shootin/)
+* [PRO-GUN RUSSIAN BOTS FLOOD TWITTER AFTER PARKLAND SHOOTING](https://www.wired.com/story/pro-gun-russian-bots-flood-twitter-after-parkland-shooting/)
+* [Russian trolls flood Twitter after Parkland shooting](https://www.nbcnews.com/tech/social-media/russian-trolls-flood-twitter-after-parkland-shooting-n848471)
+* [Russian Trolls Are Tweeting Propaganda After Stoneman Shooting](http://nymag.com/intelligencer/2018/02/russian-trolls-tweet-propaganda-after-florida-shooting.html)
+
+Details
+
+Following the Feb. 14 shooting at Marjory Stoneman Douglas High School that left 17 dead, an army of human-controlled and automated accounts spread related content across Twitter. 
+
+Hamilton 68, a website created by Alliance for Securing Democracy, tracks Twitter activity from accounts it has identified as linked to Russian influence campaigns. As of morning, shooting-related terms dominated the site’s trending hashtags and topics, including Parkland, guncontrolnow, Florida, guncontrol, and Nikolas Cruz, the name of the alleged shooter. Popular trending topics among the bot network include shooter, NRA, shooting, Nikolas, Florida, and teacher.
+
+According to the German Marshall Fund, which tracks Russian-linked Twitter activity, the following are some of the more popular narratives, themes and articles.
+The 'crisis actor' conspiracy
+'False flag' and other conspiracy hashtags
+Meanwhile, some accounts with large bot followings are already spreading misinformation about the shooter's ties to far-left group Antifa, even though the Associated Press reported that he was a member of a local white nationalist group.
+One theory associated with these hashtags is that Marjory Stoneman Douglas High School was targeted because the school’s namesake was opposed to ""draining the swamp"" of the Florida Everglades. Under this theory, the Parkland shooting was a cryptic message to Trump, who vowed during his campaign to ""drain the swamp"" in Washington by hollowing out its infrastructure of career politicians, insiders and influence peddlers.
+Sowing discord
+Experts say the goal of Russian troll propagandists isn't to sway people's opinions in one way or another. Instead, the accounts seek to exploit divisions in order to break down society into smaller, warring groups. Trolls drum up persona accounts on every side of the ideological spectrum and take advantage of high-impact events to spread confusion and disarray. In particular, they're able to take advantage of how Twitter doesn't require users to verify their identity.
+Russian accounts boosted erroneous content concerning the motives of the alleged shooter Nikolas Cruz.
+According to the German Marshall Fund, one of the top links shared by Russia-linked accounts in the aftermath of the shooting was our 2014 article that largely debunked a statistic cited by pro-gun control group Everytown for Gun Safety.
+A survey of tweets using the top hashtags flagged by the Hamilton 68 dashboard showed tweets adamantly in favor of gun control and saying the NRA had taken ""blood money."" Other tweets attacked liberals, the media and lawmakers.
+Another top link shared by the network covers the “deranged” Instagram account of the shooter, showing images of him holding guns and knives, wearing army hats, and a screenshot of a Google search of the phrase “Allahu Akbar.” Characterizing shooters as deranged lone wolves with potential terrorist connections is a popular strategy of pro-gun groups because of the implication that new gun laws could not have prevented their actions.
+The use of pro-gun control hashtags like #guncontrolnow, along with the spread of anti-gun control links like the Politifact article, appear at first to show the Russian strategy of promoting discord on both sides of a debate.
+In other cases, the bots jump on existing hashtags to take control of the conversation and amplify a message. That’s likely what is happening with the Parkland shooting and the hashtag guncontrolnow.
+Public awareness that antagonistic bots flood the Twitter debate hasn’t stopped them from achieving their goals of ratcheting up the vitriol—even amid a live tragedy like the Parkland shooting. The goal, after all, isn't to help one side or the other of the gun control debate win. It's to amplify the loudest voices in that fight, deepening the divisions between us.
+
+Examples
+
+"
+"incident","I00050","
+
+Actor: Russia, Cuba, China, Iran
+
+Timeframe: January 23, 2019
+
+Date: January 29, 2019 - ongoing
+
+Presumed goals: 
+
+* Given the history (going back to the Monroe Doctrine) the US is easily characterized with “imperialist” aspirations. Of course there’s the connected issue of oil and Venezuela’s indebtedness to Russia and China. The relationship between Cuba and Venezuela can not be underscored going back to Castro & Chavez’s relationship.
+
+* Search (google) #handsofvenezuela the results are largely linking to articles denouncing the US and those countries opposed to the Maduro regime. “There's been a lot of misinformation in the international media about whether what is happening in Venezuela is a brazen US-led power grab or a constitutional …”  Jan 13, 2019 - An attempt at an imperialist coup d'état is underway in Venezuela. It must ... Most likely this is another attempt by Washington to spread misinformation and ... socialist and anti-imperialist, is to reject this scandalous imperialist …
+
+* Activists to Trump: 'Hands Off Venezuela' - Truthdig
+https://www.truthdig.com/articles/activists-to-trump-hands-off-venezuela/
+Mar 17, 2019 - medeabenjamin “We are absolutely opposed to economic sanctions in Venezuela” at the #HandsOffVenezuela rally. pic.twitter.com/ ... Packed London meeting says: “US-UK, hands off Venezuela!""
+https://www.marxist.com/packed-london-meeting-says-us-uk-hands-off-venezuela.htm
+Jan 31, 2019 - Nearly 100 people packed the #HandsOffVenezuela meeting in London on 30 January, and heard Venezuelan ambassador Rocío Manero, ...
+
+Method: 
+
+* From efforts via blogs, “news” sites and media supporting the left/socialism/stateism positioning anti-Maduro efforts as “imperialisitic” it’s noteworthy to documented the efforts in February to deliver aid to the country. For instance this case study - analysis demonstrates that the depiction of Russia’s role as “peacekeeper” and “defender” has had a big impact on the networks. We filtered all mentions to include only those containing the words “Russia”, “Moscow” or “Putin” in reference to Venezuela. This resulted in a total number of 60,315 tweets for the period. A few peaks can be noticed at times when Russian sources, mainly RT and Sputnik, forward Venezuela-related news.
+A: Russia expresses an adamant position that Maduro is the legitimate president of Venezuela
+B: Russia will defend the Venezuelan Constitution
+C: The US is massing troops at the Venezuelan border
+E: Russia is sending humanitarian aid to Venezuela
+* The Trojan Horse. The most striking success of the Russian disinformation campaign is the impact of the Trojan Horse Narrative. The first case of describing US and EU humanitarian aid to Venezuela as a Trojan horse, in Spanish Caballo de Troya, appeared in Spanish language networks on 24 January:
+From February 23, 2019 - Billionaire businessman Richard Branson says he hopes his Live Aid-inspired concert to raise funds for Venezuelans will persuade members of the country's military to defy President Nicolas Maduro and allow humanitarian aid to cross the border.
+Branson, who will host ""Venezuela Aid Live"" on Friday in the Colombian border town of Cucuta, said he is aiming to raise about $100 million to buy food and medicine, essential supplies for the country, which is gripped by a political and humanitarian crisis.
+In reaction to - Maduro’s government announced that it would accept contributions from China and Cuba, but called Guaidó-organized aid, which includes contributions from the United States, a “handout.” In an interview with the Associated Press this week, Maduro blamed U.S. sanctions for Venezuela’s economic woes, saying “the infected hand of Donald Trump is hurting Venezuela.”
+* Like the White Helmets (Musician) Roger Waters (willing idiot) weighs in - In a two-minute video posted on Twitter, the musician says Mr Branson's ""Live-Aid-ish"" concert has ""nothing to do with humanitarian aid at all"". ""It has to do with Richard Branson, and I'm not surprised by this, having bought the US saying: 'We have decided to take over Venezuela, for whatever our reasons may be,'"" Mr Waters says. ""But it has nothing to do with the needs of the Venezuelan people, it has nothing to do with democracy, it has nothing to do with freedom, and it has nothing to do with aid."" He adds that he has ""friends that are in Caracas"" who claim there is ""no civil war, no mayhem, no murder, no apparent dictatorship, no suppression of the press""
+Maduro government holds their own concert to counter Branson’s efforts
+https://www.cnbc.com/2019/02/19/richard-branson-maduro-concert-on-venezuela-border.html
+https://www.theguardian.com/world/2019/feb/19/maduro-government-richard-branson-rival-venezuela-concerts
+Just 300 metres away, the first of some 150 artists began performing at Maduro's Hands off Venezuela festival. 
+https://www.aljazeera.com/news/2019/02/rival-concerts-backdrop-venezuela-power-struggle-190222142807321.html
+
+* The Russian official line - (talking points for trolls & willing/unwitting idiots)
+On Tuesday, Russian Foreign Minister Sergey Lavrov criticized the U.S. sanctions, which meant that proceeds from the sale of Venezuelan oil would be withheld from Maduro’s government.
+In a press conference, Lavrov dubbed the U.S. sanctions “illegitimate” and “cynical,” adding that Russia “along with other responsible members of the global community will do everything to support the legal government of the president,” RIA Novosti reported.
+There is concern in Moscow about the level of debt Caracas owes Russia. Russian Deputy Finance Minister Sergei Storchak said the sanctions may mean Venezuela will have problems servicing sovereign debt to Russia.
+Venezuela has two months to pay Russian $100 million and there is uncertainty as to whether PDVSA can service its debt to Russia’s state energy giant Rosneft, Radio Free Europe reported
+The evolution/spread of talking points 
+But while the Canadian government, which accused Maduro of seizing power through fraudulent elections, has expressed full support for Guaido, some Canadian protesters are calling it out for what they say is an attack on Venezuela’s sovereignty.
+“What is brewing, what is being organized is an actual military intervention of Venezuela,” said Margaret Villamizar, who attended a protest in Windsor, Ont. “If it doesn’t turn out to be full-scale military, what’s being called diplomacy is really an attack on Venezuela’s sovereignty.”
+ 
+* Also - In an interview with Foreign Policy, Adm. Craig Faller, the four-star military officer who heads U.S. Southern Command, pointed to a Chinese disinformation campaign designed to blame the United States for the blackouts that devastated Venezuela in recent weeks. https://foreignpolicy.com/2019/04/08/us-military-wary-of-chinas-foothold-in-venezuela-maduro-faller-guaido-trump-pentagon/
+A Chinese plane loaded with 65 tons of medical supplies landed in Venezuela's capital of Caracas on Friday amid a power struggle between President Nicolas Maduro and opposition leader Juan Guaido.
+Maduro welcomed the arrival of the humanitarian aid on Twitter, saying ""Venezuela is breaking the imperialist siege and advancing with a victory.""
+He shared photos showing the arrival of the aid as well as a photo of him taken with his Chinese counterpart Xi Jinping during his visit to China last year.
+China's move came after Russia sent humanitarian aid to Caracas last week.
+Venezuela has been rocked by protests since Jan. 10, when Maduro was sworn in for a second term following a vote boycotted by the opposition.
+https://www.aa.com.tr/en/americas/venezuela-welcomes-arrival-of-chinese-medical-aid/1435166
+ 
+Counters: 
+
+* Every report suggesting that Venezuela is mired in a humanitarian crisis.
+April 10, 2019 The UN reports “There is a very real humanitarian problem in Venezuela,” said Mark Lowcock, the UN humanitarian chief. “We estimate that 7 million people in Venezuela need humanitarian assistance. That is some 25 per cent of the population,”
+April 10, 2019 NY Times ‘You Shouldn’t Be Here’: U.S. Pushes U.N. to Pull Venezuela Envoy’s Credentials
+Go back to October 2018 Washington Post: A humanitarian crisis in Venezuela? Nothing to see here, government says. Human Rights Watch Report
+
+Related incidents: 
+
+* Speculation but research worthy… right/left regional binary pitting new right wing governments in Brazil & Columbia and hosility/percieved hosility to regimes like Venezuela & Ecuador
+
+References: 
+
+* https://www.truthdig.com/articles/activists-to-trump-hands-off-venezuela/
+* https://www.marxist.com/packed-london-meeting-says-us-uk-hands-off-venezuela.htm
+* https://euvsdisinfo.eu/twitter-as-an-information-battlefield-venezuela-a-case-study/
+* https://www.washingtonpost.com/world/the_americas/in-venezuela-humanitarian-aid-has-become-a-political-weapon/2019/02/14/5eab781a-3089-11e9-8781-763619f12cb4_story.html
+* https://www.apnews.com/21b641f6def1400894125e3a8117f66c
+* https://www.cnbc.com/2019/02/19/richard-branson-maduro-concert-on-venezuela-border.html
+* https://www.theguardian.com/world/2019/feb/19/maduro-government-richard-branson-rival-venezuela-concerts
+* https://www.aljazeera.com/news/2019/02/rival-concerts-backdrop-venezuela-power-struggle-190222142807321.html
+* https://foreignpolicy.com/2019/04/08/us-military-wary-of-chinas-foothold-in-venezuela-maduro-faller-guaido-trump-pentagon/
+* https://www.aa.com.tr/en/americas/venezuela-welcomes-arrival-of-chinese-medical-aid/1435166
+* https://news.un.org/en/story/2019/04/1036441
+* https://www.nytimes.com/2019/04/10/world/americas/pence-venezuela-un-envoy.html
+* https://www.washingtonpost.com/world/the_americas/a-humanitarian-crisis-in-venezuela-nothing-to-see-here-government-says/2018/10/12/6ebd1aa6-c2ac-11e8-9451-e878f96be19b_story.html
+* https://www.hrw.org/world-report/2019/country-chapters/venezuela
+* https://euvsdisinfo.eu/twitter-as-an-information-battlefield-venezuela-a-case-study/
+* https://www.npr.org/2019/03/25/706635580/venezuelas-maduro-faces-pressure-from-much-of-the-world-yet-he-persists
+* https://cronkitenews.azpbs.org/2019/02/26/venezuela-protests-in-tucson/
+* https://www.newsweek.com/donald-trump-told-hands-venezuela-countrys-president-who-has-full-backing-1309188
+* https://www.dw.com/cda/en/venezuela-juan-guaido-urges-army-to-let-aid-through/a-47651164
+* https://www.npr.org/2019/04/02/709306132/maduro-allies-move-against-rival-juan-guaid-in-venezuela
+* https://www.washingtonpost.com/world/2019/04/02/trump-has-russia-problem-venezuela/?utm_term=.9233de48de14
+* https://www.atlanticcouncil.org/blogs/new-atlanticist/russia-s-venezuela-challenge
+* https://www.theglobeandmail.com/world/article-venezuelas-maduro-seeks-to-restore-power-stem-looting-as-china/
+* https://www.npr.org/tags/587365601/venezuela-crisis
+* https://www.washingtonpost.com/world/2019/02/16/richard-bransons-goal-million-venezuela-could-face-an-obstacle-maduro/?utm_term=.8a5ad46a730a
+* https://www.bbc.com/news/world-latin-america-47271182
+
+Notes:
+
+
+ 
+
+"
+"incident","I00001","
+
+Actor: 
+
+Timeframe: 
+
+Date: 
+
+Presumed goals: “Russian-linked social media accounts saw racial tensions as something to be exploited in order to achieve the broader Russian goal of dividing Americans and creating chaos in U.S. politics during a campaign in which race repeatedly became an issue.”
+
+Method: 
+Possibly linked: black lives matter facebook ads, targetted at Baltimore, Ferguson, Missouri https://money.cnn.com/2017/09/27/media/facebook-black-lives-matter-targeting/index.html?iid=EL 
+
+Counters:
+
+Related incidents:
+
+* Txrebels facebook group
+* MuslimAmerica facebook group
+* Patriotus facebook group
+* SecuredBorders facebook group
+* Lgbtun facebook group
+* Black Matters facebook group
+
+References:
+* https://money.cnn.com/2017/09/28/media/blacktivist-russia-facebook-twitter/index.html
+* https://news.docnow.io/blacktivists-in-the-archive-71c807aa247e
+* https://www.thedailybeast.com/exclusive-secret-documents-from-russias-election-trolls-leak
+
+
+
+Datasets
+
+* https://docs.google.com/spreadsheets/d/1OZcRCZuz83bMpxVjpUYEALiS4OtKU-pTVtTveG_Ljs0/edit#gid=0 - from https://news.docnow.io/blacktivists-in-the-archive-71c807aa247e are the @blacktivists tweets that used the #blacklivesmatter hashtag
+* Jonathan Albright got the facebook text: https://data.world/d1gi/missing-fb-posts-w-share-stats/workspace/file?filename=Blacktivist+Facebook+Page+%28Text%29.pdf https://data.world/d1gi/missing-fb-posts-w-share-stats/workspace/file?filename=Blacktivist+Facebook+Page+%28Text%29-2.docx 
+
+Notes
+
+First i read the cnn article, then did a twitter search to see if there are traces of the accounts left online.  Only discussion about the IRA operation seem to be on Twitter.  Also searched twitter for some of the text found later (in datasets) - nothing matches. 
+Reading the docnow.io post showed some interesting behavours.  Also that there was no central data repo for the blacktivists posts.  Classic was the tweets being sent only in 8am-6pm Moscow time. Also interesting: the followers grew over time, but they grew and dropped friends (people they followed) in batches periodically - was this to avoid hitting limits? 
+Reading the dailybeast.com article (on an IRA leak), it seems specific individuals were targetted.  Thinking about the places we need to search: if it’s Russia, seems like we need to check twitter, facebook, youtube, reddit, tumblr, instagram, 9gag. 
+Names some of the people contacted, e.g. Craig Carson, a Rochester, New York, attorney and civil rights activist; maybe Shanall LaRay Logan—who lives in Sacramento, California; 
+
+
+"
+"incident","I00035","
+
+Summary:  
+
+Actor: 
+
+Timeframe: 
+
+Date: 
+
+Presumed goals: 
+
+Method:
+
+* Bot activity that inflates the visibility of and perceived support for certain candidates and ideologies in 2014 elections.
+* Campaigns use bots or spread content favorable to their respective candidates in 2014. Neves’ operation used bots on a much larger scale than the Rousseff’s campaign (on FB, Twitter and WhatsApp).
+
+Counters:
+
+* Facebook removed 200 pages run by individuals connected to the right-wing activist organization Movimento Brasil Livre related to the Brazil elections.
+
+Related incidents: 
+
+References:
+* https://blogs.oii.ox.ac.uk/politicalbots/wp-content/uploads/sites/89/2017/06/Comprop-Brazil-1.pdf
+* https://www.wilsoncenter.org/blog-post/bots-brazil-the-activity-social-media-bots-brazilian-elections
+ 
+
+"
+"incident","I00025","
+
+Actor: Russia
+
+Timeframe: November 6, 2018 - end of November 2018
+
+Date: November 6, 2018
+
+Presumed goals:
+
+* Include - Leave campaigners have claimed that the UK would be forced into an ‘EU army’ under the rules allowing for these activities. https://fullfact.org/europe/hunt-eu-army/
+* Baltic states are frightened by the single European army. The new European security system will be anti-American. To the leadership of the Baltic states, based on Russophobia, this doesn’t look good.
+
+Method: 
+
+* “Limited” engagement & channels. In this case Reddit was key forum. 
+* Could not find examples of engagement from “usual suspects” ie: Russian embassy; military or broad mentions via RT & Sputnik
+
+Counters: 
+
+Related incidents: 
+
+References: 
+
+* https://www.theguardian.com/politics/2016/may/27/is-there-a-secret-plan-to-create-an-eu-army
+* https://medium.com/dfrlab/spread-it-on-reddit-3170a463e787
+* https://www.atlanticcouncil.org/blogs/new-atlanticist/a-european-army-eminently-defensible-but-not-probable-for-a-long-time-to-come
+* https://www.bbc.com/news/world-europe-46108633
+* https://www.politico.eu/article/angela-merkel-emmanuel-macron-eu-army-to-complement-nato/
+* https://euvsdisinfo.eu/report/baltic-states-frightened-by-the-single-european-army/
+* https://www.theguardian.com/commentisfree/2019/jan/25/brexiters-european-army-myths-franco-german
+* https://fullfact.org/europe/hunt-eu-army/
+* https://www.theguardian.com/politics/2016/may/27/is-there-a-secret-plan-to-create-an-eu-army
+
+
+Datasets: 
+
+Notes:
+Worth noting the Breitbart commentary (see visual assets); compared to campaigns against NATO for instance, this incident didn’t seemingly have much traction/momentum, and seemed more of a potential wedge for the pro-Brexit audience.
+
+Visual Assets
+
+"
+"incident","I00060","
+
+Actors: 
+
+Timeframe:
+
+Date: 
+
+Presumed goals: 
+
+Method: 
+
+Counters:
+
+Related incidents: 
+
+References:
+* (Trump’s White-Nationalist Pipeline)[https://www.theatlantic.com/politics/archive/2018/08/trump-white-nationalism/568393/] 
+* (Parallels between social media misinformation campaigns in the USA and South Africa)[https://www.iafrikan.com/2018/11/20/social-media-usa-south-africa-fake-news-disinformation/]
+* (The high price of 'white genocide' politics for Australia)[https://www.smh.com.au/world/oceania/the-high-price-of-white-genocide-politics-for-australia-20180724-p4zt9k.html]
+"
+"incident","I00005","
+
+Actor: Russia/ Internet Research Agency (IRA)
+
+Timeframe: December 2015 - ongoing
+
+Date: June 23, 2016
+
+Presumed goals: Change Brexit vote to ‘leave’; continue to divide/undermine EU; drive Eurosceptic narrative/agenda
+
+Method:
+* (From The European Values Think-Tank)
+* Before Brexit, Russia Today and Sputnik released more anti-EU articles than the official Vote Leave website and Leave.EU website. The British version of Sputnik has an annual budget of £ 1.8 million from the Russian government. Kremlin-owned channels potentially influenced 134 million impressions during the Brexit campaign
+* Method: The data that was used by 89up was derived from the Twitter Search API, Buzzsumo, the Facebook API and other scraping methods. In the timeframe from January 2016 to the day of the British referendum, analysts identified and analysed 261 of the most shared and popular articles that were clearly anti-European. The two main media outlets were RT and Sputnik. Costs: The total value of Kremlin media for the Leave campaign in the six months before the EU referendum was £1,353,000. The PR value for the Leave campaign, based on the 261 heavily pro-Leave articles published by RT and Sputnik, is estimated at nearly £1,500,000based on figures from a leading media monitoring tool. This excludes the significant social media value of these news articles. Estimated value of Russian media Facebook impressions is around $102,000 and the estimated value of Russian media’s potential impressions on Twitter is between $47,000 - $100,000. 
+* Content: The analysis also shows that the overwhelming majority of articles published by RT and Sputnik (131 of the 200 most shared) were clearly for Leave; 59 articles were Neutral and only 10 were set to Remain. When the neutral articles are filtered out, numbers show that the negative articles of RT/Sputnik, together, elicited nearly the same number of engagements as the official Vote Leave website.
+* Social reach: The report shows the social reach of these anti-EU articles published by the Kremlin-owned channels was 134 million potential impressions, in comparison with a total social reach of just 33 million and 11 million potential impressions for all content shared from the Vote Leave website and Leave.EU website respectively.
+* (Jane Mayer, staff writer at The New Yorker, via NPR) Role of - Cambridge Analytica, which is a big data company that worked for the Trump campaign in the end - and it was owned principally by one of Trump's largest backers, Robert Mercer - was also involved in helping the early stages of the Brexit campaign in England.
+And the man who spanned both countries and pushed for both, really, was Steve Bannon, it seems there was actually a lot of Russian money offered to Arron Banks, who was one of the major political figures leading the Brexit campaign. The Russian money was offered to him in the form of business opportunities and gold mines and diamond mines by the Russian ambassador to England. So there seems to be financial incentives that were dangled. 
+* There are bots and trolls and posts that are coming from the same Russian Internet agency in St. Petersburg. So in both countries, we see pushing Brexit and pushing Trump at the same time by the same trolls and bots. research conducted by a joint team of experts from the University of California at Berkeley and Swansea University reportedly identified 150,000 Twitter accounts with various Russian ties that disseminated messages about Brexit.
+* A cache of posts from 2016, seen by WIRED, shows how a coordinated network of Russian-based Twitter accounts spread racial hatred in an attempt to disrupt politics in the UK and Europe.
+A network of accounts posted pro and anti-Brexit, anti-immigration and racist tweets around the EU referendum vote while also targeting posts in response to terrorist attacks across the continent. 
+* More broadly, a Russian espionage operation funneling money into a political campaign aimed at unwinding European integration would be entirely consistent with the Kremlin’s perceived political interests and tactics of hybrid warfare. Covert financial infiltration is part of a toolkit Moscow uses to interfere in European and American politics. Another tool deployed ahead of the 2016 referendum was pro-Brexit messaging pumped out by RT, Sputnik, and the Internet Research Agency.
+* From 1 to 8 February 2016, Sputnik ran 14 stories on the “Brexit” issue. Eight of them had negative headlines, either featuring criticism of the deal or focusing on the difficulties Cameron faces; five headlines were broadly factual; one reported a positive comment that the Bank of England had “not yet seen” an impact on investor sentiment, but gave it a negative slant by headlining, “Bank of England on Brexit: No need to panic, yet.” (The word “panic” did not appear in the story.) Not one headline reported reactions supporting the deal. Both Sputnik and RT quoted a disproportionate number of reactions from “Out” campaigners. RT, for example, quoted five “Out” partisans: MP Liam Fox; the founder of Leave.EU; London Mayor Boris Johnson; MEP Nigel Farage, the leader of the UK Independence Party; and UKIP member Paul Nuttall.
+* anti-immigrant adverts were targeted at Facebook users in the UK and the US. One – headlined “You’re not the only one to despise immigration”, which cost 4,884 roubles (£58) and received 4,055 views – was placed in January 2016. Another, which accused immigrants of stealing jobs, cost 5,514 roubles and received 14,396 impressions
+* A study of social media during the Brexit campaign by 89Up, a consultancy, found that Russian bots delivered 10m potential Twitter impressions—about a third of the number generated by the Vote Leave campaign’s Twitter account. Such echoing amplifies the effect of RT and Sputnik stories, which are in general not much watched.
+
+Counters: FB & Twitter content take-downs
+
+Related incidents: 
+
+* 2016 US Election… pick ‘em
+
+References:
+
+* https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/363/36308.htm#_idTextAnchor033
+* https://www.foreign.senate.gov/imo/media/doc/FinalRR.pdf
+* https://www.theguardian.com/world/2017/nov/15/russian-troll-factories-researchers-damn-twitters-refusal-to-share-data
+* https://www.atlanticcouncil.org/blogs/new-atlanticist/congress-should-explain-how-dark-russian-money-infiltrates-western-democracies
+* http://sputniknews.com/search/?query=Brexit
+* http://sputniknews.com/europe/20160202/1034093305/cameron-tusk-brexit-deal.html
+* http://sputniknews.com/europe/20160203/1034124763/tusk-eu-reform.html
+* http://sputniknews.com/europe/20160204/1034209396/cameron-eu-brexit-talks.html
+* http://sputniknews.com/europe/20160205/1034290031/business-investments-brexit-europe.html
+* https://www.rt.com/uk/331734-cameron-calais-jungle-brexit/
+* https://www.rt.com/uk/331161-eu-referendum-date-brexit/
+* https://www.rt.com/uk/330977-tusk-eu-deal-brexit/
+* https://twitter.com/brexit_sham/status/994982969705189377
+
+* https://www.nytimes.com/2017/11/15/world/europe/russia-brexit-twitter-facebook.html 
+* https://www.forbes.com/sites/emmawoollacott/2018/11/01/russian-trolls-used-islamophobia-to-whip-up-support-for-brexit/#11ee8dd465f2
+* https://www.theguardian.com/world/2018/jan/10/russian-influence-brexit-vote-detailed-us-senate-report
+* https://www.npr.org/2019/01/19/686830510/senate-finds-russian-bots-bucks-helped-push-brexit-vote-through
+* https://www.europeanvalues.net/wp-content/uploads/2019/02/Influence-of-Russian-Disinformation-Operations-Specific-examples-in-data-and-numbers.pdf
+* https://blogs.lse.ac.uk/brexit/2018/11/14/the-extent-of-russian-backed-fraud-means-the-referendum-is-invalid/
+* https://www.wired.co.uk/article/brexit-russia-influence-twitter-bots-internet-research-agency
+* https://www.buzzfeed.com/jamesball/a-suspected-network-of-13000-twitter-bots-pumped-out-pro?utm_term=.ipWGa5zK#.oeeKD58v
+* https://www.atlanticcouncil.org/blogs/new-atlanticist/use-brexit-delay-to-investigate-russian-money
+* http://www.interpretermag.com/putins-media-are-pushing-britain-for-the-brexit/
+* https://www.theguardian.com/technology/2018/may/12/facebook-brexit-russia-unresolved-40-questions
+* https://www.economist.com/briefing/2018/02/22/russian-disinformation-distorts-american-and-european-democracy
+
+
+
+"
+"incident","I00044","
+
+Actors: 
+
+* SVR and IRA; 
+* Alex Jones; 
+* Global Research; 
+* anti-gov trolls; rapture trolls; alt-right trolls;
+
+Timeframe: Most of 2015
+
+Date: May - Oct 2015
+
+Presumed goals: 
+
+* US operational dry run; 
+* Test 2016 themes; 
+* Promote paranoia in right wing US populations; 
+* Establish and prime anti-government narratives for future use. 
+
+Method: 
+
+* Amplification via sockpuppet and cyborg accounts; 
+* Social media groups and meetups; 
+* Promote fake “experts” with impressive (and scary) titles; 
+* Amplify US media derision of message “carriers” in Russian state media;
+
+Counters: 
+
+* Media exposure; 
+* Texas Governor disavows 
+
+Related incidents: 
+
+* 2016 US election; 
+* QAnon; 
+* Texas secession
+
+References
+
+* [That 'Jade Helm' Conspiracy Freakout Was Spurred By Russian Bots, Ex-Intel Chief Says](https://taskandpurpose.com/jade-helm-conspiracy-russian-bots)
+* [Russians Sowed Divisions in Texas Politics, Says U.S. Senate Report](https://www.texasmonthly.com/news/russians-sowed-divisions-texas-politics-says-u-s-senate-report/)
+* [Case Analysis: Jade Helm 15 and Russian Active Measures](https://toinformistoinfluence.com/2015/11/16/case-analysis-jade-helm-15-and-russian-active-measures/)
+* [Trolling for Trump: how Russia is trying to destroy our democracy](https://warontherocks.com/2016/11/trolling-for-trump-how-russia-is-trying-to-destroy-our-democracy/)
+* [Anatomy of a Russian attack: First signs of the Kremlin’s attempt to influence the 2016 election](https://wtop.com/j-j-green-national/2017/09/anatomy-russian-attack-first-signs/slide/1/)
+
+Details
+
+Even before the 2016 presidential election, the Russians had been testing disinformation in Texas by stirring up the controversy surrounding the Jade Helm military maneuver in the summer of 2015. Conspiracy theorists had created the idea that a joint military training exercise in Texas was cover for President Obama to declare martial law and seize Texas. The conspiracy theory gained traction when Abbott ordered the Texas State Guard to monitor the U.S. military. Earlier this year, a former head of the National Security Agency and the CIA—Air Force General Michael Hayden—said the Jade Helm disinformation campaign was pivotal to the Russians’ decision to try to influence the U.S. presidential campaign. “At that point, I’m figuring the Russians are saying, ‘We can go big-time.’ And at that point, I think they made the decision, ‘We’re going to play in the electoral process,’” Hayden said.
+
+When thousands of troops from Army Special Operations Command descended on the American southwest for the totally normal eight-week training exercise Jade Helm 15, Texas Gov. Greg Abbott — goaded on by anti-government ideologues, rapture-predicting ministries and alt-right internet famewhores — ordered the state's volunteer guard to ""monitor"" the U.S. service members on their land to make sure they didn't start kidnapping undesirables and grabbing people's guns.
+
+It was a precursor to martial law, they said. It was ""way worse than you realize: police, military working together toward population control,"" they said. It was ""secretly using recently closed Wal-Marts to stockpile supplies for Chinese troops who will be arriving to disarm Americans,"" they said. It was preparation for Obama's takeover after an impending asteroid impact that would begin the global apocalypse, they said. It mobilized right-wing activists to prepare to fight their government — their uniformed soldiers! — to the death.
+
+Russian intelligence, state media, and trolls under President Vladimir Putin sought to bum steer U.S. domestic reactions to Jade Helm 15, the multi-state U.S.-based military training exercise concludedSeptember 15th. Russia has invested tens to hundreds of millions to infiltrate U.S. media markets with English language news, opinion, conspiracy, and troll content, often interlocking with the most popular U.S. conspiracy theory websites on the net.
+
+On July 2015, at a community meeting in Bastrop, some Texans were up in arms about hosting part of a multi-state U.S. military training exercise named Jade Helm 15. While most locals were unswayed by the conspiracy theories of Jade Helm 15 ushering in martial law, the video of  the crowd at the link records aspects of U.S. social and cognitive vulnerability to Russian “active measures.”
+
+It's an age-old problem; during the Cold War, Soviet agencies worked to whip up leftist anger at the U.S. government, highlighting America's race and inequality problems. But today, they've found that the most effective, salient mode of fuckery in U.S. affairs is to push right-wing conspiracy theories — ""deep state,"" Hillary emails, Pizzagate, Seth Rich, Soros, Islamists sneaking over the Mexico-U.S. border, Benghazi — that reinforce the idea that anyone to the left of, say, President Donald Trump, is a robotic foreign-paid human-trafficking overlord doing the bidding of the Rothschilds or Trilaterals or Freemasons or Kellers some other inane shit.
+
+The Russian SVR (Sluzhba vneshney razvedki) has chief responsibility for conducting active measures outside of Russia. The SVR’s active measures surrounding Jade Helm 15 generated fear to ignite a range of behaviors serving Russian foreign policy objectives, from feeding cynicism about the U.S. governing system and its people, to inciting violence and sabotage in the U.S.
+
+One example of how this messaging worked in ramping up fear of Jade Helm 15 was found at “Global Research,” a media outlet for a Canadian non-profit called Centre for Research on Globalization. Entitled, Towards a Militarized Police State in America? Explosive New Revelations over “Jade Helm 15 Exercise” and Potential False Flags, the online article was posted May 27, 2015, roughly 48 days before the Jade Helm 15 training exercise was to begin. Such a lead would give the piece time to disseminate to conspiracist sites and gullible readers ample time to organize a response.
+
+The idea is to get Americans thinking other Americans are the real enemies of humanity and progress. And it works, because a lot of Americans are already disposed to that way of thinking.
+
+On the other hand, it’s an easy cop-out to blame the Russians for every insecure dumbass idea that excitable Americans run with.
+
+Considering their interlocking content and links, Global Research and Alex Jones’s InfoWars.com (one of the most popular conspiracy websites on the internet) have a de facto alliance. Both sites published conspiracy pieces about Jade Helm 15 in advance of the exercise, as did many other conspiracist websites that link with one or both.
+
+The blizzard of conspiracy has had an effect. By May 2015, a Rasmussen poll on Jade Helm 15 found that “45% of voters are concerned that the government will use U.S. military training operations to impose greater control over some states,” with 19% “Very Concerned.” Rasmussen also reported that “21% believe the government’s decision to conduct military training exercises in some states is an infringement on the rights of the citizens in those states.”
+
+Some debate the effectiveness of Russian active measures, propaganda, and trolling. Russia Today (RT) is a more sophisticated Kremlin media outlet, with slick television, internet, and periodical output. RT’s portrayal of Jade Helm 15was to depict Americans as prone to conspiracy theory, and to amplify left-leaning U.S. media derision of Texas demographics disturbed by Jade Helm 15, while casting doubt on the government operation with headlines and sub-headlines. Russia Today’s approach had accentuated personal caricatures and distrust driving partisan anger in the U.S.
+
+On social media however, Kremlin-linked and other conspiracists sometimes represent themselves as insiders or experts whose content can be frightening and inciting.
+
+For example, on LinkedIn.com, many Pulse posts have focused on Jade Helm 15. Below I profile two examples of Pulse writers who hit Jade Helm 15 theme especially hard, one of them naming himself a “Military Intelligence Analyst / Russian Regional CME” and the other a “Geopolitical Strategist, Journalist & Author”
+
+Are apocalyptic conspiracies harmless despite their over-the-top claims?
+
+Apparently not. One ominous event may have turned Jade Helm 15 Active measures into a high-yield victory for Vladimir Putin’s Kremlin. Three North Carolina men amassed arms, munitions, and weapons and had been actively preparing to ambush Jade Helm 15 troops in training. Fortunately, the FBI received a tip from a gun and surplus store owner and arrested the would-be domestic-terrorists who feared that Jade Helm 15 was a prelude to martial law in the U.S.
+
+The Russian SVR and Putin’s media have aimed at Texas before. Did Putin foresee that Texas politicians might respond to popular conspiracist fears ramped up by the Kremlin itself and so cause strife in the partisan divide? That happened when Governor Greg Abbot tried to reassure Texans about Jade Helm 15, and opposition media lampooned him.
+
+Yet according to the San Antonio Express News, Governor Abbot, who is also a former Texas Supreme Court Justice not of the conspiracist mold, had initially a milder approach. Yet the opposing partisan media did more than just embarrass Gov. Abbot over his response, it called some of his constituents who had been moved by conspiracy propaganda “dumb,” which further tends to divide U.S. demographics along stereotypical lines. Mr. Putin must have been pleased.
+
+Examples
+
+
+"
+"incident","I00015","
+
+Actors: Russian state actors, Concord Management
+
+Timeframe: Fall 2018 - Winter 2019
+
+Date: October 2018
+
+Presumed goals: 
+
+* Discredit Mueller findings; 
+* sow doubt about Russian active measures; 
+* expose investigatory sources, priorities and methods; 
+
+Method: 
+
+* Release non-public documents with favorable amendments; 
+* Disguise document provenance as hacking (i.e. revelation); 
+* Circulate to media via DM, then release publicly 
+
+Counters: 
+
+* Media exposure; 
+* motions to limit future discovery
+
+Related incidents: 
+
+* 2016 US election
+
+References
+
+* [Document: Concord Management Used Discovery for Disinformation Campaign, Mueller Says](https://www.lawfareblog.com/document-concord-management-used-discovery-disinformation-campaign-mueller-says)
+* [Mueller says some private case files were used in 'disinformation campaign' to discredit Russia probe](https://thehill.com/policy/national-security/427723-mueller-says-some-of-his-private-case-files-were-used-in)
+* [Mueller says Russians are using his discovery materials in disinformation effort](https://www.nbcnews.com/politics/justice-department/mueller-says-russians-using-his-discovery-materials-disinformation-effort-n964811)
+* [Mueller says discovery materials in case against Russian firm were used in a cyber-disinformation campaign](https://www.washingtonpost.com/local/legal-issues/mueller-says-discovery-materials-in-case-against-russian-firm-were-used-in-a-cyber-disinformation-campaign/2019/01/30/9fd60218-24c9-11e9-81fd-b7b05d5bed90_story.html?utm_term=.4b814db9f811)
+* [Mueller's Team Questions How Files in Russia Case Ended Up Online](https://www.law.com/nationallawjournal/2019/01/30/muellers-team-questions-how-files-in-russia-case-ended-up-online/?slreturn=20190231112904)
+* https://www.documentcloud.org/documents/5700929-Concord-Discovery-Opposition.html
+
+Details
+
+The special counsel's office has filed a memorandum in U.S. v. Concord Management and Consulting, LLC in opposition to Concord's motion to disclose documents identified as ""sensitive"" by the Special Counsel to certain Concord officers and employees. The memo alleges that subsequent investigations into Concord have ""revealed that certain non-sensitive discovery materials in the defense’s possession appear to have been altered and disseminated as part of a disinformation campaign"" apparently aimed at discrediting the special counsel's investigation into Russian interference in the 2016 U.S. election.
+
+That discovery — evidence and documents traded between both sides of a lawsuit — appears to have been altered and disseminated as part of a disinformation campaign apparently aimed at discrediting the ongoing investigations in Russian interference in the U.S. political system, according to the documents.
+
+Prosecutors said sensitive evidence also could reveal government investigative techniques and identify cooperating individuals and companies.
+
+Concord is among 13 Russian individuals and entities charged last February in connection with Mueller’s probe. Concord is alleged to have funded the operation of the Internet Research Agency, a Russian troll farm that spread divisive content to U.S. audiences on social media as part of broader effort to meddle in the 2016 vote.
+
+Prosecutors said that some nonpublic files supplied to Concord’s defense attorneys were apparently altered and disseminated using the Twitter account @HackingRedstone, which has since been suspended on the platform.
+
+On Thursday, Mueller's team updated their filing with precise dates for the actions taken on Twitter, noting that the account @HackingRedstone started sending direct messages to members of the media on October 22, before making a public tweet on October 30 in regards to the supposed discovery documents.
+
+The filing cites an Oct. 22, 2018, tweet in which the account claimed, “We’ve got access to the Special Counsel Mueller’s probe database as we hacked Russian server with info from the Russian troll case Concord LLC v. Mueller. You can view all the files Mueller had about the IRA and Russia collusion. Enjoy the reading!” 
+
+The tweet linked to a webpage with folders containing scores of files that mimicked names and folder structures of materials produced by the special counsel’s office in discovery, the filing states.
+
+The prosecutors’ filing said the matching files included images of political memes from Facebook and other social media accounts used online by the Internet Research Agency, many of which are presumably still available elsewhere on the Internet, but not with the unique identifiers used in materials turned over by prosecutors.
+
+Prosecutors said in their filing that an FBI review found no evidence of a hack of the special counsel’s office. The filing also said that defense lawyers told the Mueller team that the vendor it was using reported no unauthorized access to the nonsensitive files. Under a court protective order, sensitive evidence in the case must be reviewed by a U.S. government “firewall” counsel, and then a judge must give permission before the evidence can be given to any non-U.S. national.
+
+The facts “establish that the person(s) who created the Web page had access to at least some of the nonsensitive discovery produced by the government in this case,” wrote Justice Department national security division attorney Heather N. Alpino for a team including prosecutors with Mueller’s office and the U.S. attorney’s office of the District.
+
+
+Mueller’s team firmly pushed back on the request in the filing Wednesday, asserting releasing the files to the firm’s employees in Russia – including Prigozhin – would risk U.S. national security. 
+
+“Concord’s request to send the discovery to the Russian Federation unreasonably risks the national security interests of the United States,” the filing states.  “The government’s concerns are only heightened by the apparent release and manipulation of information produced to Concord as ‘non-sensitive’ discovery in this case.” 
+
+The filing also notes that the discovery files labeled ""sensitive"" identify ""uncharged individuals"" who government investigators believe are ""continuing to engage in operations to interfere with lawful U.S. government functions like those activities charged in the indictment.” 
+
+Mueller’s prosecutors did not oppose allowing Concord employees to view the files at their defense attorney’s offices under security protections, noting that “appearance in the United States would allow them to stand trial.”
+"

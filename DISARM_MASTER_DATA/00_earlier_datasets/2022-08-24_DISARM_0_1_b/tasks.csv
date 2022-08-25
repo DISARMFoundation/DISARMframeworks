@@ -1,0 +1,43 @@
+disarm_id,name,name_DE,tactic_id,summary,summary_DE,framework_id,longname
+TK0001,Goal setting,,TA01,Set the goals for this incident. ,,FW01,TK0001 - Goal setting
+TK0002,Population research / audience analysis (centre of gravity),,TA01,"Research intended audience.  Includes audience segmentation, hot-button issues etc. ",,FW01,TK0002 - Population research / audience analysis (centre of gravity)
+TK0003,Campaign design (objective design),,TA01,Design the campaign(s) needed to meet the incident goals,,FW01,TK0003 - Campaign design (objective design)
+TK0031,OPSEC for TA01,,TA01,OPSEC for TA01,,FW02,TK0031 - OPSEC for TA01
+TK0004,Identify target subgroups,,TA02,Identify groups that can best be used to meet incident goals,,FW01,TK0004 - Identify target subgroups
+TK0005,Analyse subgroups,,TA02,Analyse subgroups,,FW01,TK0005 - Analyse subgroups
+TK0006,create master narratives,,TA02,create master narratives,,FW01,TK0006 - create master narratives
+TK0007,Decide on techniques (4Ds etc),,TA02,Decide on techniques (4Ds etc),,FW01,TK0007 - Decide on techniques (4Ds etc)
+TK0008,Create subnarratives,,TA02,Create subnarratives,,FW01,TK0008 - Create subnarratives
+TK0009,4chan/8chan coordinating content,,TA02,4chan/8chan coordinating content,,FW01,TK0009 - 4chan/8chan coordinating content
+TK0032,OPSEC for TA02,,TA02,OPSEC for TA02,,FW02,TK0032 - OPSEC for TA02
+TK0010,Create personas,,TA15,Create personas,,FW01,TK0010 - Create personas
+TK0011,Recruit contractors,,TA15,Recruit contractors,,FW01,TK0011 - Recruit contractors
+TK0012,Recruit partisans,,TA15,Recruit partisans,,FW01,TK0012 - Recruit partisans
+TK0013,find influencers,,TA15,find influencers,,FW01,TK0013 - find influencers
+TK0033,OPSEC for TA15,,TA15,OPSEC for TA15,,FW02,TK0033 - OPSEC for TA15
+TK0014,Network building,,TA15,Network building,,FW01,TK0014 - Network building
+TK0015,Network infiltration,,TA15,Network infiltration,,FW01,TK0015 - Network infiltration
+TK0016,identify targets - susceptible audience members in networks,,TA15,identify targets - susceptible audience members in networks,,FW01,TK0016 - identify targets - susceptible audience members in networks
+TK0034,OPSEC for TA15,,TA15,OPSEC for TA15,,FW02,TK0034 - OPSEC for TA15
+TK0035,OPSEC for TA05,,TA05,OPSEC for TA05,,FW02,TK0035 - OPSEC for TA05
+TK0017,content creation,,TA06,content creation,,FW01,TK0017 - content creation
+TK0018,content appropriation,,TA06,content appropriation,,FW01,TK0018 - content appropriation
+TK0036,OPSEC for TA06,,TA06,OPSEC for TA06,,FW02,TK0036 - OPSEC for TA06
+TK0037,OPSEC for TA07,,TA07,OPSEC for TA07,,FW02,TK0037 - OPSEC for TA07
+TK0019,anchor trust / credibility,,TA08,anchor trust / credibility,,FW01,TK0019 - anchor trust / credibility
+TK0020,insert themes,,TA08,insert themes,,FW01,TK0020 - insert themes
+TK0038,OPSEC for TA08,,TA08,OPSEC for TA08,,FW02,TK0038 - OPSEC for TA08
+TK0021,"deamplification (suppression, censoring)",,TA09,"deamplification (suppression, censoring)",,FW01,"TK0021 - deamplification (suppression, censoring)"
+TK0022,amplification,,TA09,amplification,,FW01,TK0022 - amplification
+TK0039,OPSEC for TA09,,TA09,OPSEC for TA09,,FW02,TK0039 - OPSEC for TA09
+TK0040,OPSEC for TA10,,TA10,OPSEC for TA10,,FW02,TK0040 - OPSEC for TA10
+TK0023,retention,,TA11,retention,,FW01,TK0023 - retention
+TK0024,customer relationship,,TA11,customer relationship,,FW01,TK0024 - customer relationship
+TK0025,advocacy/ zealotry,,TA11,advocacy/ zealotry,,FW01,TK0025 - advocacy/ zealotry
+TK0026,conversion,,TA11,conversion,,FW01,TK0026 - conversion
+TK0027,keep recruiting/prospecting,,TA11,keep recruiting/prospecting,,FW01,TK0027 - keep recruiting/prospecting
+TK0041,OPSEC for TA11,,TA11,OPSEC for TA11,,FW02,TK0041 - OPSEC for TA11
+TK0028,evaluation,,TA12,evaluation,,FW01,TK0028 - evaluation
+TK0029,post-mortem,,TA12,post-mortem,,FW01,TK0029 - post-mortem
+TK0030,after-action analysis,,TA12,after-action analysis,,FW01,TK0030 - after-action analysis
+TK0042,OPSEC for TA12,,TA12,OPSEC for TA12,,FW02,TK0042 - OPSEC for TA12

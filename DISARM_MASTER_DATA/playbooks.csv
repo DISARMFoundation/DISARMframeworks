@@ -1,0 +1,121 @@
+disarm_id,object_id,name,summary
+PB00001,C00011,Game Mechanics: show examples of fake news and train the user to identify them on the basis of various types of indicators,
+PB00002,C00011,Game mechanics: use a crowd-sourced mechanism so that the public can categorize newly spreading news sources or articles a la Re-Captcha,
+PB00003,C00012,Develop a regulatory body like the CFPB to regulate and enforce regulation for digital organizations. ,
+PB00004,C00012,Government regulation,
+PB00005,C00012,Government shutdown. ,
+PB00006,C00017,Use a media campaign to promote in-group to out-group in person communication / activities . ,
+PB00007,C00019,"Spread Infographics & Training Material teaching ways to identify and counter divisive rhetorical techniques and content, by stimulating their sense of outrage at being manipulated. Show them how to address the rhetorical technique rather than the content",
+PB00008,C00019,Twitter hashtags & paid advertising,
+PB00009,C00019,Teach people to identify non-civil/unconstructive conversations and call them out,
+PB00010,C00019,"Popularize (via memes, infographics) and get the centrists demographic who are tired of polarization to identify such messaging, call it out and display their outrage on the basis of divisive rhetorical techniques rather than merely arguing about the content",
+PB00011,C00027,Recruit respected thought leaders to model behavior,
+PB00012,C00027,Feature established respected thought leaders to model behavior,
+PB00013,C00027,Promote dialog from communities with disparate viewpoints,
+PB00014,C00027,"Establish facilitation guidelines for ""civil"" interaction.",
+PB00015,C00029,Identify ignorant agents (ex: anti-vaxx people willing to pay money to advertise their cause),
+PB00016,C00029,Sell physical merchandise that has instructive counter-effect,
+PB00017,C00029,"Secondary Objective: Obtain real-life identity of ignorant agents, to further disrupt their influence activities",
+PB00018,C00031,Create multiple versions of the narrative and amplify. ,
+PB00019,C00031,"Dissect narrative, piecemeal the components and then amplify",
+PB00020,C00032,Hijack hashtag and redirect conversation to truth based content. ,
+PB00021,C00032,Hijack (man in the middle) redirect from bad content to good content,
+PB00022,C00036,-Discredit via backstopped blogs/websites showing their past activity and opinions as being opposite to their current ingroup,
+PB00023,C00036,Create a trail of commentary about their idea of infiltrating the enemy (current in-group),
+PB00024,C00036,Publicize this by targeting their in-group competitors (ignorant agents),
+PB00025,C00040,Verify personal credentials ,
+PB00026,C00040,Syndicated reputation management (fact-checking syndication),
+PB00027,C00040,Academia ISAO,
+PB00028,C00044,Rate restrict via regulation posting above a statistical threshold,
+PB00029,C00044,Unless account is de-anonymized and advertised as automated messaging,
+PB00030,C00048,"Identify the accounts, the real person's name and shame them on social media.",
+PB00031,C00053,Social media companies remove inactive accounts,
+PB00032,C00053,Account holders remove accounts they're no longer using. ,
+PB00033,C00053,"Influencers encourage people to remove their inactive accounts ""Do you really need that old account"" campaign, world-war-two poster-style. ",
+PB00034,C00053,"Create alternative memorial websites for accounts of deceased people, so their accounts can't be reactivated on 'live' sites. ",
+PB00035,C00053,Educate/scare users on the risks of losing control over a dormant account (would their employer be forgiving if an account associated with the user suddenly starting posting extremist content?).,
+PB00036,C00074,Platform adds a hash of the post to the post metadata and make it publicly available (content addressing). Scrape for duplicate content and deplatform the content/users across affected. In all cases some checks need to prevent deplatforming of highly correlated organic traffic such as a community group copy/pasting their bake sale advert. ,
+PB00037,C00074,Platform adds plagiarism score metadata to a post and makes it publicly available. Scrape for duplicate content and deplatform the content/users across affected platforms.,
+PB00038,C00074,Use message hashing and fuzzy hashing to detect identical/similar content.,
+PB00039,C00074,Use plagiarism algorithm to detect similar blog posts.,
+PB00040,C00074,"Use basic web scraping techniques, Google dorks, etc to identify similar head lines, uniques phrases, authorship, embedded links and any other correlating data point.",
+PB00041,C00098,Affected person contacts platform for action,
+PB00042,C00136,"Work with platform to identify active target audiences through finanical data and messaging.
+",
+PB00043,C00136,Use a platform's publicly available advertising/targeting capabilities to enumerate a list of possible microtargeted demographics. Compare these to known TAs of past/ongoing influence ops to identify the vulnerable demographics. ,
+PB00044,C00140,"DDoS adversary link shorteners by spamming real links.
+",
+PB00045,C00140,Compromise service and reroute links to benign content or counter messaging.,
+PB00046,C00148,Degrade TA engagement using bots; direct the adversary to engage insular bot communities-within-communities rather than the authentic target audience.,
+PB00047,C00148,Degrade MOEs/MOPs by faking inter-community sharing.,
+PB00048,C00149,"Distort TA demographics by posting irrelevant content, misleading demogaphic data, etc.",
+PB00049,C00149,"Work with the media platform to distort publicly available metrics. Can we work with Twitter to get crappy off-brand memes artificially bumped without needing to create fake accounts, etc.?",
+PB00050,C00149,"Use adtech to promote content inconsistent with TA demographics. If the adversary is reverse engineering a groups demographics by analyzing ads placed on the platform/group, by spamming ads for out-group stuff it may distort analysis of the group.",
+PB00051,C00149,"Distort Google Trends and other publicly available source of metrics using bots, cyborgs, adtech.",
+PB00052,C00149,Distort TA emotional response to content/narratives.,
+PB00053,C00149,Promote damp squibs. Within a known TA promote/inflate crappy off-brand memes which are unlikley to resonate.,
+PB00054,C00149,"Detect early trending/engagement and undermine the content by responding with 5Ds, toxic community behaviour, satirical responses, etc.",
+PB00055,C00149,"If adtech is used, fake clicks and engagements on the content.",
+PB00056,C00174,Elected officials lead return to First Amendment norms that embrace free and fair media as central to democracy.,
+PB00057,C00188,"TechCamp bringing together local journalists, with a several-day training program that includes a sponsored yearlong investigative project",
+PB00058,C00197,"Create a standard reporting format and method for social platforms for reporting false accounts. 
+",
+PB00059,C00197,Determine whether account might be compromised,"Questions: - Is the account compromised? 
+- Is it known to be associated with threat actors 
+- common/random name 
+- Names violate terms of service 
+- Dormant account 
+- Change of country IP
+- Social network growth patterns (number of friends etc) 
+- Evidence of linguistic artifacts (multiple fingerprints, terms/idiosyncrasies )
+- Community vs. narrative vs. individuals "
+PB00060,C00197,Report suspected bots.,
+PB00061,C00197,"Report ToS violations. In all playbooks the platform must force user verification, credential reset and enable MFA. Suspend the account if it cannot be verified.",
+PB00062,C00197,Use sites like https://haveibeenpwned.com to detect compromised and at risk user accounts. ,
+PB00063,C00197,"Monitor for unusual account usage (use of VPN, new geographic location, unusual usage hours, etc). ",
+PB00064,C00197,Detect sudden deviation in user sentiment such as suddenly dropping hashtags linked to extremist content.,
+PB00065,C00197,"Purchase ""likes"", ""retweets"" and other vehicles which identify a bot and/or hijacked account. Ban the account.",
+PB00066,C00197,"Detect hijacked account and spam their posts. ""OP is a known disinformation bot. http://link.to.proof[.]com""",
+PB00067,C00219,Add date and source to images,
+PB00068,F00002,"Develop a baseline virality per platform, monitor trends, trigger alert for anomalies.",
+PB00069,F00003,"Destroy Desire to Work for Propaganda Businesses
+","-Identify non-committed actors (ie. IRA 2$/h employees)
+-Identify where they reside (ie. postal code level)
+-Send a viral message that clarifies the risk of working in influence ops. "
+PB00070,F00003,"Hack personal accounts
+-Send inflammatory messages on their behalf",
+PB00071,F00004,Identify target and entice individual to reveal insider information,
+PB00072,F00005,"-Model communities on the basis of behavior and identity, etc
+-Model different online behaviors in terms of how these groups interact with propaganda
+-Model how these group-based behaviors are affected by the tech platform they are using
+-This research can feed into later-stage playbooks to adapt them to communities/platforms",
+PB00073,F00006,Model each major platform,"Determine:
+a) Moderation Method (global, subcommunity level, none -ie. twitter, reddit, 8chan)
+b) Access Model (friend request, open, real-life identity)
+c) Communication Model (global, friends only, subcommunity, hybrid)
+Determine how the combination of the above (and other characteristics) allow different technical methods to communicate and influence various audiences
+This will allow to adapt playbooks to specific platforms"
+PB00074,F00013,"- Trace money and financing 
+- Trace connections to known operations",
+PB00075,F00014,"- Hashes
+- Data voids
+- User handles 
+- Domains + link shortener
+- TinEye For video (visual artifact)",
+PB00076,F00017,Create standard scoring for emptional content,
+PB00077,F00018,"Ad tech 
+- De-platform funding sites 
+- Blockchain transaction 
+- Sell items
+- Identify manufacturers 
+- Pay to play meetings ",
+PB00078,F00018,"Identify ad tech on platforms 
+- Selling merch? 
+- Financial platform
+- Bitcoin etc.. .",
+PB00079,F00018,"Identify re-use of ads
+","Look at Ad trackers, Tracking ids, Tracking ads, Re-use of as features (language, name, themes, plug-in, re-use/versions)"
+PB00080,F00018,track funding sources,
+PB00081,F00077,Build and update a model bot behaviour. ,
+PB00082,F00077,Build network of companies that model / rate bots. Build standards around data sharing and exchange,
+PB00083,F00092,"Build a reporting system for the public, so they can report disinformation artefacts and have them available to channels etc for action. ",

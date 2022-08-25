@@ -1,0 +1,64 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+"Spreadsheet created by initially combining CredCo's CredWeb and the Carnegie Endowment lists of disinformation initiatives with CSC's Rolodex, Disinfo Cloud list and a list compiled by Jon B",,,,,
+Further work needed to assimilate addition data from the lists below...,,,,,
+,DATASETS,,No. of entries,Categorisation,
+,Carnegie post,https://carnegieendowment.org/2020/12/14/mapping-worldwide-initiatives-to-counter-influence-operations-pub-83435 ,Commentary on Carnegie list,,
+,"Carnegie list, created from credweb, rand, disinfocloud",https://ceip.knack.com/pcio-baseline-datasets#initiatives/ ,460,Added. See below,
+,CredCo's CredWeb catalogue:,https://credibilitycoalition.org/credcatalog/,252,Added. Theory; Practice; Content; Infrastructure,
+,Rand list of tools,https://www.rand.org/research/projects/truth-decay/fighting-disinformation.html,90,Bot/spam detection; Codes and standards; Credibility scoring; Disinformation tracking; Education/training; Verification; Whitelisting,
+,Disinfocloud list of technologies:,https://disinfocloud.com/about-us,265,Need to sign in with org name - CSC has an account,
+,Disinfocloud has a useful list of tool categories:,https://disinfocloud.com/tools-overview/,,,
+,Facebook map of fact checkers,https://www.facebook.com/journalismproject/programs/third-party-fact-checking/partner-map,,"I've checked Africa, South America, Central America.  Everything else still to do",
+,WHO covid19 disinfo note,https://docs.google.com/document/d/1ucor7vU81HbBbxvre2QI5Rv08Ys1VvX2JrWtNSGk4XY/edit#,,NEED TO CHECK THROUGH THIS,
+,IRI list of european groups,https://dash-iribeaconproject.org/,,ADD TO LISTS,
+,"DCMS index of companies - safe-tech issues, incl disinfo",https://www.gov.uk/government/publications/directory-of-uk-safety-tech-providers,,ADD TO LISTS,
+,Duke Reporters Lab of Fact Checkers,https://reporterslab.org/fact-checking/,,ADD TO LISTS,
+,ISACs/ISAOs,https://www.nationalisacs.org/member-isacs-3,,ADD TO LISTS?,
+,Turing online hate research hub,https://www.turing.ac.uk/research/research-programmes/public-policy/online-hate-research-hub,,ADD TO LISTS?,
+,Internationl Fact Checking Network (Poynter),https://www.poynter.org/ifcn/,,,
+,European Union report list,https://www.europarl.europa.eu/RegData/etudes/STUD/2019/624278/EPRS_STU(2019)624278_EN.pdf,,,ADD TO LISTS
+,Ryerson Uni covid19 factcheckers list ,https://covid19misinfo.org/fact-checking/covid-19-fact-checkers/ and https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/IMISPE,,,
+,Countering Disinformation list,https://counteringdisinformation.org/interventions/,,TRIAGE LISTS,
+,,,,,
+,,,,,
+MAP,https://datastudio.google.com/u/2/reporting/a8491164-6aa8-45d0-b609-c70339689127/page/ierzB ,,597,,
+,,,,,
+QUESTIONS,,,,,
+,Suggested corrections in form:,https://docs.google.com/forms/d/e/1FAIpQLScnjgJg2lGw3FB_xGaZPrZuKEZSY1OOy9-UosMS9T2yWAtm3A/viewform,,,
+,,,,,
+CODES,,,,,
+,Initiatives Studying Influence Operations Code Book,,,,
+,Field,Description,,,
+,Name,"Name of the initiative, with any larger host organization listed in brackets after the name. e.g.: Accountability Journalism and Fact-Checking Project (American Press Institute)",,,
+,Organization Type,"Academia – initiative is housed at a university
+Civil Society – initiative is led by a think tank, non-governmental organization, non-profit or charity.
+Government & Intergovernmental – initiative is run by a single government or government-level international organization such as NATO, the UN or EU.
+Media – initiative is run by a media outlet
+Tech – initiative is led by a social media platform or technology company",,,
+,Initiative Focus,"Countermeasures – seeks to counter or disrupt influence operations.
+Democracy & Civil Liberties –aims to support the democratic process by identifying attempts to subvert or influence elections, factchecking political statements and/or engaging in cross-sector engagement to build understanding of the threat.
+Factchecking & Journalism –conducts fact checking (e.g., of media reporting or political statements), verifies videos and images, detects disinformation narratives, verifies the credibility of websites, or supports journalism more broadly;
+Investigations –conducts research into ongoing or recent influence operations to expose them, reveal hidden networks and nodes, highlight tactics, and make attributions, typically on tight deadlines. 
+Public Policy – develops new policy and regulatory proposals and/or evaluates the effectiveness of existing ones
+Research – conducts longer-term academic-level research on influence operations, including campaigns, their effects and countermeasures.
+Societal Resilience – initiative aims to build public resilience to influence operations narratives and improve the information ecosystem through education, media literacy, and/or promoting responsible journalism
+Tools – provides tools to help researchers and end-users to understand or control their experience within the information environment",,,
+,Self- Description,Description of main activities as per the initiative’s publicly available information,,,
+,Location,"Geographic location by continent. Presence on 3 or more continents counts as global
+North America
+South America
+Europe
+Asia
+Africa
+Australia and Oceania
+Global",,,
+,URL,Link to the website of the initiative,,,
+,,,,,
+,,,,,
+,76,on the tools sheet,,,
+,130,with 'tool provider' checked on the org sheet,,,
+,811,organisations,,,
+,297,contacts,,,
+,,,,,
+CRUNCHBASE,,,,,
+,Deb gives this as an example model,https://www.crunchbase.com/organization/lookup-2,,,

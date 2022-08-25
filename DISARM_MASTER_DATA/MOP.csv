@@ -1,0 +1,35 @@
+disarm_id,info_category,data_type,Unnamed: 3,name,Unnamed: 5,Unnamed: 6,summary,longname
+MP00001,,,social_media,Likes,,,,MP00001
+MP00002,,,social_media,Shares,,,,MP00002
+MP00003,,,social_media,Comments,,,,MP00003
+MP00004,,,social_media,Follows,,,,MP00004
+MP00005,,,social_media,Retweets,,,,MP00005
+MP00006,,,social_media,Clicks,,,,MP00006
+MP00007,,,social_media,Active Followers,,,,MP00007
+MP00008,,,social_media,Relevance Score,,,see: facebook relevance algo,MP00008
+MP00009,,,social_media,Follwers vs. Following Ratio,,,,MP00009
+MP00010,,,social_media,Inter-Community Posting ,,,4chan to Reddit,MP00010
+MP00011,,,social_media,Intra-Community Posting,,,crossposting between boards,MP00011
+MP00012,,,social_media,Reach vs. Impressions,,,,MP00012
+MP00013,,,social_media,Direct Messages,,,,MP00013
+MP00014,,,,,,,,MP00014
+MP00015,,,,Web Site Traffic Growth,,,,MP00015
+MP00016,,,,Search Engine Ranking,,,,MP00016
+MP00017,,,mobile,Mobile App Downloads,,,,MP00017
+MP00018,,,mobile,SMS/Push Notification List,,,,MP00018
+MP00019,,,,,,,,MP00019
+MP00020,,,target_audience,Audience Demographics,,,,MP00020
+MP00021,,,target_audience,Audience Mentions,,,,MP00021
+MP00022,,,,,,,,MP00022
+MP00023,,,,,,,,MP00023
+MP00024,,,,,,,,MP00024
+MP00025,,,adtech,Ad Conversions,,,,MP00025
+MP00026,,,,,,,,MP00026
+MP00027,,,,,,,,MP00027
+MP00028,,,,,,,,MP00028
+MP00029,,,,,,,,MP00029
+MP00030,,,,Adversary intelligence system fails to detect,,,,MP00030
+MP00031,,,,,,,,MP00031
+MP00032,,,email,Email List,,,,MP00032
+MP00033,,,email,Email Open Rate,,,,MP00033
+MP00034,,,email,Email Click-Through Rate,,,,MP00034
