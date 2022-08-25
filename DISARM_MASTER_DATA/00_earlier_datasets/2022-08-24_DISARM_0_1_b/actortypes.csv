@@ -1,0 +1,40 @@
+disarm_id,name,summary,sector_ids,framework_ids,longname,Jon's comments/questions
+A001,data scientist ,"Person who can wrangle data, implement machine learning algorithms etc","S001, S002, S003, S004, S005, S006, S007, S008, S009, S010","FW01, FW02",A001 - data scientist ,"What actual actions do data scientists execute? Do we not need a clearer idea of this, to help up map ttps (actions) to actortypes (who execute the action)"
+A002,target,Person being targeted by disinformation campaign,"S001, S002, S003, S004, S005, S006, S007, S008, S009, S010",FW02,A002 - target,"Both red and blue framework users will refer to A002? So in FW01, as well as FW02?"
+A003,trusted authority ,Influencer,"S001, S002, S003, S004, S005, S006, S007, S008, S009, S010","FW01, FW02",A003 - trusted authority ,"Is A003 best summarised by the word ""Inluencer""? Is an influencer not a separate actortype?
+Just seen below, A016"
+A004,activist,,S002,FW02,A004 - activist,What does this actortype do?
+A005,community group,,S002,FW02,A005 - community group,What does this actortype do?
+A006,educator,,S002,FW02,A006 - educator,
+A007,factchecker,Someone with the skills to verify whether information posted is factual,S002,FW02,A007 - factchecker,
+A008,library,,S002,FW02,A008 - library,"Is this an actortype? A sub-sector, yes. But what is the 'action type' to help describe the 'actortype'?"
+A009,NGO,,S002,FW02,A009 - NGO,"This is a sector, not an actortype"
+A010,religious organisation ,,S002,FW02,A010 - religious organisation ,"""Faith communities"" are a sub-sector of the Civil Society sector. I think we need clear differentiation between the 'Sector' object (where an actor sits) vs 'Actortype' object (what an actor does)"
+A011,school ,,S002,FW02,A011 - school ,"This is a subsector of S004 - not an actortype, or is there a clear role for a school? If teaching, is this not A006"
+A012,account owner,Anyone who owns an account online,S006,"FW01
+FW02",A012 - account owner,
+A013,content creator ,,S006,"FW01
+FW02",A013 - content creator ,
+A014,elves,,S006,FW02,A014 - elves,"??? SJ, you have told me, but I've forgotten"
+A015,general public,,S006,FW02,A015 - general public,"Duplication of a field in the sector object. But I'm querying if this belongs under sector either. Aren't we talking here about ""individuals"". And, then again, what do these individuals do? They are a target. Or an influencer. Or something else. But being an individual doesn't seem to help describe their applicability to an action"
+A016,influencer,,S006,"FW01
+FW02",A016 - influencer,
+A017,coordinating body,For example the DHS,S003,FW02,A017 - coordinating body,"""Response coordinator""? Or just 'Coordinator"""
+A018,government ,Government agencies,S003,"FW01
+FW02",A018 - government ,"DHS (A017) is ""government"". Again, this is a field/value of the sector object"
+A019,military ,,S003,FW02,A019 - military ,"A019 is a sub-sector of ""government"". Again, this is a field/value of the sector object"
+A020,policy maker,,S003,FW02,A020 - policy maker,
+A021,media organisation,,S010,"FW01
+FW02",A021 - media organisation,"Not an actortype. The actor is perhaps as the owner, or the journalist, or the ad buyer, ad seller etc"
+A022,company,,S009,FW02,A022 - company,
+A023,adtech provider,,S008,FW02,A023 - adtech provider,"Should Adtech be a called-out subsector of S008? Separate question: is ""provider"" relevant? What action does it imply? Or what TTP does it map to?"
+A024,developer,,S008,FW02,A024 - developer,
+A025,funding_site_admin,Funding site admin,S008,FW02,A025 - funding_site_admin,What is this?
+A026,games designer,,S008,"FW01, FW02",A026 - games designer,"Just ""Designer""? Would the TTP context not make it clear the context was 'gaming'?"
+A027,information security,,S008,FW02,A027 - information security,
+A028,platform administrator,,S008,FW02,A028 - platform administrator,"Just ""Administrator""?"
+A029,server admininistrator ,,S008,FW02,A029 - server admininistrator ,"Just ""Administrator""? (de-duplicating A028)"
+A030,platforms ,,S007,FW02,A030 - platforms ,"The same as S007? If there is an action here, is it done by actortype = ""algorithm""? Maybe ""Platform"" is right"
+A031,social media platform adminstrator,"Person with the authority to make changes to algorithms, take down content etc. ",S007,FW02,A031 - social media platform adminstrator,"Not needed, given A028. The sector selection does the differentiation"
+A032,social media platform outreach ,,S007,FW02,A032 - social media platform outreach ,What does this do?
+A033,social media platform owner,Person with authority to make changes to a social media company’s business model,S007,FW02,A033 - social media platform owner,

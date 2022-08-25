@@ -1,0 +1,4 @@
+disarm_id,name,name_DE,summary,summary_DE,longname
+FW01,DISARM Red,,"incident creation framework. All the things that an incident creator will need to do to create, run, and assess the effectiveness of a disinformation incident.",,FW01 - DISARM Red
+FW02,DISARM Blue,,"incident counters framework. All the things that a response team, people outside the team, and organisations outside the team, will need to do to mitigate the effects of an incident, slow down an incident, stop an incident etc.",,FW02 - DISARM Blue
+FW03,DISARM Green,,"counter counters framework. All the things that an incident creation team might do to reduce the effectiveness of mitigations, counters, and responders to an incident. This framework doesn't officially exist yet: this id is for future work. ",,FW03 - DISARM Green

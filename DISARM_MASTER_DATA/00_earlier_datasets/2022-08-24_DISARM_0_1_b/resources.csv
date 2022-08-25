@@ -1,0 +1,7 @@
+disarm_id,name,summary,resource_type,longname
+R001,datastreams ,Access to streaming data,data,R001 - datastreams 
+R002,funding ,"Money to keep the lights on: for resources, time etc",money,R002 - funding 
+R003,money ,Money for specific resources,money,R003 - money 
+R004,platform algorithms ,Access to the algorithms used in a platform.,algorithms,R004 - platform algorithms 
+R005,slang translation,Translations of slang terms,knowledge,R005 - slang translation
+R006,disinformation datasets,Access to datasets containing disinformation,data,R006 - disinformation datasets

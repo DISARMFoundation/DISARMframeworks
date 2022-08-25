@@ -1,0 +1,15 @@
+disarm_id,name,summary,longname,Jon's comments
+S001,Nonprofit,,S001 - Nonprofit,"Nonprofit and civil society are not mutually exclusive - in fact, to many, they are the same"
+S002,Civil Society,,S002 - Civil Society,"Nonprofit and civil society are not mutually exclusive - in fact, to many, they are the same"
+S003,Government,,S003 - Government,agree
+S004,Academic,,S004 - Academic,"""Education"" is more the sector - academic is more the term for an individual"
+S005,Activist,,S005 - Activist,Not a sector
+S006,General Public,,S006 - General Public,Not a sector
+S007,Social Media Company,,S007 - Social Media Company,"Social media (delete unecessary ""company"")"
+S008,Other Tech Company,,S008 - Other Tech Company,Technology (excluding social media)
+S009,Other Company,,S009 - Other Company,"Other (delete unecessary ""company"")"
+S010,Media,,S010 - Media,Media (excluding social media)
+,,,,"There are so many industry sectors
+Do we need to just highlight those most relevant to red/blue ttps?
+If so, what about journalism? Fact checking?
+Sub-sectors of government: Law enforcement? Defence?"

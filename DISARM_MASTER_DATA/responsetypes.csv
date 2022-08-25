@@ -1,0 +1,8 @@
+disarm_id,name,summary,longname
+D01,Detect,"Discover or discern the existence, presence, or fact of an intrusion into information systems.",D01 - Detect
+D02,Deny,"Prevent disinformation creators from accessing and using critical information, systems, and services. Deny is for an indefinite time period. ",D02 - Deny
+D03,Disrupt,"Completely break or interrupt the flow of information, for a fixed amount of time. (Deny, for a limited time period).  Not allowing any efficacy, for a short amount of time. ",D03 - Disrupt
+D04,Degrade,"Reduce the effectiveness or efficiency of disinformation creators’ command and control or communications systems, and information collection efforts or means, either indefinitely, or for a limited time period. ",D04 - Degrade
+D05,Deceive,Cause a person to believe what is not true. military deception seeks to mislead adversary decision makers by manipulating their perception of reality.,D05 - Deceive
+D06,Destroy,"Damage a system or entity so badly that it cannot perform any function or be restored to a usable condition without being entirely rebuilt. Destroy is permanent, e.g. you can rebuild a website, but it’s not the same website. ",D06 - Destroy
+D07,Deter,Discourage.,D07 - Deter

@@ -74,6 +74,7 @@ todo:
 import pandas as pd
 import numpy as np
 import os
+import glob
 from sklearn.feature_extraction.text import CountVectorizer
 
 GENERATED_PAGES_DIR = '../generated_pages/'
@@ -84,22 +85,16 @@ MASTERDATA_DIR = '../DISARM_MASTER_DATA/'
 class Disarm:
 
     
-    def __init__(self, 
-                 frameworkfile = MASTERDATA_DIR + 'DISARM_FRAMEWORKS_MASTER.xlsx', 
-                 datafile = MASTERDATA_DIR + 'DISARM_DATA_MASTER.xlsx',
-                 commentsfile = MASTERDATA_DIR + 'DISARM_COMMENTS_MASTER.xlsx'):
+    def __init__(self):
         
-        # Load metadata from file
+        # Load metadata from files
+        # Older versions of DISARM are in excel files; newer ones in sets of CSV files
         metadata = {}
-        xlsx = pd.ExcelFile(frameworkfile)
-        for sheetname in xlsx.sheet_names:
-            metadata[sheetname] = xlsx.parse(sheetname)
+        for csvfile in glob.glob(MASTERDATA_DIR + '*.csv'):
+            sheetname = csvfile[csvfile.rfind('/')+1:-4]
+            metadata[sheetname] = pd.read_csv(csvfile)
             metadata[sheetname].fillna('', inplace=True)
 
-        xlsx = pd.ExcelFile(datafile)
-        for sheetname in xlsx.sheet_names:
-            metadata[sheetname] = xlsx.parse(sheetname)
-            metadata[sheetname].fillna('', inplace=True)
 
         # Create individual tables and dictionaries
         self.df_phases = metadata['phases']
@@ -120,9 +115,16 @@ class Disarm:
         self.df_resources = metadata['resources']
         self.df_responsetypes = metadata['responsetypes']
         self.df_metatechniques = metadata['metatechniques']
-        self.it = self.create_incident_technique_crosstable(metadata['incidenttechniques'])
+        self.it = self.refine_incident_technique_crosstable(metadata['cross_incident_technique'])
         self.df_tactics = metadata['tactics']
         self.df_playbooks = metadata['playbooks']
+        self.cross_counterid_techniqueid = metadata['cross_counter_technique']       
+        self.cross_counterid_resourceid = metadata['cross_counter_resource']
+        self.cross_counterid_actortypeid = metadata['cross_counter_actortype']
+        self.cross_detectionid_techniqueid = metadata['cross_detection_technique']       
+        self.cross_detectionid_resourceid = metadata['cross_detection_resource']
+        self.cross_detectionid_actortypeid = metadata['cross_detection_actortype']
+
 
         # Add columns containing lists of techniques and counters to the tactics dataframe
         self.df_techniques_per_tactic = self.df_techniques.groupby('tactic_id')['disarm_id'].apply(list).reset_index().rename({'disarm_id':'technique_ids'}, axis=1)
@@ -142,22 +144,8 @@ class Disarm:
         # Create the data table for each framework file
         self.num_tactics = len(self.df_tactics)
 
-        # Create counters and detections cross-tables
-        self.cross_counterid_techniqueid = self.create_cross_table(self.df_counters[['disarm_id', 'techniques']], 
-                                                                   'techniques', 'technique', '\n')        
-        self.cross_counterid_resourceid = self.create_cross_table(self.df_counters[['disarm_id', 'resources_needed']], 
-                                                                  'resources_needed', 'resource', ',')
-        self.cross_counterid_actortypeid = self.create_cross_table(self.df_counters[['disarm_id', 'actortypes']], 
-                                                                  'actortypes', 'actortype', ',')
-        self.cross_detectionid_techniqueid = self.create_cross_table(self.df_detections[['disarm_id', 'techniques']], 
-                                                                   'techniques', 'technique', '\n')        
-        self.cross_detectionid_resourceid = self.create_cross_table(self.df_detections[['disarm_id', 'resources_needed']], 
-                                                                  'resources_needed', 'resource', ',')
-        self.cross_detectionid_actortypeid = self.create_cross_table(self.df_detections[['disarm_id', 'actortypes']], 
-                                                                  'actortypes', 'actortype', ',')
 
-
-    def create_incident_technique_crosstable(self, it_metadata):
+    def refine_incident_technique_crosstable(self, it_metadata):
         # Generate full cross-table between incidents and techniques
 
         it = it_metadata
@@ -174,21 +162,6 @@ class Disarm:
 
     def make_object_dictionary(self, df):
         return(pd.Series(df.name.values,index=df.disarm_id).to_dict())
-
-
-    def create_cross_table(self, df, col, newcol, divider=','):
-        ''' Convert a column with multiple values per cell into a crosstable
-
-        # Thanks https://stackoverflow.com/questions/17116814/pandas-how-do-i-split-text-in-a-column-into-multiple-rows?noredirect=1
-        '''
-        crosstable = df.join(df[col]
-                        .str.split(divider, expand=True).stack()
-                        .reset_index(drop=True,level=1)
-                        .rename(newcol)).drop(col, axis=1)
-        crosstable = crosstable[crosstable[newcol].notnull()]
-        crosstable[newcol+'_id'] = crosstable[newcol].str.split(' ').str[0]
-        crosstable.drop(newcol, axis=1, inplace=True)
-        return crosstable
 
     
     def create_technique_incidents_string(self, techniqueid):

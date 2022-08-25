@@ -1,0 +1,15 @@
+disarm_id,name,summary,longname
+M001,resilience,Increase the resilience to disinformation of the end subjects or other parts of the underlying system,M001 - resilience
+M002,diversion,"Create alternative channels, messages etc in disinformation-prone systems",M002 - diversion
+M003,daylight,"Make disinformation objects, mechanisms, messaging etc visible",M003 - daylight
+M004,friction,"Slow down transmission or uptake of disinformation objects, messaging etc",M004 - friction
+M005,removal,Remove disinformation objects from the system,M005 - removal
+M006,scoring,Use a rating system,M006 - scoring
+M007,metatechnique,,M007 - metatechnique
+M008,data pollution,Add artefacts to the underlying system that deliberately confound disinformation monitoring,M008 - data pollution
+M009,dilution,Dilute disinformation artefacts and messaging with other content (kittens!),M009 - dilution
+M010,countermessaging,Create and distribute alternative messages to disinformation,M010 - countermessaging
+M011,verification,"Verify objects, content, connections etc. Includes fact-checking",M011 - verification
+M012,cleaning,Clean unneeded resources (accounts etc) from the underlying system so they can't be used in disinformation,M012 - cleaning
+M013,targeting,Target the components of a disinformation campaign,M013 - targeting
+M014,reduce resources,Reduce the resources available to disinformation creators,M014 - reduce resources

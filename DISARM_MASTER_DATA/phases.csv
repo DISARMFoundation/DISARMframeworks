@@ -1,0 +1,5 @@
+disarm_id,name,name_DE,rank,summary,summary_DE,longname
+P01,Plan,Planung,1,"Envision the desired outcome. Lay out effective ways of achieving it. Communicate the vision, intent, and decisions, focusing on expected results.",,P01 - Plan
+P02,Prepare,Vorbereitung,2,"Activities conducted before execution to improve the ability to conduct the action. Examples include: development of the ecosystem needed to support the action: people, network, channels, content etc.",,P02 - Prepare
+P03,Execute,Durchführung,3,"Run the action, from initial exposure to wrap-up and/or maintaining presence etc.",,P03 - Execute
+P04,Assess,Auswertung,4,"Evaluate effectiveness of action, for use in future plans ",,P04 - Assess
