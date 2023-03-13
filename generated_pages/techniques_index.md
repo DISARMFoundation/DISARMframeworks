@@ -983,7 +983,7 @@ A 2019 report by Michael Golebiewski identifies five types of data voids. (1) â€
 <tr>
 <td><a href="techniques/T0104.002.md">T0104.002</a></td>
 <td>Dating Apps</td>
-<td>A video livestream refers to an online video broadcast capability that allows for real-time communication to closed or open networks. Examples include Facebook Live, Instagram, Youtube, Tik Tok, and Twitter. </td>
+<td>Dating Apps</td>
 <td>TA07</td>
 </tr>
 <tr>
