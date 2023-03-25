@@ -1554,7 +1554,7 @@ Influence operations may use a variety of techniques to mask the location of the
 <tr>
 <td><a href="techniques/T0134.md">T0134</a></td>
 <td>Measure Effectiveness Indicators (or KPIs)</td>
-<td>Ensuring that Key Performace Indicators are identified and tracked, so that the performance and effectivess of campaigns, and elements of campaigns, can be measured, during and after their execution</td>
+<td>Ensuring that Key Performance Indicators are identified and tracked, so that the performance and effectiveness of campaigns, and elements of campaigns, can be measured, during and after their execution.</td>
 <td>TA12</td>
 </tr>
 <tr>
