@@ -12,7 +12,7 @@
 <tr>
 <td><a href="detections/F00001.md">F00001</a></td>
 <td>Analyse aborted / failed campaigns</td>
-<td>Examine failed campaigns. How did they fail? Can we create useful activities that increase these failures? </td>
+<td>Examine failed campaigns. How did they fail? Can we create useful activities that increase these failures?</td>
 <td></td>
 <td>TA01 Strategic Planning</td>
 <td>D01</td>
@@ -20,7 +20,7 @@
 <tr>
 <td><a href="detections/F00002.md">F00002</a></td>
 <td>Analyse viral fizzle</td>
-<td>We have no idea what this means.  Is it something to do with the way a viral story spreads? </td>
+<td>We have no idea what this means. Is it something to do with the way a viral story spreads?</td>
 <td></td>
 <td>TA01 Strategic Planning</td>
 <td>D01</td>
@@ -35,7 +35,7 @@
 </tr>
 <tr>
 <td><a href="detections/F00004.md">F00004</a></td>
-<td>Recruit like-minded converts "people who used to be in-group" </td>
+<td>Recruit like-minded converts "people who used to be in-group"</td>
 <td></td>
 <td></td>
 <td>TA01 Strategic Planning</td>
@@ -44,7 +44,7 @@
 <tr>
 <td><a href="detections/F00005.md">F00005</a></td>
 <td>SWOT Analysis of Cognition in Various Groups</td>
-<td>Strengths, Weaknesses, Opportunities, Threats analysis of groups and audience segments. </td>
+<td>Strengths, Weaknesses, Opportunities, Threats analysis of groups and audience segments.</td>
 <td></td>
 <td>TA01 Strategic Planning</td>
 <td>D01</td>
@@ -132,9 +132,7 @@
 <tr>
 <td><a href="detections/F00016.md">F00016</a></td>
 <td>Identify fence-sitters</td>
-<td>Note: In each case, depending on the platform there may be a way to identify a fence-sitter. For example, online polls may have a neutral option or a "somewhat this-or-that" option, and may reveal who voted for that to all visitors. This information could be of use to data analysts.
-
-In TA08-11, the engagement level of victims could be identified to detect and respond to increasing engagement.</td>
+<td>Note: In each case, depending on the platform there may be a way to identify a fence-sitter. For example, online polls may have a neutral option or a "somewhat this-or-that" option, and may reveal who voted for that to all visitors. This information could be of use to data analysts. In TA08-11, the engagement level of victims could be identified to detect and respond to increasing engagement.</td>
 <td></td>
 <td>TA15 Establish Social Assets</td>
 <td>D01</td>
@@ -262,7 +260,7 @@ In TA08-11, the engagement level of victims could be identified to detect and re
 <tr>
 <td><a href="detections/F00032.md">F00032</a></td>
 <td>Educate on how to identify to pollution</td>
-<td>DUPLICATE - DELETE </td>
+<td>DUPLICATE - DELETE</td>
 <td></td>
 <td>TA06 Develop Content</td>
 <td>D01</td>
@@ -301,10 +299,8 @@ In TA08-11, the engagement level of victims could be identified to detect and re
 </tr>
 <tr>
 <td><a href="detections/F00037.md">F00037</a></td>
-<td>News content provenance certification. </td>
-<td>Original Comment: Shortcomings: intentional falsehood. Doesn't solve accuracy. Can't be mandatory. 
-
-Technique should be in terms of "strategic innoculation", raising the standards of what people expect in terms of evidence when consuming news.</td>
+<td>News content provenance certification.</td>
+<td>Original Comment: Shortcomings: intentional falsehood. Doesn't solve accuracy. Can't be mandatory. Technique should be in terms of "strategic innoculation", raising the standards of what people expect in terms of evidence when consuming news.</td>
 <td></td>
 <td>TA06 Develop Content</td>
 <td>D01</td>
@@ -343,7 +339,7 @@ Technique should be in terms of "strategic innoculation", raising the standards 
 </tr>
 <tr>
 <td><a href="detections/F00042.md">F00042</a></td>
-<td>Categorize polls by intent</td>
+<td>Categorise polls by intent</td>
 <td>Use T00029, but against the creators</td>
 <td></td>
 <td>TA07 Channel Selection</td>
@@ -352,7 +348,7 @@ Technique should be in terms of "strategic innoculation", raising the standards 
 <tr>
 <td><a href="detections/F00043.md">F00043</a></td>
 <td>Monitor for creation of fake known personas</td>
-<td>Platform companies and some information security companies (e.g. ZeroFox) do this. </td>
+<td>Platform companies and some information security companies (e.g. ZeroFox) do this.</td>
 <td></td>
 <td>TA07 Channel Selection</td>
 <td>D01</td>
@@ -472,9 +468,7 @@ Technique should be in terms of "strategic innoculation", raising the standards 
 <tr>
 <td><a href="detections/F00058.md">F00058</a></td>
 <td>Deplatform (cancel culture)</td>
-<td>*Deplatform People: This technique needs to be a bit more specific to distinguish it from "account removal" or DDOS and other techniques that get more specific when applied to content.
-
-For example, other ways of deplatforming people include attacking their sources of funds, their allies, their followers, etc.</td>
+<td>*Deplatform People: This technique needs to be a bit more specific to distinguish it from "account removal" or DDOS and other techniques that get more specific when applied to content. For example, other ways of deplatforming people include attacking their sources of funds, their allies, their followers, etc.</td>
 <td></td>
 <td>TA10 Go Physical</td>
 <td>D01</td>
@@ -490,7 +484,7 @@ For example, other ways of deplatforming people include attacking their sources 
 <tr>
 <td><a href="detections/F00060.md">F00060</a></td>
 <td>Identify susceptible influencers</td>
-<td>I assume this was a transcript error. Otherwise, "Identify Susceptible Influences" as in the various methods of influences that may work against a victim could also be a technique. Nope, wasn't a transcript error: original note says influencers, as in find people of influence that might be targetted. </td>
+<td>I assume this was a transcript error. Otherwise, "Identify Susceptible Influences" as in the various methods of influences that may work against a victim could also be a technique. Nope, wasn't a transcript error: original note says influencers, as in find people of influence that might be targetted.</td>
 <td></td>
 <td>TA10 Go Physical</td>
 <td>D01</td>
@@ -554,7 +548,7 @@ For example, other ways of deplatforming people include attacking their sources 
 <tr>
 <td><a href="detections/F00068.md">F00068</a></td>
 <td>Resonance analysis</td>
-<td>a developing methodology for identifying statistical differences in how social groups use language and quantifying how common those statistical differences are within a larger population. In essence, it hypothesizes how much affinity might exist for a specific group within a general population, based on the language its members employ</td>
+<td>a developing methodology for identifying statistical differences in how social groups use language and quantifying how common those statistical differences are within a larger population. In essence, it hypothesises how much affinity might exist for a specific group within a general population, based on the language its members employ</td>
 <td></td>
 <td></td>
 <td>D01</td>
@@ -594,7 +588,7 @@ For example, other ways of deplatforming people include attacking their sources 
 <tr>
 <td><a href="detections/F00073.md">F00073</a></td>
 <td>collect intel/recon on black/covert content creators/manipulators</td>
-<td>Players at the level of covert attribution, referred to as “black” in the grayscale of deniability, produce content on user-generated media, such as YouTube, but also add fear-mongering commentary to and amplify content produced by others and supply exploitable content to data dump websites. These activities are conducted by a network of trolls, bots, honeypots, and hackers. </td>
+<td>Players at the level of covert attribution, referred to as “black” in the grayscale of deniability, produce content on user-generated media, such as YouTube, but also add fear-mongering commentary to and amplify content produced by others and supply exploitable content to data dump websites. These activities are conducted by a network of trolls, bots, honeypots, and hackers.</td>
 <td></td>
 <td></td>
 <td>D01</td>
@@ -602,7 +596,7 @@ For example, other ways of deplatforming people include attacking their sources 
 <tr>
 <td><a href="detections/F00074.md">F00074</a></td>
 <td>identify relevant fence-sitter communities</td>
-<td>brand ambassador programs could be used with influencers across a variety of social media channels. It could also target other prominent experts, such as academics, business leaders, and other potentially prominent people. Authorities must ultimately take care in implementing such a program given the risk that contact with U.S. or NATO authorities might damage influencer reputations. Engagements must consequently be made with care, and, if possible, government interlocutors should work through local NGOs.</td>
+<td>brand ambassador programmes could be used with influencers across a variety of social media channels. It could also target other prominent experts, such as academics, business leaders, and other potentially prominent people. Authorities must ultimately take care in implementing such a programme given the risk that contact with U.S. or NATO authorities might damage influencer reputations. Engagements must consequently be made with care, and, if possible, government interlocutors should work through local NGOs.</td>
 <td></td>
 <td></td>
 <td>D01</td>
@@ -610,7 +604,7 @@ For example, other ways of deplatforming people include attacking their sources 
 <tr>
 <td><a href="detections/F00075.md">F00075</a></td>
 <td>leverage open-source information</td>
-<td>significant amounts of quality open-source information are now available and should be leveraged to build products and analysis prior to problem prioritization in the areas of observation, attribution, and intent. Successfully distinguishing the gray zone campaign signal through the global noise requires action through the entirety of the national security community. Policy, process, and tools must all adapt and evolve to detect, discern, and act upon a new type of signal</td>
+<td>significant amounts of quality open-source information are now available and should be leveraged to build products and analysis prior to problem prioritisation in the areas of observation, attribution, and intent. Successfully distinguishing the grey zone campaign signal through the global noise requires action through the entirety of the national security community. Policy, process, and tools must all adapt and evolve to detect, discern, and act upon a new type of signal</td>
 <td></td>
 <td></td>
 <td>D01</td>
@@ -618,15 +612,14 @@ For example, other ways of deplatforming people include attacking their sources 
 <tr>
 <td><a href="detections/F00076.md">F00076</a></td>
 <td>Monitor/collect audience engagement data connected to “useful idiots”</td>
-<td>Target audience connected to "useful idiots rather than the specific profiles because - The active presence of such sources complicates targeting of Russian propaganda, given that it is often difficult to discriminate between authentic views and opinions on the internet and those disseminated by the Russian state.
-</td>
+<td>Target audience connected to "useful idiots rather than the specific profiles because - The active presence of such sources complicates targeting of Russian propaganda, given that it is often difficult to discriminate between authentic views and opinions on the internet and those disseminated by the Russian state.</td>
 <td></td>
 <td></td>
 <td>D01</td>
 </tr>
 <tr>
 <td><a href="detections/F00077.md">F00077</a></td>
-<td>Model for bot account behavior</td>
+<td>Model for bot account behaviour</td>
 <td>Bot account: action based, people. Unsure which DISARM techniques.</td>
 <td></td>
 <td>TA15 - Establish Social Assets</td>
@@ -691,10 +684,7 @@ For example, other ways of deplatforming people include attacking their sources 
 <tr>
 <td><a href="detections/F00085.md">F00085</a></td>
 <td>detection of a weak signal through global noise</td>
-<td>Gray zone threats are challenging given that warning requires detection of a weak signal through global noise and across threat vectors and regional boundaries.Three interconnected gray zone elements characterize the nature of the activity: 
-Temporality: The nature of gray zone threats truly requires a “big picture view” over long timescales and across regions and functional topics.
-Attribution: requiring an “almost certain” or “nearly certain analytic assessment before acting costs time and analytic effort
-Intent: judgement of adversarial intent to conduct gray zone activity. Indeed, the purpose of countering gray zone threats is to deter adversaries from fulfilling their intent to act. While attribution is one piece of the puzzle, closing the space around intent often means synthesizing multiple relevant indicators and warnings, including the state’s geopolitical ambitions, military ties, trade and investment, level of corruption, and media landscape, among others.</td>
+<td>Grey zone threats are challenging given that warning requires detection of a weak signal through global noise and across threat vectors and regional boundaries.Three interconnected grey zone elements characterise the nature of the activity: Temporality: The nature of grey zone threats truly requires a “big picture view” over long timescales and across regions and functional topics. Attribution: requiring an “almost certain” or “nearly certain analytic assessment before acting costs time and analytic effort Intent: judgement of adversarial intent to conduct grey zone activity. Indeed, the purpose of countering grey zone threats is to deter adversaries from fulfilling their intent to act. While attribution is one piece of the puzzle, closing the space around intent often means synthesising multiple relevant indicators and warnings, including the state’s geopolitical ambitions, military ties, trade and investment, level of corruption, and media landscape, among others.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -710,15 +700,15 @@ Intent: judgement of adversarial intent to conduct gray zone activity. Indeed, t
 <tr>
 <td><a href="detections/F00087.md">F00087</a></td>
 <td>Improve Indications and Warning</td>
-<td>United States has not adequately adapted its information indicators and thresholds for warning policymakers to account for gray zone tactics. Competitors have undertaken a marked shift to slow-burn, deceptive, non-military, and indirect challenges to U.S. interests. Relative to traditional security indicators and warnings, these are more numerous and harder to detect and make it difficult for analysts to infer intent.</td>
+<td>United States has not adequately adapted its information indicators and thresholds for warning policymakers to account for grey zone tactics. Competitors have undertaken a marked shift to slow-burn, deceptive, non-military, and indirect challenges to U.S. interests. Relative to traditional security indicators and warnings, these are more numerous and harder to detect and make it difficult for analysts to infer intent.</td>
 <td></td>
 <td></td>
 <td>D01</td>
 </tr>
 <tr>
 <td><a href="detections/F00088.md">F00088</a></td>
-<td>Revitalize an “active measures working group,”</td>
-<td>Recognize campaigns from weak signals, including rivals’ intent, capability, impact, interactive effects, and impact on U.S. interests... focus on adversarial covert action aspects of campaigning.</td>
+<td>Revitalise an “active measures working group,”</td>
+<td>Recognise campaigns from weak signals, including rivals’ intent, capability, impact, interactive effects, and impact on U.S. interests... focus on adversarial covert action aspects of campaigning.</td>
 <td></td>
 <td></td>
 <td>D01</td>
@@ -726,7 +716,7 @@ Intent: judgement of adversarial intent to conduct gray zone activity. Indeed, t
 <tr>
 <td><a href="detections/F00089.md">F00089</a></td>
 <td>target/name/flag "grey zone" website content</td>
-<td>"Gray zone" is second level of content producers and circulators, composed of outlets with uncertain attribution. This category covers conspiracy websites, far-right or far-left websites, news aggregators, and data dump websites</td>
+<td>"Grey zone" is second level of content producers and circulators, composed of outlets with uncertain attribution. This category covers conspiracy websites, far-right or far-left websites, news aggregators, and data dump websites</td>
 <td></td>
 <td>TA15 Establish Social Assets</td>
 <td>D01</td>
@@ -742,7 +732,7 @@ Intent: judgement of adversarial intent to conduct gray zone activity. Indeed, t
 <tr>
 <td><a href="detections/F00091.md">F00091</a></td>
 <td>Partner to develop analytic methods & tools</td>
-<td>This might include working with relevant technology firms to ensure that contracted analytic support is available. Contracted support is reportedly valuable because technology to monitor social media data is continually evolving, and such firms can provide the expertise to help identify and analyze trends, and they can more effectively stay abreast of the changing systems and develop new models as they are required</td>
+<td>This might include working with relevant technology firms to ensure that contracted analytic support is available. Contracted support is reportedly valuable because technology to monitor social media data is continually evolving, and such firms can provide the expertise to help identify and analyse trends, and they can more effectively stay abreast of the changing systems and develop new models as they are required</td>
 <td></td>
 <td>TA01 Strategic Planning</td>
 <td>D01</td>
@@ -750,7 +740,7 @@ Intent: judgement of adversarial intent to conduct gray zone activity. Indeed, t
 <tr>
 <td><a href="detections/F00092.md">F00092</a></td>
 <td>daylight</td>
-<td>Warn social media companies about an ongoing campaign (e.g. antivax sites).  Anyone with datasets or data summaries can help with this</td>
+<td>Warn social media companies about an ongoing campaign (e.g. antivax sites). Anyone with datasets or data summaries can help with this</td>
 <td></td>
 <td>TA09 Exposure</td>
 <td>D01</td>
@@ -758,8 +748,8 @@ Intent: judgement of adversarial intent to conduct gray zone activity. Indeed, t
 <tr>
 <td><a href="detections/F00093.md">F00093</a></td>
 <td>S4d detection and re-allocation approaches</td>
-<td>S4D is a way to separate out different speakers in text, audio. </td>
-<td>M004 - friction</td>
+<td>S4D is a way to separate out different speakers in text, audio.</td>
+<td>M004 - Friction</td>
 <td>TA15 - Establish Social Assets</td>
 <td>D01</td>
 </tr>
@@ -767,14 +757,14 @@ Intent: judgement of adversarial intent to conduct gray zone activity. Indeed, t
 <td><a href="detections/F00094.md">F00094</a></td>
 <td>Registries alert when large batches of newsy URLs get registered together</td>
 <td></td>
-<td>M003 - daylight</td>
+<td>M003 - Daylight</td>
 <td>TA07 Channel Selection</td>
 <td>D01</td>
 </tr>
 <tr>
 <td><a href="detections/F00095.md">F00095</a></td>
 <td>Fact checking</td>
-<td>Process suspicious artifacts, narratives, and incidents</td>
+<td>Process suspicious artefacts, narratives, and incidents</td>
 <td></td>
 <td>TA09 Exposure</td>
 <td>D01</td>

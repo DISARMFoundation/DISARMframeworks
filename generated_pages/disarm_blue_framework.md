@@ -17,7 +17,7 @@
 <td><a href="tactics/TA14.md">TA14 Develop Narratives</a></td>
 <td><a href="tactics/TA15.md">TA15 Establish Social Assets</a></td>
 <td><a href="tactics/TA16.md">TA16 Establish Legitimacy</a></td>
-<td><a href="tactics/TA17.md">TA17 Maximize Exposure</a></td>
+<td><a href="tactics/TA17.md">TA17 Maximise Exposure</a></td>
 <td><a href="tactics/TA18.md">TA18 Drive Online Harms</a></td>
 </tr>
 <tr>
@@ -151,9 +151,9 @@
 <td><a href="counters/C00070.md">C00070 Block access to disinformation resources</a></td>
 <td> </td>
 <td><a href="counters/C00078.md">C00078 Change Search Algorithms for Disinformation Content</a></td>
-<td><a href="counters/C00195.md">C00195 Redirect searches away from disinformation or extremist content </a></td>
+<td><a href="counters/C00195.md">C00195 Redirect searches away from disinformation or extremist content</a></td>
 <td><a href="counters/C00118.md">C00118 Repurpose images with new text</a></td>
-<td><a href="counters/C00129.md">C00129 Use banking to cut off access </a></td>
+<td><a href="counters/C00129.md">C00129 Use banking to cut off access</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -202,11 +202,11 @@
 </tr>
 <tr>
 <td><a href="counters/C00024.md">C00024 Promote healthy narratives</a></td>
-<td><a href="counters/C00156.md">C00156 Better tell your country or organization story</a></td>
+<td><a href="counters/C00156.md">C00156 Better tell your country or organisation story</a></td>
 <td> </td>
 <td><a href="counters/C00082.md">C00082 Ground truthing as automated response to pollution</a></td>
 <td> </td>
-<td><a href="counters/C00121.md">C00121 Tool transparency and literacy for channels people follow. </a></td>
+<td><a href="counters/C00121.md">C00121 Tool transparency and literacy for channels people follow.</a></td>
 <td><a href="counters/C00200.md">C00200 Respected figure (influencer) disavows misinfo</a></td>
 <td> </td>
 <td> </td>
