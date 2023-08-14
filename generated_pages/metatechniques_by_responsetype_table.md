@@ -10,7 +10,7 @@
 <td>D06</td>
 <td>D07</td>
 <td>TOTALS</td></tr><tr>
-<td><a href="../generated_pages/metatechniques/M001.md">M001 resilience</a></td>
+<td><a href="../generated_pages/metatechniques/M001.md">M001 Resilience</a></td>
 <td>5</td>
 <td>6</td>
 <td>4</td>
@@ -20,7 +20,7 @@
 <td>19</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/metatechniques/M002.md">M002 diversion</a></td>
+<td><a href="../generated_pages/metatechniques/M002.md">M002 Diversion</a></td>
 <td>2</td>
 <td>8</td>
 <td>1</td>
@@ -30,7 +30,7 @@
 <td>14</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/metatechniques/M003.md">M003 daylight</a></td>
+<td><a href="../generated_pages/metatechniques/M003.md">M003 Daylight</a></td>
 <td>3</td>
 <td>4</td>
 <td>3</td>
@@ -40,7 +40,7 @@
 <td>12</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/metatechniques/M004.md">M004 friction</a></td>
+<td><a href="../generated_pages/metatechniques/M004.md">M004 Friction</a></td>
 <td>10</td>
 <td>6</td>
 <td>3</td>
@@ -50,7 +50,7 @@
 <td>19</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/metatechniques/M005.md">M005 removal</a></td>
+<td><a href="../generated_pages/metatechniques/M005.md">M005 Removal</a></td>
 <td>12</td>
 <td>3</td>
 <td>0</td>
@@ -60,7 +60,7 @@
 <td>15</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/metatechniques/M006.md">M006 scoring</a></td>
+<td><a href="../generated_pages/metatechniques/M006.md">M006 Scoring</a></td>
 <td>2</td>
 <td>0</td>
 <td>2</td>
@@ -70,7 +70,7 @@
 <td>6</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/metatechniques/M007.md">M007 metatechnique</a></td>
+<td><a href="../generated_pages/metatechniques/M007.md">M007 Metatechnique</a></td>
 <td>2</td>
 <td>6</td>
 <td>0</td>
@@ -80,7 +80,7 @@
 <td>11</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/metatechniques/M008.md">M008 data pollution</a></td>
+<td><a href="../generated_pages/metatechniques/M008.md">M008 Data Pollution</a></td>
 <td>0</td>
 <td>1</td>
 <td>2</td>
@@ -90,7 +90,7 @@
 <td>4</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/metatechniques/M009.md">M009 dilution</a></td>
+<td><a href="../generated_pages/metatechniques/M009.md">M009 Dilution</a></td>
 <td>0</td>
 <td>4</td>
 <td>2</td>
@@ -100,7 +100,7 @@
 <td>6</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/metatechniques/M010.md">M010 countermessaging</a></td>
+<td><a href="../generated_pages/metatechniques/M010.md">M010 Countermessaging</a></td>
 <td>1</td>
 <td>7</td>
 <td>5</td>
@@ -110,7 +110,7 @@
 <td>14</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/metatechniques/M011.md">M011 verification</a></td>
+<td><a href="../generated_pages/metatechniques/M011.md">M011 Verification</a></td>
 <td>2</td>
 <td>1</td>
 <td>0</td>
@@ -120,7 +120,7 @@
 <td>3</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/metatechniques/M012.md">M012 cleaning</a></td>
+<td><a href="../generated_pages/metatechniques/M012.md">M012 Cleaning</a></td>
 <td>1</td>
 <td>0</td>
 <td>1</td>
@@ -130,7 +130,7 @@
 <td>2</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/metatechniques/M013.md">M013 targeting</a></td>
+<td><a href="../generated_pages/metatechniques/M013.md">M013 Targeting</a></td>
 <td>1</td>
 <td>6</td>
 <td>3</td>
@@ -140,7 +140,7 @@
 <td>11</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/metatechniques/M014.md">M014 reduce resources</a></td>
+<td><a href="../generated_pages/metatechniques/M014.md">M014 Reduce Resources</a></td>
 <td>2</td>
 <td>1</td>
 <td>1</td>

@@ -9,7 +9,7 @@
 </tr>
 <tr>
 <td><a href="actortypes/A001.md">A001</a></td>
-<td>data scientist </td>
+<td>data scientist</td>
 <td>Person who can wrangle data, implement machine learning algorithms etc</td>
 <td>S001, S002, S003, S004, S005, S006, S007, S008, S009, S010</td>
 </tr>
@@ -21,7 +21,7 @@
 </tr>
 <tr>
 <td><a href="actortypes/A003.md">A003</a></td>
-<td>trusted authority </td>
+<td>trusted authority</td>
 <td>Influencer</td>
 <td>S001, S002, S003, S004, S005, S006, S007, S008, S009, S010</td>
 </tr>
@@ -63,13 +63,13 @@
 </tr>
 <tr>
 <td><a href="actortypes/A010.md">A010</a></td>
-<td>religious organisation </td>
+<td>religious organisation</td>
 <td></td>
 <td>S002</td>
 </tr>
 <tr>
 <td><a href="actortypes/A011.md">A011</a></td>
-<td>school </td>
+<td>school</td>
 <td></td>
 <td>S002</td>
 </tr>
@@ -81,7 +81,7 @@
 </tr>
 <tr>
 <td><a href="actortypes/A013.md">A013</a></td>
-<td>content creator </td>
+<td>content creator</td>
 <td></td>
 <td>S006</td>
 </tr>
@@ -111,13 +111,13 @@
 </tr>
 <tr>
 <td><a href="actortypes/A018.md">A018</a></td>
-<td>government </td>
+<td>government</td>
 <td>Government agencies</td>
 <td>S003</td>
 </tr>
 <tr>
 <td><a href="actortypes/A019.md">A019</a></td>
-<td>military </td>
+<td>military</td>
 <td></td>
 <td>S003</td>
 </tr>
@@ -177,25 +177,25 @@
 </tr>
 <tr>
 <td><a href="actortypes/A029.md">A029</a></td>
-<td>server admininistrator </td>
+<td>server admininistrator</td>
 <td></td>
 <td>S008</td>
 </tr>
 <tr>
 <td><a href="actortypes/A030.md">A030</a></td>
-<td>platforms </td>
+<td>platforms</td>
 <td></td>
 <td>S007</td>
 </tr>
 <tr>
 <td><a href="actortypes/A031.md">A031</a></td>
 <td>social media platform adminstrator</td>
-<td>Person with the authority to make changes to algorithms, take down content etc. </td>
+<td>Person with the authority to make changes to algorithms, take down content etc.</td>
 <td>S007</td>
 </tr>
 <tr>
 <td><a href="actortypes/A032.md">A032</a></td>
-<td>social media platform outreach </td>
+<td>social media platform outreach</td>
 <td></td>
 <td>S007</td>
 </tr>

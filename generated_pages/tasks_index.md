@@ -10,13 +10,13 @@
 <tr>
 <td><a href="tasks/TK0001.md">TK0001</a></td>
 <td>Goal setting</td>
-<td>Set the goals for this incident. </td>
+<td>Set the goals for this incident.</td>
 <td>TA01</td>
 </tr>
 <tr>
 <td><a href="tasks/TK0002.md">TK0002</a></td>
 <td>Population research / audience analysis (centre of gravity)</td>
-<td>Research intended audience.  Includes audience segmentation, hot-button issues etc. </td>
+<td>Research intended audience. Includes audience segmentation, hot-button issues etc.</td>
 <td>TA01</td>
 </tr>
 <tr>
