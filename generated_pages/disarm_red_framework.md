@@ -57,7 +57,7 @@
 <td><a href="techniques/T0048.md">T0048 Harass</a></td>
 </tr>
 <tr>
-<td> </td>
+<td><a href="techniques/T0074.001.md">T0074.001 Geopolitical Advantage</a></td>
 <td><a href="techniques/T0075.md">T0075 Dismiss</a></td>
 <td><a href="techniques/T0101.md">T0101 Create Localised Content</a></td>
 <td><a href="techniques/T0019.001.md">T0019.001 Create Fake Research</a></td>
@@ -65,7 +65,7 @@
 <td><a href="techniques/T0042.md">T0042 Seed Kernel of Truth</a></td>
 <td><a href="techniques/T0114.002.md">T0114.002 Traditional Media</a></td>
 <td><a href="techniques/T0057.md">T0057 Organise Events</a></td>
-<td><a href="techniques/T0128.md">T0128 Conceal People</a></td>
+<td><a href="techniques/T0128.md">T0128 Conceal Information Assets</a></td>
 <td><a href="techniques/T0132.002.md">T0132.002 Content Focused</a></td>
 <td><a href="techniques/T0072.002.md">T0072.002 Demographic Segmentation</a></td>
 <td><a href="techniques/T0022.md">T0022 Leverage Conspiracy Theory Narratives</a></td>
@@ -75,7 +75,7 @@
 <td><a href="techniques/T0048.001.md">T0048.001 Boycott/"Cancel" Opponents</a></td>
 </tr>
 <tr>
-<td> </td>
+<td><a href="techniques/T0074.002.md">T0074.002 Domestic Political Advantage</a></td>
 <td><a href="techniques/T0075.001.md">T0075.001 Discredit Credible Sources</a></td>
 <td><a href="techniques/T0102.md">T0102 Leverage Echo Chambers/Filter Bubbles</a></td>
 <td><a href="techniques/T0019.002.md">T0019.002 Hijack Hashtags</a></td>
@@ -93,7 +93,7 @@
 <td><a href="techniques/T0048.002.md">T0048.002 Harass People Based on Identities</a></td>
 </tr>
 <tr>
-<td> </td>
+<td><a href="techniques/T0074.003.md">T0074.003 Economic Advantage</a></td>
 <td><a href="techniques/T0076.md">T0076 Distort</a></td>
 <td><a href="techniques/T0102.001.md">T0102.001 Use Existing Echo Chambers/Filter Bubbles</a></td>
 <td><a href="techniques/T0023.md">T0023 Distort Facts</a></td>
@@ -111,7 +111,7 @@
 <td><a href="techniques/T0048.003.md">T0048.003 Threaten to Dox</a></td>
 </tr>
 <tr>
-<td> </td>
+<td><a href="techniques/T0074.004.md">T0074.004 Ideological Advantage</a></td>
 <td><a href="techniques/T0077.md">T0077 Distract</a></td>
 <td><a href="techniques/T0102.002.md">T0102.002 Create Echo Chambers/Filter Bubbles</a></td>
 <td><a href="techniques/T0023.001.md">T0023.001 Reframe Context</a></td>
@@ -137,7 +137,7 @@
 <td><a href="techniques/T0113.md">T0113 Employ Commercial Analytic Firms</a></td>
 <td><a href="techniques/T0115.003.md">T0115.003 One-Way Direct Posting</a></td>
 <td><a href="techniques/T0126.md">T0126 Encourage Attendance at Events</a></td>
-<td><a href="techniques/T0128.004.md">T0128.004 Launder Accounts</a></td>
+<td><a href="techniques/T0128.004.md">T0128.004 Launder Information Assets</a></td>
 <td><a href="techniques/T0133.002.md">T0133.002 Content</a></td>
 <td><a href="techniques/T0080.md">T0080 Map Target Audience Information Environment</a></td>
 <td><a href="techniques/T0068.md">T0068 Respond to Breaking News Event or Active Crisis</a></td>
@@ -155,7 +155,7 @@
 <td> </td>
 <td><a href="techniques/T0116.md">T0116 Comment or Reply on Content</a></td>
 <td><a href="techniques/T0126.001.md">T0126.001 Call to Action to Attend</a></td>
-<td><a href="techniques/T0128.005.md">T0128.005 Change Names of Accounts</a></td>
+<td><a href="techniques/T0128.005.md">T0128.005 Change Names of Information Assets</a></td>
 <td><a href="techniques/T0133.003.md">T0133.003 Awareness</a></td>
 <td><a href="techniques/T0080.001.md">T0080.001 Monitor Social Media Analytics</a></td>
 <td><a href="techniques/T0082.md">T0082 Develop New Narratives</a></td>
@@ -166,7 +166,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0135.md">T0135 Undermine</a></td>
 <td> </td>
 <td><a href="techniques/T0084.001.md">T0084.001 Use Copypasta</a></td>
 <td><a href="techniques/T0104.001.md">T0104.001 Mainstream Social Networks</a></td>
@@ -184,7 +184,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0135.001.md">T0135.001 Smear</a></td>
 <td> </td>
 <td><a href="techniques/T0084.002.md">T0084.002 Plagiarise Content</a></td>
 <td><a href="techniques/T0104.002.md">T0104.002 Dating Apps</a></td>
@@ -202,7 +202,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0135.002.md">T0135.002 Thwart</a></td>
 <td> </td>
 <td><a href="techniques/T0084.003.md">T0084.003 Deceptively Labelled or Translated</a></td>
 <td><a href="techniques/T0104.003.md">T0104.003 Private/Closed Social Networks</a></td>
@@ -220,7 +220,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0135.003.md">T0135.003 Subvert</a></td>
 <td> </td>
 <td><a href="techniques/T0084.004.md">T0084.004 Appropriate Content</a></td>
 <td><a href="techniques/T0104.004.md">T0104.004 Interest-Based Networks</a></td>
@@ -238,7 +238,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0135.004.md">T0135.004 Polarise</a></td>
 <td> </td>
 <td><a href="techniques/T0085.md">T0085 Develop Text-Based Content</a></td>
 <td><a href="techniques/T0104.005.md">T0104.005 Use Hashtags</a></td>
@@ -256,7 +256,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0136.md">T0136 Cultivate Support</a></td>
 <td> </td>
 <td><a href="techniques/T0085.001.md">T0085.001 Develop AI-Generated Text</a></td>
 <td><a href="techniques/T0104.006.md">T0104.006 Create Dedicated Hashtag</a></td>
@@ -274,7 +274,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0136.001.md">T0136.001 Defend Reputaton</a></td>
 <td> </td>
 <td><a href="techniques/T0085.002.md">T0085.002 Develop False or Altered Documents</a></td>
 <td><a href="techniques/T0105.md">T0105 Media Sharing Networks</a></td>
@@ -292,7 +292,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0136.002.md">T0136.002 Justify Action</a></td>
 <td> </td>
 <td><a href="techniques/T0085.003.md">T0085.003 Develop Inauthentic News Articles</a></td>
 <td><a href="techniques/T0105.001.md">T0105.001 Photo Sharing</a></td>
@@ -310,7 +310,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0136.003.md">T0136.003 Energise Supporters</a></td>
 <td> </td>
 <td><a href="techniques/T0086.md">T0086 Develop Image-Based Content</a></td>
 <td><a href="techniques/T0105.002.md">T0105.002 Video Sharing</a></td>
@@ -328,7 +328,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0136.004.md">T0136.004 Boost Reputation</a></td>
 <td> </td>
 <td><a href="techniques/T0086.001.md">T0086.001 Develop Memes</a></td>
 <td><a href="techniques/T0105.003.md">T0105.003 Audio Sharing</a></td>
@@ -346,7 +346,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0136.005.md">T0136.005 Cultvate Support for Initiative</a></td>
 <td> </td>
 <td><a href="techniques/T0086.002.md">T0086.002 Develop AI-Generated Images (Deepfakes)</a></td>
 <td><a href="techniques/T0106.md">T0106 Discussion Forums</a></td>
@@ -364,7 +364,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0136.006.md">T0136.006 Cultivate Support for Ally</a></td>
 <td> </td>
 <td><a href="techniques/T0086.003.md">T0086.003 Deceptively Edit Images (Cheap Fakes)</a></td>
 <td><a href="techniques/T0106.001.md">T0106.001 Anonymous Message Boards</a></td>
@@ -382,7 +382,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0136.007.md">T0136.007 Recruit Members</a></td>
 <td> </td>
 <td><a href="techniques/T0086.004.md">T0086.004 Aggregate Information into Evidence Collages</a></td>
 <td><a href="techniques/T0107.md">T0107 Bookmarking and Content Curation</a></td>
@@ -400,7 +400,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0136.008.md">T0136.008 Increase Prestige</a></td>
 <td> </td>
 <td><a href="techniques/T0087.md">T0087 Develop Video-Based Content</a></td>
 <td><a href="techniques/T0108.md">T0108 Blogging and Publishing Networks</a></td>
@@ -418,7 +418,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0137.md">T0137 Make Money</a></td>
 <td> </td>
 <td><a href="techniques/T0087.001.md">T0087.001 Develop AI-Generated Videos (Deepfakes)</a></td>
 <td><a href="techniques/T0109.md">T0109 Consumer Review Networks</a></td>
@@ -436,7 +436,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0137.001.md">T0137.001 Generate Ad Revenue</a></td>
 <td> </td>
 <td><a href="techniques/T0087.002.md">T0087.002 Deceptively Edit Video (Cheap Fakes)</a></td>
 <td><a href="techniques/T0110.md">T0110 Formal Diplomatic Channels</a></td>
@@ -454,7 +454,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0137.002.md">T0137.002 Scam</a></td>
 <td> </td>
 <td><a href="techniques/T0088.md">T0088 Develop Audio-Based Content</a></td>
 <td><a href="techniques/T0111.md">T0111 Traditional Media</a></td>
@@ -472,7 +472,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0137.003.md">T0137.003 Raise Funds</a></td>
 <td> </td>
 <td><a href="techniques/T0088.001.md">T0088.001 Develop AI-Generated Audio (Deepfakes)</a></td>
 <td><a href="techniques/T0111.001.md">T0111.001 TV</a></td>
@@ -490,7 +490,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0137.004.md">T0137.004 Sell Items under False Pretences</a></td>
 <td> </td>
 <td><a href="techniques/T0088.002.md">T0088.002 Deceptively Edit Audio (Cheap Fakes)</a></td>
 <td><a href="techniques/T0111.002.md">T0111.002 Newspaper</a></td>
@@ -508,7 +508,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0137.005.md">T0137.005 Extort</a></td>
 <td> </td>
 <td><a href="techniques/T0089.md">T0089 Obtain Private Documents</a></td>
 <td><a href="techniques/T0111.003.md">T0111.003 Radio</a></td>
@@ -526,7 +526,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0137.006.md">T0137.006 Manipulate Stocks</a></td>
 <td> </td>
 <td><a href="techniques/T0089.001.md">T0089.001 Obtain Authentic Documents</a></td>
 <td><a href="techniques/T0112.md">T0112 Email</a></td>
@@ -544,7 +544,7 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0138.md">T0138 Motivate to Act</a></td>
 <td> </td>
 <td><a href="techniques/T0089.002.md">T0089.002 Create Inauthentic Documents</a></td>
 <td> </td>
@@ -562,9 +562,189 @@
 </tr>
 <tr>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0138.001.md">T0138.001 Encourage</a></td>
 <td> </td>
 <td><a href="techniques/T0089.003.md">T0089.003 Alter Authentic Documents</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td><a href="techniques/T0138.002.md">T0138.002 Provoke</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td><a href="techniques/T0138.003.md">T0138.003 Compel</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td><a href="techniques/T0139.md">T0139 Dissuade from Acting</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td><a href="techniques/T0139.001.md">T0139.001 Discourage</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td><a href="techniques/T0139.002.md">T0139.002 Silence</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td><a href="techniques/T0139.003.md">T0139.003 Deter</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td><a href="techniques/T0140.md">T0140 Cause Harm</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td><a href="techniques/T0140.001.md">T0140.001 Defame</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td><a href="techniques/T0140.002.md">T0140.002 Intimidate</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td><a href="techniques/T0140.003.md">T0140.003 Spread Hate</a></td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
