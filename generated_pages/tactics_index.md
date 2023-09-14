@@ -16,7 +16,7 @@
 <tr>
 <td><a href="tactics/TA02.md">TA02</a></td>
 <td>Plan Objectives</td>
-<td>Set clearly defined, measurable, and achievable objectives. Achieving objectives ties execution of tactical tasks to reaching the desired end state. There are four primary considerations: - Each desired effect should link directly to one or more objectives - The effect should be measurable - The objective statement should not specify the way and means of accomplishment - The effect should be distinguishable from the objective it supports as a condition for success, not as another objective or task.</td>
+<td>Set clearly defined, measurable, and achievable objectives. In some cases achieving objectives ties execution of tactical tasks to reaching the desired strategic end state. In other cases, where there is no clearly defined strategic end state, the tactical objective may stand on its own. The objective statement should not specify the way and means of accomplishment but rather the goal the threat actor wishes to achieve. </td>
 <td>P01</td>
 </tr>
 <tr>

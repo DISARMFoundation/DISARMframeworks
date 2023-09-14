@@ -412,7 +412,31 @@
 <tr>
 <td><a href="techniques/T0074.md">T0074</a></td>
 <td>Determine Strategic Ends</td>
-<td>Determining the campaigns goals or objectives. Examples include achieving achieving geopolitical advantage like undermining trust in an adversary, gaining domestic political advantage, achieving financial gain, or attaining a policy change,</td>
+<td>These are the long-term end-states the campaign aims to bring about. They typically involve an advantageous position vis-a-vis competitors in terms of power or influence.  The strategic goal may be to improve or simply to hold one’s position. Competition occurs in the public sphere in the domains of war, diplomacy, politics, economics, and ideology, and can play out between armed groups, nation-states, political parties, corporations, interest groups, or individuals. </td>
+<td>TA01</td>
+</tr>
+<tr>
+<td><a href="techniques/T0074.001.md">T0074.001</a></td>
+<td>Geopolitical Advantage</td>
+<td>Favourable position on the international stage in terms of great power politics or regional rivalry. Geopolitics plays out in the realms of foreign policy, national security, diplomacy, and intelligence. It involves nation-state governments, heads of state, foreign ministers, intergovernmental organisations, and regional security alliances.</td>
+<td>TA01</td>
+</tr>
+<tr>
+<td><a href="techniques/T0074.002.md">T0074.002</a></td>
+<td>Domestic Political Advantage</td>
+<td>Favourable position vis-à-vis national or sub-national political opponents such as political parties, interest groups, politicians, candidates.  </td>
+<td>TA01</td>
+</tr>
+<tr>
+<td><a href="techniques/T0074.003.md">T0074.003</a></td>
+<td>Economic Advantage</td>
+<td>Favourable position domestically or internationally in the realms of commerce, trade, finance, industry. Economics involves nation-states, corporations, banks, trade blocs, industry associations, cartels.  </td>
+<td>TA01</td>
+</tr>
+<tr>
+<td><a href="techniques/T0074.004.md">T0074.004</a></td>
+<td>Ideological Advantage</td>
+<td>Favourable position domestically or internationally in the market for ideas, beliefs, and world views. Competition plays out among faith systems, political systems, and value systems. It can involve sub-national, national or supra-national movements.    </td>
 <td>TA01</td>
 </tr>
 <tr>
@@ -1317,14 +1341,14 @@
 </tr>
 <tr>
 <td><a href="techniques/T0128.md">T0128</a></td>
-<td>Conceal People</td>
-<td>Conceal the identity or provenance of a campaign account and people assets to avoid takedown and attribution.</td>
+<td>Conceal Information Assets</td>
+<td>Conceal the identity or provenance of campaign information assets such as accounts, channels, pages etc. to avoid takedown and attribution.</td>
 <td>TA11</td>
 </tr>
 <tr>
 <td><a href="techniques/T0128.001.md">T0128.001</a></td>
 <td>Use Pseudonyms</td>
-<td>An operation may use pseudonyms, or fake names, to mask the identity of operation accounts, publish anonymous content, or otherwise use falsified personas to conceal identity of the operation. An operation may coordinate pseudonyms across multiple platforms, for example, by writing an article under a pseudonym and then posting a link to the article on social media on an account with the same falsified name.</td>
+<td>An operation may use pseudonyms, or fake names, to mask the identity of operational accounts, channels, pages etc., publish anonymous content, or otherwise use falsified personas to conceal the identity of the operation. An operation may coordinate pseudonyms across multiple platforms, for example, by writing an article under a pseudonym and then posting a link to the article on social media on an account, channel, or page with the same falsified name.</td>
 <td>TA11</td>
 </tr>
 <tr>
@@ -1341,14 +1365,14 @@
 </tr>
 <tr>
 <td><a href="techniques/T0128.004.md">T0128.004</a></td>
-<td>Launder Accounts</td>
-<td>Account laundering occurs when an influence operation acquires control of previously legitimate online accounts from third parties through sale or exchange and often in contravention of terms of use. Influence operations use laundered accounts to reach target audience members from an existing information channel and complicate attribution.</td>
+<td>Launder Information Assets</td>
+<td>Laundering occurs when an influence operation acquires control of previously legitimate information assets such as accounts, channels, pages etc. from third parties through sale or exchange and often in contravention of terms of use. Influence operations use laundered assets to reach target audience members from within an existing information community and to complicate attribution.</td>
 <td>TA11</td>
 </tr>
 <tr>
 <td><a href="techniques/T0128.005.md">T0128.005</a></td>
-<td>Change Names of Accounts</td>
-<td>Changing names of accounts occurs when an operation changes the name of an existing social media account. An operation may change the names of its accounts throughout an operation to avoid detection or alter the names of newly acquired or repurposed accounts to fit operational narratives.</td>
+<td>Change Names of Information Assets</td>
+<td>Changing names or brand names of information assets such as accounts, channels, pages etc. An operation may change the names or brand names of its assets throughout an operation to avoid detection or alter the names of newly acquired or repurposed assets to fit operational narratives.</td>
 <td>TA11</td>
 </tr>
 <tr>
@@ -1548,5 +1572,203 @@
 <td>Social Media Engagement</td>
 <td>Monitor and evaluate social media engagement in misinformation incidents.</td>
 <td>TA12</td>
+</tr>
+<tr>
+<td><a href="techniques/T0135.md">T0135</a></td>
+<td>Undermine</td>
+<td>Weaken, debilitate, or subvert a target or their actions. An influence operation may be designed to disparage an opponent; sabotage an opponent’s systems or processes; compromise an opponent’s relationships or support system; impair an opponent’s capability; or thwart an opponent’s initiative.   </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0135.001.md">T0135.001</a></td>
+<td>Smear</td>
+<td>Denigrate, disparage, or discredit an opponent. This is a common tactical objective in political campaigns with a larger strategic goal. It differs from efforts to harm a target through defamation.</td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0135.002.md">T0135.002</a></td>
+<td>Thwart</td>
+<td>Prevent the successful outcome of a policy, operation, or initiative. Actors conduct influence operations to stymie or foil proposals, plans, or courses of action which are not in their interest.  </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0135.003.md">T0135.003</a></td>
+<td>Subvert</td>
+<td>Sabotage, destroy, or damage a system, process, or relationship. The classic example is the Soviet strategy of “active measures” involving deniable covert activities such as political influence, the use of front organisations, the orchestration of domestic unrest, and the spread of disinformation.  </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0135.004.md">T0135.004</a></td>
+<td>Polarise</td>
+<td>To cause a target audience to divide into two completely opposing groups. This is a special case of subversion. To divide and conquer is an age-old approach to subverting and overcoming an enemy.</td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0136.md">T0136</a></td>
+<td>Cultivate Support</td>
+<td>Grow or maintain the base of support for the actor, ally, or action. This includes hard core recruitment, managing alliances, and generating or maintaining sympathy among a wider audience, including reputation management and public relations.  Sub-techniques assume support for actor (self) unless otherwise specified. </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0136.001.md">T0136.001</a></td>
+<td>Defend Reputaton</td>
+<td>Preserve a positive perception in the public’s mind following an accusation or adverse event. When accused of a wrongful act, an actor may engage in denial, counter accusations, whataboutism, or conspiracy theories to distract public attention and attempt to maintain a positive image. </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0136.002.md">T0136.002</a></td>
+<td>Justify Action</td>
+<td>To convince others to exonerate you of a perceived wrongdoing. When an actor finds it untenable to deny doing something, they may attempt to exonerate themselves with disinformation which claims the action was reasonable. This is a special case of “Defend Reputation”. </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0136.003.md">T0136.003</a></td>
+<td>Energise Supporters</td>
+<td>Raise the morale of those who support the organisation or group. Invigorate constituents with zeal for the mission or activity. Terrorist groups, political movements, and cults may indoctrinate their supporters with ideologies that are based on warped versions of religion or cause harm to others.   </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0136.004.md">T0136.004</a></td>
+<td>Boost Reputation</td>
+<td>Elevate the estimation of the actor in the public’s mind. Improve their image or standing. Public relations professionals use persuasive overt communications to achieve this goal; manipulators use covert disinformation. </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0136.005.md">T0136.005</a></td>
+<td>Cultvate Support for Initiative</td>
+<td>Elevate or fortify the public backing for a policy, operation, or idea. Domestic and foreign actors can use artificial means to fabricate or amplify public support for a proposal or action.   </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0136.006.md">T0136.006</a></td>
+<td>Cultivate Support for Ally</td>
+<td>Elevate or fortify the public backing for a partner. Governments may interfere in other countries’ elections by covertly favouring a party or candidate aligned with their interests. They may also mount an influence operation to bolster the reputation of an ally under attack.    </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0136.007.md">T0136.007</a></td>
+<td>Recruit Members</td>
+<td>Motivate followers to join or subscribe as members of the team. Organisations may mount recruitment drives that use propaganda to entice sympathisers to sign up.   </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0136.008.md">T0136.008</a></td>
+<td>Increase Prestige</td>
+<td>Improve personal standing within a community. Gain fame, approbation, or notoriety. Conspiracy theorists, those with special access, and ideologues can gain prominence in a community by propagating disinformation, leaking confidential documents, or spreading hate. </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0137.md">T0137</a></td>
+<td>Make Money</td>
+<td>Profit from disinformation, conspiracy theories, or online harm. In some cases, the sole objective is financial gain, in other cases the objective is both financial and political. Making money may also be a way to sustain a political campaign. </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0137.001.md">T0137.001</a></td>
+<td>Generate Ad Revenue</td>
+<td>Earn income from digital advertisements published alongside inauthentic content. Conspiratorial, false, or provocative content drives internet traffic. Content owners earn money from impressions of, or clicks on, or conversions of ads published on their websites, social media profiles, or streaming services, or ads published when their content appears in search engine results. Fraudsters simulate impressions, clicks, and conversions, or they spin up inauthentic sites or social media profiles just to generate ad revenue. Conspiracy theorists and political operators generate ad revenue as a byproduct of their operation or as a means of sustaining their campaign.    </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0137.002.md">T0137.002</a></td>
+<td>Scam</td>
+<td>Defraud a target or trick a target into doing something that benefits the attacker. A typical scam is where a fraudster convinces a target to pay for something without the intention of ever delivering anything in return. Alternatively, the fraudster may promise benefits which never materialise, such as a fake cure. Criminals often exploit a fear or crisis or generate a sense of urgency. They may use deepfakes to impersonate authority figures or individuals in distress.    </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0137.003.md">T0137.003</a></td>
+<td>Raise Funds</td>
+<td>Solicit donations for a cause. Popular conspiracy theorists can attract financial contributions from their followers. Fighting back against the establishment is a popular crowdfunding narrative. </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0137.004.md">T0137.004</a></td>
+<td>Sell Items under False Pretences</td>
+<td>Offer products for sale under false pretences. Campaigns may hijack or create causes built on disinformation to sell promotional merchandise. Or charlatans may amplify victims’ unfounded fears to sell them items of questionable utility such as supplements or survival gear.  </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0137.005.md">T0137.005</a></td>
+<td>Extort</td>
+<td>Coerce money or favours from a target by threatening to expose or corrupt information. Ransomware criminals typically demand money. Intelligence agencies demand national secrets. Sexual predators demand favours. The leverage may be critical, sensitive, or embarrassing information.    </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0137.006.md">T0137.006</a></td>
+<td>Manipulate Stocks</td>
+<td>Artificially inflate or deflate the price of stocks or other financial instruments and then trade on these to make profit. The most common securities fraud schemes are called “pump and dump” and “poop and scoop”. </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0138.md">T0138</a></td>
+<td>Motivate to Act</td>
+<td>Persuade, impel, or provoke the target to behave in a specific manner favourable to the attacker. Some common behaviours are joining, subscribing, voting, buying, demonstrating, fighting, retreating, resigning, boycotting.</td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0138.001.md">T0138.001</a></td>
+<td>Encourage</td>
+<td>Inspire, animate, or exhort a target to act. An actor can use propaganda, disinformation, or conspiracy theories to stimulate a target to act in its interest.   </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0138.002.md">T0138.002</a></td>
+<td>Provoke</td>
+<td>Instigate, incite, or arouse a target to act. Social media manipulators exploit moral outrage to propel targets to spread hate, take to the streets to protest, or engage in acts of violence.  </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0138.003.md">T0138.003</a></td>
+<td>Compel</td>
+<td>Force target to take an action or to stop taking an action it has already started. Actors can use the threat of reputational damage alongside military or economic threats to compel a target.</td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0139.md">T0139</a></td>
+<td>Dissuade from Acting</td>
+<td>Discourage, deter, or inhibit the target from actions which would be unfavourable to the attacker. The actor may want the target to refrain from voting, buying, fighting, or supplying. </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0139.001.md">T0139.001</a></td>
+<td>Discourage</td>
+<td>Inspire, animate, or exhort a target to act. An actor can use propaganda, disinformation, or conspiracy theories to stimulate a target to act in its interest.   </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0139.002.md">T0139.002</a></td>
+<td>Silence</td>
+<td>Intimidate or incentivise target into remaining silent or prevent target from speaking out. A threat actor may cow a target into silence as a special case of deterrence. Or they may buy the target’s silence. Or they may repress or restrict the target’s speech.   </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0139.003.md">T0139.003</a></td>
+<td>Deter</td>
+<td>Prevent target from taking an action for fear of the consequences. Deterrence occurs in the mind of the target, who fears they will be worse off if they take an action than if they don’t. When making threats, aggressors may bluff, feign irrationality, or engage in brinksmanship.</td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0140.md">T0140</a></td>
+<td>Cause Harm</td>
+<td>Persecute, malign, or inflict pain upon a target. The objective of a campaign may be to cause fear or emotional distress in a target. In some cases, harm is instrumental to achieving a primary objective, as in coercion, repression, or intimidation. In other cases, harm may be inflicted for the satisfaction of the perpetrator, as in revenge or sadistic cruelty. </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0140.001.md">T0140.001</a></td>
+<td>Defame</td>
+<td>Attempt to damage the target’s personal reputation by impugning their character. This can range from subtle attempts to misrepresent or insinuate, to obvious attempts to denigrate or disparage, to blatant attempts to malign or vilify. Slander applies to oral expression. Libel applies to written or pictorial material. Defamation is often carried out by online trolls.  </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0140.002.md">T0140.002</a></td>
+<td>Intimidate</td>
+<td>Coerce, bully, or frighten the target. An influence operation may use intimidation to compel the target to act against their will. Or the goal may be to frighten or even terrify the target into silence or submission. In some cases, the goal is simply to make the victim suffer.   </td>
+<td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0140.003.md">T0140.003</a></td>
+<td>Spread Hate</td>
+<td>Publish and/or propagate demeaning, derisive, or humiliating content targeting an individual or group of individuals with the intent to cause emotional, psychological, or physical distress. Hate speech can cause harm directly or incite others to harm the target. It often aims to stigmatise the target by singling out immutable characteristics such as colour, race, religion, national or ethnic origin, gender, gender identity, sexual orientation, age, disease, or mental or physical disability. Thus, promoting hatred online may involve racism, antisemitism, Islamophobia, xenophobia, sexism, misogyny, homophobia, transphobia, ageism, ableism, or any combination thereof. Motivations for hate speech range from group preservation to ideological superiority to the unbridled infliction of suffering.       </td>
+<td>TA02</td>
 </tr>
 </table>
