@@ -1,20 +1,20 @@
 {
     "type": "bundle",
-    "id": "bundle--c2e56072-d068-442b-8599-b7b43eb6c27e",
+    "id": "bundle--a01d3fc5-1428-4647-9770-9bff1015ac5e",
     "objects": [
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
             "id": "x-mitre-tactic--3fa1ad18-ca09-40ed-be45-f210b9c07e0b",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.897179Z",
-            "modified": "2022-07-03T23:52:02.897179Z",
+            "created": "2023-09-25T16:17:56.53302Z",
+            "modified": "2023-09-25T16:17:56.53302Z",
             "name": "Drive Offline Activity",
-            "description": "Move incident/campaign from online to offline. Encouraging users to move from the platform on which they initially viewed operation content and engage in the physical information space or offline world. This may include operation-aligned rallies or protests, radio, newspaper, or billboards. An influence  operation may drive to physical forums to diversify its information channels and facilitate spaces where the target audience can engage with both operation content and like-minded individuals offline.  ",
+            "description": "Move incident/campaign from online to offline. Encouraging users to move from the platform on which they initially viewed operation content and engage in the physical information space or offline world. This may include operation-aligned rallies or protests, radio, newspaper, or billboards. An influence operation may drive to physical forums to diversify its information channels and facilitate spaces where the target audience can engage with both operation content and like-minded individuals offline.",
             "external_references": [
                 {
                     "source_name": "DISARM",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA10.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/tactics/TA10.md",
                     "external_id": "TA10"
                 }
             ],

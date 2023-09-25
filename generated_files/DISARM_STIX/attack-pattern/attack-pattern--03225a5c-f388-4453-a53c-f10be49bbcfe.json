@@ -1,26 +1,26 @@
 {
     "type": "bundle",
-    "id": "bundle--45429bfc-5cd2-4a58-bace-33531dceb222",
+    "id": "bundle--e6ea6a34-499b-4e95-a58f-f5bcf2730aa1",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--03225a5c-f388-4453-a53c-f10be49bbcfe",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.922934Z",
-            "modified": "2022-07-03T23:52:02.922934Z",
-            "name": "Post Across Platform",
-            "description": "An influence operation may post content across platforms to spread narratives and content to new communities within the target audiences or to new target audiences. Posting across platforms can also remove opposition and context, helping the narrative spread with less opposition on the cross-posted platform. ",
+            "created": "2023-09-25T16:17:56.675524Z",
+            "modified": "2023-09-25T16:17:56.675524Z",
+            "name": "Post across Platform",
+            "description": "An influence operation may post content across platforms to spread narratives and content to new communities within the target audiences or to new target audiences. Posting across platforms can also remove opposition and context, helping the narrative spread with less opposition on the cross-posted platform.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "maximize-exposure"
+                    "phase_name": "maximise-exposure"
                 }
             ],
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0119.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0119.002.md",
                     "external_id": "T0119.002"
                 }
             ],

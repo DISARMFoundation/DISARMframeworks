@@ -1,26 +1,26 @@
 {
     "type": "bundle",
-    "id": "bundle--e57a4fab-0ac1-49a9-892d-ed64156bcbbc",
+    "id": "bundle--5ca66bd4-ed79-4ead-88ea-36f1294d5efb",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--ce5b400c-6f82-4095-936b-617857800da8",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.904752Z",
-            "modified": "2022-07-03T23:52:02.904752Z",
+            "created": "2023-09-25T16:17:56.57582Z",
+            "modified": "2023-09-25T16:17:56.57582Z",
             "name": "Conduct Swarming",
-            "description": "Swarming refers to the coordinated use of accounts to overwhelm the information space with  operation content. Unlike information flooding, swarming centers exclusively around a specific  event or actor rather than a general narrative. Swarming relies on \u201chorizontal communication\u201d  between information assets rather than a top-down, vertical command-and-control approach. ",
+            "description": "Swarming refers to the coordinated use of accounts to overwhelm the information space with operation content. Unlike information flooding, swarming centres exclusively around a specific event or actor rather than a general narrative. Swarming relies on \u201chorizontal communication\u201d between information assets rather than a top-down, vertical command-and-control approach.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "maximize-exposure"
+                    "phase_name": "maximise-exposure"
                 }
             ],
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0049.005.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0049.005.md",
                     "external_id": "T0049.005"
                 }
             ],

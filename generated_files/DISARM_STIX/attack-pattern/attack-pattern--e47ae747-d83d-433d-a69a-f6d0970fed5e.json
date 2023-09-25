@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--ccf99dbe-67d1-4aaa-b62f-a55aa93ca3b8",
+    "id": "bundle--02b94b31-cb67-4cb8-a37a-9146ecf39d51",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--e47ae747-d83d-433d-a69a-f6d0970fed5e",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.903754Z",
-            "modified": "2022-07-03T23:52:02.903754Z",
+            "created": "2023-09-25T16:17:56.566443Z",
+            "modified": "2023-09-25T16:17:56.566443Z",
             "name": "Harass People Based on Identities",
             "description": "Examples include social identities like gender, sexuality, race, ethnicity, religion, ability, nationality, etc. as well as roles and occupations like journalist or activist.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0048.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0048.002.md",
                     "external_id": "T0048.002"
                 }
             ],

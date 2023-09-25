@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--b974f407-504d-4527-bbc4-19f0dd3bc498",
+    "id": "bundle--e2e6d326-3446-4f86-a276-0db37244d8f0",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--a3fe7752-dbfa-4918-912f-c492c8593c68",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.910369Z",
-            "modified": "2022-07-03T23:52:02.910369Z",
-            "name": "Plagiarize Content",
-            "description": "An influence operation may take content from other sources without proper attribution. This content may be either misinformation content shared by others without malicious intent but now leveraged by the campaign as disinformation or disinformation content from other sources. ",
+            "created": "2023-09-25T16:17:56.614129Z",
+            "modified": "2023-09-25T16:17:56.614129Z",
+            "name": "Plagiarise Content",
+            "description": "An influence operation may take content from other sources without proper attribution. This content may be either misinformation content shared by others without malicious intent but now leveraged by the campaign as disinformation or disinformation content from other sources.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0084.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0084.002.md",
                     "external_id": "T0084.002"
                 }
             ],

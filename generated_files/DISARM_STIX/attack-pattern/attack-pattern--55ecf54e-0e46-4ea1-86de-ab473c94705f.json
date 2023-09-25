@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--7ceef31a-204b-4a4b-8ea3-9e3a66c4f0ce",
+    "id": "bundle--5bb27388-10ac-4aa1-9cd7-acee2a6f05d6",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--55ecf54e-0e46-4ea1-86de-ab473c94705f",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.930174Z",
-            "modified": "2022-07-03T23:52:02.930174Z",
+            "created": "2023-09-25T16:17:56.706462Z",
+            "modified": "2023-09-25T16:17:56.706462Z",
             "name": "Awareness",
-            "description": "Measure current system state with respect to the effectiveness of influencing awareness. ",
+            "description": "Measure current system state with respect to the effectiveness of influencing awareness.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0133.003.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0133.003.md",
                     "external_id": "T0133.003"
                 }
             ],

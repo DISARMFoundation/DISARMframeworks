@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--18304820-d144-470d-a4ee-944d385e1391",
+    "id": "bundle--02b32e47-3984-4297-8fef-f06530c586af",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--6e525f48-d8d6-4484-8838-208eb00bd2a8",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.919364Z",
-            "modified": "2022-07-03T23:52:02.919364Z",
+            "created": "2023-09-25T16:17:56.651001Z",
+            "modified": "2023-09-25T16:17:56.651001Z",
             "name": "Media Sharing Networks",
             "description": "Media sharing networks refer to services whose primary function is the hosting and sharing of specific forms of media. Examples include Instagram, Snapchat, TikTok, Youtube, SoundCloud.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0105.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0105.md",
                     "external_id": "T0105"
                 }
             ],

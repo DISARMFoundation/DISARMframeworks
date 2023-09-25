@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--affdd3ec-7e78-4211-abeb-4dad030e33f2",
+    "id": "bundle--95c3fc87-7435-4aae-8216-a46fdfb04511",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--bc2a6754-44d0-4fe3-8461-e3a4af895835",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.903507Z",
-            "modified": "2022-07-03T23:52:02.903507Z",
+            "created": "2023-09-25T16:17:56.564812Z",
+            "modified": "2023-09-25T16:17:56.564812Z",
             "name": "Harass",
-            "description": "Threatening or harassing believers of opposing narratives refers to the use of intimidation  techniques, including cyberbullying and doxing, to discourage opponents from voicing their  dissent. An influence operation may threaten or harass believers of the opposing narratives to  deter individuals from posting or proliferating conflicting content.  ",
+            "description": "Threatening or harassing believers of opposing narratives refers to the use of intimidation techniques, including cyberbullying and doxing, to discourage opponents from voicing their dissent. An influence operation may threaten or harass believers of the opposing narratives to deter individuals from posting or proliferating conflicting content.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0048.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0048.md",
                     "external_id": "T0048"
                 }
             ],

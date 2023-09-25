@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--dad1ad2b-2d9d-4c27-a758-61d6a7e6193c",
+    "id": "bundle--dd40fae1-f26f-446a-b03f-794f1a006cef",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--8f545c7e-f2ba-4541-9004-dbe50fcc0b0f",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.915416Z",
-            "modified": "2022-07-03T23:52:02.915416Z",
-            "name": "Utilize Butterfly Attacks",
-            "description": "Butterfly attacks occur when operators pretend to be members of a certain social group, usually  a group that struggles for representation. An influence operation may mimic a group to insert  controversial statements into the discourse, encourage the spread of operation content, or promote harassment among group members. Unlike astroturfing, butterfly attacks aim to  infiltrate and discredit existing grassroots movements, organizations, and media campaigns.  ",
+            "created": "2023-09-25T16:17:56.632569Z",
+            "modified": "2023-09-25T16:17:56.632569Z",
+            "name": "Utilise Butterfly Attacks",
+            "description": "Butterfly attacks occur when operators pretend to be members of a certain social group, usually a group that struggles for representation. An influence operation may mimic a group to insert controversial statements into the discourse, encourage the spread of operation content, or promote harassment among group members. Unlike astroturfing, butterfly attacks aim to infiltrate and discredit existing grassroots movements, organisations, and media campaigns.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0094.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0094.002.md",
                     "external_id": "T0094.002"
                 }
             ],

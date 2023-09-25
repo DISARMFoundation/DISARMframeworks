@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--84091783-129a-4c11-886f-9d6aa8b90990",
+    "id": "bundle--bdc3ba08-8c9d-4d7f-bcc5-5a620b27d880",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--b4ed63e5-e8db-4057-989b-3ff5ad8c000c",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.901411Z",
-            "modified": "2022-07-03T23:52:02.901411Z",
+            "created": "2023-09-25T16:17:56.552273Z",
+            "modified": "2023-09-25T16:17:56.552273Z",
             "name": "Amplify Existing Conspiracy Theory Narratives",
-            "description": "An influence operation may amplify an existing conspiracy theory narrative that aligns with its incident or campaign goals. By amplifying existing conspiracy theory narratives, operators can leverage the power of the existing communities that support and propagate those theories without needing to expend resources creating new narratives or building momentum and buy in around new narratives. ",
+            "description": "An influence operation may amplify an existing conspiracy theory narrative that aligns with its incident or campaign goals. By amplifying existing conspiracy theory narratives, operators can leverage the power of the existing communities that support and propagate those theories without needing to expend resources creating new narratives or building momentum and buy in around new narratives.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0022.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0022.001.md",
                     "external_id": "T0022.001"
                 }
             ],

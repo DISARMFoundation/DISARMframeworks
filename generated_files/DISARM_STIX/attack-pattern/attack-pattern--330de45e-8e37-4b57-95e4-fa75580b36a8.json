@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--c6b0966c-faf8-4d27-a655-3bfff4279031",
+    "id": "bundle--e4fe910d-5992-4c9e-9700-21358991eca5",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--330de45e-8e37-4b57-95e4-fa75580b36a8",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.911262Z",
-            "modified": "2022-07-03T23:52:02.911262Z",
+            "created": "2023-09-25T16:17:56.616791Z",
+            "modified": "2023-09-25T16:17:56.616791Z",
             "name": "Develop Inauthentic News Articles",
-            "description": "An influence operation may develop false or misleading news articles aligned to their campaign goals or narratives. ",
+            "description": "An influence operation may develop false or misleading news articles aligned to their campaign goals or narratives.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0085.003.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0085.003.md",
                     "external_id": "T0085.003"
                 }
             ],

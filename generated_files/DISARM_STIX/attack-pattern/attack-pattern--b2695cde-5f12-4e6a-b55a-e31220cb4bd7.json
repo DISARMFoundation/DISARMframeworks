@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--43730e6c-9a57-415f-b81e-3fc7792cd721",
+    "id": "bundle--60669336-2f0a-447d-b0b8-21dfb56b789b",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--b2695cde-5f12-4e6a-b55a-e31220cb4bd7",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.913637Z",
-            "modified": "2022-07-03T23:52:02.913637Z",
+            "created": "2023-09-25T16:17:56.624865Z",
+            "modified": "2023-09-25T16:17:56.624865Z",
             "name": "Create Bot Accounts",
-            "description": "Bots refer to autonomous internet users that interact with systems or other users while imitating  traditional human behavior. Bots use a variety of tools to stay active without direct human  operation, including artificial intelligence and big data analytics. For example, an individual may  program a Twitter bot to retweet a tweet every time it contains a certain keyword or hashtag. An  influence operation may use bots to increase its exposure and artificially promote its content  across the internet without dedicating additional time or human resources.  \nAmplifier bots promote operation content through reposts, shares, and likes to increase the  content\u2019s online popularity. Hacker bots are traditionally covert bots running on computer  scripts that rarely engage with users and work primarily as agents of larger cyberattacks, such as  a Distributed Denial of Service attacks. Spammer bots are programmed to post content on  social media or in comment sections, usually as a supplementary tool. Impersonator bots102 pose as real people by mimicking human behavior, complicating their detection.  ",
+            "description": "Bots refer to autonomous internet users that interact with systems or other users while imitating traditional human behaviour. Bots use a variety of tools to stay active without direct human operation, including artificial intelligence and big data analytics. For example, an individual may programme a Twitter bot to retweet a tweet every time it contains a certain keyword or hashtag. An influence operation may use bots to increase its exposure and artificially promote its content across the internet without dedicating additional time or human resources. Amplifier bots promote operation content through reposts, shares, and likes to increase the content\u2019s online popularity. Hacker bots are traditionally covert bots running on computer scripts that rarely engage with users and work primarily as agents of larger cyberattacks, such as a Distributed Denial of Service attacks. Spammer bots are programmed to post content on social media or in comment sections, usually as a supplementary tool. Impersonator bots102 pose as real people by mimicking human behaviour, complicating their detection.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0090.003.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0090.003.md",
                     "external_id": "T0090.003"
                 }
             ],

@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--c81db8b4-8a35-4fc8-9c44-865d8803ac95",
+    "id": "bundle--e85d853b-c1df-42eb-bdef-64412710540c",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--032f24c1-bc1d-457a-8f43-6c5fc416f733",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.901769Z",
-            "modified": "2022-07-03T23:52:02.901769Z",
+            "created": "2023-09-25T16:17:56.555276Z",
+            "modified": "2023-09-25T16:17:56.555276Z",
             "name": "Reframe Context",
-            "description": "Reframing context refers to removing an event from its surrounding context to distort its  intended meaning. Rather than deny that an event occurred, reframing context frames an event in  a manner that may lead the target audience to draw a different conclusion about its intentions. ",
+            "description": "Reframing context refers to removing an event from its surrounding context to distort its intended meaning. Rather than deny that an event occurred, reframing context frames an event in a manner that may lead the target audience to draw a different conclusion about its intentions.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0023.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0023.001.md",
                     "external_id": "T0023.001"
                 }
             ],

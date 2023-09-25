@@ -1,15 +1,15 @@
 {
     "type": "bundle",
-    "id": "bundle--7b01501b-257b-46f9-b278-21b6664802b7",
+    "id": "bundle--69525480-fc30-4a32-a824-af4f4d89403f",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--d1f55d22-f487-48ec-a810-a9f74220c02e",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.905521Z",
-            "modified": "2022-07-03T23:52:02.905521Z",
-            "name": "Play the long game",
+            "created": "2023-09-25T16:17:56.580613Z",
+            "modified": "2023-09-25T16:17:56.580613Z",
+            "name": "Play the Long Game",
             "description": "Play the long game refers to two phenomena: 1. To plan messaging and allow it to grow organically without conducting your own amplification. This is methodical and slow and requires years for the message to take hold 2. To develop a series of seemingly disconnected messaging narratives that eventually combine into a new narrative.",
             "kill_chain_phases": [
                 {
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0059.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0059.md",
                     "external_id": "T0059"
                 }
             ],

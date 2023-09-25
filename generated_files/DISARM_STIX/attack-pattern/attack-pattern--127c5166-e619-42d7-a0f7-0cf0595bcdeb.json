@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--aebb1f3a-c627-4b6d-8870-d2f7c0bf054b",
+    "id": "bundle--0e81137e-8125-468e-a3e2-8dd6433586c9",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--127c5166-e619-42d7-a0f7-0cf0595bcdeb",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.903875Z",
-            "modified": "2022-07-03T23:52:02.903875Z",
+            "created": "2023-09-25T16:17:56.567162Z",
+            "modified": "2023-09-25T16:17:56.567162Z",
             "name": "Threaten to Dox",
-            "description": "Doxing refers to online harassment in which individuals publicly release private information  about another individual, including names, addresses, employment information, pictures, family  members, and other sensitive information. An influence operation may dox its opposition to  encourage individuals aligned with operation narratives to harass the doxed individuals  themselves or otherwise discourage the doxed individuals from posting or proliferating  conflicting content. ",
+            "description": "Doxing refers to online harassment in which individuals publicly release private information about another individual, including names, addresses, employment information, pictures, family members, and other sensitive information. An influence operation may dox its opposition to encourage individuals aligned with operation narratives to harass the doxed individuals themselves or otherwise discourage the doxed individuals from posting or proliferating conflicting content.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0048.003.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0048.003.md",
                     "external_id": "T0048.003"
                 }
             ],

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--f9fc58f8-a0cb-4e54-8fb4-8f222dd96521",
+    "id": "bundle--f4a3b32c-1437-49d9-9562-44365d821643",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5dc224b1-c69e-496d-91f7-e8ce4fd3f166",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.929558Z",
-            "modified": "2022-07-03T23:52:02.929558Z",
+            "created": "2023-09-25T16:17:56.703094Z",
+            "modified": "2023-09-25T16:17:56.703094Z",
             "name": "Content Focused",
             "description": "Measure the performance of campaign content",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0132.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0132.002.md",
                     "external_id": "T0132.002"
                 }
             ],

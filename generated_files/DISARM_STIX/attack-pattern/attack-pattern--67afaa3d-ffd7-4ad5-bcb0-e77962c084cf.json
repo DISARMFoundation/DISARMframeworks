@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--e041ed51-3698-46ec-9ac4-da3bce1de8d9",
+    "id": "bundle--aa31e868-418a-4836-b2bf-050619a0f944",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--67afaa3d-ffd7-4ad5-bcb0-e77962c084cf",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.929128Z",
-            "modified": "2022-07-03T23:52:02.929128Z",
+            "created": "2023-09-25T16:17:56.700839Z",
+            "modified": "2023-09-25T16:17:56.700839Z",
             "name": "Post Borderline Content",
             "description": "Post Borderline Content",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0131.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0131.002.md",
                     "external_id": "T0131.002"
                 }
             ],

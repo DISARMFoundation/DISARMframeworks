@@ -1,15 +1,15 @@
 {
     "type": "bundle",
-    "id": "bundle--80955536-c35d-40f8-90f5-2543f319485f",
+    "id": "bundle--868c0639-537c-441d-ab54-0e5383b8ff6a",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--8f3f1d6f-beda-4f20-b1a7-2d087ae453f7",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.916135Z",
-            "modified": "2022-07-03T23:52:02.916135Z",
-            "name": "Backstop personas ",
+            "created": "2023-09-25T16:17:56.634846Z",
+            "modified": "2023-09-25T16:17:56.634846Z",
+            "name": "Backstop Personas",
             "description": "Create other assets/dossier/cover/fake relationships and/or connections or documents, sites, bylines, attributions, to establish/augment/inflate crediblity/believability",
             "kill_chain_phases": [
                 {
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0097.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0097.001.md",
                     "external_id": "T0097.001"
                 }
             ],

@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--4c302abd-8798-47b5-964d-fafa96c66c23",
+    "id": "bundle--3165ade8-3117-44a0-8dcd-0e7e14bfb541",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--e5c15a9f-2944-4370-9091-a9f61fdbb0ce",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.916783Z",
-            "modified": "2022-07-03T23:52:02.916783Z",
+            "created": "2023-09-25T16:17:56.636729Z",
+            "modified": "2023-09-25T16:17:56.636729Z",
             "name": "Astroturfing",
-            "description": "Astroturfing occurs when an influence operation disguises itself as grassroots movement or  organization that supports operation narratives. Unlike butterfly attacks, astroturfing aims to  increase the appearance of popular support for the operation cause and does not infiltrate existing  groups to discredit their objectives.  ",
+            "description": "Astroturfing occurs when an influence operation disguises itself as grassroots movement or organisation that supports operation narratives. Unlike butterfly attacks, astroturfing aims to increase the appearance of popular support for the operation cause and does not infiltrate existing groups to discredit their objectives.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0099.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0099.001.md",
                     "external_id": "T0099.001"
                 }
             ],

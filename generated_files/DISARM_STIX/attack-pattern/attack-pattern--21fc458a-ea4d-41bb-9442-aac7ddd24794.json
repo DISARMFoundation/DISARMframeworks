@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--39462655-edde-4533-ae7e-236689d25188",
+    "id": "bundle--420c71d5-845b-47eb-bf0b-6bcf4df6d48f",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--21fc458a-ea4d-41bb-9442-aac7ddd24794",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.899769Z",
-            "modified": "2022-07-03T23:52:02.899769Z",
-            "name": "Prepare fundraising campaigns",
-            "description": "Fundraising campaigns refer to an influence operation\u2019s systematic effort to seek financial  support for a charity, cause, or other enterprise using online activities that further promote  operation information pathways while raising a profit. Many influence operations have engaged  in crowdfunding services on platforms including Tipee, Patreon, and GoFundMe. An operation  may use its previously prepared fundraising campaigns (see: Develop Information Pathways) to  promote operation messaging while raising money to support its activities.  ",
+            "created": "2023-09-25T16:17:56.546873Z",
+            "modified": "2023-09-25T16:17:56.546873Z",
+            "name": "Prepare Fundraising Campaigns",
+            "description": "Fundraising campaigns refer to an influence operation\u2019s systematic effort to seek financial support for a charity, cause, or other enterprise using online activities that further promote operation information pathways while raising a profit. Many influence operations have engaged in crowdfunding services on platforms including Tipee, Patreon, and GoFundMe. An operation may use its previously prepared fundraising campaigns (see: Develop Information Pathways) to promote operation messaging while raising money to support its activities.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0014.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0014.md",
                     "external_id": "T0014"
                 }
             ],

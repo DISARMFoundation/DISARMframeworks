@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--6cd0498d-e8f3-408c-a685-207a0b6abfc3",
+    "id": "bundle--82c9fd97-0d92-4e45-b1f0-8b5ab4b118ec",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--c7017017-4965-4dad-a970-e748b7080a19",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.915065Z",
-            "modified": "2022-07-03T23:52:02.915065Z",
+            "created": "2023-09-25T16:17:56.631463Z",
+            "modified": "2023-09-25T16:17:56.631463Z",
             "name": "Acquire Botnets",
-            "description": "A botnet is a group of bots that can function in coordination with each other. ",
+            "description": "A botnet is a group of bots that can function in coordination with each other.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0093.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0093.002.md",
                     "external_id": "T0093.002"
                 }
             ],

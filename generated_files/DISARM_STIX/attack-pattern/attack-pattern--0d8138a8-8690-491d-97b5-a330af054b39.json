@@ -1,15 +1,15 @@
 {
     "type": "bundle",
-    "id": "bundle--e771e853-02c2-48b4-874a-0b98be257aa8",
+    "id": "bundle--903a86a1-9de1-457f-8945-90e0c8bfc2e1",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--0d8138a8-8690-491d-97b5-a330af054b39",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.903115Z",
-            "modified": "2022-07-03T23:52:02.903115Z",
-            "name": "Use fake experts",
+            "created": "2023-09-25T16:17:56.563226Z",
+            "modified": "2023-09-25T16:17:56.563226Z",
+            "name": "Use Fake Experts",
             "description": "Use the fake experts that were set up during Establish Legitimacy. Pseudo-experts are disposable assets that often appear once and then disappear. Give \"credility\" to misinformation. Take advantage of credential bias",
             "kill_chain_phases": [
                 {
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0045.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0045.md",
                     "external_id": "T0045"
                 }
             ],

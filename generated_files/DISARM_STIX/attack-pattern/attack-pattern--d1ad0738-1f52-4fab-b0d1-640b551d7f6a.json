@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--53599558-de51-49ea-93f9-5d2bd699aad6",
+    "id": "bundle--132699de-4664-4b33-9b9f-6440f6d029da",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--d1ad0738-1f52-4fab-b0d1-640b551d7f6a",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.898988Z",
-            "modified": "2022-07-03T23:52:02.898988Z",
+            "created": "2023-09-25T16:17:56.542561Z",
+            "modified": "2023-09-25T16:17:56.542561Z",
             "name": "Create Inauthentic Social Media Pages and Groups",
             "description": "Create key social engineering assets needed to amplify content, manipulate algorithms, fool public and/or specific incident/campaign targets. Computational propaganda depends substantially on false perceptions of credibility and acceptance. By creating fake users and groups with a variety of interests and commitments, attackers can ensure that their messages both come from trusted sources and appear more widely adopted than they actually are.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0007.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0007.md",
                     "external_id": "T0007"
                 }
             ],

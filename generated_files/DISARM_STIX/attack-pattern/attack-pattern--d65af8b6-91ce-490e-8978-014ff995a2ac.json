@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--a94c0882-0e41-4127-b598-56be321abdfa",
+    "id": "bundle--b2b12627-0bcf-4e94-88f2-b60f51881330",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--d65af8b6-91ce-490e-8978-014ff995a2ac",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.92402Z",
-            "modified": "2022-07-03T23:52:02.92402Z",
+            "created": "2023-09-25T16:17:56.683514Z",
+            "modified": "2023-09-25T16:17:56.683514Z",
             "name": "Delete Opposing Content",
-            "description": "Deleting opposing content refers to the removal of content that conflicts with operational  narratives from selected platforms. An influence operation may delete opposing content to  censor contradictory information from the target audience, allowing operation narratives to take  priority in the information space.",
+            "description": "Deleting opposing content refers to the removal of content that conflicts with operational narratives from selected platforms. An influence operation may delete opposing content to censor contradictory information from the target audience, allowing operation narratives to take priority in the information space.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0123.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0123.001.md",
                     "external_id": "T0123.001"
                 }
             ],

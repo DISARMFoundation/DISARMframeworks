@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--c0010070-58b8-4182-8548-417f18ee5ca6",
+    "id": "bundle--cde4db38-441d-4e6d-8411-7f350443e05c",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--8c7832cb-8877-4f54-8e05-7e6df9a3d2b4",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.91274Z",
-            "modified": "2022-07-03T23:52:02.91274Z",
+            "created": "2023-09-25T16:17:56.621185Z",
+            "modified": "2023-09-25T16:17:56.621185Z",
             "name": "Obtain Private Documents",
             "description": "Procuring documents that are not publicly available, by whatever means -- whether legal or illegal, highly-resourced or less so. These documents can include authentic non-public documents, authentic non-public documents have been altered, or inauthentic documents intended to appear as if they are authentic non-public documents. All of these types of documents can be \"leaked\" during later stages in the operation.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0089.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0089.md",
                     "external_id": "T0089"
                 }
             ],

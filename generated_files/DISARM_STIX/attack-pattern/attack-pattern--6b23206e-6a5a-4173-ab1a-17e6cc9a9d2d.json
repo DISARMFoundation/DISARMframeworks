@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--b88c5b33-d827-4630-a835-f73835ef3551",
+    "id": "bundle--a627b3b0-c083-4415-981d-7c40e404c61f",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--6b23206e-6a5a-4173-ab1a-17e6cc9a9d2d",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.902946Z",
-            "modified": "2022-07-03T23:52:02.902946Z",
-            "name": "Seed distortions",
-            "description": "Try a wide variety of messages in the early hours surrounding an incident or event, to give a misleading account or impression. ",
+            "created": "2023-09-25T16:17:56.562924Z",
+            "modified": "2023-09-25T16:17:56.562924Z",
+            "name": "Seed Distortions",
+            "description": "Try a wide variety of messages in the early hours surrounding an incident or event, to give a misleading account or impression.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0044.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0044.md",
                     "external_id": "T0044"
                 }
             ],

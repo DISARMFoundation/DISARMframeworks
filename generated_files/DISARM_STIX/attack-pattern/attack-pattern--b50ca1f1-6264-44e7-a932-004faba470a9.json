@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--0b888b52-91c5-4bd4-a454-7f8514dcb902",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--b50ca1f1-6264-44e7-a932-004faba470a9",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2023-09-25T14:19:03.30243Z",
+            "modified": "2023-09-25T14:19:03.30243Z",
+            "name": "Ideological Advantage",
+            "description": "Favourable position domestically or internationally in the market for ideas, beliefs, and world views. Competition plays out among faith systems, political systems, and value systems. It can involve sub-national, national or supra-national movements.    ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-strategy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0074.004.md",
+                    "external_id": "T0074.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

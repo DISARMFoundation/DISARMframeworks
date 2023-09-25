@@ -1,26 +1,26 @@
 {
     "type": "bundle",
-    "id": "bundle--442e59ce-6c4f-4947-8359-f52fb4f624e2",
+    "id": "bundle--be3f8fbe-aa12-48ad-8fb3-49794258e3bf",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--89b88c22-0686-4d28-9c2b-e0c6ac31a4ab",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.923669Z",
-            "modified": "2022-07-03T23:52:02.923669Z",
+            "created": "2023-09-25T16:17:56.681531Z",
+            "modified": "2023-09-25T16:17:56.681531Z",
             "name": "Bypass Content Blocking",
-            "description": "Bypassing content blocking refers to actions taken to circumvent network security measures that  prevent users from accessing certain servers, resources, or other online spheres. An influence  operation may bypass content blocking to proliferate its content on restricted areas of the  internet. Common strategies for bypassing content blocking include:\n- Altering IP addresses to avoid IP filtering  \n- Using a Virtual Private Network (VPN) to avoid IP filtering \n- Using a Content Delivery Network (CDN) to avoid IP filtering \n- Enabling encryption to bypass packet inspection blocking \n- Manipulating text to avoid filtering by keywords \n- Posting content on multiple platforms to avoid platform-specific removals - Using local facilities or modified DNS servers to avoid DNS filtering ",
+            "description": "Bypassing content blocking refers to actions taken to circumvent network security measures that prevent users from accessing certain servers, resources, or other online spheres. An influence operation may bypass content blocking to proliferate its content on restricted areas of the internet. Common strategies for bypassing content blocking include: - Altering IP addresses to avoid IP filtering - Using a Virtual Private Network (VPN) to avoid IP filtering - Using a Content Delivery Network (CDN) to avoid IP filtering - Enabling encryption to bypass packet inspection blocking - Manipulating text to avoid filtering by keywords - Posting content on multiple platforms to avoid platform-specific removals - Using local facilities or modified DNS servers to avoid DNS filtering",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "maximize-exposure"
+                    "phase_name": "maximise-exposure"
                 }
             ],
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0121.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0121.001.md",
                     "external_id": "T0121.001"
                 }
             ],

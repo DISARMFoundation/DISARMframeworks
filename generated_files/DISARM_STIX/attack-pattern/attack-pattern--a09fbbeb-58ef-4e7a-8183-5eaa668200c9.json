@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--ab045b60-4784-4287-8701-1f41ad404a27",
+    "id": "bundle--aaa67caa-7fcb-41fd-b5d3-a5c484aa35b7",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--a09fbbeb-58ef-4e7a-8183-5eaa668200c9",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.927363Z",
-            "modified": "2022-07-03T23:52:02.927363Z",
+            "created": "2023-09-25T16:17:56.69086Z",
+            "modified": "2023-09-25T16:17:56.69086Z",
             "name": "Delete URLs",
-            "description": "URL deletion occurs when an influence operation completely removes its website registration,  rendering the URL inaccessible. An influence operation may delete its URLs to complicate  attribution or remove online documentation that the operation ever occurred.",
+            "description": "URL deletion occurs when an influence operation completely removes its website registration, rendering the URL inaccessible. An influence operation may delete its URLs to complicate attribution or remove online documentation that the operation ever occurred.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0129.004.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0129.004.md",
                     "external_id": "T0129.004"
                 }
             ],

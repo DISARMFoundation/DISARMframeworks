@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--d1778e44-6aba-493a-a348-c222789d31a5",
+    "id": "bundle--1a0a7cea-9346-4b64-858f-921cf5a91016",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--283453fd-36c5-4d66-b24d-f29ea35fa8a1",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.913361Z",
-            "modified": "2022-07-03T23:52:02.913361Z",
+            "created": "2023-09-25T16:17:56.623306Z",
+            "modified": "2023-09-25T16:17:56.623306Z",
             "name": "Create Anonymous Accounts",
-            "description": "Anonymous accounts or anonymous users refer to users that access network resources without  providing a username or password. An influence operation may use anonymous accounts to spread content without direct attribution to the operation. ",
+            "description": "Anonymous accounts or anonymous users refer to users that access network resources without providing a username or password. An influence operation may use anonymous accounts to spread content without direct attribution to the operation.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0090.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0090.001.md",
                     "external_id": "T0090.001"
                 }
             ],

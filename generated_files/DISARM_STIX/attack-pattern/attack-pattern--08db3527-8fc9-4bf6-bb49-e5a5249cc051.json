@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--888a9163-0e7b-42a0-bf1a-e931e1602be2",
+    "id": "bundle--36d33f3d-7581-4699-96d5-7aab68125405",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--08db3527-8fc9-4bf6-bb49-e5a5249cc051",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.92688Z",
-            "modified": "2022-07-03T23:52:02.92688Z",
+            "created": "2023-09-25T16:17:56.689689Z",
+            "modified": "2023-09-25T16:17:56.689689Z",
             "name": "Conceal Operational Activity",
             "description": "Conceal the campaign's operational activity to avoid takedown and attribution.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0129.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0129.md",
                     "external_id": "T0129"
                 }
             ],

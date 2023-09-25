@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--86018d97-4567-44a3-aa90-bbaa9508afd3",
+    "id": "bundle--995f0482-f315-44ff-a701-5e1d764887fb",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--0461a925-3bb7-466c-a7ae-40aee015f403",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.918805Z",
-            "modified": "2022-07-03T23:52:02.918805Z",
+            "created": "2023-09-25T16:17:56.648664Z",
+            "modified": "2023-09-25T16:17:56.648664Z",
             "name": "Private/Closed Social Networks",
-            "description": "An audio livestream refers to an online audio broadcast capability that allows for real-time communication to closed or open networks. Examples include Twitter Spaces, ",
+            "description": "Social networks that are not open to people outside of family, friends, neighbours, or co-workers. Non-work-related examples include Couple, FamilyWall, 23snaps, and Nextdoor.  Some of the larger social network platforms enable closed communities: examples are Instagram Close Friends and Twitter (X) Circle. Work-related examples of private social networks include LinkedIn, Facebook Workplace, and enterprise communication platforms such as Slack or Microsoft Teams.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0104.003.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0104.003.md",
                     "external_id": "T0104.003"
                 }
             ],

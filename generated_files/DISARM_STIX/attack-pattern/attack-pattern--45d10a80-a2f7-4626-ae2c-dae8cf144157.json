@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--26b59b11-8cec-421d-b817-fe497eddee32",
+    "id": "bundle--c736365e-18c7-4c46-adb4-c8abd29b935e",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--45d10a80-a2f7-4626-ae2c-dae8cf144157",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.908869Z",
-            "modified": "2022-07-03T23:52:02.908869Z",
+            "created": "2023-09-25T16:17:56.607352Z",
+            "modified": "2023-09-25T16:17:56.607352Z",
             "name": "Find Echo Chambers",
-            "description": "Find or plan to create areas (social media groups, search term groups, hashtag groups etc) where individuals only engage with people they agree with. ",
+            "description": "Find or plan to create areas (social media groups, search term groups, hashtag groups etc) where individuals only engage with people they agree with.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0081.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0081.001.md",
                     "external_id": "T0081.001"
                 }
             ],

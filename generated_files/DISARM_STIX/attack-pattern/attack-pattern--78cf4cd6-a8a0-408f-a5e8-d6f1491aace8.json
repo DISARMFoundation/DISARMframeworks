@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--00ffad87-813c-45af-9d32-6421cf0ae786",
+    "id": "bundle--f7321d33-5735-47be-b069-5740727c4d36",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--78cf4cd6-a8a0-408f-a5e8-d6f1491aace8",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.925968Z",
-            "modified": "2022-07-03T23:52:02.925968Z",
+            "created": "2023-09-25T16:17:56.688367Z",
+            "modified": "2023-09-25T16:17:56.688367Z",
             "name": "Use Pseudonyms",
-            "description": "An operation may use pseudonyms, or fake names, to mask the identity of operation accounts,  publish anonymous content, or otherwise use falsified personas to conceal identity of the  operation. An operation may coordinate pseudonyms across multiple platforms, for example, by  writing an article under a pseudonym and then posting a link to the article on social media on an  account with the same falsified name.  ",
+            "description": "An operation may use pseudonyms, or fake names, to mask the identity of operational accounts, channels, pages etc., publish anonymous content, or otherwise use falsified personas to conceal the identity of the operation. An operation may coordinate pseudonyms across multiple platforms, for example, by writing an article under a pseudonym and then posting a link to the article on social media on an account, channel, or page with the same falsified name.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0128.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0128.001.md",
                     "external_id": "T0128.001"
                 }
             ],

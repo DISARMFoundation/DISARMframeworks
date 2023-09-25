@@ -1,15 +1,15 @@
 {
     "type": "bundle",
-    "id": "bundle--8e77e228-7ed8-4692-a6c8-93f7d155e107",
+    "id": "bundle--fc1dec97-52be-4de5-b394-3c5e4a75fc83",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--90ca8c39-a644-4007-b3d6-68fabc90b531",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.903382Z",
-            "modified": "2022-07-03T23:52:02.903382Z",
-            "name": "Censor social media as a political force",
+            "created": "2023-09-25T16:17:56.564472Z",
+            "modified": "2023-09-25T16:17:56.564472Z",
+            "name": "Censor Social Media as a Political Force",
             "description": "Use political influence or the power of state to stop critical social media comments. Government requested/driven content take downs (see Google Transperancy reports).",
             "kill_chain_phases": [
                 {
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0047.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0047.md",
                     "external_id": "T0047"
                 }
             ],

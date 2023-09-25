@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--6da0e4cc-4d15-4454-88fe-5e05b5f41cba",
+    "id": "bundle--e3de4a3b-78e1-458b-b410-44c260185b18",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--47fb2b79-fab3-421f-b989-47ee312f727d",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.914471Z",
-            "modified": "2022-07-03T23:52:02.914471Z",
-            "name": "Create Organizations",
-            "description": "Influence operations may establish organizations with legitimate or falsified hierarchies, staff, and content to structure operation assets, provide a sense of legitimacy to the operation, or provide institutional backing to operation activities.",
+            "created": "2023-09-25T16:17:56.629682Z",
+            "modified": "2023-09-25T16:17:56.629682Z",
+            "name": "Create Organisations",
+            "description": "Influence operations may establish organisations with legitimate or falsified hierarchies, staff, and content to structure operation assets, provide a sense of legitimacy to the operation, or provide institutional backing to operation activities.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0092.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0092.001.md",
                     "external_id": "T0092.001"
                 }
             ],

@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--11c21ea4-bb5b-4ab5-9905-8bd1788b8c5d",
+    "id": "bundle--fa5048ed-1955-4214-83c2-ae208d635829",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--e27cf6aa-69bc-434b-ac68-b0164d0b3421",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.910636Z",
-            "modified": "2022-07-03T23:52:02.910636Z",
+            "created": "2023-09-25T16:17:56.615112Z",
+            "modified": "2023-09-25T16:17:56.615112Z",
             "name": "Appropriate Content",
-            "description": "An influence operation may take content from other sources with proper attribution. This content may be either misinformation content shared by others without malicious intent but now leveraged by the campaign as disinformation or disinformation content from other sources. Examples include the appropriation of content from one inauthentic news site to another inauthentic news site or network in ways that align with the originators licensing or terms of service.",
+            "description": "An influence operation may take content from other sources with proper attribution. This content may be either misinformation content shared by others without malicious intent but now leveraged by the campaign as disinformation or disinformation content from other sources. Examples include the appropriation of content from one inauthentic news site to another inauthentic news site or network in ways that align with the originators licencing or terms of service.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0084.004.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0084.004.md",
                     "external_id": "T0084.004"
                 }
             ],

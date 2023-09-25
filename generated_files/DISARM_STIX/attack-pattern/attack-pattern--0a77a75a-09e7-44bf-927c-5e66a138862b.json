@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--d96c1eeb-f9ec-4192-a74e-311b7d649c43",
+    "id": "bundle--74f81e91-b0b4-4914-aea7-66a2d9d87597",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--0a77a75a-09e7-44bf-927c-5e66a138862b",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.925141Z",
-            "modified": "2022-07-03T23:52:02.925141Z",
+            "created": "2023-09-25T16:17:56.68687Z",
+            "modified": "2023-09-25T16:17:56.68687Z",
             "name": "Encourage Attendance at Events",
             "description": "Operation encourages attendance at existing real world event.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0126.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0126.md",
                     "external_id": "T0126"
                 }
             ],

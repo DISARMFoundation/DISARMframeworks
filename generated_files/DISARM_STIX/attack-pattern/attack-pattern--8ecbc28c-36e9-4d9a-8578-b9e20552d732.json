@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--353fa0ed-f1ae-4e88-9674-eaff98a0679f",
+    "id": "bundle--11bffd6c-e7de-4a10-8b02-6de96b9472ce",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--8ecbc28c-36e9-4d9a-8578-b9e20552d732",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.909108Z",
-            "modified": "2022-07-03T23:52:02.909108Z",
+            "created": "2023-09-25T16:17:56.609623Z",
+            "modified": "2023-09-25T16:17:56.609623Z",
             "name": "Identify Existing Prejudices",
-            "description": "An influence operation may exploit existing racial, religious, demographic, or social prejudices to further polarize its target audience from the rest of the public.",
+            "description": "An influence operation may exploit existing racial, religious, demographic, or social prejudices to further polarise its target audience from the rest of the public.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0081.003.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0081.003.md",
                     "external_id": "T0081.003"
                 }
             ],

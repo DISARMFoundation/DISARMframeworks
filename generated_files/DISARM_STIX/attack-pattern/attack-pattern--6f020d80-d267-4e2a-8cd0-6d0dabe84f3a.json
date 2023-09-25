@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--dce7e4d7-3498-442a-9105-aaf11a7378e1",
+    "id": "bundle--92bdf623-6641-40fe-9ff2-a8347f789423",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--6f020d80-d267-4e2a-8cd0-6d0dabe84f3a",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.913219Z",
-            "modified": "2022-07-03T23:52:02.913219Z",
+            "created": "2023-09-25T16:17:56.622758Z",
+            "modified": "2023-09-25T16:17:56.622758Z",
             "name": "Create Inauthentic Accounts",
             "description": "Inauthentic accounts include bot accounts, cyborg accounts, sockpuppet accounts, and anonymous accounts.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0090.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0090.md",
                     "external_id": "T0090"
                 }
             ],

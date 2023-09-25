@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--8d17e392-88c1-486f-801a-6238139bdfcd",
+    "id": "bundle--6f1826a3-a787-490d-a96b-60e958f80524",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5daa2f8a-2460-4cdd-ae55-b70f439a9f51",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.922113Z",
-            "modified": "2022-07-03T23:52:02.922113Z",
+            "created": "2023-09-25T16:17:56.670686Z",
+            "modified": "2023-09-25T16:17:56.670686Z",
             "name": "One-Way Direct Posting",
-            "description": "Direct posting refers to a method of posting content via a one-way messaging service, where the  recipient cannot directly respond to the poster\u2019s messaging. An influence operation may post  directly to promote operation narratives to the target audience without allowing opportunities for  fact-checking or disagreement, creating a false sense of support for the narrative. ",
+            "description": "Direct posting refers to a method of posting content via a one-way messaging service, where the recipient cannot directly respond to the poster\u2019s messaging. An influence operation may post directly to promote operation narratives to the target audience without allowing opportunities for fact-checking or disagreement, creating a false sense of support for the narrative.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0115.003.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0115.003.md",
                     "external_id": "T0115.003"
                 }
             ],

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--22d96e71-c352-4a7c-81ce-192f9c348f15",
+    "id": "bundle--dd1e526a-fa40-431a-a4ce-6fb0ad53b36c",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--58643f4a-7699-4cd7-aafa-76a3e6e09e99",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.914Z",
-            "modified": "2022-07-03T23:52:02.914Z",
+            "created": "2023-09-25T16:17:56.627207Z",
+            "modified": "2023-09-25T16:17:56.627207Z",
             "name": "Recruit Contractors",
             "description": "Operators recruit paid contractor to support the campaign.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0091.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0091.001.md",
                     "external_id": "T0091.001"
                 }
             ],

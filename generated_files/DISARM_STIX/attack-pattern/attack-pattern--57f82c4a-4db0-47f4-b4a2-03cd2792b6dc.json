@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--cae05dd8-4506-465b-9396-c5b650fd5548",
+    "id": "bundle--7b5c5a3a-e4d9-4713-9db8-71fd743f6312",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--57f82c4a-4db0-47f4-b4a2-03cd2792b6dc",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.912237Z",
-            "modified": "2022-07-03T23:52:02.912237Z",
-            "name": "Deceptively Edit Video (Cheap fakes)",
-            "description": "Cheap fakes utilize less sophisticated measures of altering an image, video, or audio for example, slowing, speeding, or cutting footage to create a false context surrounding an image or event.",
+            "created": "2023-09-25T16:17:56.619753Z",
+            "modified": "2023-09-25T16:17:56.619753Z",
+            "name": "Deceptively Edit Video (Cheap Fakes)",
+            "description": "Cheap fakes utilise less sophisticated measures of altering an image, video, or audio for example, slowing, speeding, or cutting footage to create a false context surrounding an image or event.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0087.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0087.002.md",
                     "external_id": "T0087.002"
                 }
             ],

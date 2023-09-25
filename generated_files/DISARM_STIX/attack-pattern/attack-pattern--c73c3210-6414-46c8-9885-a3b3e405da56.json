@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--af03c83b-d962-43ad-ada3-e1437f045356",
+    "id": "bundle--8ea50b48-dda0-4f9f-8855-e92057aa68ac",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--c73c3210-6414-46c8-9885-a3b3e405da56",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.92889Z",
-            "modified": "2022-07-03T23:52:02.92889Z",
+            "created": "2023-09-25T16:17:56.699472Z",
+            "modified": "2023-09-25T16:17:56.699472Z",
             "name": "Exploit TOS/Content Moderation",
             "description": "Exploiting weaknesses in platforms' terms of service and content moderation policies to avoid takedowns and platform actions.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0131.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0131.md",
                     "external_id": "T0131"
                 }
             ],

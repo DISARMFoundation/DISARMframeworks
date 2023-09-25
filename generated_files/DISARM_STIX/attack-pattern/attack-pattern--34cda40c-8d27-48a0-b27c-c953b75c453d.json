@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--862cab2a-3626-4903-b909-c4923ca6facc",
+    "id": "bundle--b0b0c190-2e34-47d8-88de-a4aa362dc713",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--34cda40c-8d27-48a0-b27c-c953b75c453d",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.900315Z",
-            "modified": "2022-07-03T23:52:02.900315Z",
+            "created": "2023-09-25T16:17:56.548384Z",
+            "modified": "2023-09-25T16:17:56.548384Z",
             "name": "Create Clickbait",
-            "description": "Create attention grabbing headlines (outrage, doubt, humor) required to drive traffic & engagement. This is a key asset.",
+            "description": "Create attention grabbing headlines (outrage, doubt, humour) required to drive traffic & engagement. This is a key asset.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0016.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0016.md",
                     "external_id": "T0016"
                 }
             ],

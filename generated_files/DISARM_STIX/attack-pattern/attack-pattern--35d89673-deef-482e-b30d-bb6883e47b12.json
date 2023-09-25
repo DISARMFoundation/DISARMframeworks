@@ -1,15 +1,15 @@
 {
     "type": "bundle",
-    "id": "bundle--ebc27e8d-4062-4597-8889-a2ded622c83c",
+    "id": "bundle--941bb670-63e1-41b6-9395-7d4c33cbad42",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--35d89673-deef-482e-b30d-bb6883e47b12",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.919237Z",
-            "modified": "2022-07-03T23:52:02.919237Z",
-            "name": "Create dedicated hashtag",
+            "created": "2023-09-25T16:17:56.650615Z",
+            "modified": "2023-09-25T16:17:56.650615Z",
+            "name": "Create Dedicated Hashtag",
             "description": "Create a campaign/incident specific hashtag.",
             "kill_chain_phases": [
                 {
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0104.006.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0104.006.md",
                     "external_id": "T0104.006"
                 }
             ],

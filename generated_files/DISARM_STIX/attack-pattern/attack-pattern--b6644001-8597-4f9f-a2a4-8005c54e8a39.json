@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--0198cfca-a710-414c-9707-f0c70069ff90",
+    "id": "bundle--683ff89e-af6c-4cf5-bb17-6f48df2e4e31",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--b6644001-8597-4f9f-a2a4-8005c54e8a39",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.928537Z",
-            "modified": "2022-07-03T23:52:02.928537Z",
-            "name": "Use Shell Organizations",
-            "description": "Use Shell Organizations to conceal sponsorship.",
+            "created": "2023-09-25T16:17:56.698186Z",
+            "modified": "2023-09-25T16:17:56.698186Z",
+            "name": "Use Shell Organisations",
+            "description": "Use Shell Organisations to conceal sponsorship.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0130.003.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0130.003.md",
                     "external_id": "T0130.003"
                 }
             ],

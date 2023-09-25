@@ -1,26 +1,26 @@
 {
     "type": "bundle",
-    "id": "bundle--e713572f-43bd-411e-9bef-ebfef89bdf91",
+    "id": "bundle--59e63da9-73f0-44ac-9111-f773bc4df112",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--0d094dfb-61f9-42d3-a9cf-697fdcbee944",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.922817Z",
-            "modified": "2022-07-03T23:52:02.922817Z",
-            "name": "Post Across Groups",
-            "description": "An influence operation may post content across groups to spread narratives and content to new communities within the target audiences or to new target audiences. ",
+            "created": "2023-09-25T16:17:56.674845Z",
+            "modified": "2023-09-25T16:17:56.674845Z",
+            "name": "Post across Groups",
+            "description": "An influence operation may post content across groups to spread narratives and content to new communities within the target audiences or to new target audiences.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "maximize-exposure"
+                    "phase_name": "maximise-exposure"
                 }
             ],
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0119.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0119.001.md",
                     "external_id": "T0119.001"
                 }
             ],

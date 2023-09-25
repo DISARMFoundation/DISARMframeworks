@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--7261b635-bc44-4670-95f8-dcd41b663f58",
+    "id": "bundle--2823d85e-f8de-4b66-87e7-3f805383f78d",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--1a85cb33-f7cc-49d9-a23f-4b7ce82a2146",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.907478Z",
-            "modified": "2022-07-03T23:52:02.907478Z",
+            "created": "2023-09-25T16:17:56.593982Z",
+            "modified": "2023-09-25T16:17:56.593982Z",
             "name": "Distort",
-            "description": "Twist the narrative. Take information, or artifacts like images, and change the framing around them.",
+            "description": "Twist the narrative. Take information, or artefacts like images, and change the framing around them.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0076.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0076.md",
                     "external_id": "T0076"
                 }
             ],

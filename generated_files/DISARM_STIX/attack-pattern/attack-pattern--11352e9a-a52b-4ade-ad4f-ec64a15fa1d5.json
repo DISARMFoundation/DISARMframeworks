@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--30c7cb3a-74c8-4a87-bd4f-6f6d82375457",
+    "id": "bundle--fca4ebcc-a1a3-493f-9780-de3843f815bc",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--11352e9a-a52b-4ade-ad4f-ec64a15fa1d5",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.917496Z",
-            "modified": "2022-07-03T23:52:02.917496Z",
-            "name": "Create Localized Content",
-            "description": "Localized content refers to content that appeals to a specific community of individuals, often in defined geographic areas. An operation may create localized content using local language and dialects to resonate with its target audience and blend in with other local news and social media. Localized content may help an operation increase legitimacy, avoid detection, and complicate external attribution.",
+            "created": "2023-09-25T16:17:56.640838Z",
+            "modified": "2023-09-25T16:17:56.640838Z",
+            "name": "Create Localised Content",
+            "description": "Localised content refers to content that appeals to a specific community of individuals, often in defined geographic areas. An operation may create localised content using local language and dialects to resonate with its target audience and blend in with other local news and social media. Localised content may help an operation increase legitimacy, avoid detection, and complicate external attribution.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0101.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0101.md",
                     "external_id": "T0101"
                 }
             ],

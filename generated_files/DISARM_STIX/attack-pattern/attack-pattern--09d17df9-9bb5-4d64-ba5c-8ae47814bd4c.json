@@ -1,15 +1,15 @@
 {
     "type": "bundle",
-    "id": "bundle--32a24cb8-328b-4165-bed7-d1cd22469180",
+    "id": "bundle--996d0e8f-1580-403b-b8a8-ae54cfaf9030",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--09d17df9-9bb5-4d64-ba5c-8ae47814bd4c",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.900805Z",
-            "modified": "2022-07-03T23:52:02.900805Z",
-            "name": "Generate information pollution",
+            "created": "2023-09-25T16:17:56.549871Z",
+            "modified": "2023-09-25T16:17:56.549871Z",
+            "name": "Generate Information Pollution",
             "description": "Flood social channels; drive traffic/engagement to all assets; create aura/sense/perception of pervasiveness/consensus (for or against or both simultaneously) of an issue or topic. \"Nothing is true, but everything is possible.\" Akin to astroturfing campaign.",
             "kill_chain_phases": [
                 {
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0019.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0019.md",
                     "external_id": "T0019"
                 }
             ],

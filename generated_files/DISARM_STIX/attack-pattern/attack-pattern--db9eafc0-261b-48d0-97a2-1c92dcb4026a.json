@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--8bb54c08-85b8-45e3-81e5-58aba34d4009",
+    "id": "bundle--3fe52b4f-bdc3-4edb-98ed-a65e6915fc93",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--db9eafc0-261b-48d0-97a2-1c92dcb4026a",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.920736Z",
-            "modified": "2022-07-03T23:52:02.920736Z",
+            "created": "2023-09-25T16:17:56.65666Z",
+            "modified": "2023-09-25T16:17:56.65666Z",
             "name": "TV",
             "description": "TV",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0111.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0111.001.md",
                     "external_id": "T0111.001"
                 }
             ],

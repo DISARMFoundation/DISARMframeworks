@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--8b897270-4165-421d-8298-155f08b8fa38",
+    "id": "bundle--57b9d162-1470-49b9-8921-f4a66278588d",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--36f4dc58-e164-4819-83f8-52875377ff16",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.902601Z",
-            "modified": "2022-07-03T23:52:02.902601Z",
+            "created": "2023-09-25T16:17:56.561668Z",
+            "modified": "2023-09-25T16:17:56.561668Z",
             "name": "Use Encrypted Chat Apps",
             "description": "Examples include Signal, WhatsApp, Discord, Wire, etc.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0043.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0043.001.md",
                     "external_id": "T0043.001"
                 }
             ],

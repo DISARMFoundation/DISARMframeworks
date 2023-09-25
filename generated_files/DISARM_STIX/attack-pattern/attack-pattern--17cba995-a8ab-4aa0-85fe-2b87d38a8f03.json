@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--bdad18f8-dd21-42fc-b32c-c48eaae0200a",
+    "id": "bundle--25c47e08-838b-4399-830b-a62f9b0ca43c",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--17cba995-a8ab-4aa0-85fe-2b87d38a8f03",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.91098Z",
-            "modified": "2022-07-03T23:52:02.91098Z",
+            "created": "2023-09-25T16:17:56.615991Z",
+            "modified": "2023-09-25T16:17:56.615991Z",
             "name": "Develop AI-Generated Text",
-            "description": "AI-generated texts refers to synthetic text composed by computers using text-generating AI  technology. Autonomous generation refers to content created by a bot without human  input, also known as bot-created content generation. Autonomous generation represents  the next step in automation after language generation and may lead to automated  journalism. An influence operation may use read fakes or autonomous generation to  quickly develop and distribute content to the target audience.",
+            "description": "AI-generated texts refers to synthetic text composed by computers using text-generating AI technology. Autonomous generation refers to content created by a bot without human input, also known as bot-created content generation. Autonomous generation represents the next step in automation after language generation and may lead to automated journalism. An influence operation may use read fakes or autonomous generation to quickly develop and distribute content to the target audience.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0085.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0085.001.md",
                     "external_id": "T0085.001"
                 }
             ],

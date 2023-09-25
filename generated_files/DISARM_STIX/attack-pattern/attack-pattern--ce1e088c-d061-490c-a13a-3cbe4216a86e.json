@@ -1,15 +1,15 @@
 {
     "type": "bundle",
-    "id": "bundle--09ec4d0d-fa59-468a-8319-4ad201c58b47",
+    "id": "bundle--dd819c6a-135e-4f77-b117-7274bffbf246",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--ce1e088c-d061-490c-a13a-3cbe4216a86e",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.929009Z",
-            "modified": "2022-07-03T23:52:02.929009Z",
-            "name": "Legacy web content",
+            "created": "2023-09-25T16:17:56.700044Z",
+            "modified": "2023-09-25T16:17:56.700044Z",
+            "name": "Legacy Web Content",
             "description": "Make incident content visible for a long time, e.g. by exploiting platform terms of service, or placing it where it's hard to remove or unlikely to be removed.",
             "kill_chain_phases": [
                 {
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0131.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0131.001.md",
                     "external_id": "T0131.001"
                 }
             ],

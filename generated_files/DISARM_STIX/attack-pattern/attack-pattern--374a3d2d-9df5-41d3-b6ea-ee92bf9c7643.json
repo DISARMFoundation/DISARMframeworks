@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--700e940c-b6dd-4b81-b778-6c0b7f74a835",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--374a3d2d-9df5-41d3-b6ea-ee92bf9c7643",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2023-09-25T14:19:03.5588Z",
+            "modified": "2023-09-25T14:19:03.5588Z",
+            "name": "Cultivate Support",
+            "description": "Grow or maintain the base of support for the actor, ally, or action. This includes hard core recruitment, managing alliances, and generating or maintaining sympathy among a wider audience, including reputation management and public relations.  Sub-techniques assume support for actor (self) unless otherwise specified. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0136.md",
+                    "external_id": "T0136"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

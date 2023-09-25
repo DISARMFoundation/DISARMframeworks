@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--24750639-d759-4190-a9e5-c9554bdea493",
+    "id": "bundle--8a62bbec-e1ea-48e8-b429-e79a36f0dc64",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--adaaa726-50fe-47e2-b92d-de0d65c9250c",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.915181Z",
-            "modified": "2022-07-03T23:52:02.915181Z",
+            "created": "2023-09-25T16:17:56.631807Z",
+            "modified": "2023-09-25T16:17:56.631807Z",
             "name": "Infiltrate Existing Networks",
             "description": "Operators deceptively insert social assets into existing networks as group members in order to influence the members of the network and the wider information environment that the network impacts.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0094.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0094.md",
                     "external_id": "T0094"
                 }
             ],
