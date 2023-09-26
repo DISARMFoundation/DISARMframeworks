@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--097108cb-1b43-43f2-8842-50f8e441f6df",
+    "id": "bundle--06885429-f9cf-4ca5-997d-4df6140844e9",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--3621d01e-eb49-42d7-b646-6427a5693291",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.92443Z",
-            "modified": "2022-07-03T23:52:02.92443Z",
+            "created": "2023-09-25T16:17:56.684273Z",
+            "modified": "2023-09-25T16:17:56.684273Z",
             "name": "Conduct Server Redirect",
-            "description": "A server redirect, also known as a URL redirect, occurs when a server automatically forwards a  user from one URL to another using server-side scripting languages. An influence operation may  conduct a server redirect to divert target audience members from one website to another without  their knowledge. The redirected website may pose as a legitimate source, host malware, or  otherwise aid operation objectives.",
+            "description": "A server redirect, also known as a URL redirect, occurs when a server automatically forwards a user from one URL to another using server-side or client-side scripting languages. An influence operation may conduct a server redirect to divert target audience members from one website to another without their knowledge. The redirected website may pose as a legitimate source, host malware, or otherwise aid operation objectives.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0123.004.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0123.004.md",
                     "external_id": "T0123.004"
                 }
             ],

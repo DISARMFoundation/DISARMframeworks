@@ -1,15 +1,15 @@
 {
     "type": "bundle",
-    "id": "bundle--46abc0a5-1a0f-42e0-94d2-52d93f5bfed3",
+    "id": "bundle--4bf604f5-f60d-47be-accb-b2bdf506a92b",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--cb324e3c-1041-4a26-9fa8-da45547b7dcc",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.930778Z",
-            "modified": "2022-07-03T23:52:02.930778Z",
-            "name": "Social media engagement",
+            "created": "2023-09-25T16:17:56.712817Z",
+            "modified": "2023-09-25T16:17:56.712817Z",
+            "name": "Social Media Engagement",
             "description": "Monitor and evaluate social media engagement in misinformation incidents.",
             "kill_chain_phases": [
                 {
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0134.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0134.002.md",
                     "external_id": "T0134.002"
                 }
             ],

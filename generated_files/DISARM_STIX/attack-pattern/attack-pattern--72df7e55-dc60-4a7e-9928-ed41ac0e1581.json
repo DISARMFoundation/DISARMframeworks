@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--9f22b15d-1dd9-4cc3-be28-4d47c52d99aa",
+    "id": "bundle--91aa0d8f-7beb-4941-8a68-f1938aa1558e",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--72df7e55-dc60-4a7e-9928-ed41ac0e1581",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.922468Z",
-            "modified": "2022-07-03T23:52:02.922468Z",
+            "created": "2023-09-25T16:17:56.672848Z",
+            "modified": "2023-09-25T16:17:56.672848Z",
             "name": "Attract Traditional Media",
             "description": "Deliver content by attracting the attention of traditional media (earned media).",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0117.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0117.md",
                     "external_id": "T0117"
                 }
             ],

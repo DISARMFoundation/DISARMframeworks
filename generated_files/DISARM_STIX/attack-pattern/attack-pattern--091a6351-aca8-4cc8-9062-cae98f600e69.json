@@ -1,26 +1,26 @@
 {
     "type": "bundle",
-    "id": "bundle--ce468a5f-d940-455d-ab07-868be223e7c6",
+    "id": "bundle--de6a7958-0c59-4eae-a7db-26b3f704457a",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--091a6351-aca8-4cc8-9062-cae98f600e69",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.904871Z",
-            "modified": "2022-07-03T23:52:02.904871Z",
+            "created": "2023-09-25T16:17:56.57684Z",
+            "modified": "2023-09-25T16:17:56.57684Z",
             "name": "Conduct Keyword Squatting",
-            "description": "Keyword squatting refers to the creation of online content, such as websites, articles, or social  media accounts, around a specific search engine-optimized term to overwhelm the search results  of that term. An influence may keyword squat to increase content exposure to target audience  members who query the exploited term in a search engine and manipulate the narrative around  the term.  ",
+            "description": "Keyword squatting refers to the creation of online content, such as websites, articles, or social media accounts, around a specific search engine-optimized term to overwhelm the search results of that term. An influence may keyword squat to increase content exposure to target audience members who query the exploited term in a search engine and manipulate the narrative around the term.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "maximize-exposure"
+                    "phase_name": "maximise-exposure"
                 }
             ],
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0049.006.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0049.006.md",
                     "external_id": "T0049.006"
                 }
             ],

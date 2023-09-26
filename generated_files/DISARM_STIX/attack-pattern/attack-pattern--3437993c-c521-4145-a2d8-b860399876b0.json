@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--892a6780-4986-487d-915a-a69664805639",
+    "id": "bundle--70957dad-c2fd-42d4-9b1d-a64946ae8178",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--3437993c-c521-4145-a2d8-b860399876b0",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.927243Z",
-            "modified": "2022-07-03T23:52:02.927243Z",
+            "created": "2023-09-25T16:17:56.690653Z",
+            "modified": "2023-09-25T16:17:56.690653Z",
             "name": "Break Association with Content",
-            "description": "Breaking association with content occurs when an influence operation actively separates itself  from its own content. An influence operation may break association with content by  unfollowing, unliking, or unsharing its content, removing attribution from its content, or  otherwise taking actions that distance the operation from its messaging. An influence operation may break association with its content to complicate attribution or regain credibility for a new operation.  ",
+            "description": "Breaking association with content occurs when an influence operation actively separates itself from its own content. An influence operation may break association with content by unfollowing, unliking, or unsharing its content, removing attribution from its content, or otherwise taking actions that distance the operation from its messaging. An influence operation may break association with its content to complicate attribution or regain credibility for a new operation.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0129.003.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0129.003.md",
                     "external_id": "T0129.003"
                 }
             ],

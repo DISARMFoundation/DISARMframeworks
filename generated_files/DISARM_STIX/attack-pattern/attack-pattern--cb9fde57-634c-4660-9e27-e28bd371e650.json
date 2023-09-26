@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--a784c163-5b9c-419b-a49b-b956dfdb709a",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--cb9fde57-634c-4660-9e27-e28bd371e650",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2023-09-25T16:17:56.731253Z",
+            "modified": "2023-09-25T16:17:56.731253Z",
+            "name": "Cause Harm",
+            "description": "Persecute, malign, or inflict pain upon a target. The objective of a campaign may be to cause fear or emotional distress in a target. In some cases, harm is instrumental to achieving a primary objective, as in coercion, repression, or intimidation. In other cases, harm may be inflicted for the satisfaction of the perpetrator, as in revenge or sadistic cruelty. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0140.md",
+                    "external_id": "T0140"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

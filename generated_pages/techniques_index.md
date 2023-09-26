@@ -1000,7 +1000,7 @@
 <tr>
 <td><a href="techniques/T0104.003.md">T0104.003</a></td>
 <td>Private/Closed Social Networks</td>
-<td>An audio livestream refers to an online audio broadcast capability that allows for real-time communication to closed or open networks. Examples include Twitter Spaces,</td>
+<td>Social networks that are not open to people outside of family, friends, neighbours, or co-workers. Non-work-related examples include Couple, FamilyWall, 23snaps, and Nextdoor.  Some of the larger social network platforms enable closed communities: examples are Instagram Close Friends and Twitter (X) Circle. Work-related examples of private social networks include LinkedIn, Facebook Workplace, and enterprise communication platforms such as Slack or Microsoft Teams.</td>
 <td>TA07</td>
 </tr>
 <tr>
@@ -1270,7 +1270,7 @@
 <tr>
 <td><a href="techniques/T0123.004.md">T0123.004</a></td>
 <td>Conduct Server Redirect</td>
-<td>A server redirect, also known as a URL redirect, occurs when a server automatically forwards a user from one URL to another using server-side scripting languages. An influence operation may conduct a server redirect to divert target audience members from one website to another without their knowledge. The redirected website may pose as a legitimate source, host malware, or otherwise aid operation objectives.</td>
+<td>A server redirect, also known as a URL redirect, occurs when a server automatically forwards a user from one URL to another using server-side or client-side scripting languages. An influence operation may conduct a server redirect to divert target audience members from one website to another without their knowledge. The redirected website may pose as a legitimate source, host malware, or otherwise aid operation objectives.</td>
 <td>TA18</td>
 </tr>
 <tr>

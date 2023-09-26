@@ -1,15 +1,15 @@
 {
     "type": "bundle",
-    "id": "bundle--95bdc81c-8e4e-4714-b84a-eb0e6c72276f",
+    "id": "bundle--16f0f600-500b-4a91-a8ea-c419c4a7bb48",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--1f7181dc-07e7-40a7-9894-8132b8390ba4",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.92526Z",
-            "modified": "2022-07-03T23:52:02.92526Z",
-            "name": "Call to action to attend ",
+            "created": "2023-09-25T16:17:56.687102Z",
+            "modified": "2023-09-25T16:17:56.687102Z",
+            "name": "Call to Action to Attend",
             "description": "Call to action to attend an event",
             "kill_chain_phases": [
                 {
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0126.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0126.001.md",
                     "external_id": "T0126.001"
                 }
             ],

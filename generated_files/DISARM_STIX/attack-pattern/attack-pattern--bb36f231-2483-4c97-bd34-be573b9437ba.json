@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--4ae79a22-efe8-4908-93db-8c109fa4520a",
+    "id": "bundle--5a74cec1-d988-4b3a-92ed-ecd3a6c50798",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--bb36f231-2483-4c97-bd34-be573b9437ba",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.912982Z",
-            "modified": "2022-07-03T23:52:02.912982Z",
+            "created": "2023-09-25T16:17:56.621872Z",
+            "modified": "2023-09-25T16:17:56.621872Z",
             "name": "Create Inauthentic Documents",
             "description": "Create inauthentic documents intended to appear as if they are authentic non-public documents. These documents can be \"leaked\" during later stages in the operation.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0089.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0089.002.md",
                     "external_id": "T0089.002"
                 }
             ],

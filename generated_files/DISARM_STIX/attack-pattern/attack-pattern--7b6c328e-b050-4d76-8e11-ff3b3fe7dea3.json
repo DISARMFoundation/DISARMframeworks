@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--a7355b24-55bb-4f36-b67c-38f5e697fb53",
+    "id": "bundle--de79ee28-a336-4403-bd7e-fae0b546cbdb",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--7b6c328e-b050-4d76-8e11-ff3b3fe7dea3",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.911634Z",
-            "modified": "2022-07-03T23:52:02.911634Z",
+            "created": "2023-09-25T16:17:56.61799Z",
+            "modified": "2023-09-25T16:17:56.61799Z",
             "name": "Develop AI-Generated Images (Deepfakes)",
             "description": "Deepfakes refer to AI-generated falsified photos, videos, or soundbites. An influence operation may use deepfakes to depict an inauthentic situation by synthetically recreating an individual\u2019s face, body, voice, and physical gestures.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0086.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0086.002.md",
                     "external_id": "T0086.002"
                 }
             ],

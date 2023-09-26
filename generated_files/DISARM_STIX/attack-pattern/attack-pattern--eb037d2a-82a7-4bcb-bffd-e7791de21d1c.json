@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--1aff9f64-a469-4d55-964d-ae209586d66b",
+    "id": "bundle--a095c2df-bace-4ae3-bfcb-8df46fe3d9b3",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--eb037d2a-82a7-4bcb-bffd-e7791de21d1c",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.927125Z",
-            "modified": "2022-07-03T23:52:02.927125Z",
+            "created": "2023-09-25T16:17:56.690422Z",
+            "modified": "2023-09-25T16:17:56.690422Z",
             "name": "Generate Content Unrelated to Narrative",
-            "description": "An influence operation may mix its own operation content with legitimate news or external  unrelated content to disguise operational objectives, narratives, or existence. For example, an  operation may generate \"lifestyle\" or \"cuisine\" content alongside regular operation content.  ",
+            "description": "An influence operation may mix its own operation content with legitimate news or external unrelated content to disguise operational objectives, narratives, or existence. For example, an operation may generate \"lifestyle\" or \"cuisine\" content alongside regular operation content.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0129.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0129.002.md",
                     "external_id": "T0129.002"
                 }
             ],

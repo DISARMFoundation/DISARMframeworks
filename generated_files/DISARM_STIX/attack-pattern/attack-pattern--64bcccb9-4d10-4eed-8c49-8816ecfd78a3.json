@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--5247e3d0-7e11-4b90-a793-fed18c970b0a",
+    "id": "bundle--fa8feff0-2822-4fe2-bb3d-269bd0b5d163",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--64bcccb9-4d10-4eed-8c49-8816ecfd78a3",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.915892Z",
-            "modified": "2022-07-03T23:52:02.915892Z",
-            "name": "Outsource Content Creation to External Organizations",
-            "description": "An influence operation may outsource content creation to external companies to avoid  attribution, increase the rate of content creation, or improve content quality, i.e., by employing an organization that can create content in the target audience\u2019s native language. Employed  organizations may include marketing companies for tailored advertisements or external content  farms for high volumes of targeted media.  ",
+            "created": "2023-09-25T16:17:56.634211Z",
+            "modified": "2023-09-25T16:17:56.634211Z",
+            "name": "Outsource Content Creation to External Organisations",
+            "description": "An influence operation may outsource content creation to external companies to avoid attribution, increase the rate of content creation, or improve content quality, i.e., by employing an organisation that can create content in the target audience\u2019s native language. Employed organisations may include marketing companies for tailored advertisements or external content farms for high volumes of targeted media.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0096.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0096.002.md",
                     "external_id": "T0096.002"
                 }
             ],

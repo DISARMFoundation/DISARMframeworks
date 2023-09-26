@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--ca033e0b-a47f-496c-8716-487ad682f01f",
+    "id": "bundle--c417b21d-cb16-49d7-8789-09121c474c55",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--1997947a-7e08-4ea9-802c-85391d561266",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.92175Z",
-            "modified": "2022-07-03T23:52:02.92175Z",
+            "created": "2023-09-25T16:17:56.667424Z",
+            "modified": "2023-09-25T16:17:56.667424Z",
             "name": "Post Content",
-            "description": "Delivering content by posting via owned media (assets that the operator controls). ",
+            "description": "Delivering content by posting via owned media (assets that the operator controls).",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0115.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0115.md",
                     "external_id": "T0115"
                 }
             ],

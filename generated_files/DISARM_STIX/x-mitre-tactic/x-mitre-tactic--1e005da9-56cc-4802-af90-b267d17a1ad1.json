@@ -1,20 +1,20 @@
 {
     "type": "bundle",
-    "id": "bundle--6aca19bb-f423-45d1-a5aa-24b7d064f927",
+    "id": "bundle--17a1290c-49c8-4ef3-a4e4-6af21ccb96e1",
     "objects": [
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
             "id": "x-mitre-tactic--1e005da9-56cc-4802-af90-b267d17a1ad1",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.897618Z",
-            "modified": "2022-07-03T23:52:02.897618Z",
+            "created": "2023-09-25T16:17:56.534552Z",
+            "modified": "2023-09-25T16:17:56.534552Z",
             "name": "Target Audience Analysis",
-            "description": "Identifying and analyzing the target audience examines target audience member locations,  political affiliations, financial situations, and other attributes that an influence operation may incorporate into its messaging strategy. During this tactic, influence operations may also identify  existing similarities and differences between target audience members to unite like groups and  divide opposing groups. Identifying and analyzing target audience members allows influence operations to tailor  operation strategy and content to their analysis. ",
+            "description": "Identifying and analysing the target audience examines target audience member locations, political affiliations, financial situations, and other attributes that an influence operation may incorporate into its messaging strategy. During this tactic, influence operations may also identify existing similarities and differences between target audience members to unite like groups and divide opposing groups. Identifying and analysing target audience members allows influence operations to tailor operation strategy and content to their analysis.",
             "external_references": [
                 {
                     "source_name": "DISARM",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA13.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/tactics/TA13.md",
                     "external_id": "TA13"
                 }
             ],

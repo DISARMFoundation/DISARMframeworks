@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--e6ad6ff3-227f-4b13-9e2e-d2f81081aa33",
+    "id": "bundle--c7a4867f-44f9-4ee4-b36a-7b26437ea139",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--c4213e65-a7cc-42a5-a3a7-2d8040258625",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.914352Z",
-            "modified": "2022-07-03T23:52:02.914352Z",
+            "created": "2023-09-25T16:17:56.629289Z",
+            "modified": "2023-09-25T16:17:56.629289Z",
             "name": "Build Network",
-            "description": "Operators build their own network, creating links between accounts -- whether authentic or inauthentic -- in order amplify and promote narratives and artifacts, and encourage further growth of ther network, as well as the ongoing sharing and engagement with operational content.",
+            "description": "Operators build their own network, creating links between accounts -- whether authentic or inauthentic -- in order amplify and promote narratives and artefacts, and encourage further growth of ther network, as well as the ongoing sharing and engagement with operational content.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0092.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0092.md",
                     "external_id": "T0092"
                 }
             ],

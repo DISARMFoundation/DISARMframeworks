@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--9d6d2f6e-2e6a-43d9-bdba-af9566bd8a58",
+    "id": "bundle--ab87e5c2-32ad-41df-af71-14f4483f792a",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--00a91e2d-2e09-4e94-bae6-cef6102eae99",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.918207Z",
-            "modified": "2022-07-03T23:52:02.918207Z",
+            "created": "2023-09-25T16:17:56.646696Z",
+            "modified": "2023-09-25T16:17:56.646696Z",
             "name": "Video Livestream",
             "description": "A video livestream refers to an online video broadcast capability that allows for real-time communication to closed or open networks.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0103.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0103.001.md",
                     "external_id": "T0103.001"
                 }
             ],

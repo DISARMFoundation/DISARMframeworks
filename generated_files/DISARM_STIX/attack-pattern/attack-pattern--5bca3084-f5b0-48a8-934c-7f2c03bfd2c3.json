@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--a4497703-db3b-4d02-a8b0-e2bb97649650",
+    "id": "bundle--74a6b91e-a11b-444c-8f76-968b1b1d815e",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5bca3084-f5b0-48a8-934c-7f2c03bfd2c3",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.926441Z",
-            "modified": "2022-07-03T23:52:02.926441Z",
-            "name": "Change Names of Accounts",
-            "description": "Changing names of accounts occurs when an operation changes the name of an existing social  media account. An operation may change the names of its accounts throughout an operation to  avoid detection or alter the names of newly acquired or repurposed accounts to fit operational  narratives.  ",
+            "created": "2023-09-25T16:17:56.689297Z",
+            "modified": "2023-09-25T16:17:56.689297Z",
+            "name": "Change Names of Information Assets",
+            "description": "Changing names or brand names of information assets such as accounts, channels, pages etc. An operation may change the names or brand names of its assets throughout an operation to avoid detection or alter the names of newly acquired or repurposed assets to fit operational narratives.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0128.005.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0128.005.md",
                     "external_id": "T0128.005"
                 }
             ],

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--5defbbbd-27ae-4817-abb9-794447feb2da",
+    "id": "bundle--771d2485-b85e-4bd5-be3c-c3d451431b36",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--eb66afed-6c29-4947-a422-c380c5caeda5",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.920852Z",
-            "modified": "2022-07-03T23:52:02.920852Z",
+            "created": "2023-09-25T16:17:56.657178Z",
+            "modified": "2023-09-25T16:17:56.657178Z",
             "name": "Newspaper",
             "description": "Newspaper",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0111.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0111.002.md",
                     "external_id": "T0111.002"
                 }
             ],

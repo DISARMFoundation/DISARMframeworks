@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--e1b6cb01-685c-4876-8570-a7deb127e5d8",
+    "id": "bundle--27f24af6-5ab4-4c85-93ab-01f9471ed60c",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--d522f417-ba0e-4e2d-ae96-df2c1fd607e6",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.914948Z",
-            "modified": "2022-07-03T23:52:02.914948Z",
+            "created": "2023-09-25T16:17:56.631104Z",
+            "modified": "2023-09-25T16:17:56.631104Z",
             "name": "Fund Proxies",
-            "description": "An influence operation may fund proxies, or external entities that work for the operation. An  operation may recruit/train users with existing sympathies towards the operation\u2019s narratives  and/or goals as proxies. Funding proxies serves various purposes including: \n- Diversifying operation locations to complicate attribution  \n- Reducing the workload for direct operation assets  ",
+            "description": "An influence operation may fund proxies, or external entities that work for the operation. An operation may recruit/train users with existing sympathies towards the operation\u2019s narratives and/or goals as proxies. Funding proxies serves various purposes including: - Diversifying operation locations to complicate attribution - Reducing the workload for direct operation assets",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0093.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0093.001.md",
                     "external_id": "T0093.001"
                 }
             ],

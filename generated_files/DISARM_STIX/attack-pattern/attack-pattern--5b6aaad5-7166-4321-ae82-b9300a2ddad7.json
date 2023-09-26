@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--a5428380-25a6-42aa-a500-945a75ccd40e",
+    "id": "bundle--a4ef5834-7ecc-4cab-93c6-811e38a071f4",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5b6aaad5-7166-4321-ae82-b9300a2ddad7",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.912358Z",
-            "modified": "2022-07-03T23:52:02.912358Z",
-            "name": "Develop Audio-based Content",
-            "description": "Creating and editing false or misleading audio artifacts, often aligned with one or more specific narratives, for use in a disinformation campaign. This may include creating completely new audio content, repurposing existing audio artifacts (including cheap fakes), or using AI-generated audio creation and editing technologies (including deepfakes).",
+            "created": "2023-09-25T16:17:56.620115Z",
+            "modified": "2023-09-25T16:17:56.620115Z",
+            "name": "Develop Audio-Based Content",
+            "description": "Creating and editing false or misleading audio artefacts, often aligned with one or more specific narratives, for use in a disinformation campaign. This may include creating completely new audio content, repurposing existing audio artefacts (including cheap fakes), or using AI-generated audio creation and editing technologies (including deepfakes).",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0088.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0088.md",
                     "external_id": "T0088"
                 }
             ],

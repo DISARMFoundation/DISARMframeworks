@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--a921ccfe-d93e-4846-819f-96271109f49b",
+    "id": "bundle--c8297efb-0b46-466b-9ce3-4a414785ec85",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--bb8da71f-108a-4c46-a1ef-d24ef1c8a661",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.909716Z",
-            "modified": "2022-07-03T23:52:02.909716Z",
+            "created": "2023-09-25T16:17:56.611284Z",
+            "modified": "2023-09-25T16:17:56.611284Z",
             "name": "Identify Media System Vulnerabilities",
-            "description": "An influence operation may exploit existing weaknesses in a target\u2019s media system. These  weaknesses may include existing biases among media agencies, vulnerability to false news  agencies on social media, or existing distrust of traditional media sources. An existing distrust  among the public in the media system\u2019s credibility holds high potential for exploitation by an  influence operation when establishing alternative news agencies to spread operation content. ",
+            "description": "An influence operation may exploit existing weaknesses in a target\u2019s media system. These weaknesses may include existing biases among media agencies, vulnerability to false news agencies on social media, or existing distrust of traditional media sources. An existing distrust among the public in the media system\u2019s credibility holds high potential for exploitation by an influence operation when establishing alternative news agencies to spread operation content.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0081.008.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0081.008.md",
                     "external_id": "T0081.008"
                 }
             ],

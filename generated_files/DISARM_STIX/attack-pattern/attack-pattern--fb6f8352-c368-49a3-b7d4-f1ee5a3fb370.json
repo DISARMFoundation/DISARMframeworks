@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--9ec7aa8a-421b-4e7f-a187-f614555a380b",
+    "id": "bundle--6d2e5846-b54e-4cbe-9550-226d843f1212",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--fb6f8352-c368-49a3-b7d4-f1ee5a3fb370",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.921986Z",
-            "modified": "2022-07-03T23:52:02.921986Z",
+            "created": "2023-09-25T16:17:56.669719Z",
+            "modified": "2023-09-25T16:17:56.669719Z",
             "name": "Post Violative Content to Provoke Takedown and Backlash",
             "description": "Post Violative Content to Provoke Takedown and Backlash.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0115.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0115.002.md",
                     "external_id": "T0115.002"
                 }
             ],

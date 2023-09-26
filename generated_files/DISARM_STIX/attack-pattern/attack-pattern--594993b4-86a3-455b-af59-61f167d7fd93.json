@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--3456a8a0-101b-4ffb-955c-255e5bfaf1ed",
+    "id": "bundle--93304b10-2943-4cfc-a7d6-9bb61490f830",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--594993b4-86a3-455b-af59-61f167d7fd93",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.909466Z",
-            "modified": "2022-07-03T23:52:02.909466Z",
+            "created": "2023-09-25T16:17:56.610649Z",
+            "modified": "2023-09-25T16:17:56.610649Z",
             "name": "Identify Wedge Issues",
-            "description": "A wedge issue is a divisive political issue, usually concerning a social phenomenon, that  divides individuals along a defined line. An influence operation may exploit wedge issues by  intentionally polarizing the public along the wedge issue line and encouraging opposition  between factions.",
+            "description": "A wedge issue is a divisive political issue, usually concerning a social phenomenon, that divides individuals along a defined line. An influence operation may exploit wedge issues by intentionally polarising the public along the wedge issue line and encouraging opposition between factions.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0081.006.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0081.006.md",
                     "external_id": "T0081.006"
                 }
             ],

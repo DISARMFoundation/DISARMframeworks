@@ -1,15 +1,15 @@
 {
     "type": "bundle",
-    "id": "bundle--4f284ce3-9de4-4739-9af4-1bd0fc8cbf57",
+    "id": "bundle--a17c31bd-6566-4daa-bea2-d3f9cfb706c2",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--bacbdfd3-f8c2-4126-a9f3-1b75576fa5e7",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.89936Z",
-            "modified": "2022-07-03T23:52:02.89936Z",
-            "name": "Cultivate ignorant agents",
+            "created": "2023-09-25T16:17:56.544349Z",
+            "modified": "2023-09-25T16:17:56.544349Z",
+            "name": "Cultivate Ignorant Agents",
             "description": "Cultivate propagandists for a cause, the goals of which are not fully comprehended, and who are used cynically by the leaders of the cause. Independent actors use social media and specialised web sites to strategically reinforce and spread messages compatible with their own. Their networks are infiltrated and used by state media disinformation organisations to amplify the state\u2019s own disinformation strategies against target populations. Many are traffickers in conspiracy theories or hoaxes, unified by a suspicion of Western governments and mainstream media. Their narratives, which appeal to leftists hostile to globalism and military intervention and nationalists against immigration, are frequently infiltrated and shaped by state-controlled trolls and altered news items from agencies such as RT and Sputnik. Also know as \"useful idiots\" or \"unwitting agents\".",
             "kill_chain_phases": [
                 {
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0010.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0010.md",
                     "external_id": "T0010"
                 }
             ],

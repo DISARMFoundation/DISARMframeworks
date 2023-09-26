@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--ce437819-34b7-4219-9cbd-58227044291e",
+    "id": "bundle--66a4f482-afb4-4afc-a6f7-d1042d89380c",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--90b7e29e-1b62-485e-88b0-a4052cabafa4",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.916014Z",
-            "modified": "2022-07-03T23:52:02.916014Z",
-            "name": "Create personas",
-            "description": "Creating fake people, often with accounts across multiple platforms. These personas can be as simple as a name, can contain slightly more background like location, profile pictures, backstory, or can be effectively backstopped with indicators like fake identity documents. ",
+            "created": "2023-09-25T16:17:56.634628Z",
+            "modified": "2023-09-25T16:17:56.634628Z",
+            "name": "Create Personas",
+            "description": "Creating fake people, often with accounts across multiple platforms. These personas can be as simple as a name, can contain slightly more background like location, profile pictures, backstory, or can be effectively backstopped with indicators like fake identity documents.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0097.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0097.md",
                     "external_id": "T0097"
                 }
             ],

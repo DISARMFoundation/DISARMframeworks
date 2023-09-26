@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--0a72d702-4e0f-40cb-949f-3067525ca57c",
+    "id": "bundle--5045b083-2a0c-41c0-805c-7d7417b4eccb",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--81abb4fa-705e-430f-ba54-34bf7bd467f7",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.913762Z",
-            "modified": "2022-07-03T23:52:02.913762Z",
+            "created": "2023-09-25T16:17:56.625293Z",
+            "modified": "2023-09-25T16:17:56.625293Z",
             "name": "Create Sockpuppet Accounts",
-            "description": "Sockpuppet accounts refer to falsified accounts that either promote the influence operation\u2019s  own material or attack critics of the material online. Individuals who control sockpuppet  accounts also man at least one other user account.67 Sockpuppet accounts help legitimize  operation narratives by providing an appearance of external support for the material and  discrediting opponents of the operation. ",
+            "description": "Sockpuppet accounts refer to falsified accounts that either promote the influence operation\u2019s own material or attack critics of the material online. Individuals who control sockpuppet accounts also man at least one other user account.67 Sockpuppet accounts help legitimise operation narratives by providing an appearance of external support for the material and discrediting opponents of the operation.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0090.004.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0090.004.md",
                     "external_id": "T0090.004"
                 }
             ],

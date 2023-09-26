@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--46b5719c-643d-47ae-98d7-9751f12297d1",
+    "id": "bundle--bcdbc88c-d981-4b2e-b70e-61fb74e64c50",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--026571cc-66db-42fb-9de3-790e1e7f243d",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.921327Z",
-            "modified": "2022-07-03T23:52:02.921327Z",
+            "created": "2023-09-25T16:17:56.664206Z",
+            "modified": "2023-09-25T16:17:56.664206Z",
             "name": "Deliver Ads",
             "description": "Delivering content via any form of paid media or advertising.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0114.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0114.md",
                     "external_id": "T0114"
                 }
             ],

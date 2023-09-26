@@ -1,15 +1,15 @@
 {
     "type": "bundle",
-    "id": "bundle--b9c77848-763c-4715-9e5c-782e90c5ac86",
+    "id": "bundle--86e075ac-6969-46f6-8c86-42e3d7458da5",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--9b081fd3-0714-483e-bd7b-a30defc85cd2",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.917377Z",
-            "modified": "2022-07-03T23:52:02.917377Z",
-            "name": "Co-opt Influencers",
+            "created": "2023-09-25T16:17:56.639916Z",
+            "modified": "2023-09-25T16:17:56.639916Z",
+            "name": "Co-Opt Influencers",
             "description": "Co-opt Influencers",
             "kill_chain_phases": [
                 {
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0100.003.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0100.003.md",
                     "external_id": "T0100.003"
                 }
             ],

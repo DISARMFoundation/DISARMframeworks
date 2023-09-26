@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--f03519ad-7571-4809-9617-993a9ef0a88a",
+    "id": "bundle--7d43c862-652b-4c37-b7f4-45e155ebc3f2",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--8ea2fcce-e27e-4019-a773-70f3dddfab34",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.910771Z",
-            "modified": "2022-07-03T23:52:02.910771Z",
-            "name": "Develop Text-based Content",
-            "description": "Creating and editing false or misleading text-based artifacts, often aligned with one or more specific narratives, for use in a disinformation campaign.",
+            "created": "2023-09-25T16:17:56.615616Z",
+            "modified": "2023-09-25T16:17:56.615616Z",
+            "name": "Develop Text-Based Content",
+            "description": "Creating and editing false or misleading text-based artefacts, often aligned with one or more specific narratives, for use in a disinformation campaign.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0085.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0085.md",
                     "external_id": "T0085"
                 }
             ],

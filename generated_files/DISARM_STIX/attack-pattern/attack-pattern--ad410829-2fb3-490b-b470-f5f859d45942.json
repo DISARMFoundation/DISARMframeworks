@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--09909167-1294-40cb-ba26-8339c500b8c2",
+    "id": "bundle--0ec751f5-acb4-4ab7-8f0f-28a94b56c32f",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--ad410829-2fb3-490b-b470-f5f859d45942",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.905653Z",
-            "modified": "2022-07-03T23:52:02.905653Z",
+            "created": "2023-09-25T16:17:56.581025Z",
+            "modified": "2023-09-25T16:17:56.581025Z",
             "name": "Continue to Amplify",
             "description": "continue narrative or message amplification after the main incident work has finished",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0060.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0060.md",
                     "external_id": "T0060"
                 }
             ],

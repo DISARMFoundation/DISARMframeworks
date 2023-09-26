@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--8d6e615b-cbbc-4a98-836b-103826edb3ef",
+    "id": "bundle--a55645b8-26b9-490a-9f5a-79e40d635fc1",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--4cd719a9-e817-4acc-9581-6b6a60e42f35",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.910226Z",
-            "modified": "2022-07-03T23:52:02.910226Z",
+            "created": "2023-09-25T16:17:56.61373Z",
+            "modified": "2023-09-25T16:17:56.61373Z",
             "name": "Use Copypasta",
-            "description": "Copypasta refers to a piece of text that has been copied and pasted multiple times across various online platforms. A copypasta\u2019s final form may differ from its original source text as users add, delete, or otherwise edit the content as they repost the text. ",
+            "description": "Copypasta refers to a piece of text that has been copied and pasted multiple times across various online platforms. A copypasta\u2019s final form may differ from its original source text as users add, delete, or otherwise edit the content as they repost the text.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0084.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0084.001.md",
                     "external_id": "T0084.001"
                 }
             ],

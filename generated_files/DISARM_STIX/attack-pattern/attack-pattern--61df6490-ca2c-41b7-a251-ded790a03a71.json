@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--78ef750a-2bc5-47ca-8b9c-fa0e9330e334",
+    "id": "bundle--6894ce28-3acd-415d-a607-c59de4a1e37a",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--61df6490-ca2c-41b7-a251-ded790a03a71",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.90044Z",
-            "modified": "2022-07-03T23:52:02.90044Z",
-            "name": "Conduct fundraising",
-            "description": "Fundraising campaigns refer to an influence operation\u2019s systematic effort to seek financial  support for a charity, cause, or other enterprise using online activities that further promote  operation information pathways while raising a profit. Many influence operations have engaged  in crowdfunding services166 on platforms including Tipee, Patreon, and GoFundMe. An operation  may use its previously prepared fundraising campaigns to promote operation messaging while raising money to support its activities.  ",
+            "created": "2023-09-25T16:17:56.548742Z",
+            "modified": "2023-09-25T16:17:56.548742Z",
+            "name": "Conduct Fundraising",
+            "description": "Fundraising campaigns refer to an influence operation\u2019s systematic effort to seek financial support for a charity, cause, or other enterprise using online activities that further promote operation information pathways while raising a profit. Many influence operations have engaged in crowdfunding services166 on platforms including Tipee, Patreon, and GoFundMe. An operation may use its previously prepared fundraising campaigns to promote operation messaging while raising money to support its activities.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0017.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0017.md",
                     "external_id": "T0017"
                 }
             ],

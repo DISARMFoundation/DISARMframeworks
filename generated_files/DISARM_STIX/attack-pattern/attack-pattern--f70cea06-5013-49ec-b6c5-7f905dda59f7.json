@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--bba96010-8fed-49b6-8ae4-b184648b89e3",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--f70cea06-5013-49ec-b6c5-7f905dda59f7",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2023-09-25T16:17:56.733411Z",
+            "modified": "2023-09-25T16:17:56.733411Z",
+            "name": "Spread Hate",
+            "description": "Publish and/or propagate demeaning, derisive, or humiliating content targeting an individual or group of individuals with the intent to cause emotional, psychological, or physical distress. Hate speech can cause harm directly or incite others to harm the target. It often aims to stigmatise the target by singling out immutable characteristics such as colour, race, religion, national or ethnic origin, gender, gender identity, sexual orientation, age, disease, or mental or physical disability. Thus, promoting hatred online may involve racism, antisemitism, Islamophobia, xenophobia, sexism, misogyny, homophobia, transphobia, ageism, ableism, or any combination thereof. Motivations for hate speech range from group preservation to ideological superiority to the unbridled infliction of suffering.       ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0140.003.md",
+                    "external_id": "T0140.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

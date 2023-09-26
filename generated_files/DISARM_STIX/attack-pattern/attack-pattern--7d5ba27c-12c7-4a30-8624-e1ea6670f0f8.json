@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--af7057dd-1c2e-4a28-bb3a-eeaf21c92082",
+    "id": "bundle--cc25dc95-5b71-468d-9938-5614bc2296b6",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--7d5ba27c-12c7-4a30-8624-e1ea6670f0f8",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.903632Z",
-            "modified": "2022-07-03T23:52:02.903632Z",
+            "created": "2023-09-25T16:17:56.565688Z",
+            "modified": "2023-09-25T16:17:56.565688Z",
             "name": "Boycott/\"Cancel\" Opponents",
-            "description": "Cancel culture refers to the phenomenon in which individuals collectively refrain from  supporting an individual, organization, business, or other entity, usually following a real or  falsified controversy. An influence operation may exploit cancel culture by emphasizing an  adversary\u2019s problematic or disputed behavior and presenting its own content as an alternative. ",
+            "description": "Cancel culture refers to the phenomenon in which individuals collectively refrain from supporting an individual, organisation, business, or other entity, usually following a real or falsified controversy. An influence operation may exploit cancel culture by emphasising an adversary\u2019s problematic or disputed behaviour and presenting its own content as an alternative.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0048.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0048.001.md",
                     "external_id": "T0048.001"
                 }
             ],

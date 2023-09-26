@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--34605c8b-1cf6-4cd7-a1fb-a4fee1a8d1d9",
+    "id": "bundle--f6de3db3-d826-412c-9721-a8b5f3c4a90c",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--d615efdc-7296-4254-90f5-99d2986d97fa",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.924903Z",
-            "modified": "2022-07-03T23:52:02.924903Z",
+            "created": "2023-09-25T16:17:56.686385Z",
+            "modified": "2023-09-25T16:17:56.686385Z",
             "name": "Exploit Platform TOS/Content Moderation",
             "description": "Exploit Platform TOS/Content Moderation",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0124.003.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0124.003.md",
                     "external_id": "T0124.003"
                 }
             ],

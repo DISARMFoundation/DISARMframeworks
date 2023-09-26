@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--5c50831c-04c8-4a5f-9258-e8b34d47f845",
+    "id": "bundle--bec27d78-1bf9-449b-b2c1-a3d0e932c6b0",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--bb25b4aa-9223-40ea-a28a-0dd675e91e46",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.917849Z",
-            "modified": "2022-07-03T23:52:02.917849Z",
+            "created": "2023-09-25T16:17:56.645337Z",
+            "modified": "2023-09-25T16:17:56.645337Z",
             "name": "Create Echo Chambers/Filter Bubbles",
             "description": "Create Echo Chambers/Filter Bubbles",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0102.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0102.002.md",
                     "external_id": "T0102.002"
                 }
             ],

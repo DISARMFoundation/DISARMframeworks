@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--3dda4d2f-5aa6-4ed2-b127-55b068401173",
+    "id": "bundle--3c001660-0994-46bb-a356-b0d180d2afbe",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--3bc92e69-67e4-405a-a6fb-a2d742395c45",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.89989Z",
-            "modified": "2022-07-03T23:52:02.89989Z",
-            "name": "Raise funds from malign actors",
-            "description": "Raising funds from malign actors may include contributions from foreign agents, cutouts or proxies, shell companies, dark money groups, etc. ",
+            "created": "2023-09-25T16:17:56.547204Z",
+            "modified": "2023-09-25T16:17:56.547204Z",
+            "name": "Raise Funds from Malign Actors",
+            "description": "Raising funds from malign actors may include contributions from foreign agents, cutouts or proxies, shell companies, dark money groups, etc.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0014.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0014.001.md",
                     "external_id": "T0014.001"
                 }
             ],

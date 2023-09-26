@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--fd250fa0-aae2-43c2-abbf-9918fe1b924c",
+    "id": "bundle--1e740e7e-7716-4bba-a102-e30d9cd2e144",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--2d540add-b708-402a-93ff-f5aa50d30eb9",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.902719Z",
-            "modified": "2022-07-03T23:52:02.902719Z",
+            "created": "2023-09-25T16:17:56.562266Z",
+            "modified": "2023-09-25T16:17:56.562266Z",
             "name": "Use Unencrypted Chats Apps",
             "description": "Examples include SMS, etc.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0043.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0043.002.md",
                     "external_id": "T0043.002"
                 }
             ],

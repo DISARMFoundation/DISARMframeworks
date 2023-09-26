@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--b7f7b163-6860-4c43-bdd7-9ec285616ac9",
+    "id": "bundle--6af82cdd-2f56-4795-a0cd-c71834615925",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--7d69d231-78a6-4a98-a715-c0edd9adafce",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.90959Z",
-            "modified": "2022-07-03T23:52:02.90959Z",
+            "created": "2023-09-25T16:17:56.610989Z",
+            "modified": "2023-09-25T16:17:56.610989Z",
             "name": "Identify Target Audience Adversaries",
-            "description": "An influence operation may identify or create a real or imaginary adversary to center operation  narratives against. A real adversary may include certain politicians or political parties while  imaginary adversaries may include falsified \u201cdeep state\u201d62 actors that, according to conspiracies,  run the state behind public view. ",
+            "description": "An influence operation may identify or create a real or imaginary adversary to centre operation narratives against. A real adversary may include certain politicians or political parties while imaginary adversaries may include falsified \u201cdeep state\u201d62 actors that, according to conspiracies, run the state behind public view.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0081.007.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0081.007.md",
                     "external_id": "T0081.007"
                 }
             ],

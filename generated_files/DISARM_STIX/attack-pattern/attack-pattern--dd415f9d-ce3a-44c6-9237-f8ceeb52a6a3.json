@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--52a676b2-7451-47b9-97f8-c05affd58254",
+    "id": "bundle--7b08cc55-db35-44d2-b2da-9db36bd92c33",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--dd415f9d-ce3a-44c6-9237-f8ceeb52a6a3",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.928067Z",
-            "modified": "2022-07-03T23:52:02.928067Z",
+            "created": "2023-09-25T16:17:56.696473Z",
+            "modified": "2023-09-25T16:17:56.696473Z",
             "name": "Misattribute Activity",
-            "description": "Misattributed activity refers to incorrectly attributed operation activity. For example, a state sponsored influence operation may conduct operation activity in a way that mimics another state  so that external entities misattribute activity to the incorrect state. An operation may misattribute  their activities to complicate attribution, avoid detection, or frame an adversary for negative  behavior. ",
+            "description": "Misattributed activity refers to incorrectly attributed operation activity. For example, a state sponsored influence operation may conduct operation activity in a way that mimics another state so that external entities misattribute activity to the incorrect state. An operation may misattribute their activities to complicate attribution, avoid detection, or frame an adversary for negative behaviour.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0129.010.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0129.010.md",
                     "external_id": "T0129.010"
                 }
             ],

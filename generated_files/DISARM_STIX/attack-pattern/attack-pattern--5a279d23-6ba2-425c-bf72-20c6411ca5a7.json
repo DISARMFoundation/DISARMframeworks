@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--7c7a3d28-ab75-4cd5-92cb-39dee9e13164",
+    "id": "bundle--4485dec3-a69e-46d8-81ff-08c24ff3c8d0",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5a279d23-6ba2-425c-bf72-20c6411ca5a7",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.908384Z",
-            "modified": "2022-07-03T23:52:02.908384Z",
+            "created": "2023-09-25T16:17:56.602724Z",
+            "modified": "2023-09-25T16:17:56.602724Z",
             "name": "Identify Trending Topics/Hashtags",
-            "description": "An influence operation may identify trending hashtags on social media platforms for later use in  boosting operation content. A hashtag40 refers to a word or phrase preceded by the hash symbol  (#) on social media used to identify messages and posts relating to a specific topic. All public  posts that use the same hashtag are aggregated onto a centralized page dedicated to the word or  phrase and sorted either chronologically or by popularity. ",
+            "description": "An influence operation may identify trending hashtags on social media platforms for later use in boosting operation content. A hashtag40 refers to a word or phrase preceded by the hash symbol (#) on social media used to identify messages and posts relating to a specific topic. All public posts that use the same hashtag are aggregated onto a centralised page dedicated to the word or phrase and sorted either chronologically or by popularity.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0080.003.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0080.003.md",
                     "external_id": "T0080.003"
                 }
             ],

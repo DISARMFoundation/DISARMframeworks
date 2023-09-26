@@ -1,26 +1,26 @@
 {
     "type": "bundle",
-    "id": "bundle--c0f5924b-a559-415d-b7c8-98c9b6b7a180",
+    "id": "bundle--07deabf6-ee4a-46ad-a618-8b43888750fd",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5e7541d8-2b43-4443-89d9-7362ca78944c",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.923171Z",
-            "modified": "2022-07-03T23:52:02.923171Z",
+            "created": "2023-09-25T16:17:56.677498Z",
+            "modified": "2023-09-25T16:17:56.677498Z",
             "name": "Incentivize Sharing",
-            "description": "Incentivizing content sharing refers to actions that encourage users to share content themselves,  reducing the need for the operation itself to post and promote its own content.",
+            "description": "Incentivizing content sharing refers to actions that encourage users to share content themselves, reducing the need for the operation itself to post and promote its own content.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "maximize-exposure"
+                    "phase_name": "maximise-exposure"
                 }
             ],
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0120.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0120.md",
                     "external_id": "T0120"
                 }
             ],

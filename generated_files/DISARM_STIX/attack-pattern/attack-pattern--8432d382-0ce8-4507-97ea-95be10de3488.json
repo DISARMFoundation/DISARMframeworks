@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--4dc8b4ab-d6d0-40b4-a4c3-adf4f3564f4d",
+    "id": "bundle--dde0f7e9-b7d2-4326-b40f-a79cab38c021",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--8432d382-0ce8-4507-97ea-95be10de3488",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.920015Z",
-            "modified": "2022-07-03T23:52:02.920015Z",
+            "created": "2023-09-25T16:17:56.652483Z",
+            "modified": "2023-09-25T16:17:56.652483Z",
             "name": "Anonymous Message Boards",
             "description": "Examples include the Chans",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0106.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0106.001.md",
                     "external_id": "T0106.001"
                 }
             ],

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--d13928f0-527a-4e3e-ab9a-e9547aef83ad",
+    "id": "bundle--ed62b235-03e1-48cc-8196-fdd3ae52130e",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--e0f07568-5a2b-429d-94b9-b1ff3c17adea",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.916404Z",
-            "modified": "2022-07-03T23:52:02.916404Z",
+            "created": "2023-09-25T16:17:56.635463Z",
+            "modified": "2023-09-25T16:17:56.635463Z",
             "name": "Create Inauthentic News Sites",
             "description": "Create Inauthentic News Sites",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0098.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0098.001.md",
                     "external_id": "T0098.001"
                 }
             ],

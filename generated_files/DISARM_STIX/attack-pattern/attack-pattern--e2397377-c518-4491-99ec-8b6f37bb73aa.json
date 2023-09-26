@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--9e150ced-78e2-411a-8fc8-2e17f58aaa74",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--e2397377-c518-4491-99ec-8b6f37bb73aa",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2023-09-25T14:19:03.57516Z",
+            "modified": "2023-09-25T14:19:03.57516Z",
+            "name": "Cultivate Support for Ally",
+            "description": "Elevate or fortify the public backing for a partner. Governments may interfere in other countries\u2019 elections by covertly favouring a party or candidate aligned with their interests. They may also mount an influence operation to bolster the reputation of an ally under attack.    ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0136.006.md",
+                    "external_id": "T0136.006"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

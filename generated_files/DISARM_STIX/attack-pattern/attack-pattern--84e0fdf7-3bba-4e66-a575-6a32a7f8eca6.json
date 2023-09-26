@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--66087f6c-8673-4b83-b83d-8741ffde3725",
+    "id": "bundle--9de20c8a-8f2e-4eb0-b9a9-9f3b8305ce6c",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--84e0fdf7-3bba-4e66-a575-6a32a7f8eca6",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.901887Z",
-            "modified": "2022-07-03T23:52:02.901887Z",
+            "created": "2023-09-25T16:17:56.556384Z",
+            "modified": "2023-09-25T16:17:56.556384Z",
             "name": "Edit Open-Source Content",
-            "description": "An influence operation may edit open-source content, such as collaborative blogs or  encyclopedias, to promote its narratives on outlets with existing credibility and audiences. Editing open-source content may allow an operation to post content on platforms without  dedicating resources to the creation and maintenance of its own assets. ",
+            "description": "An influence operation may edit open-source content, such as collaborative blogs or encyclopaedias, to promote its narratives on outlets with existing credibility and audiences. Editing open-source content may allow an operation to post content on platforms without dedicating resources to the creation and maintenance of its own assets.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0023.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0023.002.md",
                     "external_id": "T0023.002"
                 }
             ],

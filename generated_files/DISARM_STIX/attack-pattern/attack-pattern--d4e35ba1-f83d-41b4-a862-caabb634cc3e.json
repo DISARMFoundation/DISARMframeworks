@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--65b93cae-c56a-4ace-9d35-a6ad843c1eb1",
+    "id": "bundle--92462f75-e7d8-4d1d-a5e7-ded0a6cb45b7",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--d4e35ba1-f83d-41b4-a862-caabb634cc3e",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.920255Z",
-            "modified": "2022-07-03T23:52:02.920255Z",
+            "created": "2023-09-25T16:17:56.653463Z",
+            "modified": "2023-09-25T16:17:56.653463Z",
             "name": "Blogging and Publishing Networks",
-            "description": "Examples include WordPress, Blogger, Weebly, Tumblr, Medium, etc. ",
+            "description": "Examples include WordPress, Blogger, Weebly, Tumblr, Medium, etc.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0108.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0108.md",
                     "external_id": "T0108"
                 }
             ],

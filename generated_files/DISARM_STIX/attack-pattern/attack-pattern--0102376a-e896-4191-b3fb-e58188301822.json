@@ -1,15 +1,15 @@
 {
     "type": "bundle",
-    "id": "bundle--c4fe22ac-f3a8-48b6-9b9b-75811f6ed656",
+    "id": "bundle--6cda89ac-9536-4420-94c0-ea3b9bfcb766",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--0102376a-e896-4191-b3fb-e58188301822",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.905109Z",
-            "modified": "2022-07-03T23:52:02.905109Z",
-            "name": "Organize Events",
+            "created": "2023-09-25T16:17:56.57895Z",
+            "modified": "2023-09-25T16:17:56.57895Z",
+            "name": "Organise Events",
             "description": "Coordinate and promote real-world events across media platforms, e.g. rallies, protests, gatherings in support of incident narratives.",
             "kill_chain_phases": [
                 {
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0057.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0057.md",
                     "external_id": "T0057"
                 }
             ],

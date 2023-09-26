@@ -1,15 +1,15 @@
 {
     "type": "bundle",
-    "id": "bundle--6fe7ce63-c547-4c63-80f7-501ab3411905",
+    "id": "bundle--289770b3-6e12-44f0-9dca-a6a3b697bd2e",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5251f6d0-6820-4617-afef-a0d8acafd3c1",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.92235Z",
-            "modified": "2022-07-03T23:52:02.92235Z",
-            "name": "Post inauthentic social media comment",
+            "created": "2023-09-25T16:17:56.671832Z",
+            "modified": "2023-09-25T16:17:56.671832Z",
+            "name": "Post Inauthentic Social Media Comment",
             "description": "Use government-paid social media commenters, astroturfers, chat bots (programmed to reply to specific key words/hashtags) influence online conversations, product reviews, web-site comment forums.",
             "kill_chain_phases": [
                 {
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0116.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0116.001.md",
                     "external_id": "T0116.001"
                 }
             ],

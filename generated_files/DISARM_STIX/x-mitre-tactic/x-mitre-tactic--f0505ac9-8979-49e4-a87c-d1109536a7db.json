@@ -1,20 +1,20 @@
 {
     "type": "bundle",
-    "id": "bundle--f1c7897b-f037-466f-aa36-74e602727006",
+    "id": "bundle--df481540-864c-4534-a5f8-a50434d6ff2f",
     "objects": [
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
             "id": "x-mitre-tactic--f0505ac9-8979-49e4-a87c-d1109536a7db",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.898171Z",
-            "modified": "2022-07-03T23:52:02.898171Z",
+            "created": "2023-09-25T16:17:56.536229Z",
+            "modified": "2023-09-25T16:17:56.536229Z",
             "name": "Drive Online Harms",
-            "description": "Actions taken by an influence operation to harm their opponents in online spaces through harassment, suppression, releasing private information, and controlling the information space through offensive cyberspace operations. ",
+            "description": "Actions taken by an influence operation to harm their opponents in online spaces through harassment, suppression, releasing private information, and controlling the information space through offensive cyberspace operations.",
             "external_references": [
                 {
                     "source_name": "DISARM",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/tactics/TA18.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/tactics/TA18.md",
                     "external_id": "TA18"
                 }
             ],

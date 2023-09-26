@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--8d04a0bd-81f7-4f6f-a353-de21ff63af11",
+    "id": "bundle--839afbed-8398-44e9-83e2-ab119851aafb",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--3ae4fb28-4864-468d-8085-cb8035cbb272",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.916661Z",
-            "modified": "2022-07-03T23:52:02.916661Z",
+            "created": "2023-09-25T16:17:56.636164Z",
+            "modified": "2023-09-25T16:17:56.636164Z",
             "name": "Prepare Assets Impersonating Legitimate Entities",
-            "description": "An influence operation may prepare assets impersonating legitimate entities to further conceal its  network identity and add a layer of legitimacy to its operation content. Users will more likely  believe and less likely fact-check news from recognizable sources rather than unknown sites.  Legitimate entities may include authentic news outlets, public figures, organizations, or state  entities.  \nAn influence operation may use a wide variety of cyber techniques to impersonate a legitimate  entity\u2019s website or social media account. Typosquatting87 is the international registration of a  domain name with purposeful variations of the impersonated domain name through intentional  typos, top-level domain (TLD) manipulation, or punycode. Typosquatting facilitates the creation  of falsified websites by creating similar domain names in the URL box, leaving it to the user to  confirm that the URL is correct.  ",
+            "description": "An influence operation may prepare assets impersonating legitimate entities to further conceal its network identity and add a layer of legitimacy to its operation content. Users will more likely believe and less likely fact-check news from recognisable sources rather than unknown sites. Legitimate entities may include authentic news outlets, public figures, organisations, or state entities. An influence operation may use a wide variety of cyber techniques to impersonate a legitimate entity\u2019s website or social media account. Typosquatting87 is the international registration of a domain name with purposeful variations of the impersonated domain name through intentional typos, top-level domain (TLD) manipulation, or punycode. Typosquatting facilitates the creation of falsified websites by creating similar domain names in the URL box, leaving it to the user to confirm that the URL is correct.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0099.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0099.md",
                     "external_id": "T0099"
                 }
             ],

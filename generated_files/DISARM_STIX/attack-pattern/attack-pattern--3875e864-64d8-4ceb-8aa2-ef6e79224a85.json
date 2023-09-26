@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--59f501c4-1315-4568-bd0b-df3e353ec348",
+    "id": "bundle--6b76d491-eab9-45bd-ae52-9cc36b2acf32",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--3875e864-64d8-4ceb-8aa2-ef6e79224a85",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.915775Z",
-            "modified": "2022-07-03T23:52:02.915775Z",
+            "created": "2023-09-25T16:17:56.633693Z",
+            "modified": "2023-09-25T16:17:56.633693Z",
             "name": "Create Content Farms",
-            "description": "An influence operation may create an organization for creating and amplifying campaign artifacts at scale.",
+            "description": "An influence operation may create an organisation for creating and amplifying campaign artefacts at scale.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0096.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0096.001.md",
                     "external_id": "T0096.001"
                 }
             ],

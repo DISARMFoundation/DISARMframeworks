@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--fc27b0ff-661e-4425-a8b2-4e4f6194e0ba",
+    "id": "bundle--0e22d936-ae5b-463d-9f1c-3245c92c5864",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--deb9a225-0803-4a1f-b37b-3a10c3e7ca79",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.927713Z",
-            "modified": "2022-07-03T23:52:02.927713Z",
+            "created": "2023-09-25T16:17:56.693681Z",
+            "modified": "2023-09-25T16:17:56.693681Z",
             "name": "Delete Accounts/Account Activity",
-            "description": "Deleting accounts and account activity occurs when an influence operation removes its online  social media assets, including social media accounts, posts, likes, comments, and other online  artifacts. An influence operation may delete its accounts and account activity to complicate  attribution or remove online documentation that the operation ever occurred.  ",
+            "description": "Deleting accounts and account activity occurs when an influence operation removes its online social media assets, including social media accounts, posts, likes, comments, and other online artefacts. An influence operation may delete its accounts and account activity to complicate attribution or remove online documentation that the operation ever occurred.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0129.007.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0129.007.md",
                     "external_id": "T0129.007"
                 }
             ],

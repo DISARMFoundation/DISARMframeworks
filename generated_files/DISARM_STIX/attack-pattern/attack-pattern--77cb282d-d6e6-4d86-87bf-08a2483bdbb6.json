@@ -1,15 +1,15 @@
 {
     "type": "bundle",
-    "id": "bundle--5dcd88c1-3f55-43da-83ce-946de1bc397b",
+    "id": "bundle--8e725067-1a0a-49a0-bef2-bf9ecd64105f",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--77cb282d-d6e6-4d86-87bf-08a2483bdbb6",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.902008Z",
-            "modified": "2022-07-03T23:52:02.902008Z",
-            "name": "Online polls",
+            "created": "2023-09-25T16:17:56.558283Z",
+            "modified": "2023-09-25T16:17:56.558283Z",
+            "name": "Online Polls",
             "description": "Create fake online polls, or manipulate existing online polls. Data gathering tactic to target those who engage, and potentially their networks of friends/followers as well",
             "kill_chain_phases": [
                 {
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0029.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0029.md",
                     "external_id": "T0029"
                 }
             ],

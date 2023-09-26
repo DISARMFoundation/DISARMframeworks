@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--62b77793-064c-420e-b704-c9e207c1438e",
+    "id": "bundle--49274f7c-7e51-4a10-9f41-224176d246b6",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--314ecce1-6d89-4304-a149-1c3d8fddaf9e",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.920619Z",
-            "modified": "2022-07-03T23:52:02.920619Z",
+            "created": "2023-09-25T16:17:56.656146Z",
+            "modified": "2023-09-25T16:17:56.656146Z",
             "name": "Traditional Media",
             "description": "Examples include TV, Newspaper, Radio, etc.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0111.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0111.md",
                     "external_id": "T0111"
                 }
             ],

@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--004522a7-7dc9-468f-a8ae-a8ef9c260771",
+    "id": "bundle--9c56ab6c-1e34-4dd8-9acb-247e531263e2",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--651a5188-f38a-42be-a253-d1b90cbd28e1",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.924783Z",
-            "modified": "2022-07-03T23:52:02.924783Z",
+            "created": "2023-09-25T16:17:56.686015Z",
+            "modified": "2023-09-25T16:17:56.686015Z",
             "name": "Goad People into Harmful Action (Stop Hitting Yourself)",
-            "description": "Goad people into actions that violate terms of service or will lead to having their content or accounts taken down. ",
+            "description": "Goad people into actions that violate terms of service or will lead to having their content or accounts taken down.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0124.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0124.002.md",
                     "external_id": "T0124.002"
                 }
             ],

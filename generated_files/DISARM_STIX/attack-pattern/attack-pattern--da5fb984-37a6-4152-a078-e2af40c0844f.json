@@ -1,15 +1,15 @@
 {
     "type": "bundle",
-    "id": "bundle--ff74b174-e909-4a04-b35a-6aee9125b964",
+    "id": "bundle--8cd1237b-1a64-4c10-aee8-40df869500f1",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--da5fb984-37a6-4152-a078-e2af40c0844f",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.927597Z",
-            "modified": "2022-07-03T23:52:02.927597Z",
-            "name": "Deny involvement",
+            "created": "2023-09-25T16:17:56.691451Z",
+            "modified": "2023-09-25T16:17:56.691451Z",
+            "name": "Deny Involvement",
             "description": "Without \"smoking gun\" proof (and even with proof), incident creator can or will deny involvement. This technique also leverages the attacker advantages outlined in \"Demand insurmountable proof\", specifically the asymmetric disadvantage for truth-tellers in a \"firehose of misinformation\" environment.",
             "kill_chain_phases": [
                 {
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0129.006.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0129.006.md",
                     "external_id": "T0129.006"
                 }
             ],

@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--7b29a3b3-73c1-4811-a7ad-675f94c2b34f",
+    "id": "bundle--75fe8b4c-f924-48ed-9ddb-d8960bd19a14",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--ec740173-f964-47cc-b849-06a1b134ee4f",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.899237Z",
-            "modified": "2022-07-03T23:52:02.899237Z",
-            "name": "Utilize Academic/Pseudoscientific Justifications",
-            "description": "Utilize Academic/Pseudoscientific Justifications",
+            "created": "2023-09-25T16:17:56.543475Z",
+            "modified": "2023-09-25T16:17:56.543475Z",
+            "name": "Utilise Academic/Pseudoscientific Justifications",
+            "description": "Utilise Academic/Pseudoscientific Justifications",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0009.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0009.001.md",
                     "external_id": "T0009.001"
                 }
             ],

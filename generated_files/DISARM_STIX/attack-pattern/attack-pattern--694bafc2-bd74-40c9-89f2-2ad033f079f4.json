@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--3e4fcfa6-01c1-42e0-858c-c22e2aa4c545",
+    "id": "bundle--333ab461-68bd-4163-9109-7591388f166e",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--694bafc2-bd74-40c9-89f2-2ad033f079f4",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.906519Z",
-            "modified": "2022-07-03T23:52:02.906519Z",
+            "created": "2023-09-25T16:17:56.585594Z",
+            "modified": "2023-09-25T16:17:56.585594Z",
             "name": "Demographic Segmentation",
-            "description": "An influence operation may target populations based on demographic segmentation, including  age, gender, and income. Demographic segmentation may be useful for influence operations  aiming to change state policies that affect a specific population sector. For example, an influence  operation attempting to influence Medicare funding in the United States would likely target U.S.  voters over 65 years of age. ",
+            "description": "An influence operation may target populations based on demographic segmentation, including age, gender, and income. Demographic segmentation may be useful for influence operations aiming to change state policies that affect a specific population sector. For example, an influence operation attempting to influence Medicare funding in the United States would likely target U.S. voters over 65 years of age.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0072.002.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0072.002.md",
                     "external_id": "T0072.002"
                 }
             ],

@@ -1,26 +1,26 @@
 {
     "type": "bundle",
-    "id": "bundle--b7a46dc9-fa2b-4946-88b8-dc6ec6a2e5cb",
+    "id": "bundle--9f222bb2-514d-428c-a048-f310b6766320",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--4282febe-c8a6-46da-863c-f19081615d80",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.904609Z",
-            "modified": "2022-07-03T23:52:02.904609Z",
-            "name": "Utilize Spamoflauge",
-            "description": "Spamoflauge refers to the practice of disguising spam messages as legitimate. Spam refers to  the use of electronic messaging systems to send out unrequested or unwanted messages in bulk.  Simple methods of spamoflauge include replacing letters with numbers to fool keyword-based  email spam filters, for example, \"you've w0n our jackp0t!\". Spamoflauge may extend to more complex techniques such as modifying the grammar or word choice of the language, casting  messages as images which spam detectors cannot automatically read, or encapsulating messages  in password protected attachments, such as .pdf or .zip files. Influence operations may use spamoflauge to avoid spam filtering systems and increase the likelihood of the target audience  receiving operation messaging. ",
+            "created": "2023-09-25T16:17:56.57385Z",
+            "modified": "2023-09-25T16:17:56.57385Z",
+            "name": "Utilise Spamoflauge",
+            "description": "Spamoflauge refers to the practice of disguising spam messages as legitimate. Spam refers to the use of electronic messaging systems to send out unrequested or unwanted messages in bulk. Simple methods of spamoflauge include replacing letters with numbers to fool keyword-based email spam filters, for example, \"you've w0n our jackp0t!\". Spamoflauge may extend to more complex techniques such as modifying the grammar or word choice of the language, casting messages as images which spam detectors cannot automatically read, or encapsulating messages in password protected attachments, such as .pdf or .zip files. Influence operations may use spamoflauge to avoid spam filtering systems and increase the likelihood of the target audience receiving operation messaging.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "maximize-exposure"
+                    "phase_name": "maximise-exposure"
                 }
             ],
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0049.004.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0049.004.md",
                     "external_id": "T0049.004"
                 }
             ],

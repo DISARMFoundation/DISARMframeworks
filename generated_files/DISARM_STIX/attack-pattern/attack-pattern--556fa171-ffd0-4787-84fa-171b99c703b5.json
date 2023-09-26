@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--e5691151-120a-4cb8-a86b-3dae6ea1b81b",
+    "id": "bundle--cf3ff00a-d0b8-40a4-842a-e75b27d83ec8",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--556fa171-ffd0-4787-84fa-171b99c703b5",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.924311Z",
-            "modified": "2022-07-03T23:52:02.924311Z",
+            "created": "2023-09-25T16:17:56.684021Z",
+            "modified": "2023-09-25T16:17:56.684021Z",
             "name": "Destroy Information Generation Capabilities",
-            "description": "Destroying information generation capabilities refers to actions taken to limit, degrade, or  otherwise incapacitate an actor\u2019s ability to generate conflicting information. An influence operation may destroy an actor\u2019s information generation capabilities by physically dismantling  the information infrastructure, disconnecting resources needed for information generation, or  redirecting information generation personnel. An operation may destroy an adversary\u2019s  information generation capabilities to limit conflicting content exposure to the target audience  and crowd the information space with its own narratives. ",
+            "description": "Destroying information generation capabilities refers to actions taken to limit, degrade, or otherwise incapacitate an actor\u2019s ability to generate conflicting information. An influence operation may destroy an actor\u2019s information generation capabilities by physically dismantling the information infrastructure, disconnecting resources needed for information generation, or redirecting information generation personnel. An operation may destroy an adversary\u2019s information generation capabilities to limit conflicting content exposure to the target audience and crowd the information space with its own narratives.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0123.003.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0123.003.md",
                     "external_id": "T0123.003"
                 }
             ],

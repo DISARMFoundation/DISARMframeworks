@@ -1,15 +1,15 @@
 {
     "type": "bundle",
-    "id": "bundle--62549fc5-7e07-4b99-b25e-a1662d0a343d",
+    "id": "bundle--7d5f3bf6-1f7f-4b15-b5bf-e1c59e2b23c7",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--9a4a16c5-a671-4469-a854-ef45cb0e38ab",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.913881Z",
-            "modified": "2022-07-03T23:52:02.913881Z",
-            "name": "Recruit malign actors",
+            "created": "2023-09-25T16:17:56.62662Z",
+            "modified": "2023-09-25T16:17:56.62662Z",
+            "name": "Recruit Malign Actors",
             "description": "Operators recruit bad actors paying recruiting, or exerting control over individuals includes trolls, partisans, and contractors.",
             "kill_chain_phases": [
                 {
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0091.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0091.md",
                     "external_id": "T0091"
                 }
             ],

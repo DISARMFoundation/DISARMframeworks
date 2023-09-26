@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--ee9eb518-67bf-4cfe-a481-4708b2bd15c3",
+    "id": "bundle--b1ffeb61-505d-40b2-9150-5a42465e5b36",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--56a35df8-3bda-4ee3-8be0-23b20b69fe63",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.925497Z",
-            "modified": "2022-07-03T23:52:02.925497Z",
+            "created": "2023-09-25T16:17:56.687534Z",
+            "modified": "2023-09-25T16:17:56.687534Z",
             "name": "Physical Violence",
-            "description": "Physical violence refers to the use of force to injure, abuse, damage, or destroy. An influence operation may conduct or encourage physical violence to discourage opponents from promoting conflicting content or draw attention to operation narratives using shock value.  ",
+            "description": "Physical violence refers to the use of force to injure, abuse, damage, or destroy. An influence operation may conduct or encourage physical violence to discourage opponents from promoting conflicting content or draw attention to operation narratives using shock value.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0127.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0127.md",
                     "external_id": "T0127"
                 }
             ],

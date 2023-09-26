@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--df3622c2-d57b-4f8c-b0e8-76f0fde98d58",
+    "id": "bundle--1e5fc844-3f42-4cde-9772-07f1df06135a",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--404f0dd5-81d8-4d96-ad36-875a58c27271",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.918562Z",
-            "modified": "2022-07-03T23:52:02.918562Z",
+            "created": "2023-09-25T16:17:56.647861Z",
+            "modified": "2023-09-25T16:17:56.647861Z",
             "name": "Mainstream Social Networks",
             "description": "Examples include Facebook, Twitter, LinkedIn, etc.",
             "kill_chain_phases": [
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0104.001.md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0104.001.md",
                     "external_id": "T0104.001"
                 }
             ],

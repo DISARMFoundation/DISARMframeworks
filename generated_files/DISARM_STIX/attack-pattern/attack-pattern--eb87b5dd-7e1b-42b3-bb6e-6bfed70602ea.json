@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--bccd64e8-738e-43b3-b46b-2d70ad7dfe61",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--eb87b5dd-7e1b-42b3-bb6e-6bfed70602ea",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2023-09-25T14:19:03.578958Z",
+            "modified": "2023-09-25T14:19:03.578958Z",
+            "name": "Extort",
+            "description": "Coerce money or favours from a target by threatening to expose or corrupt information. Ransomware criminals typically demand money. Intelligence agencies demand national secrets. Sexual predators demand favours. The leverage may be critical, sensitive, or embarrassing information.    ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0137.005.md",
+                    "external_id": "T0137.005"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

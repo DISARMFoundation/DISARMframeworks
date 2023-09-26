@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--0f3ca0c0-0c95-45bc-af05-a586ccd77d93",
+    "id": "bundle--f666a12e-d7f1-4a5b-a554-daced254ce35",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5d4cafe2-42cc-4c41-8ce7-41256e1383f7",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2022-07-03T23:52:02.902129Z",
-            "modified": "2022-07-03T23:52:02.902129Z",
-            "name": "Bait legitimate influencers",
-            "description": "Credibility in a social media environment is often a function of the size of a user's network. \"Influencers\" are so-called because of their reach, typically understood as: 1) the size of their network (i.e. the number of followers, perhaps weighted by their own influence); and 2) The rate at which their comments are re-circulated (these two metrics are related). Add traditional media players at all levels of credibility and professionalism to this, and the number of potential influencial carriers available for unwitting amplification becomes substantial. By targeting high-influence people and organizations in all types of media with narratives and content engineered to appeal their emotional or ideological drivers, influence campaigns are able to add perceived credibility to their messaging via saturation and adoption by trusted agents such as celebrities, journalists and local leaders.",
+            "created": "2023-09-25T16:17:56.559519Z",
+            "modified": "2023-09-25T16:17:56.559519Z",
+            "name": "Bait Legitimate Influencers",
+            "description": "Credibility in a social media environment is often a function of the size of a user's network. \"Influencers\" are so-called because of their reach, typically understood as: 1) the size of their network (i.e. the number of followers, perhaps weighted by their own influence); and 2) The rate at which their comments are re-circulated (these two metrics are related). Add traditional media players at all levels of credibility and professionalism to this, and the number of potential influencial carriers available for unwitting amplification becomes substantial. By targeting high-influence people and organisations in all types of media with narratives and content engineered to appeal their emotional or ideological drivers, influence campaigns are able to add perceived credibility to their messaging via saturation and adoption by trusted agents such as celebrities, journalists and local leaders.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
@@ -20,7 +20,7 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "url": "https://github.com/DISARMFoundation/DISARM_framework/blob/master/techniques/T0039 .md",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0039.md",
                     "external_id": "T0039"
                 }
             ],
