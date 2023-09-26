@@ -1582,7 +1582,7 @@
 <tr>
 <td><a href="techniques/T0135.001.md">T0135.001</a></td>
 <td>Smear</td>
-<td>Denigrate, disparage, or discredit an opponent. This is a common tactical objective in political campaigns with a larger strategic goal. It differs from efforts to harm a target through defamation.</td>
+<td>Denigrate, disparage, or discredit an opponent. This is a common tactical objective in political campaigns with a larger strategic goal. It differs from efforts to harm a target through defamation. If there is no ulterior motive and the sole aim is to cause harm to the target, then choose sub-technique “Defame” of technique “Cause Harm” instead.</td>
 <td>TA02</td>
 </tr>
 <tr>
@@ -1756,7 +1756,7 @@
 <tr>
 <td><a href="techniques/T0140.001.md">T0140.001</a></td>
 <td>Defame</td>
-<td>Attempt to damage the target’s personal reputation by impugning their character. This can range from subtle attempts to misrepresent or insinuate, to obvious attempts to denigrate or disparage, to blatant attempts to malign or vilify. Slander applies to oral expression. Libel applies to written or pictorial material. Defamation is often carried out by online trolls.  </td>
+<td>Attempt to damage the target’s personal reputation by impugning their character. This can range from subtle attempts to misrepresent or insinuate, to obvious attempts to denigrate or disparage, to blatant attempts to malign or vilify. Slander applies to oral expression. Libel applies to written or pictorial material. Defamation is often carried out by online trolls. The sole aim here is to cause harm to the target. If the threat actor uses defamation as a means of undermining the target, then choose sub-technique “Smear” of technique “Undermine” instead.  </td>
 <td>TA02</td>
 </tr>
 <tr>
