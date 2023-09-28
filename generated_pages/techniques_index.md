@@ -1732,7 +1732,7 @@
 <tr>
 <td><a href="techniques/T0139.001.md">T0139.001</a></td>
 <td>Discourage</td>
-<td>Inspire, animate, or exhort a target to act. An actor can use propaganda, disinformation, or conspiracy theories to stimulate a target to act in its interest.   </td>
+<td>To make a target disinclined or reluctant to act. Manipulators use disinformation to cause targets to question the utility, legality, or morality of taking an action. </td>
 <td>TA02</td>
 </tr>
 <tr>

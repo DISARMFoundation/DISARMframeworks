@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--25c47e08-838b-4399-830b-a62f9b0ca43c",
+    "id": "bundle--f217bf9f-cbe8-40f1-b842-2c589fa35221",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--17cba995-a8ab-4aa0-85fe-2b87d38a8f03",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.615991Z",
-            "modified": "2023-09-25T16:17:56.615991Z",
+            "created": "2023-09-28T21:25:13.230922Z",
+            "modified": "2023-09-28T21:25:13.230922Z",
             "name": "Develop AI-Generated Text",
             "description": "AI-generated texts refers to synthetic text composed by computers using text-generating AI technology. Autonomous generation refers to content created by a bot without human input, also known as bot-created content generation. Autonomous generation represents the next step in automation after language generation and may lead to automated journalism. An influence operation may use read fakes or autonomous generation to quickly develop and distribute content to the target audience.",
             "kill_chain_phases": [

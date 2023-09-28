@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--2a96f878-06ae-416b-bc70-697723844e26",
+    "id": "bundle--83472169-1104-44ab-8c40-3d22590924b2",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--e0acfceb-4541-438f-ba33-734f9a666c7d",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.548057Z",
-            "modified": "2023-09-25T16:17:56.548057Z",
+            "created": "2023-09-28T21:25:13.195756Z",
+            "modified": "2023-09-28T21:25:13.195756Z",
             "name": "Create Hashtags and Search Artefacts",
             "description": "Create one or more hashtags and/or hashtag groups. Many incident-based campaigns will create hashtags to promote their fabricated event. Creating a hashtag for an incident can have two important effects: 1. Create a perception of reality around an event. Certainly only \"real\" events would be discussed in a hashtag. After all, the event has a name!, and 2. Publicise the story more widely through trending lists and search behaviour. Asset needed to direct/control/manage \"conversation\" connected to launching new incident/campaign with new hashtag for applicable social media sites).",
             "kill_chain_phases": [

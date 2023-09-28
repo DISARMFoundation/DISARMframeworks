@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--0bb20d93-4965-4e20-abbd-28cdcff54032",
+    "id": "bundle--373c231e-4baf-4c98-8239-4371748a475c",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--cec91e97-76c8-4a1f-8397-a06939a558ef",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.578132Z",
-            "modified": "2023-09-25T16:17:56.578132Z",
+            "created": "2023-09-28T21:25:13.211971Z",
+            "modified": "2023-09-28T21:25:13.211971Z",
             "name": "Inauthentic Sites Amplify News and Narratives",
             "description": "Inauthentic sites circulate cross-post stories and amplify narratives. Often these sites have no masthead, bylines or attribution.",
             "kill_chain_phases": [

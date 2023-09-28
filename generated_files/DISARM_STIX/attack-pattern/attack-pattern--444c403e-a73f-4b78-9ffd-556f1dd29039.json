@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--3838a234-bf8c-4cfb-ab62-e2979906641d",
+    "id": "bundle--38165465-d447-4aad-8084-f23ebfbfb2da",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--444c403e-a73f-4b78-9ffd-556f1dd29039",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.632961Z",
-            "modified": "2023-09-25T16:17:56.632961Z",
+            "created": "2023-09-28T21:25:13.247214Z",
+            "modified": "2023-09-28T21:25:13.247214Z",
             "name": "Develop Owned Media Assets",
             "description": "An owned media asset refers to an agency or organisation through which an influence operation may create, develop, and host content and narratives. Owned media assets include websites, blogs, social media pages, forums, and other platforms that facilitate the creation and organisation of content.",
             "kill_chain_phases": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--720d1e3b-25c7-4077-b33f-46f4897581f0",
+    "id": "bundle--e8818de7-2f10-41c3-94b7-a2b3a178af7f",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--c171dd41-42d0-45c2-806e-3cb518ba0357",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.702386Z",
-            "modified": "2023-09-25T16:17:56.702386Z",
+            "created": "2023-09-28T21:25:13.28818Z",
+            "modified": "2023-09-28T21:25:13.28818Z",
             "name": "Measure Performance",
             "description": "A metric used to determine the accomplishment of actions. \u201cAre the actions being executed as planned?\u201d",
             "kill_chain_phases": [

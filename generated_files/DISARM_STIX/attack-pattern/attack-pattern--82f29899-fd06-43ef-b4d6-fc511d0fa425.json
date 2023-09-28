@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--17739f52-57e7-4904-957d-7207b970c2b1",
+    "id": "bundle--f6cacb16-0506-4b2e-8559-ce74533b4c37",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--82f29899-fd06-43ef-b4d6-fc511d0fa425",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.696916Z",
-            "modified": "2023-09-25T16:17:56.696916Z",
+            "created": "2023-09-28T21:25:13.284035Z",
+            "modified": "2023-09-28T21:25:13.284035Z",
             "name": "Conceal Infrastructure",
             "description": "Conceal the campaign's infrastructure to avoid takedown and attribution.",
             "kill_chain_phases": [

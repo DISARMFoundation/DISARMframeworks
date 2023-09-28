@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--4f85e9de-48a7-4d86-9ccd-ede19139df07",
+    "id": "bundle--18f01e1c-e06e-4f56-9dbb-5e16da7dadf2",
     "objects": [
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
             "id": "x-mitre-tactic--c4eaa2a6-7e86-4eb3-beaa-981a96d4724a",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.535352Z",
-            "modified": "2023-09-25T16:17:56.535352Z",
+            "created": "2023-09-28T21:25:13.187698Z",
+            "modified": "2023-09-28T21:25:13.187698Z",
             "name": "Establish Social Assets",
             "description": "Establishing information assets generates messaging tools, including social media accounts, operation personnel, and organisations, including directly and indirectly managed assets. For assets under their direct control, the operation can add, change, or remove these assets at will. Establishing information assets allows an influence operation to promote messaging directly to the target audience without navigating through external entities. Many online influence operations create or compromise social media accounts as a primary vector of information dissemination.",
             "external_references": [

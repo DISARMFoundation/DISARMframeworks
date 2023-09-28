@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--84509329-7bf2-419e-957d-d8c382046344",
+    "id": "bundle--e5c4b351-10b3-46e7-9968-cd81945fe035",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--4d86424a-26a1-4d9f-bc32-619620a18a8d",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.545329Z",
-            "modified": "2023-09-25T16:17:56.545329Z",
+            "created": "2023-09-28T21:25:13.193793Z",
+            "modified": "2023-09-28T21:25:13.193793Z",
             "name": "Compromise Legitimate Accounts",
             "description": "Hack or take over legimate accounts to distribute misinformation or damaging content.",
             "kill_chain_phases": [

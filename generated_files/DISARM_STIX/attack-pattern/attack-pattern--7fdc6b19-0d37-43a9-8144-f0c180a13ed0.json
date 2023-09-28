@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--6a95f7d6-894f-4bec-bfd0-52b0682899fb",
+    "id": "bundle--ee890f9c-7aa9-4769-b09b-96f72b516e2d",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--7fdc6b19-0d37-43a9-8144-f0c180a13ed0",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.70757Z",
-            "modified": "2023-09-25T16:17:56.70757Z",
+            "created": "2023-09-28T21:25:13.289726Z",
+            "modified": "2023-09-28T21:25:13.289726Z",
             "name": "Knowledge",
             "description": "Measure current system state with respect to the effectiveness of influencing knowledge.",
             "kill_chain_phases": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--e2b08222-d4af-4798-b1fb-0ce4166e8d4a",
+    "id": "bundle--fddd299e-bacd-4c46-9967-3b38b5bf4dc3",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--d13ff5af-16fd-4b32-8e14-f2e0980c15fb",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.609984Z",
-            "modified": "2023-09-25T16:17:56.609984Z",
+            "created": "2023-09-28T21:25:13.225998Z",
+            "modified": "2023-09-28T21:25:13.225998Z",
             "name": "Identify Existing Fissures",
             "description": "An influence operation may identify existing fissures to pit target populations against one another or facilitate a \u201cdivide-and-conquer\" approach to tailor operation narratives along the divides.",
             "kill_chain_phases": [

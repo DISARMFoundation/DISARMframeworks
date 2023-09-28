@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--e09ee49f-efc8-46b5-ad8b-a4f0c337c00d",
+    "id": "bundle--dedb20af-a3ed-4eb4-8daf-16cd2e08c1e6",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--331a83bb-2e5b-4c49-9446-e78a8f25b4eb",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.697724Z",
-            "modified": "2023-09-25T16:17:56.697724Z",
+            "created": "2023-09-28T21:25:13.285122Z",
+            "modified": "2023-09-28T21:25:13.285122Z",
             "name": "Utilise Bulletproof Hosting",
             "description": "Hosting refers to services through which storage and computing resources are provided to an individual or organisation for the accommodation and maintenance of one or more websites and related services. Services may include web hosting, file sharing, and email distribution. Bulletproof hosting refers to services provided by an entity, such as a domain hosting or web hosting firm, that allows its customer considerable leniency in use of the service. An influence operation may utilise bulletproof hosting to maintain continuity of service for suspicious, illegal, or disruptive operation activities that stricter hosting services would limit, report, or suspend.",
             "kill_chain_phases": [

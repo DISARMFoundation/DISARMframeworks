@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--f666a12e-d7f1-4a5b-a554-daced254ce35",
+    "id": "bundle--80f1b645-a5bc-4172-b736-c96f9e8872d3",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5d4cafe2-42cc-4c41-8ce7-41256e1383f7",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.559519Z",
-            "modified": "2023-09-25T16:17:56.559519Z",
+            "created": "2023-09-28T21:25:13.202853Z",
+            "modified": "2023-09-28T21:25:13.202853Z",
             "name": "Bait Legitimate Influencers",
             "description": "Credibility in a social media environment is often a function of the size of a user's network. \"Influencers\" are so-called because of their reach, typically understood as: 1) the size of their network (i.e. the number of followers, perhaps weighted by their own influence); and 2) The rate at which their comments are re-circulated (these two metrics are related). Add traditional media players at all levels of credibility and professionalism to this, and the number of potential influencial carriers available for unwitting amplification becomes substantial. By targeting high-influence people and organisations in all types of media with narratives and content engineered to appeal their emotional or ideological drivers, influence campaigns are able to add perceived credibility to their messaging via saturation and adoption by trusted agents such as celebrities, journalists and local leaders.",
             "kill_chain_phases": [

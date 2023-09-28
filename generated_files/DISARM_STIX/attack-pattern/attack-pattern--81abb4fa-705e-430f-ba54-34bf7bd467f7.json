@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--5045b083-2a0c-41c0-805c-7d7417b4eccb",
+    "id": "bundle--44b54358-5c40-480e-aa9a-68360f78d977",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--81abb4fa-705e-430f-ba54-34bf7bd467f7",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.625293Z",
-            "modified": "2023-09-25T16:17:56.625293Z",
+            "created": "2023-09-28T21:25:13.24201Z",
+            "modified": "2023-09-28T21:25:13.24201Z",
             "name": "Create Sockpuppet Accounts",
             "description": "Sockpuppet accounts refer to falsified accounts that either promote the influence operation\u2019s own material or attack critics of the material online. Individuals who control sockpuppet accounts also man at least one other user account.67 Sockpuppet accounts help legitimise operation narratives by providing an appearance of external support for the material and discrediting opponents of the operation.",
             "kill_chain_phases": [

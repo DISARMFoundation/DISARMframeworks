@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--5bb27388-10ac-4aa1-9cd7-acee2a6f05d6",
+    "id": "bundle--9383febc-dd7c-454b-a110-1ccfd70d3b91",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--55ecf54e-0e46-4ea1-86de-ab473c94705f",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.706462Z",
-            "modified": "2023-09-25T16:17:56.706462Z",
+            "created": "2023-09-28T21:25:13.289474Z",
+            "modified": "2023-09-28T21:25:13.289474Z",
             "name": "Awareness",
             "description": "Measure current system state with respect to the effectiveness of influencing awareness.",
             "kill_chain_phases": [

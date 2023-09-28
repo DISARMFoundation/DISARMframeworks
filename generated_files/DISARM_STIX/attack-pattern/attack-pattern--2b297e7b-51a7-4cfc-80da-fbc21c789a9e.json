@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--0ec8031a-afdc-4610-8b51-b2e33efb1dba",
+    "id": "bundle--707137b3-6225-472e-a07c-4a92d0a22b6c",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--2b297e7b-51a7-4cfc-80da-fbc21c789a9e",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.687957Z",
-            "modified": "2023-09-25T16:17:56.687957Z",
+            "created": "2023-09-28T21:25:13.277436Z",
+            "modified": "2023-09-28T21:25:13.277436Z",
             "name": "Encourage Physical Violence",
             "description": "An influence operation may Encourage others to engage in Physical Violence to achieve campaign goals.",
             "kill_chain_phases": [

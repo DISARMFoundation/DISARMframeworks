@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--019cf266-cc40-4902-b63e-7e3708a463ff",
+    "id": "bundle--cc458a26-a004-4463-a6a4-e173f0fa2ced",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--da4ae172-c8c8-4eb1-bc03-c5198624c8a2",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.654059Z",
-            "modified": "2023-09-25T16:17:56.654059Z",
+            "created": "2023-09-28T21:25:13.262725Z",
+            "modified": "2023-09-28T21:25:13.262725Z",
             "name": "Consumer Review Networks",
             "description": "Platforms for finding, reviewing, and sharing information about brands, products, services, restaurants, travel destinations, etc. Examples include Yelp, TripAdvisor, etc.",
             "kill_chain_phases": [

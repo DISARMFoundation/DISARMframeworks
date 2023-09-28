@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--1c520402-74c6-45c8-9ec3-944221d67429",
+    "id": "bundle--9d66dc2a-8e13-4735-b5c7-c058fa686cf2",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--e60f54a3-9972-43b8-8359-ee21d781acae",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.620468Z",
-            "modified": "2023-09-25T16:17:56.620468Z",
+            "created": "2023-09-28T21:25:13.236836Z",
+            "modified": "2023-09-28T21:25:13.236836Z",
             "name": "Develop AI-Generated Audio (Deepfakes)",
             "description": "Deepfakes refer to AI-generated falsified photos, videos, or soundbites. An influence operation may use deepfakes to depict an inauthentic situation by synthetically recreating an individual\u2019s face, body, voice, and physical gestures.",
             "kill_chain_phases": [

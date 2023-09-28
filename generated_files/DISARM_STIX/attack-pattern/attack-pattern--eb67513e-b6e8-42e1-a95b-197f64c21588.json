@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--8da13889-6269-4678-ae38-1cd1093c2ce6",
+    "id": "bundle--0dd5363a-3f7f-4d84-9077-3e1b1ba601f6",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--eb67513e-b6e8-42e1-a95b-197f64c21588",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.69011Z",
-            "modified": "2023-09-25T16:17:56.69011Z",
+            "created": "2023-09-28T21:25:13.279479Z",
+            "modified": "2023-09-28T21:25:13.279479Z",
             "name": "Conceal Network Identity",
             "description": "Concealing network identity aims to hide the existence an influence operation\u2019s network completely. Unlike concealing sponsorship, concealing network identity denies the existence of any sort of organisation.",
             "kill_chain_phases": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--c99fe5f3-c92b-4162-bb77-d785f87c6c4b",
+    "id": "bundle--baff5a4e-b285-4b1c-8ae5-8c04c6b6a308",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--fe5cf0f2-3792-4cab-b546-a9af7a5aa319",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.627814Z",
-            "modified": "2023-09-25T16:17:56.627814Z",
+            "created": "2023-09-28T21:25:13.242543Z",
+            "modified": "2023-09-28T21:25:13.242543Z",
             "name": "Recruit Partisans",
             "description": "Operators recruit partisans (ideologically-aligned individuals) to support the campaign.",
             "kill_chain_phases": [

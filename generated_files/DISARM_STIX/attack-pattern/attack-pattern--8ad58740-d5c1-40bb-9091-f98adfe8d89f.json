@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--f4748d02-41e9-44f4-9f06-51fead589788",
+    "id": "bundle--4809dcfc-d737-4b26-a64f-dc3a0e169fff",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--8ad58740-d5c1-40bb-9091-f98adfe8d89f",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.595524Z",
-            "modified": "2023-09-25T16:17:56.595524Z",
+            "created": "2023-09-28T21:25:13.221088Z",
+            "modified": "2023-09-28T21:25:13.221088Z",
             "name": "Dismay",
             "description": "Threaten the critic or narrator of events. For instance, threaten journalists or news outlets reporting on a story.",
             "kill_chain_phases": [

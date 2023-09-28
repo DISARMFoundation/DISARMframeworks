@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--34d45ed9-6d16-43e0-a601-37445b7166cc",
+    "id": "bundle--b9899bec-37bb-4032-a83e-c844d855b0db",
     "objects": [
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
             "id": "x-mitre-tactic--b03163eb-7e81-4fed-9819-641bf7c99507",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.52801Z",
-            "modified": "2023-09-25T16:17:56.52801Z",
+            "created": "2023-09-28T21:25:13.179932Z",
+            "modified": "2023-09-28T21:25:13.179932Z",
             "name": "Plan Strategy",
             "description": "Define the desired end state, i.e. the set of required conditions that defines achievement of all objectives.",
             "external_references": [

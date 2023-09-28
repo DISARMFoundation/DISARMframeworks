@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--6857982f-a332-4877-8e40-080be6e7a181",
+    "id": "bundle--3f72857f-1333-4d11-92ff-3c439f53b967",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--bfce790b-dfd6-46ca-8fab-c2d72f21bba2",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.570845Z",
-            "modified": "2023-09-25T16:17:56.570845Z",
+            "created": "2023-09-28T21:25:13.210877Z",
+            "modified": "2023-09-28T21:25:13.210877Z",
             "name": "Hijack Existing Hashtag",
             "description": "Take over an existing hashtag to drive exposure.",
             "kill_chain_phases": [

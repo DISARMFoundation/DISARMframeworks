@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--73a56af2-a327-415f-bdf4-d61b80df87f6",
+    "id": "bundle--291fa157-975f-433f-8dd2-ca4f9a53979c",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--70717452-f7e3-4ce8-956f-39a4d34c5cfb",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.538776Z",
-            "modified": "2023-09-25T16:17:56.538776Z",
+            "created": "2023-09-28T21:25:13.190139Z",
+            "modified": "2023-09-28T21:25:13.190139Z",
             "name": "Facilitate State Propaganda",
             "description": "Organise citizens around pro-state messaging. Coordinate paid or volunteer groups to push state propaganda.",
             "kill_chain_phases": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--a01d3fc5-1428-4647-9770-9bff1015ac5e",
+    "id": "bundle--40338e40-9ab4-470d-bf26-19bb94cf9045",
     "objects": [
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
             "id": "x-mitre-tactic--3fa1ad18-ca09-40ed-be45-f210b9c07e0b",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.53302Z",
-            "modified": "2023-09-25T16:17:56.53302Z",
+            "created": "2023-09-28T21:25:13.185109Z",
+            "modified": "2023-09-28T21:25:13.185109Z",
             "name": "Drive Offline Activity",
             "description": "Move incident/campaign from online to offline. Encouraging users to move from the platform on which they initially viewed operation content and engage in the physical information space or offline world. This may include operation-aligned rallies or protests, radio, newspaper, or billboards. An influence operation may drive to physical forums to diversify its information channels and facilitate spaces where the target audience can engage with both operation content and like-minded individuals offline.",
             "external_references": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--d0c5b9c7-fe61-4d17-b883-8d3d8c0b267b",
+    "id": "bundle--2be49de2-ce8a-4896-b1a5-9ce484d594d7",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--7f338181-2e4b-435b-a190-7044f3867aa3",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.648254Z",
-            "modified": "2023-09-25T16:17:56.648254Z",
+            "created": "2023-09-28T21:25:13.257828Z",
+            "modified": "2023-09-28T21:25:13.257828Z",
             "name": "Dating Apps",
             "description": "Dating Apps",
             "kill_chain_phases": [

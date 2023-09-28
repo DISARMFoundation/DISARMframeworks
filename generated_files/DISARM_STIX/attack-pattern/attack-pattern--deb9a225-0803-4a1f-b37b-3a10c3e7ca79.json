@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--0e22d936-ae5b-463d-9f1c-3245c92c5864",
+    "id": "bundle--f5fb276b-1487-426d-8190-8184c5005759",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--deb9a225-0803-4a1f-b37b-3a10c3e7ca79",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.693681Z",
-            "modified": "2023-09-25T16:17:56.693681Z",
+            "created": "2023-09-28T21:25:13.281952Z",
+            "modified": "2023-09-28T21:25:13.281952Z",
             "name": "Delete Accounts/Account Activity",
             "description": "Deleting accounts and account activity occurs when an influence operation removes its online social media assets, including social media accounts, posts, likes, comments, and other online artefacts. An influence operation may delete its accounts and account activity to complicate attribution or remove online documentation that the operation ever occurred.",
             "kill_chain_phases": [

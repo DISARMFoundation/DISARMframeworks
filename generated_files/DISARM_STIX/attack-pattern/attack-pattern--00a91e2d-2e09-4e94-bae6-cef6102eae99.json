@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--ab87e5c2-32ad-41df-af71-14f4483f792a",
+    "id": "bundle--96866e90-4a43-44b5-ad9c-948c09670963",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--00a91e2d-2e09-4e94-bae6-cef6102eae99",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.646696Z",
-            "modified": "2023-09-25T16:17:56.646696Z",
+            "created": "2023-09-28T21:25:13.256885Z",
+            "modified": "2023-09-28T21:25:13.256885Z",
             "name": "Video Livestream",
             "description": "A video livestream refers to an online video broadcast capability that allows for real-time communication to closed or open networks.",
             "kill_chain_phases": [

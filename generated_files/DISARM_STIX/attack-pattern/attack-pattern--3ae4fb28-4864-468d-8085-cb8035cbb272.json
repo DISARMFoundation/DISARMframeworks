@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--839afbed-8398-44e9-83e2-ab119851aafb",
+    "id": "bundle--807eca38-8021-4c57-922b-8ff2179acd1a",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--3ae4fb28-4864-468d-8085-cb8035cbb272",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.636164Z",
-            "modified": "2023-09-25T16:17:56.636164Z",
+            "created": "2023-09-28T21:25:13.251463Z",
+            "modified": "2023-09-28T21:25:13.251463Z",
             "name": "Prepare Assets Impersonating Legitimate Entities",
             "description": "An influence operation may prepare assets impersonating legitimate entities to further conceal its network identity and add a layer of legitimacy to its operation content. Users will more likely believe and less likely fact-check news from recognisable sources rather than unknown sites. Legitimate entities may include authentic news outlets, public figures, organisations, or state entities. An influence operation may use a wide variety of cyber techniques to impersonate a legitimate entity\u2019s website or social media account. Typosquatting87 is the international registration of a domain name with purposeful variations of the impersonated domain name through intentional typos, top-level domain (TLD) manipulation, or punycode. Typosquatting facilitates the creation of falsified websites by creating similar domain names in the URL box, leaving it to the user to confirm that the URL is correct.",
             "kill_chain_phases": [

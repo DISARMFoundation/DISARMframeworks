@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--8cd1237b-1a64-4c10-aee8-40df869500f1",
+    "id": "bundle--d0d8a13e-21cb-4923-a3d5-75bb95aa8dc9",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--da5fb984-37a6-4152-a078-e2af40c0844f",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.691451Z",
-            "modified": "2023-09-25T16:17:56.691451Z",
+            "created": "2023-09-28T21:25:13.280677Z",
+            "modified": "2023-09-28T21:25:13.280677Z",
             "name": "Deny Involvement",
             "description": "Without \"smoking gun\" proof (and even with proof), incident creator can or will deny involvement. This technique also leverages the attacker advantages outlined in \"Demand insurmountable proof\", specifically the asymmetric disadvantage for truth-tellers in a \"firehose of misinformation\" environment.",
             "kill_chain_phases": [

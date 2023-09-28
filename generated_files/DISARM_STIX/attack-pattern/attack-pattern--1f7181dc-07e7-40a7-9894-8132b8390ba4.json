@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--16f0f600-500b-4a91-a8ea-c419c4a7bb48",
+    "id": "bundle--b902ec75-3655-428a-b579-e421b5f22f6e",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--1f7181dc-07e7-40a7-9894-8132b8390ba4",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.687102Z",
-            "modified": "2023-09-25T16:17:56.687102Z",
+            "created": "2023-09-28T21:25:13.276828Z",
+            "modified": "2023-09-28T21:25:13.276828Z",
             "name": "Call to Action to Attend",
             "description": "Call to action to attend an event",
             "kill_chain_phases": [

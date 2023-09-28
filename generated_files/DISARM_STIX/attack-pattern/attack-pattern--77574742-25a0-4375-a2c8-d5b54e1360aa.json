@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--2a1e9627-d819-430d-a1cd-8bcdaaf22e56",
+    "id": "bundle--c243daa5-72d3-44b7-b15f-607b744b87d5",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--77574742-25a0-4375-a2c8-d5b54e1360aa",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.58524Z",
-            "modified": "2023-09-25T16:17:56.58524Z",
+            "created": "2023-09-28T21:25:13.215004Z",
+            "modified": "2023-09-28T21:25:13.215004Z",
             "name": "Geographic Segmentation",
             "description": "An influence operation may target populations in a specific geographic location, such as a region, state, or city. An influence operation may use geographic segmentation to Create Localised Content (see: Establish Legitimacy).",
             "kill_chain_phases": [

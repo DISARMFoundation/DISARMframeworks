@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--dde0f7e9-b7d2-4326-b40f-a79cab38c021",
+    "id": "bundle--e24e8526-c107-4744-961b-cee963ea47f8",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--8432d382-0ce8-4507-97ea-95be10de3488",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.652483Z",
-            "modified": "2023-09-25T16:17:56.652483Z",
+            "created": "2023-09-28T21:25:13.261294Z",
+            "modified": "2023-09-28T21:25:13.261294Z",
             "name": "Anonymous Message Boards",
             "description": "Examples include the Chans",
             "kill_chain_phases": [

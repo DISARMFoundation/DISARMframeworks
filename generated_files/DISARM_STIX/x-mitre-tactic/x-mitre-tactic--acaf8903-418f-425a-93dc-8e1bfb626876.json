@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--51efa039-caf6-4662-8551-ec70ede5be1e",
+    "id": "bundle--4c1911e5-a0b6-4ada-bae9-ee314503ac71",
     "objects": [
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
             "id": "x-mitre-tactic--acaf8903-418f-425a-93dc-8e1bfb626876",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.530818Z",
-            "modified": "2023-09-25T16:17:56.530818Z",
+            "created": "2023-09-28T21:25:13.18167Z",
+            "modified": "2023-09-28T21:25:13.18167Z",
             "name": "Microtarget",
             "description": "Target very specific populations of people",
             "external_references": [

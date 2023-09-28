@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--28c5b9e0-44a5-4059-bae3-fccd3c105c27",
+    "id": "bundle--8b272661-09cc-485e-a4a9-f983697c165a",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--8289a941-c379-4628-916a-2ddc12f4e531",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.601502Z",
-            "modified": "2023-09-25T16:17:56.601502Z",
+            "created": "2023-09-28T21:25:13.222094Z",
+            "modified": "2023-09-28T21:25:13.222094Z",
             "name": "Map Target Audience Information Environment",
             "description": "Mapping the target audience information environment analyses the information space itself, including social media analytics, web traffic, and media surveys. Mapping the information environment may help the influence operation determine the most realistic and popular information channels to reach its target audience. Mapping the target audience information environment aids influence operations in determining the most vulnerable areas of the information space to target with messaging.",
             "kill_chain_phases": [

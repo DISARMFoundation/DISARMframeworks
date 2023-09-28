@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--a288e8f7-a0a9-45d5-84a9-b3ad51b13116",
+    "id": "bundle--ce822db7-2c37-44b2-bb15-40bfcf69c926",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--14ea9a49-0546-4fe9-be44-f158be5881e9",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.683246Z",
-            "modified": "2023-09-25T16:17:56.683246Z",
+            "created": "2023-09-28T21:25:13.274372Z",
+            "modified": "2023-09-28T21:25:13.274372Z",
             "name": "Control Information Environment through Offensive Cyberspace Operations",
             "description": "Controlling the information environment through offensive cyberspace operations uses cyber tools and techniques to alter the trajectory of content in the information space to either prioritise operation messaging or block opposition messaging.",
             "kill_chain_phases": [

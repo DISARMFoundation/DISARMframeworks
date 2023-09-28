@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--ba6833e6-b711-4e96-8929-beb56c3a6a1d",
+    "id": "bundle--0e6424ec-4e04-4e9b-81d9-02f02b9e1436",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--d696b89b-9686-42ff-b3c4-5a4d5ecaa17a",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.58392Z",
-            "modified": "2023-09-25T16:17:56.58392Z",
+            "created": "2023-09-28T21:25:13.21355Z",
+            "modified": "2023-09-28T21:25:13.21355Z",
             "name": "Degrade Adversary",
             "description": "Plan to degrade an adversary\u2019s image or ability to act. This could include preparation and use of harmful information about the adversary\u2019s actions or reputation.",
             "kill_chain_phases": [

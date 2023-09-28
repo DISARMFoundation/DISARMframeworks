@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--3cc9048e-5ad1-4e8e-a21b-e673960af9b8",
+    "id": "bundle--258e85d1-9e27-41b6-b565-e839da19f584",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--75a5c211-2590-498c-ad3a-129c912d5cd2",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.542172Z",
-            "modified": "2023-09-25T16:17:56.542172Z",
+            "created": "2023-09-28T21:25:13.191114Z",
+            "modified": "2023-09-28T21:25:13.191114Z",
             "name": "Develop Competing Narratives",
             "description": "Advance competing narratives connected to same issue ie: on one hand deny incident while at same time expresses dismiss. Suppressing or discouraging narratives already spreading requires an alternative. The most simple set of narrative techniques in response would be the construction and promotion of contradictory alternatives centred on denial, deflection, dismissal, counter-charges, excessive standards of proof, bias in prohibition or enforcement, and so on. These competing narratives allow loyalists cover, but are less compelling to opponents and fence-sitters than campaigns built around existing narratives or highly explanatory master narratives. Competing narratives, as such, are especially useful in the \"firehose of misinformation\" approach.",
             "kill_chain_phases": [

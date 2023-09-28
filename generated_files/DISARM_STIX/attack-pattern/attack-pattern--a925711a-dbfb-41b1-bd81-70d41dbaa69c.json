@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--6ca88775-51aa-4bbb-8cb7-00d108e5ffc5",
+    "id": "bundle--73231c6b-2a95-4275-8b84-c9ba51c6a67d",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--a925711a-dbfb-41b1-bd81-70d41dbaa69c",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.70427Z",
-            "modified": "2023-09-25T16:17:56.70427Z",
+            "created": "2023-09-28T21:25:13.289032Z",
+            "modified": "2023-09-28T21:25:13.289032Z",
             "name": "Behaviour Changes",
             "description": "Monitor and evaluate behaviour changes from misinformation incidents.",
             "kill_chain_phases": [

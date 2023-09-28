@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--1a0a7cea-9346-4b64-858f-921cf5a91016",
+    "id": "bundle--6217b633-fcd8-470f-bf91-16f51d9b02db",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--283453fd-36c5-4d66-b24d-f29ea35fa8a1",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.623306Z",
-            "modified": "2023-09-25T16:17:56.623306Z",
+            "created": "2023-09-28T21:25:13.24035Z",
+            "modified": "2023-09-28T21:25:13.24035Z",
             "name": "Create Anonymous Accounts",
             "description": "Anonymous accounts or anonymous users refer to users that access network resources without providing a username or password. An influence operation may use anonymous accounts to spread content without direct attribution to the operation.",
             "kill_chain_phases": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--09595db4-c32a-4abe-b0be-541ff5442607",
+    "id": "bundle--43f7eb05-0876-4b49-a574-4dd94a243847",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--4cb308a9-073c-49d3-81ed-894cf9b95acc",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.632178Z",
-            "modified": "2023-09-25T16:17:56.632178Z",
+            "created": "2023-09-28T21:25:13.246267Z",
+            "modified": "2023-09-28T21:25:13.246267Z",
             "name": "Identify Susceptible Targets in Networks",
             "description": "When seeking to infiltrate an existing network, an influence operation may identify individuals and groups that might be susceptible to being co-opted or influenced.",
             "kill_chain_phases": [
