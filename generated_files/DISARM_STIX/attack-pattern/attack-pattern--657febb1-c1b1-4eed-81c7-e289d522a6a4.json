@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--a2657de3-812b-4132-b3ec-e034a907698d",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--657febb1-c1b1-4eed-81c7-e289d522a6a4",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2023-09-28T21:25:13.297901Z",
+            "modified": "2023-09-28T21:25:13.297901Z",
+            "name": "Dissuade from Acting",
+            "description": "Discourage, deter, or inhibit the target from actions which would be unfavourable to the attacker. The actor may want the target to refrain from voting, buying, fighting, or supplying. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0139.md",
+                    "external_id": "T0139"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

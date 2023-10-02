@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--868c0639-537c-441d-ab54-0e5383b8ff6a",
+    "id": "bundle--516832ab-e9fa-4441-b430-7a4f44414b6e",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--8f3f1d6f-beda-4f20-b1a7-2d087ae453f7",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.634846Z",
-            "modified": "2023-09-25T16:17:56.634846Z",
+            "created": "2023-09-28T21:25:13.249554Z",
+            "modified": "2023-09-28T21:25:13.249554Z",
             "name": "Backstop Personas",
             "description": "Create other assets/dossier/cover/fake relationships and/or connections or documents, sites, bylines, attributions, to establish/augment/inflate crediblity/believability",
             "kill_chain_phases": [

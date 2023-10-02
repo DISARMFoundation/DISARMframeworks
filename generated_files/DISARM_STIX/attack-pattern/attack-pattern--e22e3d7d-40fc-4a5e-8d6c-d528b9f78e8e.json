@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--33be7aa6-7e92-44ae-883c-bb75241649c0",
+    "id": "bundle--d341052e-6550-4dd9-8b48-2f54f7e02bff",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--e22e3d7d-40fc-4a5e-8d6c-d528b9f78e8e",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.684615Z",
-            "modified": "2023-09-25T16:17:56.684615Z",
+            "created": "2023-09-28T21:25:13.275468Z",
+            "modified": "2023-09-28T21:25:13.275468Z",
             "name": "Suppress Opposition",
             "description": "Operators can suppress the opposition by exploiting platform content moderation tools and processes like reporting non-violative content to platforms for takedown and goading opposition actors into taking actions that result in platform action or target audience disapproval.",
             "kill_chain_phases": [

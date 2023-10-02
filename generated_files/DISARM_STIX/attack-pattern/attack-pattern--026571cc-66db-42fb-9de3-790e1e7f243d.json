@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--bcdbc88c-d981-4b2e-b70e-61fb74e64c50",
+    "id": "bundle--6bdc0034-a9ad-43e7-91b0-c54757577c9e",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--026571cc-66db-42fb-9de3-790e1e7f243d",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.664206Z",
-            "modified": "2023-09-25T16:17:56.664206Z",
+            "created": "2023-09-28T21:25:13.266843Z",
+            "modified": "2023-09-28T21:25:13.266843Z",
             "name": "Deliver Ads",
             "description": "Delivering content via any form of paid media or advertising.",
             "kill_chain_phases": [

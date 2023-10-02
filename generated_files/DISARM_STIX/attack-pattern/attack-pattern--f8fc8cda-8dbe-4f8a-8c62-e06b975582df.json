@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--b2673ae9-3781-429a-8cca-f8f23ede9445",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--f8fc8cda-8dbe-4f8a-8c62-e06b975582df",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2023-09-28T21:25:13.294603Z",
+            "modified": "2023-09-28T21:25:13.294603Z",
+            "name": "Increase Prestige",
+            "description": "Improve personal standing within a community. Gain fame, approbation, or notoriety. Conspiracy theorists, those with special access, and ideologues can gain prominence in a community by propagating disinformation, leaking confidential documents, or spreading hate. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0136.008.md",
+                    "external_id": "T0136.008"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

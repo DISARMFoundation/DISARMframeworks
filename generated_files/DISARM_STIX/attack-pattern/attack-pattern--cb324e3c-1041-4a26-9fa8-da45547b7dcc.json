@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--4bf604f5-f60d-47be-accb-b2bdf506a92b",
+    "id": "bundle--73c1f5eb-a924-4c1a-8bc7-157de4037202",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--cb324e3c-1041-4a26-9fa8-da45547b7dcc",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.712817Z",
-            "modified": "2023-09-25T16:17:56.712817Z",
+            "created": "2023-09-28T21:25:13.29032Z",
+            "modified": "2023-09-28T21:25:13.29032Z",
             "name": "Social Media Engagement",
             "description": "Monitor and evaluate social media engagement in misinformation incidents.",
             "kill_chain_phases": [

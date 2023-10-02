@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--cf07048c-1401-42d6-8066-8180ce1480b7",
+    "id": "bundle--0fd36e6c-bf7f-4bb3-9412-220b3c84823a",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--e0b7c795-eae2-4494-a3c9-52bc68c6df06",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.54761Z",
-            "modified": "2023-09-25T16:17:56.54761Z",
+            "created": "2023-09-28T21:25:13.195612Z",
+            "modified": "2023-09-28T21:25:13.195612Z",
             "name": "Raise Funds from Ignorant Agents",
             "description": "Raising funds from ignorant agents may include scams, donations intended for one stated purpose but then used for another, etc.",
             "kill_chain_phases": [

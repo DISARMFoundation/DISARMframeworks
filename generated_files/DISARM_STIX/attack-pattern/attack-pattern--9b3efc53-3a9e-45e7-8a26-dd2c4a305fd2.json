@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--514d5993-0770-424e-95a7-f20c4d18018c",
+    "id": "bundle--5b5d8638-53f8-4ad4-91f5-962233159bb4",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--9b3efc53-3a9e-45e7-8a26-dd2c4a305fd2",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.637469Z",
-            "modified": "2023-09-25T16:17:56.637469Z",
+            "created": "2023-09-28T21:25:13.252368Z",
+            "modified": "2023-09-28T21:25:13.252368Z",
             "name": "Spoof/Parody Account/Site",
             "description": "An influence operation may prepare assets impersonating legitimate entities to further conceal its network identity and add a layer of legitimacy to its operation content. Users will more likely believe and less likely fact-check news from recognisable sources rather than unknown sites. Legitimate entities may include authentic news outlets, public figures, organisations, or state entities.",
             "kill_chain_phases": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--9c63027f-3307-413e-8dde-f3b20f260f46",
+    "id": "bundle--869a9a71-029c-4338-8243-0d7ee648acaa",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--091f481d-b32b-4e5c-9626-b14a6ef02df7",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.633319Z",
-            "modified": "2023-09-25T16:17:56.633319Z",
+            "created": "2023-09-28T21:25:13.247708Z",
+            "modified": "2023-09-28T21:25:13.247708Z",
             "name": "Leverage Content Farms",
             "description": "Using the services of large-scale content providers for creating and amplifying campaign artefacts at scale.",
             "kill_chain_phases": [

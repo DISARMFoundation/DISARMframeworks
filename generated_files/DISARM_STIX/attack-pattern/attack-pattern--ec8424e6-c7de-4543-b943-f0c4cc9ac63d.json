@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--e78a79b0-13b6-45a4-bdfe-8efd00bc6907",
+    "id": "bundle--5a61b038-2b91-4fa8-920d-12d91c0a17e6",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--ec8424e6-c7de-4543-b943-f0c4cc9ac63d",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.621541Z",
-            "modified": "2023-09-25T16:17:56.621541Z",
+            "created": "2023-09-28T21:25:13.238381Z",
+            "modified": "2023-09-28T21:25:13.238381Z",
             "name": "Obtain Authentic Documents",
             "description": "Procure authentic documents that are not publicly available, by whatever means -- whether legal or illegal, highly-resourced or less so. These documents can be \"leaked\" during later stages in the operation.",
             "kill_chain_phases": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--83d6d4c8-c429-451d-9487-a859a6c02c45",
+    "id": "bundle--365f2f37-f3ff-4860-a3e4-0483fa47f85b",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--8b991b67-9df8-42e7-b11a-5ed1bc41c5a5",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.698933Z",
-            "modified": "2023-09-25T16:17:56.698933Z",
+            "created": "2023-09-28T21:25:13.286669Z",
+            "modified": "2023-09-28T21:25:13.286669Z",
             "name": "Obfuscate Payment",
             "description": "Obfuscate Payment",
             "kill_chain_phases": [

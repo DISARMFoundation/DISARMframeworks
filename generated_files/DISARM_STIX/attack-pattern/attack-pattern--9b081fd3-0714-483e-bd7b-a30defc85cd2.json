@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--86e075ac-6969-46f6-8c86-42e3d7458da5",
+    "id": "bundle--1a7acf27-5570-465e-8714-4abc793fff57",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--9b081fd3-0714-483e-bd7b-a30defc85cd2",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.639916Z",
-            "modified": "2023-09-25T16:17:56.639916Z",
+            "created": "2023-09-28T21:25:13.254245Z",
+            "modified": "2023-09-28T21:25:13.254245Z",
             "name": "Co-Opt Influencers",
             "description": "Co-opt Influencers",
             "kill_chain_phases": [

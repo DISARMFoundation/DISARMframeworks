@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--6af82cdd-2f56-4795-a0cd-c71834615925",
+    "id": "bundle--9f22ca6d-ae97-4d0c-97f0-681666deabe4",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--7d69d231-78a6-4a98-a715-c0edd9adafce",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.610989Z",
-            "modified": "2023-09-25T16:17:56.610989Z",
+            "created": "2023-09-28T21:25:13.227018Z",
+            "modified": "2023-09-28T21:25:13.227018Z",
             "name": "Identify Target Audience Adversaries",
             "description": "An influence operation may identify or create a real or imaginary adversary to centre operation narratives against. A real adversary may include certain politicians or political parties while imaginary adversaries may include falsified \u201cdeep state\u201d62 actors that, according to conspiracies, run the state behind public view.",
             "kill_chain_phases": [

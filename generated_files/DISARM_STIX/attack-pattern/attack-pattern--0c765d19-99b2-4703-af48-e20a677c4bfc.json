@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--70d072bd-7d72-4ac1-9f1c-9ca8fb648753",
+    "id": "bundle--6ac57769-ec69-4864-9538-3087bbba30c8",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--0c765d19-99b2-4703-af48-e20a677c4bfc",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.56869Z",
-            "modified": "2023-09-25T16:17:56.56869Z",
+            "created": "2023-09-28T21:25:13.21044Z",
+            "modified": "2023-09-28T21:25:13.21044Z",
             "name": "Flooding the Information Space",
             "description": "Flooding and/or mobbing social media channels feeds and/or hashtag with excessive volume of content to control/shape online conversations and/or drown out opposing points of view. Bots and/or patriotic trolls are effective tools to acheive this effect.",
             "kill_chain_phases": [

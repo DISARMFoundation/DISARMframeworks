@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--df481540-864c-4534-a5f8-a50434d6ff2f",
+    "id": "bundle--58694133-2400-4c47-a4ac-6b2e76740824",
     "objects": [
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
             "id": "x-mitre-tactic--f0505ac9-8979-49e4-a87c-d1109536a7db",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.536229Z",
-            "modified": "2023-09-25T16:17:56.536229Z",
+            "created": "2023-09-28T21:25:13.188786Z",
+            "modified": "2023-09-28T21:25:13.188786Z",
             "name": "Drive Online Harms",
             "description": "Actions taken by an influence operation to harm their opponents in online spaces through harassment, suppression, releasing private information, and controlling the information space through offensive cyberspace operations.",
             "external_references": [

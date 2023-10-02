@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--92462f75-e7d8-4d1d-a5e7-ded0a6cb45b7",
+    "id": "bundle--38c9097d-041d-4b8c-b5aa-f809fcddf104",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--d4e35ba1-f83d-41b4-a862-caabb634cc3e",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.653463Z",
-            "modified": "2023-09-25T16:17:56.653463Z",
+            "created": "2023-09-28T21:25:13.262253Z",
+            "modified": "2023-09-28T21:25:13.262253Z",
             "name": "Blogging and Publishing Networks",
             "description": "Examples include WordPress, Blogger, Weebly, Tumblr, Medium, etc.",
             "kill_chain_phases": [

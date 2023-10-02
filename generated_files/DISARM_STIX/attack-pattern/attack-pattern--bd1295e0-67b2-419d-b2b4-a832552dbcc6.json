@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--ea8d38b5-d8ad-4965-a009-b922c1cb1193",
+    "id": "bundle--9bd0cd35-ffee-45f2-863f-07a636d8b149",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--bd1295e0-67b2-419d-b2b4-a832552dbcc6",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.560686Z",
-            "modified": "2023-09-25T16:17:56.560686Z",
+            "created": "2023-09-28T21:25:13.203875Z",
+            "modified": "2023-09-28T21:25:13.203875Z",
             "name": "Seed Kernel of Truth",
             "description": "Wrap lies or altered context/facts around truths. Influence campaigns pursue a variety of objectives with respect to target audiences, prominent among them: 1. undermine a narrative commonly referenced in the target audience; or 2. promote a narrative less common in the target audience, but preferred by the attacker. In both cases, the attacker is presented with a heavy lift. They must change the relative importance of various narratives in the interpretation of events, despite contrary tendencies. When messaging makes use of factual reporting to promote these adjustments in the narrative space, they are less likely to be dismissed out of hand; when messaging can juxtapose a (factual) truth about current affairs with the (abstract) truth explicated in these narratives, propagandists can undermine or promote them selectively. Context matters.",
             "kill_chain_phases": [

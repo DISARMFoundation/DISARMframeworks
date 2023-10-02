@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--49274f7c-7e51-4a10-9f41-224176d246b6",
+    "id": "bundle--597df03d-5951-42b5-a04b-a2aab5bc9ecf",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--314ecce1-6d89-4304-a149-1c3d8fddaf9e",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.656146Z",
-            "modified": "2023-09-25T16:17:56.656146Z",
+            "created": "2023-09-28T21:25:13.263697Z",
+            "modified": "2023-09-28T21:25:13.263697Z",
             "name": "Traditional Media",
             "description": "Examples include TV, Newspaper, Radio, etc.",
             "kill_chain_phases": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--895f2234-d795-4cc8-a8b4-2a2c49331c24",
+    "id": "bundle--1798fcce-1d38-4ca7-9af2-9a298cb3f276",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--a50d7269-9365-46f0-ba81-27964e422faa",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.638395Z",
-            "modified": "2023-09-25T16:17:56.638395Z",
+            "created": "2023-09-28T21:25:13.253297Z",
+            "modified": "2023-09-28T21:25:13.253297Z",
             "name": "Co-Opt Trusted Individuals",
             "description": "Co-Opt Trusted Individuals",
             "kill_chain_phases": [

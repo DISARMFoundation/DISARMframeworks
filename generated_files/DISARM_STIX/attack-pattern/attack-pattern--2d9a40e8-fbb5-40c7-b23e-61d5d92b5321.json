@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--70cae426-7cb8-46d0-b192-66a18437220b",
+    "id": "bundle--386d5b67-da78-41e2-a782-36e8d364c8bd",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--2d9a40e8-fbb5-40c7-b23e-61d5d92b5321",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.635795Z",
-            "modified": "2023-09-25T16:17:56.635795Z",
+            "created": "2023-09-28T21:25:13.250986Z",
+            "modified": "2023-09-28T21:25:13.250986Z",
             "name": "Leverage Existing Inauthentic News Sites",
             "description": "Leverage Existing Inauthentic News Sites",
             "kill_chain_phases": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--af68abce-abc9-4b92-8035-cc71966ad71e",
+    "id": "bundle--3eefd179-69a8-412e-a016-73c93f1447aa",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--ef3dcdcd-bd97-48e0-9d15-3e482a72c979",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.628538Z",
-            "modified": "2023-09-25T16:17:56.628538Z",
+            "created": "2023-09-28T21:25:13.242733Z",
+            "modified": "2023-09-28T21:25:13.242733Z",
             "name": "Enlist Troll Accounts",
             "description": "An influence operation may hire trolls, or human operators of fake accounts that aim to provoke others by posting and amplifying content about controversial issues. Trolls can serve to discredit an influence operation\u2019s opposition or bring attention to the operation\u2019s cause through debate. Classic trolls refer to regular people who troll for personal reasons, such as attention-seeking or boredom. Classic trolls may advance operation narratives by coincidence but are not directly affiliated with any larger operation. Conversely, hybrid trolls act on behalf of another institution, such as a state or financial organisation, and post content with a specific ideological goal. Hybrid trolls may be highly advanced and institutionalised or less organised and work for a single individual.",
             "kill_chain_phases": [

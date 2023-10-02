@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--04f6aa22-9982-4cdf-8212-0bb451857c06",
+    "id": "bundle--bbd7a8b3-9663-4632-8a4d-b8bdd7f2f8e8",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5414f74d-0b10-4562-ad9d-e5e1093e255a",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.592504Z",
-            "modified": "2023-09-25T16:17:56.592504Z",
+            "created": "2023-09-28T21:25:13.219041Z",
+            "modified": "2023-09-28T21:25:13.219041Z",
             "name": "Dismiss",
             "description": "Push back against criticism by dismissing your critics. This might be arguing that the critics use a different standard for you than with other actors or themselves; or arguing that their criticism is biassed.",
             "kill_chain_phases": [

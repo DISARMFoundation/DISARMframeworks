@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--6964d156-49a0-4273-b4f1-d2076570d0dd",
+    "id": "bundle--9980c5d5-fd3c-426d-939a-dcd5c6dbbc4b",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--dd9f940d-3970-45b2-8549-12e321567657",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.550222Z",
-            "modified": "2023-09-25T16:17:56.550222Z",
+            "created": "2023-09-28T21:25:13.197411Z",
+            "modified": "2023-09-28T21:25:13.197411Z",
             "name": "Create Fake Research",
             "description": "Create fake academic research. Example: fake social science research is often aimed at hot-button social issues such as gender, race and sexuality. Fake science research can target Climate Science debate or pseudoscience like anti-vaxx",
             "kill_chain_phases": [

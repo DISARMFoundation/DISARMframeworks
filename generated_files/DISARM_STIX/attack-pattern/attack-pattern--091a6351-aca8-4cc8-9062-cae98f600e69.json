@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--de6a7958-0c59-4eae-a7db-26b3f704457a",
+    "id": "bundle--c1247e3b-818a-4a71-b381-cbedbde5efe1",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--091a6351-aca8-4cc8-9062-cae98f600e69",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.57684Z",
-            "modified": "2023-09-25T16:17:56.57684Z",
+            "created": "2023-09-28T21:25:13.211835Z",
+            "modified": "2023-09-28T21:25:13.211835Z",
             "name": "Conduct Keyword Squatting",
             "description": "Keyword squatting refers to the creation of online content, such as websites, articles, or social media accounts, around a specific search engine-optimized term to overwhelm the search results of that term. An influence may keyword squat to increase content exposure to target audience members who query the exploited term in a search engine and manipulate the narrative around the term.",
             "kill_chain_phases": [

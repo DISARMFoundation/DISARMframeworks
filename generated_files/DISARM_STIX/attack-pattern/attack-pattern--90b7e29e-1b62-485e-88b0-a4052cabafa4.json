@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--66a4f482-afb4-4afc-a6f7-d1042d89380c",
+    "id": "bundle--c2672c45-6c00-485a-b41f-4f3f22f4a3da",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--90b7e29e-1b62-485e-88b0-a4052cabafa4",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.634628Z",
-            "modified": "2023-09-25T16:17:56.634628Z",
+            "created": "2023-09-28T21:25:13.249041Z",
+            "modified": "2023-09-28T21:25:13.249041Z",
             "name": "Create Personas",
             "description": "Creating fake people, often with accounts across multiple platforms. These personas can be as simple as a name, can contain slightly more background like location, profile pictures, backstory, or can be effectively backstopped with indicators like fake identity documents.",
             "kill_chain_phases": [

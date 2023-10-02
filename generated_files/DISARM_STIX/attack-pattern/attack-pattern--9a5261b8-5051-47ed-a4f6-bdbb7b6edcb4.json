@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--efa74b21-0a7a-4837-863f-c1f7a4a7e25b",
+    "id": "bundle--5e661b9e-3bfd-46f7-9eb2-e2ba412e5750",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--9a5261b8-5051-47ed-a4f6-bdbb7b6edcb4",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.668486Z",
-            "modified": "2023-09-25T16:17:56.668486Z",
+            "created": "2023-09-28T21:25:13.268804Z",
+            "modified": "2023-09-28T21:25:13.268804Z",
             "name": "Share Memes",
             "description": "Memes are one of the most important single artefact types in all of computational propaganda. Memes in this framework denotes the narrow image-based definition. But that naming is no accident, as these items have most of the important properties of Dawkins' original conception as a self-replicating unit of culture. Memes pull together reference and commentary; image and narrative; emotion and message. Memes are a powerful tool and the heart of modern influence campaigns.",
             "kill_chain_phases": [

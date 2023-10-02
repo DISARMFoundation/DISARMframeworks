@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--75fe8b4c-f924-48ed-9ddb-d8960bd19a14",
+    "id": "bundle--f4f21a8f-2538-428b-9487-d4e57599e6d2",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--ec740173-f964-47cc-b849-06a1b134ee4f",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.543475Z",
-            "modified": "2023-09-25T16:17:56.543475Z",
+            "created": "2023-09-28T21:25:13.192717Z",
+            "modified": "2023-09-28T21:25:13.192717Z",
             "name": "Utilise Academic/Pseudoscientific Justifications",
             "description": "Utilise Academic/Pseudoscientific Justifications",
             "kill_chain_phases": [

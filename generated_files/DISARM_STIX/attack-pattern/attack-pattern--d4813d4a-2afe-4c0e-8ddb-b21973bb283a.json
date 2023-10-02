@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--94e1c9a6-02e2-4497-b320-b12105687c79",
+    "id": "bundle--1527d206-4039-4429-ab9b-d8dc9d89bde4",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--d4813d4a-2afe-4c0e-8ddb-b21973bb283a",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.655315Z",
-            "modified": "2023-09-25T16:17:56.655315Z",
+            "created": "2023-09-28T21:25:13.263231Z",
+            "modified": "2023-09-28T21:25:13.263231Z",
             "name": "Formal Diplomatic Channels",
             "description": "Leveraging formal, traditional, diplomatic channels to communicate with foreign governments (written documents, meetings, summits, diplomatic visits, etc). This type of diplomacy is conducted by diplomats of one nation with diplomats and other officials of another nation or international organisation.",
             "kill_chain_phases": [

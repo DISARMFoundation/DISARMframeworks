@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--6cf3b388-f1ec-42ee-8e62-59572101815d",
+    "id": "bundle--035818f7-856d-4ba5-95fc-958ee847e7a9",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--6aa772c8-f51f-428e-a7e5-2d69dd8d4add",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.710111Z",
-            "modified": "2023-09-25T16:17:56.710111Z",
+            "created": "2023-09-28T21:25:13.290026Z",
+            "modified": "2023-09-28T21:25:13.290026Z",
             "name": "Measure Effectiveness Indicators (or KPIs)",
             "description": "Ensuring that Key Performance Indicators are identified and tracked, so that the performance and effectiveness of campaigns, and elements of campaigns, can be measured, during and after their execution.",
             "kill_chain_phases": [

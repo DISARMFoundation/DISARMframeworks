@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--92bdf623-6641-40fe-9ff2-a8347f789423",
+    "id": "bundle--01d02a20-4b54-4cdb-a142-69019421de5b",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--6f020d80-d267-4e2a-8cd0-6d0dabe84f3a",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.622758Z",
-            "modified": "2023-09-25T16:17:56.622758Z",
+            "created": "2023-09-28T21:25:13.239842Z",
+            "modified": "2023-09-28T21:25:13.239842Z",
             "name": "Create Inauthentic Accounts",
             "description": "Inauthentic accounts include bot accounts, cyborg accounts, sockpuppet accounts, and anonymous accounts.",
             "kill_chain_phases": [

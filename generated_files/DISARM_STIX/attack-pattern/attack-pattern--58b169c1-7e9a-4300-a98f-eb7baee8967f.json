@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--63dda69f-3b0d-47a8-aded-719f059d4873",
+    "id": "bundle--29c900a0-3d71-4a1c-9708-126f036c3635",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--58b169c1-7e9a-4300-a98f-eb7baee8967f",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.618702Z",
-            "modified": "2023-09-25T16:17:56.618702Z",
+            "created": "2023-09-28T21:25:13.23435Z",
+            "modified": "2023-09-28T21:25:13.23435Z",
             "name": "Aggregate Information into Evidence Collages",
             "description": "Image files that aggregate positive evidence (Joan Donovan)",
             "kill_chain_phases": [

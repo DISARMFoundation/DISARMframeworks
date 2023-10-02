@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--bdc3ba08-8c9d-4d7f-bcc5-5a620b27d880",
+    "id": "bundle--39d120e6-c8ed-4266-bf26-7761ec0b14be",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--b4ed63e5-e8db-4057-989b-3ff5ad8c000c",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.552273Z",
-            "modified": "2023-09-25T16:17:56.552273Z",
+            "created": "2023-09-28T21:25:13.199668Z",
+            "modified": "2023-09-28T21:25:13.199668Z",
             "name": "Amplify Existing Conspiracy Theory Narratives",
             "description": "An influence operation may amplify an existing conspiracy theory narrative that aligns with its incident or campaign goals. By amplifying existing conspiracy theory narratives, operators can leverage the power of the existing communities that support and propagate those theories without needing to expend resources creating new narratives or building momentum and buy in around new narratives.",
             "kill_chain_phases": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--a7625bbc-625e-4343-8aa1-35b535c2c7ab",
+    "id": "bundle--f4b606e2-9fad-4ac5-80ad-5aa833e3e505",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--872f0dc3-202e-4e9a-a4fc-0457252aecae",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.674329Z",
-            "modified": "2023-09-25T16:17:56.674329Z",
+            "created": "2023-09-28T21:25:13.272585Z",
+            "modified": "2023-09-28T21:25:13.272585Z",
             "name": "Cross-Posting",
             "description": "Cross-posting refers to posting the same message to multiple internet discussions, social media platforms or accounts, or news groups at one time. An influence operation may post content online in multiple communities and platforms to increase the chances of content exposure to the target audience.",
             "kill_chain_phases": [

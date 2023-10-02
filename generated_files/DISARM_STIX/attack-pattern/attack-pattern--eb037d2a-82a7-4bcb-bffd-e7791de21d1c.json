@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--a095c2df-bace-4ae3-bfcb-8df46fe3d9b3",
+    "id": "bundle--de727a3f-959f-4171-a484-ec5ae2adca13",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--eb037d2a-82a7-4bcb-bffd-e7791de21d1c",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-25T16:17:56.690422Z",
-            "modified": "2023-09-25T16:17:56.690422Z",
+            "created": "2023-09-28T21:25:13.279929Z",
+            "modified": "2023-09-28T21:25:13.279929Z",
             "name": "Generate Content Unrelated to Narrative",
             "description": "An influence operation may mix its own operation content with legitimate news or external unrelated content to disguise operational objectives, narratives, or existence. For example, an operation may generate \"lifestyle\" or \"cuisine\" content alongside regular operation content.",
             "kill_chain_phases": [
