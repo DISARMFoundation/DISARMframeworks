@@ -301,7 +301,7 @@ class Disarm:
         resource_counters = self.cross_counterid_resourceid[self.cross_counterid_resourceid['resource_id']==resource_id]
         resource_counters = pd.merge(resource_counters, self.df_counters[['disarm_id', 'name', 'responsetype']])
         row_string = '| [{0} {1}]({2}counters/{0}.md) | {3} |\n'
-        for index, row in actortype_counters.sort_values('disarm_id').iterrows():
+        for index, row in resource_counters.sort_values('disarm_id').iterrows():
             table_string += row_string.format(row['disarm_id'], row['name'], GENERATED_PAGES_FUDGE, row['responsetype'])
         return table_string
 
