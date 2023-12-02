@@ -94,12 +94,12 @@ class Disarm:
         xlsx = pd.ExcelFile(frameworkfile)
         for sheetname in xlsx.sheet_names:
             metadata[sheetname] = xlsx.parse(sheetname)
-            metadata[sheetname].fillna('', inplace=True)
+            metadata[sheetname].replace(np.NaN, '', inplace=True)
 
         xlsx = pd.ExcelFile(datafile)
         for sheetname in xlsx.sheet_names:
             metadata[sheetname] = xlsx.parse(sheetname)
-            metadata[sheetname].fillna('', inplace=True)
+            metadata[sheetname].replace(np.NaN, '', inplace=True)
 
         # Create individual tables and dictionaries
         self.df_phases = metadata['phases']
@@ -111,11 +111,11 @@ class Disarm:
         self.df_tools = metadata['tools']
         self.df_examples = metadata['examples']
         self.df_counters = metadata['countermeasures'].sort_values('disarm_id')
-        self.df_counters[['tactic_id', 'tactic_name']] = self.df_counters['tactic'].str.split(' ', 1, expand=True)
-        self.df_counters[['metatechnique_id', 'metatechnique_name']] = self.df_counters['metatechnique'].str.split(' ', 1, expand=True)
+        self.df_counters[['tactic_id', 'tactic_name']] = self.df_counters['tactic'].str.split(' ', n=1, expand=True)
+        self.df_counters[['metatechnique_id', 'metatechnique_name']] = self.df_counters['metatechnique'].str.split(' ', n=1, expand=True)
         self.df_detections = metadata['detections']
-        self.df_detections[['tactic_id', 'tactic_name']] = self.df_detections['tactic'].str.split(' ', 1, expand=True)
-#        self.df_detections[['metatechnique_id', 'metatechnique_name']] = self.df_detections['metatechnique'].str.split(' ', 1, expand=True) #FIXIT
+        self.df_detections[['tactic_id', 'tactic_name']] = self.df_detections['tactic'].str.split(' ', n=1, expand=True)
+#        self.df_detections[['metatechnique_id', 'metatechnique_name']] = self.df_detections['metatechnique'].str.split(' ', n=1, expand=True) #FIXIT
         self.df_actortypes = metadata['actortypes']
         self.df_resources = metadata['resources']
         self.df_responsetypes = metadata['responsetypes']
