@@ -50,12 +50,12 @@ class DisarmGalaxy:
                    'uuid': str(uuid.uuid5(uuid.UUID("9319371e-2504-4128-8410-3741cebbcfd3"), 'disarm-cluster-techniques')),
                    'values': [],
                    'version': 1}
-
+        values = []
         df = self.disarm.df_techniques
         for i in range(len(df)):
             t = {
                 'uuid': str(uuid.uuid5(uuid.UUID("9319371e-2504-4128-8410-3741cebbcfd3"), df.values[i][0])),
-                'value': f"{df.values[i][0]} - {df.values[i][1]}",
+                'value': f"{df.values[i][1]}",
                 'description': df.values[i][4],
                 'meta': {
                     'external_id': df.values[i][0],
@@ -68,8 +68,8 @@ class DisarmGalaxy:
                 }
             }
 
-            cluster['values'].append(t)
-
+            values.append(t)
+        cluster['values'] = sorted(values, key=lambda x: x['meta']['external_id'])
         self.write_json_file(os.path.join(self.out_path, 'clusters', 'disarm-techniques.json'), cluster)
 
         pass
