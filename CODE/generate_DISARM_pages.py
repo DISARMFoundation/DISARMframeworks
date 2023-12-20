@@ -123,6 +123,7 @@ class Disarm:
         self.it = self.create_incident_technique_crosstable(metadata['incidenttechniques'])
         self.df_tactics = metadata['tactics']
         self.df_playbooks = metadata['playbooks']
+        self.df_sectors = metadata['sectors']
 
         # Add columns containing lists of techniques and counters to the tactics dataframe
         self.df_techniques_per_tactic = self.df_techniques.groupby('tactic_id')['disarm_id'].apply(list).reset_index().rename({'disarm_id':'technique_ids'}, axis=1)
@@ -136,8 +137,10 @@ class Disarm:
         self.techniques  = self.make_object_dictionary(self.df_techniques)
         self.counters    = self.make_object_dictionary(self.df_counters)
         self.metatechniques = self.make_object_dictionary(self.df_metatechniques)
+        self.responsetypes = self.make_object_dictionary(self.df_responsetypes)
         self.actortypes  = self.make_object_dictionary(self.df_actortypes)
         self.resources   = self.make_object_dictionary(self.df_resources)
+        self.sectors     = self.make_object_dictionary(self.df_sectors)
 
         # Create the data table for each framework file
         self.num_tactics = len(self.df_tactics)
