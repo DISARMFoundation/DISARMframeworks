@@ -12,27 +12,47 @@ import json
 import uuid
 import os
 
+
 DISARM_DESCRIPTION = 'DISARM is a framework designed for describing and understanding disinformation incidents.'
 DISARM_CATEGORY = 'disarm'
 DISARM_AUTHORS = ['DISARM Project']
 DISARM_SOURCE = 'https://github.com/DISARMFoundation/DISARMframeworks'
 CORE_UUID = "9d6bd9d2-2cd3-4900-b61a-06cd64df3996"
 
+
 class DisarmGalaxy:
     def __init__(self, out_path=os.path.join('..', '..', 'misp-galaxy')):
         self.disarm = Disarm()
         self.out_path = out_path
+
+        self.all_data = {}  # variable that will contain everything
+        self.all_data_uuid = {}  # used to compute references
+
+        self.galaxy_types = ['techniques', 'countermeasures', 'detections', 'actortypes']
+
+    def generate_all_galaxies(self):
+        for galaxy_type in self.galaxy_types:
+            getattr(self, f'generate_{galaxy_type}_galaxy')()  # also saves the files
+
+    def generate_all_clusters(self):
+        # first build up the data
+        for galaxy_type in self.galaxy_types:
+            getattr(self, f'generate_{galaxy_type}_clusters')()
+        # write all to files
+        for galaxy_type in self.galaxy_types:
+            self.write_json_file(os.path.join(self.out_path, 'clusters', f'disarm-{galaxy_type}.json'), self.all_data[galaxy_type])
 
     def write_json_file(self, fname, file_data):
         with open(fname, 'w') as f:
             json.dump(file_data, f, indent=2, sort_keys=True, ensure_ascii=False)
             f.write('\n')
 
-    def generate_disarm_techniques_galaxy(self):
+    def generate_techniques_galaxy(self):
+        galaxy_type = 'techniques'
         galaxy = {'name': 'Techniques',
-                  'type': 'disarm-techniques',
+                  'type': f'disarm-{galaxy_type}',
                   'description': DISARM_DESCRIPTION,
-                  'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), 'disarm-galaxy-techniques')),
+                  'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), f'disarm-galaxy-{galaxy_type}')),
                   'version': 1,
                   'icon': 'map',
                   'namespace': 'disarm',
@@ -43,45 +63,75 @@ class DisarmGalaxy:
         for k, v in self.disarm.tactics.items():
             galaxy['kill_chain_order']['tactics'].append(f'{v}')
 
-        self.write_json_file(os.path.join(self.out_path, 'galaxies', 'disarm-techniques.json'), galaxy)
+        self.write_json_file(os.path.join(self.out_path, 'galaxies', f'disarm-{galaxy_type}.json'), galaxy)
 
-    def generate_disarm_techniques_clusters(self):
+    def generate_techniques_clusters(self):
+        galaxy_type = 'techniques'
         cluster = {'authors': DISARM_AUTHORS,
                    'category': DISARM_CATEGORY,
                    'description': DISARM_DESCRIPTION,
                    'name': 'Techniques',
                    'source': DISARM_SOURCE,
-                   'type': 'disarm-techniques',
-                   'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), 'disarm-cluster-techniques')),
+                   'type': f'disarm-{galaxy_type}',
+                   'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), f'disarm-cluster-{galaxy_type}')),
                    'values': [],
                    'version': 1}
         values = []
         df = self.disarm.df_techniques
         for i in range(len(df)):
-            t = {
-                'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), df.values[i][0])),
+            entry_id = df.values[i][0]
+            kill_chain = [f'tactics:{self.disarm.tactics[df.values[i][3]]}']
+            related = []
+            # Countermeasures relations
+            mapping = self.disarm.cross_counterid_techniqueid[
+                self.disarm.cross_counterid_techniqueid['technique_id'] == entry_id]
+            for index, row in mapping.sort_values('disarm_id').iterrows():
+                related_id = row['disarm_id']
+                related.append({
+                  "dest-uuid": str(uuid.uuid5(uuid.UUID(CORE_UUID), related_id)),
+                  # "tags": [
+                  #   "estimative-language:likelihood-probability=\"almost-certain\""
+                  # ],
+                  "type": "blocked-by"  # mitigated-by would be cleaner, but does not exist as relationship type
+                })
+            # Detections relations
+            mapping = self.disarm.cross_detectionid_techniqueid[
+                self.disarm.cross_detectionid_techniqueid['technique_id'] == entry_id]
+            for index, row in mapping.sort_values('disarm_id').iterrows():
+                related_id = row['disarm_id']
+                related.append({
+                    "dest-uuid": str(uuid.uuid5(uuid.UUID(CORE_UUID), related_id)),
+                    # "tags": [
+                    #   "estimative-language:likelihood-probability=\"almost-certain\""
+                    # ],
+                    "type": "detected-by"
+                })
+
+            value = {
+                'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), entry_id)),
                 'value': df.values[i][1],
                 'description': df.values[i][4],
                 'meta': {
-                    'external_id': df.values[i][0],
-                    'kill_chain': [
-                        f'tactics:{self.disarm.tactics[df.values[i][3]]}'
-                    ],
+                    'external_id': entry_id,
+                    'kill_chain': kill_chain,
                     'refs': [
-                        f'https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/{df.values[i][0]}.md'
+                        f'https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/{galaxy_type}/{entry_id}.md'
                     ]
-                }
+                },
+                'related': related
             }
+            values.append(value)
+            self.all_data_uuid[value['uuid']] = value
 
-            values.append(t)
         cluster['values'] = sorted(values, key=lambda x: x['meta']['external_id'])
-        self.write_json_file(os.path.join(self.out_path, 'clusters', 'disarm-techniques.json'), cluster)
+        self.all_data[galaxy_type] = cluster
 
-    def generate_disarm_countermeasures_galaxy(self):
+    def generate_countermeasures_galaxy(self):
+        galaxy_type = 'countermeasures'
         galaxy = {'name': 'Countermeasures',
-                  'type': 'disarm-countermeasures',
+                  'type': f'disarm-{galaxy_type}',
                   'description': DISARM_DESCRIPTION,
-                  'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), 'disarm-galaxy-counters')),
+                  'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), f'disarm-galaxy-{galaxy_type}')),
                   'version': 1,
                   'icon': 'shield-alt',
                   'namespace': 'disarm',
@@ -98,21 +148,23 @@ class DisarmGalaxy:
         for k, v in self.disarm.metatechniques.items():
             galaxy['kill_chain_order']['metatechniques'].append(f'{v}')
 
-        self.write_json_file(os.path.join(self.out_path, 'galaxies', 'disarm-countermeasures.json'), galaxy)
+        self.write_json_file(os.path.join(self.out_path, 'galaxies', f'disarm-{galaxy_type}.json'), galaxy)
 
-    def generate_disarm_countermeasures_clusters(self):
+    def generate_countermeasures_clusters(self):
+        galaxy_type = 'countermeasures'
         cluster = {'authors': DISARM_AUTHORS,
                    'category': DISARM_CATEGORY,
                    'description': DISARM_DESCRIPTION,
                    'name': 'Countermeasures',
                    'source': DISARM_SOURCE,
-                   'type': 'disarm-countermeasures',
-                   'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), 'disarm-cluster-counters')),
+                   'type': f'disarm-{galaxy_type}',
+                   'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), f'disarm-cluster-{galaxy_type}')),
                    'values': [],
                    'version': 1}
         values = []
         df = self.disarm.df_counters
         for i in range(len(df)):
+            entry_id = df.values[i][0]
             kill_chain = []
             if self.disarm.tactics[df.values[i][15]]:
                 kill_chain.append(f'tactics:{self.disarm.tactics[df.values[i][15]]}')
@@ -121,28 +173,58 @@ class DisarmGalaxy:
             if self.disarm.metatechniques[df.values[i][17]]:
                 kill_chain.append(f'metatechniques:{self.disarm.metatechniques[df.values[i][17]]}')
 
-            t = {
-                'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), df.values[i][0])),
+            related = []
+            # Techniques relations
+            mapping = self.disarm.cross_counterid_techniqueid[
+                self.disarm.cross_counterid_techniqueid['disarm_id'] == entry_id]
+            for index, row in mapping.sort_values('technique_id').iterrows():
+                related_id = row['technique_id']
+                related.append({
+                    "dest-uuid": str(uuid.uuid5(uuid.UUID(CORE_UUID), related_id)),
+                    # "tags": [
+                    #     "estimative-language:likelihood-probability=\"almost-certain\""
+                    # ],
+                    "type": "blocks"  # mitigated would be cleaner, but mitigated-by does not exist as relationship type
+                })
+            # Actortype relations
+            mapping = self.disarm.cross_counterid_actortypeid[
+                self.disarm.cross_counterid_actortypeid['disarm_id'] == entry_id]
+            for index, row in mapping.sort_values('actortype_id').iterrows():
+                related_id = row['actortype_id']
+                related.append({
+                    "dest-uuid": str(uuid.uuid5(uuid.UUID(CORE_UUID), related_id)),
+                    # "tags": [
+                    #     "estimative-language:likelihood-probability=\"almost-certain\""
+                    # ],
+                    "type": "affected-by"
+                    # mitigated-by would be cleaner, but mitigated-by does not exist as relationship type
+                })
+
+            value = {
+                'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), entry_id)),
                 'value': df.values[i][1],
                 'description': df.values[i][3],
                 'meta': {
-                    'external_id': df.values[i][0],
+                    'external_id': entry_id,
                     'kill_chain': kill_chain,
                     'refs': [
-                        f'https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/counters/{df.values[i][0]}.md'
+                        f'https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/counters/{entry_id}.md'
                     ]
-                }
+                },
+                'related': related
             }
+            values.append(value)
+            self.all_data_uuid[value['uuid']] = value
 
-            values.append(t)
         cluster['values'] = sorted(values, key=lambda x: x['meta']['external_id'])
-        self.write_json_file(os.path.join(self.out_path, 'clusters', 'disarm-countermeasures.json'), cluster)
+        self.all_data[galaxy_type] = cluster
 
-    def generate_disarm_detections_galaxy(self):
+    def generate_detections_galaxy(self):
+        galaxy_type = 'detections'
         galaxy = {'name': 'Detections',
-                  'type': 'disarm-detections',
+                  'type': f'disarm-{galaxy_type}',
                   'description': DISARM_DESCRIPTION,
-                  'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), 'disarm-galaxy-detections')),
+                  'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), f'disarm-galaxy-{galaxy_type}')),
                   'version': 1,
                   'icon': 'bell',
                   'namespace': 'disarm',
@@ -159,22 +241,23 @@ class DisarmGalaxy:
         # for k, v in self.disarm.metatechniques.items():
         #     galaxy['kill_chain_order']['metatechniques'].append(f'{v}')
 
-        self.write_json_file(os.path.join(self.out_path, 'galaxies', 'disarm-detections.json'), galaxy)
+        self.write_json_file(os.path.join(self.out_path, 'galaxies', f'disarm-{galaxy_type}.json'), galaxy)
 
-    def generate_disarm_detections_clusters(self):
+    def generate_detections_clusters(self):
+        galaxy_type = 'detections'
         cluster = {'authors': DISARM_AUTHORS,
                    'category': DISARM_CATEGORY,
                    'description': DISARM_DESCRIPTION,
                    'name': 'Detections',
                    'source': DISARM_SOURCE,
-                   'type': 'disarm-detections',
-                   'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), 'disarm-cluster-detections')),
+                   'type': f'disarm-{galaxy_type}',
+                   'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), f'disarm-cluster-{galaxy_type}')),
                    'values': [],
                    'version': 1}
         values = []
         df = self.disarm.df_detections
         for i in range(len(df)):
-
+            entry_id = df.values[i][0]
             kill_chain = []
             try:
                 if self.disarm.tactics[df.values[i][14]]:
@@ -190,29 +273,58 @@ class DisarmGalaxy:
             # if self.disarm.metatechniques[df.values[i][???]]:
             #     kill_chain.append(f'metatechniques:{self.disarm.metatechniques[df.values[i][???]]}')
 
-            t = {
-                'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), df.values[i][0])),
+            related = []
+            # Techniques relations
+            mapping = self.disarm.cross_detectionid_techniqueid[
+                self.disarm.cross_detectionid_techniqueid['disarm_id'] == entry_id]
+            for index, row in mapping.sort_values('technique_id').iterrows():
+                related_id = row['technique_id']
+                related.append({
+                    "dest-uuid": str(uuid.uuid5(uuid.UUID(CORE_UUID), related_id)),
+                    # "tags": [
+                    #   "estimative-language:likelihood-probability=\"almost-certain\""
+                    # ],
+                    "type": "detects"
+                })
+            # Actortypes relations
+            mapping = self.disarm.cross_detectionid_actortypeid[
+                self.disarm.cross_detectionid_actortypeid['disarm_id'] == entry_id]
+            for index, row in mapping.sort_values('actortype_id').iterrows():
+                related_id = row['actortype_id']
+                related.append({
+                    "dest-uuid": str(uuid.uuid5(uuid.UUID(CORE_UUID), related_id)),
+                    # "tags": [
+                    #     "estimative-language:likelihood-probability=\"almost-certain\""
+                    # ],
+                    "type": "detected-by"
+                    # mitigated-by would be cleaner, but mitigated-by does not exist as relationship type
+                })
+
+            value = {
+                'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), entry_id)),
                 'value': df.values[i][1],
                 'description': df.values[i][3],
                 'meta': {
-                    'external_id': df.values[i][0],
+                    'external_id': entry_id,
                     'kill_chain': kill_chain,
                     'refs': [
-                        f'https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/detections/{df.values[i][0]}.md'
+                        f'https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/{galaxy_type}/{entry_id}.md'
                     ]
-                }
+                },
+                'related': related
             }
+            values.append(value)
+            self.all_data_uuid[value['uuid']] = value
 
-            values.append(t)
         cluster['values'] = sorted(values, key=lambda x: x['meta']['external_id'])
-        self.write_json_file(os.path.join(self.out_path, 'clusters', 'disarm-detections.json'), cluster)
+        self.all_data[galaxy_type] = cluster
 
-
-    def generate_disarm_actortypes_galaxy(self):
+    def generate_actortypes_galaxy(self):
+        galaxy_type = 'actortypes'
         galaxy = {'name': 'Actor Types',
-                  'type': 'disarm-actortypes',
+                  'type': f'disarm-{galaxy_type}',
                   'description': DISARM_DESCRIPTION,
-                  'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), 'disarm-galaxy-actortypes')),
+                  'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), f'disarm-galaxy-{galaxy_type}')),
                   'version': 1,
                   'icon': 'user-secret',
                   'namespace': 'disarm',
@@ -223,22 +335,23 @@ class DisarmGalaxy:
         for k, v in self.disarm.sectors.items():
             galaxy['kill_chain_order']['sectors'].append(f'{v}')
 
-        self.write_json_file(os.path.join(self.out_path, 'galaxies', 'disarm-actortypes.json'), galaxy)
+        self.write_json_file(os.path.join(self.out_path, 'galaxies', f'disarm-{galaxy_type}.json'), galaxy)
 
-    def generate_disarm_actortypes_clusters(self):
+    def generate_actortypes_clusters(self):
+        galaxy_type = 'actortypes'
         cluster = {'authors': DISARM_AUTHORS,
                    'category': DISARM_CATEGORY,
                    'description': DISARM_DESCRIPTION,
                    'name': 'Actor Types',
                    'source': DISARM_SOURCE,
-                   'type': 'disarm-actortypes',
-                   'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), 'disarm-cluster-actortypes')),
+                   'type': f'disarm-{galaxy_type}',
+                   'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), f'disarm-cluster-{galaxy_type}')),
                    'values': [],
                    'version': 1}
         values = []
         df = self.disarm.df_actortypes
         for i in range(len(df)):
-
+            entry_id = df.values[i][0]
             kill_chain = []
             try:
                 sectors = df.values[i][3].split(',')
@@ -249,34 +362,57 @@ class DisarmGalaxy:
             except KeyError:
                 pass
 
-            t = {
-                'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), df.values[i][0])),
+            related = []
+            # Countermeasures relations
+            mapping = self.disarm.cross_counterid_actortypeid[
+                self.disarm.cross_counterid_actortypeid['actortype_id'] == entry_id]
+            for index, row in mapping.sort_values('disarm_id').iterrows():
+                related_id = row['disarm_id']
+                related.append({
+                    "dest-uuid": str(uuid.uuid5(uuid.UUID(CORE_UUID), related_id)),
+                    # "tags": [
+                    #     "estimative-language:likelihood-probability=\"almost-certain\""
+                    # ],
+                    "type": "affects"
+                })
+            # Detections relations
+            mapping = self.disarm.cross_detectionid_actortypeid[
+                self.disarm.cross_detectionid_actortypeid['actortype_id'] == entry_id]
+            for index, row in mapping.sort_values('disarm_id').iterrows():
+                related_id = row['disarm_id']
+                related.append({
+                    "dest-uuid": str(uuid.uuid5(uuid.UUID(CORE_UUID), related_id)),
+                    # "tags": [
+                    #     "estimative-language:likelihood-probability=\"almost-certain\""
+                    # ],
+                    "type": "detects"
+                })
+
+            value = {
+                'uuid': str(uuid.uuid5(uuid.UUID(CORE_UUID), entry_id)),
                 'value': df.values[i][1],
                 'description': df.values[i][2],
                 'meta': {
-                    'external_id': df.values[i][0],
+                    'external_id': entry_id,
                     'kill_chain': kill_chain,
                     'refs': [
-                        f'https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/actortypes/{df.values[i][0]}.md'
+                        f'https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/{galaxy_type}/{entry_id}.md'
                     ]
-                }
+                },
+                'related': related
             }
 
-            values.append(t)
+            values.append(value)
+            self.all_data_uuid[value['uuid']] = value
         cluster['values'] = sorted(values, key=lambda x: x['meta']['external_id'])
-        self.write_json_file(os.path.join(self.out_path, 'clusters', 'disarm-actortypes.json'), cluster)
+        self.all_data[galaxy_type] = cluster
 
 
 def main():
     disarm_galaxy = DisarmGalaxy()
-    disarm_galaxy.generate_disarm_techniques_galaxy()
-    disarm_galaxy.generate_disarm_techniques_clusters()
-    disarm_galaxy.generate_disarm_countermeasures_galaxy()
-    disarm_galaxy.generate_disarm_countermeasures_clusters()
-    disarm_galaxy.generate_disarm_detections_galaxy()
-    disarm_galaxy.generate_disarm_detections_clusters()
-    disarm_galaxy.generate_disarm_actortypes_galaxy()
-    disarm_galaxy.generate_disarm_actortypes_clusters()
+    disarm_galaxy.generate_all_galaxies()
+    disarm_galaxy.generate_all_clusters()
+
 
 if __name__ == "__main__":
     main()
