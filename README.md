@@ -13,6 +13,7 @@ DISARM DOCUMENTATION:
 DISARM FRAMEWORKS:
 * [DISARM Red Team Framework](generated_pages/disarm_red_framework.md) - Disinformation creator TTPs, listed by tactic stage. This is the classic "DISARM Framework" that's bundled with MISP.  The [clickable](generated_files/disarm_red_framework_clickable.html) version is for rapidly creating lists of TTPs.
 * [DISARM Blue Team Framework](generated_pages/disarm_blue_framework.md) - Disinformation responder TTPs, listed by tactic stage. These are countermeasures, listed by the earliest tactic stages they're likely to be used in.
+* The set of dsinformation responder TTPs in the DISARM Blue Team Framework was derived in 2019 by volunteers in a workshop.  It includes TTPs seen in countries with different ethical values (such as “censorship”, an action observed in countries with authoritarian governments). We will continue to make this “Blue” workshop output available as we develop an alternative based on democratic values and ethical principles, but we advise caution to anyone using it and have created a Companion Guide for those users (see under DISARM DOCUMENTATION). Of course, every user must consider for themselves what actions would be ethical, relevant, proportionate, and appropriate, given the unique legal, cultural, and normative context in which they are operating.
 
 DISARM OBJECTS: all the entities used to create the Red Team and Blue Team frameworks:
 * [Phases](generated_pages/phases_index.md): higher-level groupings of tactics, created so we could check we didn't miss anything
