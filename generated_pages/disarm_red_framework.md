@@ -15,7 +15,7 @@
 <td><a href="tactics/TA12.md">TA12 Assess Effectiveness</a></td>
 <td><a href="tactics/TA13.md">TA13 Target Audience Analysis</a></td>
 <td><a href="tactics/TA14.md">TA14 Develop Narratives</a></td>
-<td><a href="tactics/TA15.md">TA15 Establish Social Assets</a></td>
+<td><a href="tactics/TA15.md">TA15 Establish Assets</a></td>
 <td><a href="tactics/TA16.md">TA16 Establish Legitimacy</a></td>
 <td><a href="tactics/TA17.md">TA17 Maximise Exposure</a></td>
 <td><a href="tactics/TA18.md">TA18 Drive Online Harms</a></td>
@@ -35,16 +35,16 @@
 <td><a href="techniques/T0003.md">T0003 Leverage Existing Narratives</a></td>
 <td><a href="techniques/T0007.md">T0007 Create Inauthentic Social Media Pages and Groups</a></td>
 <td><a href="techniques/T0009.md">T0009 Create Fake Experts</a></td>
-<td><a href="techniques/T0049.md">T0049 Flooding the Information Space</a></td>
+<td><a href="techniques/T0039.md">T0039 Bait Influencer</a></td>
 <td><a href="techniques/T0047.md">T0047 Censor Social Media as a Political Force</a></td>
 </tr>
 <tr>
 <td><a href="techniques/T0074.md">T0074 Determine Strategic Ends</a></td>
 <td><a href="techniques/T0066.md">T0066 Degrade Adversary</a></td>
 <td><a href="techniques/T0018.md">T0018 Purchase Targeted Advertisements</a></td>
-<td><a href="techniques/T0019.md">T0019 Generate Information Pollution</a></td>
+<td><a href="techniques/T0023.md">T0023 Distort Facts</a></td>
 <td><a href="techniques/T0043.md">T0043 Chat Apps</a></td>
-<td><a href="techniques/T0039.md">T0039 Bait Legitimate Influencers</a></td>
+<td><a href="techniques/T0042.md">T0042 Seed Kernel of Truth</a></td>
 <td><a href="techniques/T0114.001.md">T0114.001 Social Media</a></td>
 <td><a href="techniques/T0017.001.md">T0017.001 Conduct Crowdfunding Campaigns</a></td>
 <td><a href="techniques/T0060.md">T0060 Continue to Amplify</a></td>
@@ -53,16 +53,16 @@
 <td><a href="techniques/T0004.md">T0004 Develop Competing Narratives</a></td>
 <td><a href="techniques/T0010.md">T0010 Cultivate Ignorant Agents</a></td>
 <td><a href="techniques/T0009.001.md">T0009.001 Utilise Academic/Pseudoscientific Justifications</a></td>
-<td><a href="techniques/T0049.001.md">T0049.001 Trolls Amplify and Manipulate</a></td>
+<td><a href="techniques/T0049.md">T0049 Flood Information Space</a></td>
 <td><a href="techniques/T0048.md">T0048 Harass</a></td>
 </tr>
 <tr>
 <td><a href="techniques/T0074.001.md">T0074.001 Geopolitical Advantage</a></td>
 <td><a href="techniques/T0075.md">T0075 Dismiss</a></td>
 <td><a href="techniques/T0101.md">T0101 Create Localised Content</a></td>
-<td><a href="techniques/T0019.001.md">T0019.001 Create Fake Research</a></td>
+<td><a href="techniques/T0023.001.md">T0023.001 Reframe Context</a></td>
 <td><a href="techniques/T0043.001.md">T0043.001 Use Encrypted Chat Apps</a></td>
-<td><a href="techniques/T0042.md">T0042 Seed Kernel of Truth</a></td>
+<td><a href="techniques/T0044.md">T0044 Seed Distortions</a></td>
 <td><a href="techniques/T0114.002.md">T0114.002 Traditional Media</a></td>
 <td><a href="techniques/T0057.md">T0057 Organise Events</a></td>
 <td><a href="techniques/T0128.md">T0128 Conceal Information Assets</a></td>
@@ -70,17 +70,17 @@
 <td><a href="techniques/T0072.002.md">T0072.002 Demographic Segmentation</a></td>
 <td><a href="techniques/T0022.md">T0022 Leverage Conspiracy Theory Narratives</a></td>
 <td><a href="techniques/T0013.md">T0013 Create Inauthentic Websites</a></td>
-<td><a href="techniques/T0011.md">T0011 Compromise Legitimate Accounts</a></td>
-<td><a href="techniques/T0049.002.md">T0049.002 Hijack Existing Hashtag</a></td>
+<td><a href="techniques/T0097.md">T0097 Create Personas</a></td>
+<td><a href="techniques/T0049.001.md">T0049.001 Trolls Amplify and Manipulate</a></td>
 <td><a href="techniques/T0048.001.md">T0048.001 Boycott/"Cancel" Opponents</a></td>
 </tr>
 <tr>
 <td><a href="techniques/T0074.002.md">T0074.002 Domestic Political Advantage</a></td>
 <td><a href="techniques/T0075.001.md">T0075.001 Discredit Credible Sources</a></td>
 <td><a href="techniques/T0102.md">T0102 Leverage Echo Chambers/Filter Bubbles</a></td>
-<td><a href="techniques/T0019.002.md">T0019.002 Hijack Hashtags</a></td>
+<td><a href="techniques/T0023.002.md">T0023.002 Edit Open-Source Content</a></td>
 <td><a href="techniques/T0043.002.md">T0043.002 Use Unencrypted Chats Apps</a></td>
-<td><a href="techniques/T0044.md">T0044 Seed Distortions</a></td>
+<td><a href="techniques/T0045.md">T0045 Use Fake Experts</a></td>
 <td><a href="techniques/T0115.md">T0115 Post Content</a></td>
 <td><a href="techniques/T0057.001.md">T0057.001 Pay for Physical Action</a></td>
 <td><a href="techniques/T0128.001.md">T0128.001 Use Pseudonyms</a></td>
@@ -88,17 +88,17 @@
 <td><a href="techniques/T0072.003.md">T0072.003 Economic Segmentation</a></td>
 <td><a href="techniques/T0022.001.md">T0022.001 Amplify Existing Conspiracy Theory Narratives</a></td>
 <td><a href="techniques/T0014.md">T0014 Prepare Fundraising Campaigns</a></td>
-<td><a href="techniques/T0097.md">T0097 Create Personas</a></td>
-<td><a href="techniques/T0049.003.md">T0049.003 Bots Amplify via Automated Forwarding and Reposting</a></td>
+<td><a href="techniques/T0097.001.md">T0097.001 Produce Evidence for Persona</a></td>
+<td><a href="techniques/T0049.002.md">T0049.002 Flood Existing Hashtag</a></td>
 <td><a href="techniques/T0048.002.md">T0048.002 Harass People Based on Identities</a></td>
 </tr>
 <tr>
 <td><a href="techniques/T0074.003.md">T0074.003 Economic Advantage</a></td>
 <td><a href="techniques/T0076.md">T0076 Distort</a></td>
 <td><a href="techniques/T0102.001.md">T0102.001 Use Existing Echo Chambers/Filter Bubbles</a></td>
-<td><a href="techniques/T0023.md">T0023 Distort Facts</a></td>
+<td><a href="techniques/T0084.md">T0084 Reuse Existing Content</a></td>
 <td><a href="techniques/T0103.md">T0103 Livestream</a></td>
-<td><a href="techniques/T0045.md">T0045 Use Fake Experts</a></td>
+<td><a href="techniques/T0046.md">T0046 Use Search Engine Optimisation</a></td>
 <td><a href="techniques/T0115.001.md">T0115.001 Share Memes</a></td>
 <td><a href="techniques/T0057.002.md">T0057.002 Conduct Symbolic Action</a></td>
 <td><a href="techniques/T0128.002.md">T0128.002 Conceal Network Identity</a></td>
@@ -106,17 +106,17 @@
 <td><a href="techniques/T0072.004.md">T0072.004 Psychographic Segmentation</a></td>
 <td><a href="techniques/T0022.002.md">T0022.002 Develop Original Conspiracy Theory Narratives</a></td>
 <td><a href="techniques/T0014.001.md">T0014.001 Raise Funds from Malign Actors</a></td>
-<td><a href="techniques/T0097.001.md">T0097.001 Backstop Personas</a></td>
-<td><a href="techniques/T0049.004.md">T0049.004 Utilise Spamoflauge</a></td>
+<td><a href="techniques/T0098.md">T0098 Establish Inauthentic News Sites</a></td>
+<td><a href="techniques/T0049.003.md">T0049.003 Bots Amplify via Automated Forwarding and Reposting</a></td>
 <td><a href="techniques/T0048.003.md">T0048.003 Threaten to Dox</a></td>
 </tr>
 <tr>
 <td><a href="techniques/T0074.004.md">T0074.004 Ideological Advantage</a></td>
 <td><a href="techniques/T0077.md">T0077 Distract</a></td>
 <td><a href="techniques/T0102.002.md">T0102.002 Create Echo Chambers/Filter Bubbles</a></td>
-<td><a href="techniques/T0023.001.md">T0023.001 Reframe Context</a></td>
+<td><a href="techniques/T0084.001.md">T0084.001 Use Copypasta</a></td>
 <td><a href="techniques/T0103.001.md">T0103.001 Video Livestream</a></td>
-<td><a href="techniques/T0046.md">T0046 Use Search Engine Optimisation</a></td>
+<td> </td>
 <td><a href="techniques/T0115.002.md">T0115.002 Post Violative Content to Provoke Takedown and Backlash</a></td>
 <td><a href="techniques/T0061.md">T0061 Sell Merchandise</a></td>
 <td><a href="techniques/T0128.003.md">T0128.003 Distance Reputable Individuals from Operation</a></td>
@@ -124,17 +124,17 @@
 <td><a href="techniques/T0072.005.md">T0072.005 Political Segmentation</a></td>
 <td><a href="techniques/T0040.md">T0040 Demand Insurmountable Proof</a></td>
 <td><a href="techniques/T0014.002.md">T0014.002 Raise Funds from Ignorant Agents</a></td>
-<td><a href="techniques/T0098.md">T0098 Establish Inauthentic News Sites</a></td>
-<td><a href="techniques/T0049.005.md">T0049.005 Conduct Swarming</a></td>
+<td><a href="techniques/T0098.001.md">T0098.001 Create Inauthentic News Sites</a></td>
+<td><a href="techniques/T0049.004.md">T0049.004 Utilise Spamoflauge</a></td>
 <td><a href="techniques/T0048.004.md">T0048.004 Dox</a></td>
 </tr>
 <tr>
 <td> </td>
 <td><a href="techniques/T0078.md">T0078 Dismay</a></td>
 <td><a href="techniques/T0102.003.md">T0102.003 Exploit Data Voids</a></td>
-<td><a href="techniques/T0023.002.md">T0023.002 Edit Open-Source Content</a></td>
+<td><a href="techniques/T0084.002.md">T0084.002 Plagiarise Content</a></td>
 <td><a href="techniques/T0103.002.md">T0103.002 Audio Livestream</a></td>
-<td><a href="techniques/T0113.md">T0113 Employ Commercial Analytic Firms</a></td>
+<td> </td>
 <td><a href="techniques/T0115.003.md">T0115.003 One-Way Direct Posting</a></td>
 <td><a href="techniques/T0126.md">T0126 Encourage Attendance at Events</a></td>
 <td><a href="techniques/T0128.004.md">T0128.004 Launder Information Assets</a></td>
@@ -142,15 +142,15 @@
 <td><a href="techniques/T0080.md">T0080 Map Target Audience Information Environment</a></td>
 <td><a href="techniques/T0068.md">T0068 Respond to Breaking News Event or Active Crisis</a></td>
 <td><a href="techniques/T0065.md">T0065 Prepare Physical Broadcast Capabilities</a></td>
-<td><a href="techniques/T0098.001.md">T0098.001 Create Inauthentic News Sites</a></td>
-<td><a href="techniques/T0049.006.md">T0049.006 Conduct Keyword Squatting</a></td>
+<td><a href="techniques/T0098.002.md">T0098.002 Leverage Existing Inauthentic News Sites</a></td>
+<td><a href="techniques/T0049.005.md">T0049.005 Conduct Swarming</a></td>
 <td><a href="techniques/T0123.md">T0123 Control Information Environment through Offensive Cyberspace Operations</a></td>
 </tr>
 <tr>
 <td> </td>
 <td><a href="techniques/T0079.md">T0079 Divide</a></td>
 <td> </td>
-<td><a href="techniques/T0084.md">T0084 Reuse Existing Content</a></td>
+<td><a href="techniques/T0084.003.md">T0084.003 Deceptively Labelled or Translated</a></td>
 <td><a href="techniques/T0104.md">T0104 Social Networks</a></td>
 <td> </td>
 <td><a href="techniques/T0116.md">T0116 Comment or Reply on Content</a></td>
@@ -160,15 +160,15 @@
 <td><a href="techniques/T0080.001.md">T0080.001 Monitor Social Media Analytics</a></td>
 <td><a href="techniques/T0082.md">T0082 Develop New Narratives</a></td>
 <td><a href="techniques/T0090.md">T0090 Create Inauthentic Accounts</a></td>
-<td><a href="techniques/T0098.002.md">T0098.002 Leverage Existing Inauthentic News Sites</a></td>
-<td><a href="techniques/T0049.007.md">T0049.007 Inauthentic Sites Amplify News and Narratives</a></td>
+<td><a href="techniques/T0099.md">T0099 Impersonate Existing Entity</a></td>
+<td><a href="techniques/T0049.006.md">T0049.006 Conduct Keyword Squatting</a></td>
 <td><a href="techniques/T0123.001.md">T0123.001 Delete Opposing Content</a></td>
 </tr>
 <tr>
 <td> </td>
 <td><a href="techniques/T0135.md">T0135 Undermine</a></td>
 <td> </td>
-<td><a href="techniques/T0084.001.md">T0084.001 Use Copypasta</a></td>
+<td><a href="techniques/T0084.004.md">T0084.004 Appropriate Content</a></td>
 <td><a href="techniques/T0104.001.md">T0104.001 Mainstream Social Networks</a></td>
 <td> </td>
 <td><a href="techniques/T0116.001.md">T0116.001 Post Inauthentic Social Media Comment</a></td>
@@ -178,16 +178,16 @@
 <td><a href="techniques/T0080.002.md">T0080.002 Evaluate Media Surveys</a></td>
 <td><a href="techniques/T0083.md">T0083 Integrate Target Audience Vulnerabilities into Narrative</a></td>
 <td><a href="techniques/T0090.001.md">T0090.001 Create Anonymous Accounts</a></td>
-<td><a href="techniques/T0099.md">T0099 Prepare Assets Impersonating Legitimate Entities</a></td>
-<td><a href="techniques/T0118.md">T0118 Amplify Existing Narrative</a></td>
+<td><a href="techniques/T0099.002.md">T0099.002 Spoof/Parody Account/Site</a></td>
+<td><a href="techniques/T0049.007.md">T0049.007 Inauthentic Sites Amplify News and Narratives</a></td>
 <td><a href="techniques/T0123.002.md">T0123.002 Block Content</a></td>
 </tr>
 <tr>
 <td> </td>
 <td><a href="techniques/T0135.001.md">T0135.001 Smear</a></td>
 <td> </td>
-<td><a href="techniques/T0084.002.md">T0084.002 Plagiarise Content</a></td>
-<td><a href="techniques/T0104.002.md">T0104.002 Dating Apps</a></td>
+<td><a href="techniques/T0085.md">T0085 Develop Text-Based Content</a></td>
+<td><a href="techniques/T0104.002.md">T0104.002 Dating App</a></td>
 <td> </td>
 <td><a href="techniques/T0117.md">T0117 Attract Traditional Media</a></td>
 <td><a href="techniques/T0127.md">T0127 Physical Violence</a></td>
@@ -196,15 +196,15 @@
 <td><a href="techniques/T0080.003.md">T0080.003 Identify Trending Topics/Hashtags</a></td>
 <td> </td>
 <td><a href="techniques/T0090.002.md">T0090.002 Create Cyborg Accounts</a></td>
-<td><a href="techniques/T0099.001.md">T0099.001 Astroturfing</a></td>
-<td><a href="techniques/T0119.md">T0119 Cross-Posting</a></td>
+<td><a href="techniques/T0099.003.md">T0099.003 Impersonate Existing Organisation</a></td>
+<td><a href="techniques/T0049.008.md">T0049.008 Generate Information Pollution</a></td>
 <td><a href="techniques/T0123.003.md">T0123.003 Destroy Information Generation Capabilities</a></td>
 </tr>
 <tr>
 <td> </td>
 <td><a href="techniques/T0135.002.md">T0135.002 Thwart</a></td>
 <td> </td>
-<td><a href="techniques/T0084.003.md">T0084.003 Deceptively Labelled or Translated</a></td>
+<td><a href="techniques/T0085.001.md">T0085.001 Develop AI-Generated Text</a></td>
 <td><a href="techniques/T0104.003.md">T0104.003 Private/Closed Social Networks</a></td>
 <td> </td>
 <td> </td>
@@ -214,15 +214,15 @@
 <td><a href="techniques/T0080.004.md">T0080.004 Conduct Web Traffic Analysis</a></td>
 <td> </td>
 <td><a href="techniques/T0090.003.md">T0090.003 Create Bot Accounts</a></td>
-<td><a href="techniques/T0099.002.md">T0099.002 Spoof/Parody Account/Site</a></td>
-<td><a href="techniques/T0119.001.md">T0119.001 Post across Groups</a></td>
+<td><a href="techniques/T0099.004.md">T0099.004 Impersonate Existing Media Outlet</a></td>
+<td><a href="techniques/T0118.md">T0118 Amplify Existing Narrative</a></td>
 <td><a href="techniques/T0123.004.md">T0123.004 Conduct Server Redirect</a></td>
 </tr>
 <tr>
 <td> </td>
 <td><a href="techniques/T0135.003.md">T0135.003 Subvert</a></td>
 <td> </td>
-<td><a href="techniques/T0084.004.md">T0084.004 Appropriate Content</a></td>
+<td><a href="techniques/T0085.003.md">T0085.003 Develop Inauthentic News Articles</a></td>
 <td><a href="techniques/T0104.004.md">T0104.004 Interest-Based Networks</a></td>
 <td> </td>
 <td> </td>
@@ -232,15 +232,15 @@
 <td><a href="techniques/T0080.005.md">T0080.005 Assess Degree/Type of Media Access</a></td>
 <td> </td>
 <td><a href="techniques/T0090.004.md">T0090.004 Create Sockpuppet Accounts</a></td>
-<td><a href="techniques/T0100.md">T0100 Co-Opt Trusted Sources</a></td>
-<td><a href="techniques/T0119.002.md">T0119.002 Post across Platform</a></td>
+<td><a href="techniques/T0099.005.md">T0099.005 Impersonate Existing Official</a></td>
+<td><a href="techniques/T0119.md">T0119 Cross-Posting</a></td>
 <td><a href="techniques/T0124.md">T0124 Suppress Opposition</a></td>
 </tr>
 <tr>
 <td> </td>
 <td><a href="techniques/T0135.004.md">T0135.004 Polarise</a></td>
 <td> </td>
-<td><a href="techniques/T0085.md">T0085 Develop Text-Based Content</a></td>
+<td><a href="techniques/T0085.004.md">T0085.004 Develop Document</a></td>
 <td><a href="techniques/T0104.005.md">T0104.005 Use Hashtags</a></td>
 <td> </td>
 <td> </td>
@@ -250,15 +250,15 @@
 <td><a href="techniques/T0081.md">T0081 Identify Social and Technical Vulnerabilities</a></td>
 <td> </td>
 <td><a href="techniques/T0091.md">T0091 Recruit Malign Actors</a></td>
-<td><a href="techniques/T0100.001.md">T0100.001 Co-Opt Trusted Individuals</a></td>
-<td><a href="techniques/T0119.003.md">T0119.003 Post across Disciplines</a></td>
+<td><a href="techniques/T0099.006.md">T0099.006 Impersonate Existing Influencer</a></td>
+<td><a href="techniques/T0119.001.md">T0119.001 Post across Groups</a></td>
 <td><a href="techniques/T0124.001.md">T0124.001 Report Non-Violative Opposing Content</a></td>
 </tr>
 <tr>
 <td> </td>
 <td><a href="techniques/T0136.md">T0136 Cultivate Support</a></td>
 <td> </td>
-<td><a href="techniques/T0085.001.md">T0085.001 Develop AI-Generated Text</a></td>
+<td><a href="techniques/T0085.005.md">T0085.005 Develop Book</a></td>
 <td><a href="techniques/T0104.006.md">T0104.006 Create Dedicated Hashtag</a></td>
 <td> </td>
 <td> </td>
@@ -268,15 +268,15 @@
 <td><a href="techniques/T0081.001.md">T0081.001 Find Echo Chambers</a></td>
 <td> </td>
 <td><a href="techniques/T0091.001.md">T0091.001 Recruit Contractors</a></td>
-<td><a href="techniques/T0100.002.md">T0100.002 Co-Opt Grassroots Groups</a></td>
-<td><a href="techniques/T0120.md">T0120 Incentivize Sharing</a></td>
+<td><a href="techniques/T0100.md">T0100 Co-Opt Trusted Sources</a></td>
+<td><a href="techniques/T0119.002.md">T0119.002 Post across Platform</a></td>
 <td><a href="techniques/T0124.002.md">T0124.002 Goad People into Harmful Action (Stop Hitting Yourself)</a></td>
 </tr>
 <tr>
 <td> </td>
 <td><a href="techniques/T0136.001.md">T0136.001 Defend Reputaton</a></td>
 <td> </td>
-<td><a href="techniques/T0085.002.md">T0085.002 Develop False or Altered Documents</a></td>
+<td><a href="techniques/T0085.006.md">T0085.006 Develop Opinion Article</a></td>
 <td><a href="techniques/T0105.md">T0105 Media Sharing Networks</a></td>
 <td> </td>
 <td> </td>
@@ -286,15 +286,15 @@
 <td><a href="techniques/T0081.002.md">T0081.002 Identify Data Voids</a></td>
 <td> </td>
 <td><a href="techniques/T0091.002.md">T0091.002 Recruit Partisans</a></td>
-<td><a href="techniques/T0100.003.md">T0100.003 Co-Opt Influencers</a></td>
-<td><a href="techniques/T0120.001.md">T0120.001 Use Affiliate Marketing Programmes</a></td>
+<td><a href="techniques/T0100.001.md">T0100.001 Co-Opt Trusted Individuals</a></td>
+<td><a href="techniques/T0119.003.md">T0119.003 Post across Disciplines</a></td>
 <td><a href="techniques/T0124.003.md">T0124.003 Exploit Platform TOS/Content Moderation</a></td>
 </tr>
 <tr>
 <td> </td>
 <td><a href="techniques/T0136.002.md">T0136.002 Justify Action</a></td>
 <td> </td>
-<td><a href="techniques/T0085.003.md">T0085.003 Develop Inauthentic News Articles</a></td>
+<td><a href="techniques/T0085.007.md">T0085.007 Create Fake Research</a></td>
 <td><a href="techniques/T0105.001.md">T0105.001 Photo Sharing</a></td>
 <td> </td>
 <td> </td>
@@ -304,8 +304,8 @@
 <td><a href="techniques/T0081.003.md">T0081.003 Identify Existing Prejudices</a></td>
 <td> </td>
 <td><a href="techniques/T0091.003.md">T0091.003 Enlist Troll Accounts</a></td>
-<td> </td>
-<td><a href="techniques/T0120.002.md">T0120.002 Use Contests and Prizes</a></td>
+<td><a href="techniques/T0100.002.md">T0100.002 Co-Opt Grassroots Groups</a></td>
+<td><a href="techniques/T0120.md">T0120 Incentivize Sharing</a></td>
 <td><a href="techniques/T0125.md">T0125 Platform Filtering</a></td>
 </tr>
 <tr>
@@ -322,8 +322,8 @@
 <td><a href="techniques/T0081.004.md">T0081.004 Identify Existing Fissures</a></td>
 <td> </td>
 <td><a href="techniques/T0092.md">T0092 Build Network</a></td>
-<td> </td>
-<td><a href="techniques/T0121.md">T0121 Manipulate Platform Algorithm</a></td>
+<td><a href="techniques/T0100.003.md">T0100.003 Co-Opt Influencers</a></td>
+<td><a href="techniques/T0120.001.md">T0120.001 Use Affiliate Marketing Programmes</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -340,8 +340,8 @@
 <td><a href="techniques/T0081.005.md">T0081.005 Identify Existing Conspiracy Narratives/Suspicions</a></td>
 <td> </td>
 <td><a href="techniques/T0092.001.md">T0092.001 Create Organisations</a></td>
-<td> </td>
-<td><a href="techniques/T0121.001.md">T0121.001 Bypass Content Blocking</a></td>
+<td><a href="techniques/T0142.md">T0142 Fabricate Grassroots Movement</a></td>
+<td><a href="techniques/T0120.002.md">T0120.002 Use Contests and Prizes</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -359,7 +359,7 @@
 <td> </td>
 <td><a href="techniques/T0092.002.md">T0092.002 Use Follow Trains</a></td>
 <td> </td>
-<td><a href="techniques/T0122.md">T0122 Direct Users to Alternative Platforms</a></td>
+<td><a href="techniques/T0121.md">T0121 Manipulate Platform Algorithm</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -377,7 +377,7 @@
 <td> </td>
 <td><a href="techniques/T0092.003.md">T0092.003 Create Community or Sub-Group</a></td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0121.001.md">T0121.001 Bypass Content Blocking</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -395,7 +395,7 @@
 <td> </td>
 <td><a href="techniques/T0093.md">T0093 Acquire/Recruit Network</a></td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0122.md">T0122 Direct Users to Alternative Platforms</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -546,7 +546,7 @@
 <td> </td>
 <td><a href="techniques/T0138.md">T0138 Motivate to Act</a></td>
 <td> </td>
-<td><a href="techniques/T0089.002.md">T0089.002 Create Inauthentic Documents</a></td>
+<td><a href="techniques/T0089.003.md">T0089.003 Alter Authentic Documents</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -564,7 +564,6 @@
 <td> </td>
 <td><a href="techniques/T0138.001.md">T0138.001 Encourage</a></td>
 <td> </td>
-<td><a href="techniques/T0089.003.md">T0089.003 Alter Authentic Documents</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -574,6 +573,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
+<td><a href="techniques/T0113.md">T0113 Employ Commercial Analytic Firms</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -591,7 +591,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0141.md">T0141 Acquire Compromised Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -609,7 +609,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0141.001.md">T0141.001 Acquire Compromised Account</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -627,7 +627,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0141.002.md">T0141.002 Acquire Compromised Website</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
