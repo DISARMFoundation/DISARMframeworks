@@ -100,7 +100,7 @@
 <td>3</td>
 </tr>
 <tr>
-<td><a href="../generated_pages/tactics/TA15.md">TA15 Establish Social Assets</a></td>
+<td><a href="../generated_pages/tactics/TA15.md">TA15 Establish Assets</a></td>
 <td>10</td>
 <td>7</td>
 <td>6</td>

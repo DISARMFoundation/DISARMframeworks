@@ -22,7 +22,7 @@
 <tr>
 <td><a href="tactics/TA05.md">TA05</a></td>
 <td>Microtarget</td>
-<td>Target very specific populations of people</td>
+<td>Actions taken which help target content to specific audiences identified and analysed as part of TA13: Target Audience Analysis.</td>
 <td>P02</td>
 </tr>
 <tr>
@@ -81,8 +81,10 @@
 </tr>
 <tr>
 <td><a href="tactics/TA15.md">TA15</a></td>
-<td>Establish Social Assets</td>
-<td>Establishing information assets generates messaging tools, including social media accounts, operation personnel, and organisations, including directly and indirectly managed assets. For assets under their direct control, the operation can add, change, or remove these assets at will. Establishing information assets allows an influence operation to promote messaging directly to the target audience without navigating through external entities. Many online influence operations create or compromise social media accounts as a primary vector of information dissemination.</td>
+<td>Establish Assets</td>
+<td>Establishing information assets generates messaging tools, including social media accounts, operation personnel, and organisations, including directly and indirectly managed assets. For assets under their direct control, the operation can add, change, or remove these assets at will. Establishing information assets allows an influence operation to promote messaging directly to the target audience without navigating through external entities. Many online influence operations create or compromise social media accounts as a primary vector of information dissemination.
+
+This Tactic was previously called Establish Social Assets.</td>
 <td>P02</td>
 </tr>
 <tr>

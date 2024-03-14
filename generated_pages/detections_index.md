@@ -70,7 +70,7 @@
 <td>Detect abnormal amplification</td>
 <td></td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@
 <td>Detect abnormal events</td>
 <td></td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@
 <td>Detect abnormal groups</td>
 <td></td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@
 <td>Detect abnormal pages</td>
 <td></td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@
 <td>Detect abnormal profiles, e.g. prolific pages/ groups/ people</td>
 <td></td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@
 <td>Identify fake news sites</td>
 <td></td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@
 <td>Trace connections</td>
 <td>for e.g. fake news sites</td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@
 <td>Detect anomalies in membership growth patterns</td>
 <td>I include Fake Experts as they may use funding campaigns such as Patreon to fund their operations and so these should be watched.</td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -134,7 +134,7 @@
 <td>Identify fence-sitters</td>
 <td>Note: In each case, depending on the platform there may be a way to identify a fence-sitter. For example, online polls may have a neutral option or a "somewhat this-or-that" option, and may reveal who voted for that to all visitors. This information could be of use to data analysts. In TA08-11, the engagement level of victims could be identified to detect and respond to increasing engagement.</td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@
 <td>Measure emotional valence</td>
 <td></td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@
 <td>Follow the money</td>
 <td>track funding sources</td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -158,7 +158,7 @@
 <td>Activity resurgence detection (alarm when dormant accounts become activated)</td>
 <td></td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -166,7 +166,7 @@
 <td>Detect anomalous activity</td>
 <td></td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -174,7 +174,7 @@
 <td>AI/ML automated early detection of campaign planning</td>
 <td></td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -182,7 +182,7 @@
 <td>Digital authority - regulating body (united states)</td>
 <td></td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -190,7 +190,7 @@
 <td>Periodic verification (counter to hijack legitimate account)</td>
 <td></td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -198,7 +198,7 @@
 <td>Teach civics to kids/ adults/ seniors</td>
 <td></td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -622,7 +622,7 @@
 <td>Model for bot account behaviour</td>
 <td>Bot account: action based, people. Unsure which DISARM techniques.</td>
 <td></td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -630,7 +630,7 @@
 <td>Monitor account level activity in social networks</td>
 <td>All techniques benefit from careful analysis and monitoring of activities on social network.</td>
 <td></td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -678,7 +678,7 @@
 <td>Track individual bad actors</td>
 <td></td>
 <td></td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -718,7 +718,7 @@
 <td>target/name/flag "grey zone" website content</td>
 <td>"Grey zone" is second level of content producers and circulators, composed of outlets with uncertain attribution. This category covers conspiracy websites, far-right or far-left websites, news aggregators, and data dump websites</td>
 <td></td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>
@@ -750,7 +750,7 @@
 <td>S4d detection and re-allocation approaches</td>
 <td>S4D is a way to separate out different speakers in text, audio.</td>
 <td>M004 - Friction</td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D01</td>
 </tr>
 <tr>

@@ -15,7 +15,7 @@
 <td><a href="tactics/TA12.md">TA12 Assess Effectiveness</a></td>
 <td><a href="tactics/TA13.md">TA13 Target Audience Analysis</a></td>
 <td><a href="tactics/TA14.md">TA14 Develop Narratives</a></td>
-<td><a href="tactics/TA15.md">TA15 Establish Social Assets</a></td>
+<td><a href="tactics/TA15.md">TA15 Establish Assets</a></td>
 <td><a href="tactics/TA16.md">TA16 Establish Legitimacy</a></td>
 <td><a href="tactics/TA17.md">TA17 Maximise Exposure</a></td>
 <td><a href="tactics/TA18.md">TA18 Drive Online Harms</a></td>

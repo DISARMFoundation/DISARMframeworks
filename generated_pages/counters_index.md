@@ -182,7 +182,7 @@
 <td>Create more friction at account creation</td>
 <td>Counters fake account</td>
 <td>M004 - Friction</td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D04</td>
 </tr>
 <tr>
@@ -190,7 +190,7 @@
 <td>Infiltrate the in-group to discredit leaders (divide)</td>
 <td>All of these would be highly affected by infiltration or false-claims of infiltration.</td>
 <td>M013 - Targeting</td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D02</td>
 </tr>
 <tr>
@@ -198,7 +198,7 @@
 <td>third party verification for people</td>
 <td>counters fake experts</td>
 <td>M011 - Verification</td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D02</td>
 </tr>
 <tr>
@@ -206,7 +206,7 @@
 <td>Address truth contained in narratives</td>
 <td>Focus on and boost truths in misinformation narratives, removing misinformation from them.</td>
 <td>M010 - Countermessaging</td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D04</td>
 </tr>
 <tr>
@@ -214,7 +214,7 @@
 <td>Keep people from posting to social media immediately</td>
 <td>Platforms can introduce friction to slow down activities, force a small delay between posts, or replies to posts.</td>
 <td>M004 - Friction</td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D03</td>
 </tr>
 <tr>
@@ -222,7 +222,7 @@
 <td>Marginalise and discredit extremist groups</td>
 <td>Reduce the credibility of extremist groups posting misinformation.</td>
 <td>M013 - Targeting</td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D04</td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@
 <td>Honeypot with coordinated inauthentics</td>
 <td>Flood disinformation spaces with obviously fake content, to dilute core misinformation narratives in them.</td>
 <td>M008 - Data Pollution</td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D05</td>
 </tr>
 <tr>
@@ -238,7 +238,7 @@
 <td>Name and Shame Influencers</td>
 <td>Think about the different levels: individual vs state-sponsored account. Includes “call them out” and “name and shame”. Identify social media accounts as sources of propaganda—“calling them out”— might be helpful to prevent the spread of their message to audiences that otherwise would consider them factual. Identify, monitor, and, if necessary, target externally-based nonattributed social media accounts. Impact of and Dealing with Trolls - "Chatham House has observed that trolls also sometimes function as decoys, as a way of “keeping the infantry busy” that “aims to wear down the other side” (Lough et al., 2014). Another type of troll involves “false accounts posing as authoritative information sources on social media”.</td>
 <td>M003 - Daylight</td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D07</td>
 </tr>
 <tr>
@@ -246,7 +246,7 @@
 <td>Counter social engineering training</td>
 <td>Includes anti-elicitation training, phishing prevention education.</td>
 <td>M001 - Resilience</td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D02</td>
 </tr>
 <tr>
@@ -254,7 +254,7 @@
 <td>Infiltrate platforms</td>
 <td>Detect and degrade</td>
 <td>M013 - Targeting</td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D04</td>
 </tr>
 <tr>
@@ -262,7 +262,7 @@
 <td>Delete old accounts / Remove unused social media accounts</td>
 <td>remove or remove access to (e.g. stop the ability to update) old social media accounts, to reduce the pool of accounts available for takeover, botnets etc.</td>
 <td>M012 - Cleaning</td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D04</td>
 </tr>
 <tr>
@@ -270,7 +270,7 @@
 <td>Encourage people to leave social media</td>
 <td>Encourage people to leave spcial media. We don't expect this to work</td>
 <td>M004 - Friction</td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D02</td>
 </tr>
 <tr>
@@ -278,7 +278,7 @@
 <td>Report crowdfunder as violator</td>
 <td>counters crowdfunding. Includes ‘Expose online funding as fake”.</td>
 <td>M005 - Removal</td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D02</td>
 </tr>
 <tr>
@@ -286,7 +286,7 @@
 <td>Verification of project before posting fund requests</td>
 <td>third-party verification of projects posting funding campaigns before those campaigns can be posted.</td>
 <td>M011 - Verification</td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D02</td>
 </tr>
 <tr>
@@ -302,7 +302,7 @@
 <td>Free open library sources worldwide</td>
 <td>Open-source libraries could be created that aid in some way for each technique. Even for Strategic Planning, some open-source frameworks such as DISARM can be created to counter the adversarial efforts.</td>
 <td>M010 - Countermessaging</td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D04</td>
 </tr>
 <tr>
@@ -326,7 +326,7 @@
 <td>Denigrate the recipient/ project (of online funding)</td>
 <td>Reduce the credibility of groups behind misinformation-linked funding campaigns.</td>
 <td>M013 - Targeting</td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D03</td>
 </tr>
 <tr>
@@ -390,7 +390,7 @@
 <td>Active defence: run TA15 "develop people” - not recommended</td>
 <td>Develop networks of communities and influencers around counter-misinformation. Match them to misinformation creators</td>
 <td>M013 - Targeting</td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D03</td>
 </tr>
 <tr>
@@ -486,7 +486,7 @@
 <td>Influencer code of conduct</td>
 <td>Establish tailored code of conduct for individuals with many followers. Can be platform code of conduct; can also be community code.</td>
 <td>M001 - Resilience</td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D07</td>
 </tr>
 <tr>
@@ -750,7 +750,7 @@
 <td>Deplatform Account*</td>
 <td>Note: Similar to Deplatform People but less generic. Perhaps both should be left.</td>
 <td>M005 - Removal</td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D03</td>
 </tr>
 <tr>
@@ -758,7 +758,7 @@
 <td>Deplatform message groups and/or message boards</td>
 <td>Merged two rows here.</td>
 <td>M005 - Removal</td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D03</td>
 </tr>
 <tr>
@@ -862,7 +862,7 @@
 <td>Ban incident actors from funding sites</td>
 <td>Ban misinformation creators and posters from funding sites</td>
 <td>M005 - Removal</td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D02</td>
 </tr>
 <tr>
@@ -886,7 +886,7 @@
 <td>find and train influencers</td>
 <td>Identify key influencers (e.g. use network analysis), then reach out to identified users and offer support, through either training or resources.</td>
 <td>M001 - Resilience</td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D02</td>
 </tr>
 <tr>
@@ -902,7 +902,7 @@
 <td>Unravel/target the Potemkin villages</td>
 <td>Kremlin’s narrative spin extends through constellations of “civil society” organisations, political parties, churches, and other actors. Moscow leverages think tanks, human rights groups, election observers, Eurasianist integration groups, and orthodox groups. A collection of Russian civil society organisations, such as the Federal Agency for the Commonwealth of Independent States Affairs, Compatriots Living Abroad, and International Humanitarian Cooperation, together receive at least US$100 million per year, in addition to government-organized nongovernmental organisations (NGOs), at least 150 of which are funded by Russian presidential grants totaling US$70 million per year.</td>
 <td>M013 - Targeting</td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D03</td>
 </tr>
 <tr>
@@ -942,7 +942,7 @@
 <td>social media source removal</td>
 <td>Removing accounts, pages, groups, e.g. facebook page removal</td>
 <td>M005 - Removal</td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D02</td>
 </tr>
 <tr>
@@ -998,7 +998,7 @@
 <td>Ensure that platforms are taking down flagged accounts</td>
 <td>Use ongoing analysis/monitoring of "flagged" profiles. Confirm whether platforms are actively removing flagged accounts, and raise pressure via e.g. government organisations to encourage removal</td>
 <td>M003 - Daylight</td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D06</td>
 </tr>
 <tr>
@@ -1022,7 +1022,7 @@
 <td>remove suspicious accounts</td>
 <td>Standard reporting for false profiles (identity issues). Includes detecting hijacked accounts and reallocating them - if possible, back to original owners.</td>
 <td>M005 - Removal</td>
-<td>TA15 - Establish Social Assets</td>
+<td>TA15 - Establish Assets</td>
 <td>D02</td>
 </tr>
 <tr>
@@ -1046,7 +1046,7 @@
 <td>Stop offering press credentials to propaganda outlets</td>
 <td>Remove access to official press events from known misinformation actors.</td>
 <td>M004 - Friction</td>
-<td>TA15 Establish Social Assets</td>
+<td>TA15 Establish Assets</td>
 <td>D03</td>
 </tr>
 <tr>

@@ -513,4 +513,28 @@
 <td>World</td>
 <td></td>
 </tr>
+<tr>
+<td><a href="incidents/I00064.md">I00064</a></td>
+<td>Tinder nightmares: the promise and peril of political bots</td>
+<td>incident</td>
+<td>2017</td>
+<td>UK</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00065.md">I00065</a></td>
+<td>'Ghostwriter' Influence Campaign: Unknown Actors Leverage Website Compromises and Fabricated Content to Push Narratives Aligned With Russian Security Interests</td>
+<td>campaign</td>
+<td>2020</td>
+<td>Lithuania, Latvia, Poland</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00066.md">I00066</a></td>
+<td>The online war between Qatar and Saudi Arabia</td>
+<td>incident</td>
+<td>2017</td>
+<td>Qatar</td>
+<td></td>
+</tr>
 </table>

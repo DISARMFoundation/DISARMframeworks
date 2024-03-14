@@ -50,12 +50,6 @@
 <td>TA15</td>
 </tr>
 <tr>
-<td><a href="techniques/T0011.md">T0011</a></td>
-<td>Compromise Legitimate Accounts</td>
-<td>Hack or take over legimate accounts to distribute misinformation or damaging content.</td>
-<td>TA16</td>
-</tr>
-<tr>
 <td><a href="techniques/T0013.md">T0013</a></td>
 <td>Create Inauthentic Websites</td>
 <td>Create media assets to support inauthentic organisations (e.g. think tank), people (e.g. experts) and/or serve as sites to distribute malware/launch phishing operations.</td>
@@ -110,24 +104,6 @@
 <td>TA05</td>
 </tr>
 <tr>
-<td><a href="techniques/T0019.md">T0019</a></td>
-<td>Generate Information Pollution</td>
-<td>Flood social channels; drive traffic/engagement to all assets; create aura/sense/perception of pervasiveness/consensus (for or against or both simultaneously) of an issue or topic. "Nothing is true, but everything is possible." Akin to astroturfing campaign.</td>
-<td>TA06</td>
-</tr>
-<tr>
-<td><a href="techniques/T0019.001.md">T0019.001</a></td>
-<td>Create Fake Research</td>
-<td>Create fake academic research. Example: fake social science research is often aimed at hot-button social issues such as gender, race and sexuality. Fake science research can target Climate Science debate or pseudoscience like anti-vaxx</td>
-<td>TA06</td>
-</tr>
-<tr>
-<td><a href="techniques/T0019.002.md">T0019.002</a></td>
-<td>Hijack Hashtags</td>
-<td>Hashtag hijacking occurs when users “[use] a trending hashtag to promote topics that are substantially different from its recent context” (VanDam and Tan, 2016) or “to promote one’s own social media agenda” (Darius and Stephany, 2019).</td>
-<td>TA06</td>
-</tr>
-<tr>
 <td><a href="techniques/T0020.md">T0020</a></td>
 <td>Trial Content</td>
 <td>Iteratively test incident performance (messages, content etc), e.g. A/B test headline/content enagagement metrics; website and/or funding campaign conversion rates</td>
@@ -177,9 +153,11 @@
 </tr>
 <tr>
 <td><a href="techniques/T0039.md">T0039</a></td>
-<td>Bait Legitimate Influencers</td>
-<td>Credibility in a social media environment is often a function of the size of a user's network. "Influencers" are so-called because of their reach, typically understood as: 1) the size of their network (i.e. the number of followers, perhaps weighted by their own influence); and 2) The rate at which their comments are re-circulated (these two metrics are related). Add traditional media players at all levels of credibility and professionalism to this, and the number of potential influencial carriers available for unwitting amplification becomes substantial. By targeting high-influence people and organisations in all types of media with narratives and content engineered to appeal their emotional or ideological drivers, influence campaigns are able to add perceived credibility to their messaging via saturation and adoption by trusted agents such as celebrities, journalists and local leaders.</td>
-<td>TA08</td>
+<td>Bait Influencer</td>
+<td>Influencers are people on social media platforms who have large audiences. 
+
+Threat Actors can try to trick Influencers such as celebrities, journalists, or local leaders who aren’t associated with their campaign into amplifying campaign content. This gives them access to the Influencer’s audience without having to go through the effort of building it themselves, and it helps legitimise their message by associating it with the Influencer, benefitting from their audience’s trust in them.</td>
+<td>TA17</td>
 </tr>
 <tr>
 <td><a href="techniques/T0040.md">T0040</a></td>
@@ -267,8 +245,14 @@
 </tr>
 <tr>
 <td><a href="techniques/T0049.md">T0049</a></td>
-<td>Flooding the Information Space</td>
-<td>Flooding and/or mobbing social media channels feeds and/or hashtag with excessive volume of content to control/shape online conversations and/or drown out opposing points of view. Bots and/or patriotic trolls are effective tools to acheive this effect.</td>
+<td>Flood Information Space</td>
+<td>Flooding sources of information (e.g. Social Media feeds) with a high volume of inauthentic content.
+
+This can be done to control/shape online conversations, drown out opposing points of view, or make it harder to find legitimate information. 
+
+Bots and/or patriotic trolls are effective tools to achieve this effect.
+
+This Technique previously used the name Flooding the Information Space.</td>
 <td>TA17</td>
 </tr>
 <tr>
@@ -279,8 +263,14 @@
 </tr>
 <tr>
 <td><a href="techniques/T0049.002.md">T0049.002</a></td>
-<td>Hijack Existing Hashtag</td>
-<td>Take over an existing hashtag to drive exposure.</td>
+<td>Flood Existing Hashtag</td>
+<td>Hashtags can be used by communities to collate information they post about particular topics (such as their interests, or current events) and users can find communities to join by exploring hashtags they’re interested in. 
+
+Threat actors can flood an existing hashtag to try to ruin hashtag functionality, posting content unrelated to the hashtag alongside it, making it a less reliable source of relevant information. They may also try to flood existing hashtags with campaign content, with the intent of maximising exposure to users.
+
+This Technique covers cases where threat actors flood existing hashtags with campaign content.
+
+This Technique covers behaviours previously documented by T0019.002: Hijack Hashtags, which has since been deprecated. This Technique was previously called Hijack Existing Hashtag.</td>
 <td>TA17</td>
 </tr>
 <tr>
@@ -311,6 +301,18 @@
 <td><a href="techniques/T0049.007.md">T0049.007</a></td>
 <td>Inauthentic Sites Amplify News and Narratives</td>
 <td>Inauthentic sites circulate cross-post stories and amplify narratives. Often these sites have no masthead, bylines or attribution.</td>
+<td>TA17</td>
+</tr>
+<tr>
+<td><a href="techniques/T0049.008.md">T0049.008</a></td>
+<td>Generate Information Pollution</td>
+<td>Information Pollution occurs when threat actors attempt to ruin a source of information by flooding it with lots of inauthentic or unreliable content, intending to make it harder for legitimate users to find the information they’re looking for. 
+
+This subtechnique's objective is to reduce exposure to target information, rather than promoting exposure to campaign content, for which the parent technique T0049 can be used. 
+
+Analysts will need to infer what the motive for flooding an information space was when deciding whether to use T0049 or T0049.008 to tag a case when an information space is flooded. If such inference is not possible, default to T0049.
+
+This Technique previously used the ID T0019.</td>
 <td>TA17</td>
 </tr>
 <tr>
@@ -620,15 +622,43 @@
 <td>TA06</td>
 </tr>
 <tr>
-<td><a href="techniques/T0085.002.md">T0085.002</a></td>
-<td>Develop False or Altered Documents</td>
-<td>Develop False or Altered Documents</td>
-<td>TA06</td>
-</tr>
-<tr>
 <td><a href="techniques/T0085.003.md">T0085.003</a></td>
 <td>Develop Inauthentic News Articles</td>
 <td>An influence operation may develop false or misleading news articles aligned to their campaign goals or narratives.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0085.004.md">T0085.004</a></td>
+<td>Develop Document</td>
+<td>Produce text in the form of a document.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0085.005.md">T0085.005</a></td>
+<td>Develop Book</td>
+<td>Produce text content in the form of a book. 
+
+This technique covers both e-books and physical books, however, the former is more easily deployed by threat actors given the lower cost to develop.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0085.006.md">T0085.006</a></td>
+<td>Develop Opinion Article</td>
+<td>Opinion articles (aka “Op-Eds” or “Editorials”) are articles or regular columns flagged as “opinion” posted to news sources, and can be contributed by people outside the organisation. 
+
+Flagging articles as opinions allow news organisations to distinguish them from the typical expectations of objective news reporting while distancing the presented opinion from the organisation or its employees.
+
+The use of this technique is not by itself an indication of malicious or inauthentic content; Op-eds are a common format in media. However, threat actors exploit op-eds to, for example, submit opinion articles to local media to promote their narratives.
+
+Examples from the perspective of a news site involve publishing op-eds from perceived prestigious voices to give legitimacy to an inauthentic publication, or supporting causes by hosting op-eds from actors aligned with the organisation’s goals.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0085.007.md">T0085.007</a></td>
+<td>Create Fake Research</td>
+<td>Create fake academic research. Example: fake social science research is often aimed at hot-button social issues such as gender, race and sexuality. Fake science research can target Climate Science debate or pseudoscience like anti-vaxx.
+
+This Technique previously used the ID T0019.001</td>
 <td>TA06</td>
 </tr>
 <tr>
@@ -710,15 +740,9 @@
 <td>TA06</td>
 </tr>
 <tr>
-<td><a href="techniques/T0089.002.md">T0089.002</a></td>
-<td>Create Inauthentic Documents</td>
-<td>Create inauthentic documents intended to appear as if they are authentic non-public documents. These documents can be "leaked" during later stages in the operation.</td>
-<td>TA06</td>
-</tr>
-<tr>
 <td><a href="techniques/T0089.003.md">T0089.003</a></td>
 <td>Alter Authentic Documents</td>
-<td>Alter authentic documents (public or non-public) to achieve campaign goals. The altered documents are intended to appear as if they are authentic can be "leaked" during later stages in the operation.</td>
+<td>Alter authentic documents (public or non-public) to achieve campaign goals. The altered documents are intended to appear as if they are authentic and can be "leaked" during later stages in the operation.</td>
 <td>TA06</td>
 </tr>
 <tr>
@@ -867,8 +891,14 @@
 </tr>
 <tr>
 <td><a href="techniques/T0097.001.md">T0097.001</a></td>
-<td>Backstop Personas</td>
-<td>Create other assets/dossier/cover/fake relationships and/or connections or documents, sites, bylines, attributions, to establish/augment/inflate crediblity/believability</td>
+<td>Produce Evidence for Persona</td>
+<td>People may produce evidence which supports the persona they are deploying (T0097) (aka “backstopping” the persona).
+
+This Technique covers situations where evidence is developed or produced as part of an influence operation to increase the perceived legitimacy of a persona used during IO, including creating accounts for the same persona on multiple platforms.
+
+The use of personas (T0097), and providing evidence to improve people’s perception of one’s persona (T0097.001), are not necessarily malicious or inauthentic. However, sometimes people use personas to increase the perceived legitimacy of narratives for malicious purposes.
+
+This Technique was previously called Backstop Personas.</td>
 <td>TA16</td>
 </tr>
 <tr>
@@ -891,20 +921,48 @@
 </tr>
 <tr>
 <td><a href="techniques/T0099.md">T0099</a></td>
-<td>Prepare Assets Impersonating Legitimate Entities</td>
-<td>An influence operation may prepare assets impersonating legitimate entities to further conceal its network identity and add a layer of legitimacy to its operation content. Users will more likely believe and less likely fact-check news from recognisable sources rather than unknown sites. Legitimate entities may include authentic news outlets, public figures, organisations, or state entities. An influence operation may use a wide variety of cyber techniques to impersonate a legitimate entity’s website or social media account. Typosquatting87 is the international registration of a domain name with purposeful variations of the impersonated domain name through intentional typos, top-level domain (TLD) manipulation, or punycode. Typosquatting facilitates the creation of falsified websites by creating similar domain names in the URL box, leaving it to the user to confirm that the URL is correct.</td>
-<td>TA16</td>
-</tr>
-<tr>
-<td><a href="techniques/T0099.001.md">T0099.001</a></td>
-<td>Astroturfing</td>
-<td>Astroturfing occurs when an influence operation disguises itself as grassroots movement or organisation that supports operation narratives. Unlike butterfly attacks, astroturfing aims to increase the appearance of popular support for the operation cause and does not infiltrate existing groups to discredit their objectives.</td>
+<td>Impersonate Existing Entity</td>
+<td>An influence operation may prepare assets impersonating existing entities (both organisations and people) to further conceal its network identity and add a layer of legitimacy to its operation content. Existing entities may include authentic news outlets, public figures, organisations, or state entities. 
+
+Users will more likely believe and less likely fact-check news from recognisable sources rather than unknown sites. 
+
+An influence operation may use a wide variety of cyber techniques to impersonate a legitimate entity’s website or social media account. 
+
+This Technique was previously called Prepare Assets Impersonating Legitimate Entities.</td>
 <td>TA16</td>
 </tr>
 <tr>
 <td><a href="techniques/T0099.002.md">T0099.002</a></td>
 <td>Spoof/Parody Account/Site</td>
 <td>An influence operation may prepare assets impersonating legitimate entities to further conceal its network identity and add a layer of legitimacy to its operation content. Users will more likely believe and less likely fact-check news from recognisable sources rather than unknown sites. Legitimate entities may include authentic news outlets, public figures, organisations, or state entities.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0099.003.md">T0099.003</a></td>
+<td>Impersonate Existing Organisation</td>
+<td>A situation where a threat actor styles their online assets or content to mimic an existing organisation.
+
+This can be done to take advantage of peoples’ trust in the organisation to increase narrative believability, to smear the organisation, or to make the organisation less trustworthy.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0099.004.md">T0099.004</a></td>
+<td>Impersonate Existing Media Outlet</td>
+<td>A situation where a threat actor styles their online assets or content to mimic an existing media outlet.
+
+This can be done to take advantage of peoples’ trust in the outlet to increase narrative believability, to smear the outlet, or to make the outlet less trustworthy.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0099.005.md">T0099.005</a></td>
+<td>Impersonate Existing Official</td>
+<td>A situation where a threat actor styles their online assets or content to impersonate an official (including government officials, organisation officials, etc).</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0099.006.md">T0099.006</a></td>
+<td>Impersonate Existing Influencer</td>
+<td>A situation where a threat actor styles their online assets or content to impersonate an influencer or celebrity, typically to exploit users’ existing faith in the impersonated target.</td>
 <td>TA16</td>
 </tr>
 <tr>
@@ -993,8 +1051,12 @@
 </tr>
 <tr>
 <td><a href="techniques/T0104.002.md">T0104.002</a></td>
-<td>Dating Apps</td>
-<td>Dating Apps</td>
+<td>Dating App</td>
+<td>“Dating App” refers to any platform (or platform feature) in which the ostensive purpose is for users to develop a physical/romantic relationship with other users.
+
+Threat Actors can exploit users’ quest for love to trick them into doing things like revealing sensitive information or giving them money.
+
+Examples include Tinder, Bumble, Grindr, Facebook Dating, Tantan, Badoo, Plenty of Fish, hinge, LOVOO, OkCupid, happn, and Mamba.</td>
 <td>TA07</td>
 </tr>
 <tr>
@@ -1115,7 +1177,7 @@
 <td><a href="techniques/T0113.md">T0113</a></td>
 <td>Employ Commercial Analytic Firms</td>
 <td>Commercial analytic firms collect data on target audience activities and evaluate the data to detect trends, such as content receiving high click-rates. An influence operation may employ commercial analytic firms to facilitate external collection on its target audience, complicating attribution efforts and better tailoring the content to audience preferences.</td>
-<td>TA08</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0114.md">T0114</a></td>
@@ -1770,5 +1832,43 @@
 <td>Spread Hate</td>
 <td>Publish and/or propagate demeaning, derisive, or humiliating content targeting an individual or group of individuals with the intent to cause emotional, psychological, or physical distress. Hate speech can cause harm directly or incite others to harm the target. It often aims to stigmatise the target by singling out immutable characteristics such as colour, race, religion, national or ethnic origin, gender, gender identity, sexual orientation, age, disease, or mental or physical disability. Thus, promoting hatred online may involve racism, antisemitism, Islamophobia, xenophobia, sexism, misogyny, homophobia, transphobia, ageism, ableism, or any combination thereof. Motivations for hate speech range from group preservation to ideological superiority to the unbridled infliction of suffering.       </td>
 <td>TA02</td>
+</tr>
+<tr>
+<td><a href="techniques/T0141.md">T0141</a></td>
+<td>Acquire Compromised Asset</td>
+<td>Threat Actors may take over existing assets not owned by them through nefarious means, such as using technical exploits, hacking, purchasing compromised accounts from the dark web, or social engineering.</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="techniques/T0141.001.md">T0141.001</a></td>
+<td>Acquire Compromised Account</td>
+<td>Threat Actors can take over existing users’ accounts to distribute campaign content. 
+
+The actor may maintain the asset’s previous identity to capitalise on the perceived legitimacy its previous owner had cultivated.
+
+The actor may completely rebrand the account to exploit its existing reach, or relying on the account’s history to avoid more stringent automated content moderation rules applied to new accounts.
+
+See also [Mitre ATT&CK’s T1586 Compromise Accounts](https://attack.mitre.org/techniques/T1586/) for more technical information on how threat actors may achieve this objective.
+
+This Technique was previously called Compromise Legitimate Accounts, and used the ID T0011.</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="techniques/T0141.002.md">T0141.002</a></td>
+<td>Acquire Compromised Website</td>
+<td>Threat Actors may take over existing websites to publish or amplify inauthentic narratives. This includes the defacement of websites, and cases where websites’ personas are maintained to add credence to threat actors’ narratives.
+
+See also [Mitre ATT&CK’s T1584 Compromise Infrastructure](https://attack.mitre.org/techniques/T1584/) for more technical information on how threat actors may achieve this objective.</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="techniques/T0142.md">T0142</a></td>
+<td>Fabricate Grassroots Movement</td>
+<td>This technique, sometimes known as "astroturfing", occurs when an influence operation disguises itself as a grassroots movement or organisation that supports operation narratives. 
+
+Astroturfing aims to increase the appearance of popular support for an evolving grassroots movement in contrast to "Utilise Butterfly Attacks", which aims to discredit an existing grassroots movement. 
+
+This Technique was previously called Astroturfing, and used the ID T0099.001</td>
+<td>TA16</td>
 </tr>
 </table>
