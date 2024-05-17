@@ -94,12 +94,12 @@ class Disarm:
         xlsx = pd.ExcelFile(frameworkfile)
         for sheetname in xlsx.sheet_names:
             metadata[sheetname] = xlsx.parse(sheetname)
-            metadata[sheetname].fillna('', inplace=True)
+            metadata[sheetname].replace(np.NaN, '', inplace=True)
 
         xlsx = pd.ExcelFile(datafile)
         for sheetname in xlsx.sheet_names:
             metadata[sheetname] = xlsx.parse(sheetname)
-            metadata[sheetname].fillna('', inplace=True)
+            metadata[sheetname].replace(np.NaN, '', inplace=True)
 
         # Create individual tables and dictionaries
         self.df_phases = metadata['phases']
@@ -111,11 +111,11 @@ class Disarm:
         self.df_tools = metadata['tools']
         self.df_examples = metadata['examples']
         self.df_counters = metadata['countermeasures'].sort_values('disarm_id')
-        self.df_counters[['tactic_id', 'tactic_name']] = self.df_counters['tactic'].str.split(' ', 1, expand=True)
-        self.df_counters[['metatechnique_id', 'metatechnique_name']] = self.df_counters['metatechnique'].str.split(' ', 1, expand=True)
+        self.df_counters[['tactic_id', 'tactic_name']] = self.df_counters['tactic'].str.split(' ', n=1, expand=True)
+        self.df_counters[['metatechnique_id', 'metatechnique_name']] = self.df_counters['metatechnique'].str.split(' ', n=1, expand=True)
         self.df_detections = metadata['detections']
-        self.df_detections[['tactic_id', 'tactic_name']] = self.df_detections['tactic'].str.split(' ', 1, expand=True)
-#        self.df_detections[['metatechnique_id', 'metatechnique_name']] = self.df_detections['metatechnique'].str.split(' ', 1, expand=True) #FIXIT
+        self.df_detections[['tactic_id', 'tactic_name']] = self.df_detections['tactic'].str.split(' ', n=1, expand=True)
+#        self.df_detections[['metatechnique_id', 'metatechnique_name']] = self.df_detections['metatechnique'].str.split(' ', n=1, expand=True) #FIXIT
         self.df_actortypes = metadata['actortypes']
         self.df_resources = metadata['resources']
         self.df_responsetypes = metadata['responsetypes']
@@ -123,6 +123,7 @@ class Disarm:
         self.it = self.create_incident_technique_crosstable(metadata['incidenttechniques'])
         self.df_tactics = metadata['tactics']
         self.df_playbooks = metadata['playbooks']
+        self.df_sectors = metadata['sectors']
 
         # Add columns containing lists of techniques and counters to the tactics dataframe
         self.df_techniques_per_tactic = self.df_techniques.groupby('tactic_id')['disarm_id'].apply(list).reset_index().rename({'disarm_id':'technique_ids'}, axis=1)
@@ -136,8 +137,10 @@ class Disarm:
         self.techniques  = self.make_object_dictionary(self.df_techniques)
         self.counters    = self.make_object_dictionary(self.df_counters)
         self.metatechniques = self.make_object_dictionary(self.df_metatechniques)
+        self.responsetypes = self.make_object_dictionary(self.df_responsetypes)
         self.actortypes  = self.make_object_dictionary(self.df_actortypes)
         self.resources   = self.make_object_dictionary(self.df_resources)
+        self.sectors     = self.make_object_dictionary(self.df_sectors)
 
         # Create the data table for each framework file
         self.num_tactics = len(self.df_tactics)
@@ -301,7 +304,7 @@ class Disarm:
         resource_counters = self.cross_counterid_resourceid[self.cross_counterid_resourceid['resource_id']==resource_id]
         resource_counters = pd.merge(resource_counters, self.df_counters[['disarm_id', 'name', 'responsetype']])
         row_string = '| [{0} {1}]({2}counters/{0}.md) | {3} |\n'
-        for index, row in actortype_counters.sort_values('disarm_id').iterrows():
+        for index, row in resource_counters.sort_values('disarm_id').iterrows():
             table_string += row_string.format(row['disarm_id'], row['name'], GENERATED_PAGES_FUDGE, row['responsetype'])
         return table_string
 
