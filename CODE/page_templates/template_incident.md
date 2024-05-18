@@ -11,6 +11,8 @@
 * **Found via:** {foundvia}
 
 * **Date added:** {dateadded}
+
+{urls}
  
 {techniques}
 

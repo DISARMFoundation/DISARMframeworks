@@ -209,6 +209,20 @@ class Disarm:
         return incidentstr
 
 
+    def create_incident_urls_string(self, incidentid):
+    
+        urlsstr = '''
+|                    Reference                            |
+'''
+
+        urlsrow = '| [{0}]({0})|\n'
+        incident = self.df_incidents[self.df_incidents['disarm_id']==incidentid]
+        urls_series = incident['urls'].series.str.split(' ',expand=True).explode
+        for u in urls_series:
+            urlsstr += urlsrow.format(u)
+        return urlsstr
+        
+        
     def create_incident_techniques_string(self, incidentid):
 
         techstr = '''
@@ -492,6 +506,7 @@ class Disarm:
                                                tocountry=row['found_in_country'],
                                                foundvia=row['found_via'],
                                                dateadded=row['when_added'],
+                                               urls=self.create_incident_urls_string(row['disarm_id'])),
                                                techniques=self.create_incident_techniques_string(row['disarm_id']))
                 if objecttype == 'actortype':
                     metatext = template.format(type = 'Actor', id=row['disarm_id'], name=row['name'], 
