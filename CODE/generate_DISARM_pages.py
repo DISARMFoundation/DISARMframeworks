@@ -158,6 +158,8 @@ class Disarm:
                                                                   'resources_needed', 'resource', ',')
         self.cross_detectionid_actortypeid = self.create_cross_table(self.df_detections[['disarm_id', 'actortypes']], 
                                                                   'actortypes', 'actortype', ',')
+        self.cross_incidentid_urls = self.create_cross_table(self.df_incidents[['disarm_id', 'urls']], 
+                                                                  'urls', 'url', ' ')        
 
 
     def create_incident_technique_crosstable(self, it_metadata):
@@ -209,6 +211,20 @@ class Disarm:
         return incidentstr
 
 
+    def create_incident_urls_string(self, incidentid):
+    
+        urlsstr = '''
+| Reference(s) |
+| --------- |
+'''
+
+        urlsrow = '| [{0}]({0}) |\n'      
+        incidentid_urls = self.cross_incidentid_urls[self.cross_incidentid_urls['disarm_id']==incidentid]
+        for index, row in incidentid_urls.iterrows():
+            urlsstr += urlsrow.format(row['url_id'])  
+        return urlsstr
+        
+        
     def create_incident_techniques_string(self, incidentid):
 
         techstr = '''
@@ -492,6 +508,7 @@ class Disarm:
                                                tocountry=row['found_in_country'],
                                                foundvia=row['found_via'],
                                                dateadded=row['when_added'],
+                                               urls=self.create_incident_urls_string(row['disarm_id']),
                                                techniques=self.create_incident_techniques_string(row['disarm_id']))
                 if objecttype == 'actortype':
                     metatext = template.format(type = 'Actor', id=row['disarm_id'], name=row['name'], 
