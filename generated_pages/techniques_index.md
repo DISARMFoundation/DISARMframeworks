@@ -32,18 +32,6 @@
 <td>TA15</td>
 </tr>
 <tr>
-<td><a href="techniques/T0009.md">T0009</a></td>
-<td>Create Fake Experts</td>
-<td>Stories planted or promoted in computational propaganda operations often make use of experts fabricated from whole cloth, sometimes specifically for the story itself.</td>
-<td>TA16</td>
-</tr>
-<tr>
-<td><a href="techniques/T0009.001.md">T0009.001</a></td>
-<td>Utilise Academic/Pseudoscientific Justifications</td>
-<td>Utilise Academic/Pseudoscientific Justifications</td>
-<td>TA16</td>
-</tr>
-<tr>
 <td><a href="techniques/T0010.md">T0010</a></td>
 <td>Cultivate Ignorant Agents</td>
 <td>Cultivate propagandists for a cause, the goals of which are not fully comprehended, and who are used cynically by the leaders of the cause. Independent actors use social media and specialised web sites to strategically reinforce and spread messages compatible with their own. Their networks are infiltrated and used by state media disinformation organisations to amplify the state’s own disinformation strategies against target populations. Many are traffickers in conspiracy theories or hoaxes, unified by a suspicion of Western governments and mainstream media. Their narratives, which appeal to leftists hostile to globalism and military intervention and nationalists against immigration, are frequently infiltrated and shaped by state-controlled trolls and altered news items from agencies such as RT and Sputnik. Also know as "useful idiots" or "unwitting agents".</td>
@@ -154,9 +142,7 @@
 <tr>
 <td><a href="techniques/T0039.md">T0039</a></td>
 <td>Bait Influencer</td>
-<td>Influencers are people on social media platforms who have large audiences. 
-
-Threat Actors can try to trick Influencers such as celebrities, journalists, or local leaders who aren’t associated with their campaign into amplifying campaign content. This gives them access to the Influencer’s audience without having to go through the effort of building it themselves, and it helps legitimise their message by associating it with the Influencer, benefitting from their audience’s trust in them.</td>
+<td>Influencers are people on social media platforms who have large audiences.<br /> <br />Threat Actors can try to trick Influencers such as celebrities, journalists, or local leaders who aren’t associated with their campaign into amplifying campaign content. This gives them access to the Influencer’s audience without having to go through the effort of building it themselves, and it helps legitimise their message by associating it with the Influencer, benefitting from their audience’s trust in them.</td>
 <td>TA17</td>
 </tr>
 <tr>
@@ -246,13 +232,7 @@ Threat Actors can try to trick Influencers such as celebrities, journalists, or 
 <tr>
 <td><a href="techniques/T0049.md">T0049</a></td>
 <td>Flood Information Space</td>
-<td>Flooding sources of information (e.g. Social Media feeds) with a high volume of inauthentic content.
-
-This can be done to control/shape online conversations, drown out opposing points of view, or make it harder to find legitimate information. 
-
-Bots and/or patriotic trolls are effective tools to achieve this effect.
-
-This Technique previously used the name Flooding the Information Space.</td>
+<td>Flooding sources of information (e.g. Social Media feeds) with a high volume of inauthentic content.<br /> <br />This can be done to control/shape online conversations, drown out opposing points of view, or make it harder to find legitimate information.<br /> <br />Bots and/or patriotic trolls are effective tools to achieve this effect.<br /> <br />This Technique previously used the name Flooding the Information Space.</td>
 <td>TA17</td>
 </tr>
 <tr>
@@ -264,13 +244,7 @@ This Technique previously used the name Flooding the Information Space.</td>
 <tr>
 <td><a href="techniques/T0049.002.md">T0049.002</a></td>
 <td>Flood Existing Hashtag</td>
-<td>Hashtags can be used by communities to collate information they post about particular topics (such as their interests, or current events) and users can find communities to join by exploring hashtags they’re interested in. 
-
-Threat actors can flood an existing hashtag to try to ruin hashtag functionality, posting content unrelated to the hashtag alongside it, making it a less reliable source of relevant information. They may also try to flood existing hashtags with campaign content, with the intent of maximising exposure to users.
-
-This Technique covers cases where threat actors flood existing hashtags with campaign content.
-
-This Technique covers behaviours previously documented by T0019.002: Hijack Hashtags, which has since been deprecated. This Technique was previously called Hijack Existing Hashtag.</td>
+<td>Hashtags can be used by communities to collate information they post about particular topics (such as their interests, or current events) and users can find communities to join by exploring hashtags they’re interested in.<br /> <br />Threat actors can flood an existing hashtag to try to ruin hashtag functionality, posting content unrelated to the hashtag alongside it, making it a less reliable source of relevant information. They may also try to flood existing hashtags with campaign content, with the intent of maximising exposure to users.<br /> <br />This Technique covers cases where threat actors flood existing hashtags with campaign content.<br /> <br />This Technique covers behaviours previously documented by T0019.002: Hijack Hashtags, which has since been deprecated. This Technique was previously called Hijack Existing Hashtag.</td>
 <td>TA17</td>
 </tr>
 <tr>
@@ -306,13 +280,7 @@ This Technique covers behaviours previously documented by T0019.002: Hijack Hash
 <tr>
 <td><a href="techniques/T0049.008.md">T0049.008</a></td>
 <td>Generate Information Pollution</td>
-<td>Information Pollution occurs when threat actors attempt to ruin a source of information by flooding it with lots of inauthentic or unreliable content, intending to make it harder for legitimate users to find the information they’re looking for. 
-
-This subtechnique's objective is to reduce exposure to target information, rather than promoting exposure to campaign content, for which the parent technique T0049 can be used. 
-
-Analysts will need to infer what the motive for flooding an information space was when deciding whether to use T0049 or T0049.008 to tag a case when an information space is flooded. If such inference is not possible, default to T0049.
-
-This Technique previously used the ID T0019.</td>
+<td>Information Pollution occurs when threat actors attempt to ruin a source of information by flooding it with lots of inauthentic or unreliable content, intending to make it harder for legitimate users to find the information they’re looking for.<br /> <br />This sub-technique’s objective is to reduce exposure to target information, rather than promoting exposure to campaign content, for which the parent Technique T0049 can be used.<br /> <br />Analysts will need to infer what the motive for flooding an information space was when deciding whether to use T0049 or T0049.008 to tag a case when an information space is flooded. If such inference is not possible, default to T0049.<br /> <br />This Technique previously used the ID T0019.</td>
 <td>TA17</td>
 </tr>
 <tr>
@@ -618,7 +586,7 @@ This Technique previously used the ID T0019.</td>
 <tr>
 <td><a href="techniques/T0085.001.md">T0085.001</a></td>
 <td>Develop AI-Generated Text</td>
-<td>AI-generated texts refers to synthetic text composed by computers using text-generating AI technology. Autonomous generation refers to content created by a bot without human input, also known as bot-created content generation. Autonomous generation represents the next step in automation after language generation and may lead to automated journalism. An influence operation may use read fakes or autonomous generation to quickly develop and distribute content to the target audience.</td>
+<td>AI-generated texts refers to synthetic text composed by computers using text-generating AI technology. Autonomous generation refers to content created by a bot without human input, also known as bot-created content generation. Autonomous generation represents the next step in automation after language generation and may lead to automated journalism. An influence operation may use read fakes or autonomous generation to quickly develop and distribute content to the target audience.<br><br><b>Associated Techniques and Sub-techniques:</b><br><b>T0085.008: Machine Translated Text:</b> Use this sub-technique when AI has been used to generate a translation of a piece of text.</td>
 <td>TA06</td>
 </tr>
 <tr>
@@ -636,29 +604,25 @@ This Technique previously used the ID T0019.</td>
 <tr>
 <td><a href="techniques/T0085.005.md">T0085.005</a></td>
 <td>Develop Book</td>
-<td>Produce text content in the form of a book. 
-
-This technique covers both e-books and physical books, however, the former is more easily deployed by threat actors given the lower cost to develop.</td>
+<td>Produce text content in the form of a book. <br /> <br />This technique covers both e-books and physical books, however, the former is more easily deployed by threat actors given the lower cost to develop.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0085.006.md">T0085.006</a></td>
 <td>Develop Opinion Article</td>
-<td>Opinion articles (aka “Op-Eds” or “Editorials”) are articles or regular columns flagged as “opinion” posted to news sources, and can be contributed by people outside the organisation. 
-
-Flagging articles as opinions allow news organisations to distinguish them from the typical expectations of objective news reporting while distancing the presented opinion from the organisation or its employees.
-
-The use of this technique is not by itself an indication of malicious or inauthentic content; Op-eds are a common format in media. However, threat actors exploit op-eds to, for example, submit opinion articles to local media to promote their narratives.
-
-Examples from the perspective of a news site involve publishing op-eds from perceived prestigious voices to give legitimacy to an inauthentic publication, or supporting causes by hosting op-eds from actors aligned with the organisation’s goals.</td>
+<td>Opinion articles (aka “Op-Eds” or “Editorials”) are articles or regular columns flagged as “opinion” posted to news sources, and can be contributed by people outside the organisation. <br /> <br />Flagging articles as opinions allow news organisations to distinguish them from the typical expectations of objective news reporting while distancing the presented opinion from the organisation or its employees.<br /> <br /> The use of this technique is not by itself an indication of malicious or inauthentic content; Op-eds are a common format in media. However, threat actors exploit op-eds to, for example, submit opinion articles to local media to promote their narratives. <br /> <br />Examples from the perspective of a news site involve publishing op-eds from perceived prestigious voices to give legitimacy to an inauthentic publication, or supporting causes by hosting op-eds from actors aligned with the organisation’s goals.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0085.007.md">T0085.007</a></td>
 <td>Create Fake Research</td>
-<td>Create fake academic research. Example: fake social science research is often aimed at hot-button social issues such as gender, race and sexuality. Fake science research can target Climate Science debate or pseudoscience like anti-vaxx.
-
-This Technique previously used the ID T0019.001</td>
+<td>Create fake academic research. Example: fake social science research is often aimed at hot-button social issues such as gender, race and sexuality. Fake science research can target Climate Science debate or pseudoscience like anti-vaxx.<br /> <br />This Technique previously used the ID T0019.001.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0085.008.md">T0085.008</a></td>
+<td>Machine Translated Text</td>
+<td>Text which has been translated into another language using machine translation tools, such as AI.</td>
 <td>TA06</td>
 </tr>
 <tr>
@@ -676,7 +640,7 @@ This Technique previously used the ID T0019.001</td>
 <tr>
 <td><a href="techniques/T0086.002.md">T0086.002</a></td>
 <td>Develop AI-Generated Images (Deepfakes)</td>
-<td>Deepfakes refer to AI-generated falsified photos, videos, or soundbites. An influence operation may use deepfakes to depict an inauthentic situation by synthetically recreating an individual’s face, body, voice, and physical gestures.</td>
+<td>Deepfakes refer to AI-generated falsified photos, videos, or soundbites. An influence operation may use deepfakes to depict an inauthentic situation by synthetically recreating an individual’s face, body, voice, and physical gestures.<br><br> <b>Associated Techniques and Sub-techniques:</b><br> <b>T0145.002: AI-Generated Account Imagery:</b> Analysts should use this sub-technique to document use of AI generated imagery in accounts’ profile pictures or other account imagery.</td>
 <td>TA06</td>
 </tr>
 <tr>
@@ -885,20 +849,140 @@ This Technique previously used the ID T0019.001</td>
 </tr>
 <tr>
 <td><a href="techniques/T0097.md">T0097</a></td>
-<td>Create Personas</td>
-<td>Creating fake people, often with accounts across multiple platforms. These personas can be as simple as a name, can contain slightly more background like location, profile pictures, backstory, or can be effectively backstopped with indicators like fake identity documents.</td>
+<td>Present Persona</td>
+<td>This Technique contains different types of personas commonly taken on by threat actors during influence operations.<br><br>Analysts should use T0097’s sub-techniques to document the type of persona which an account is presenting. For example, an account which describes itself as being a journalist can be tagged with T0097.102: Journalist Persona.<br><br>Personas presented by individuals include:<br><br>T0097.100: Individual Persona<br>T0097.101: Local Persona<br>T0097.102: Journalist Persona<br>T0097.103: Activist Persona<br>T0097.104: Hacktivist Persona<br>T0097.105: Military Personnel Persona<br>T0097.106: Recruiter Persona<br>T0097.107: Researcher Persona<br>T0097.108: Expert Persona<br>T0097.109: Romantic Suitor Persona<br>T0097.110: Party Official Persona<br>T0097.111: Government Official Persona<br>T0097.112: Government Employee Persona<br><br>This Technique also houses institutional personas commonly taken on by threat actors:<br><br>T0097.200: Institutional Persona<br>T0097.201: Local Institution Persona<br>T0097.202: News Outlet Persona<br>T0097.203: Fact Checking Organisation Persona<br>T0097.204: Think Tank Persona<br>T0097.205: Business Persona<br>T0097.206: Government Institution Persona<br>T0097.207: NGO Persona<br>T0097.208: Social Cause Persona<br><br>By using a persona, a threat actor is adding the perceived legitimacy of the persona to their narratives and activities.</td>
 <td>TA16</td>
 </tr>
 <tr>
-<td><a href="techniques/T0097.001.md">T0097.001</a></td>
-<td>Produce Evidence for Persona</td>
-<td>People may produce evidence which supports the persona they are deploying (T0097) (aka “backstopping” the persona).
-
-This Technique covers situations where evidence is developed or produced as part of an influence operation to increase the perceived legitimacy of a persona used during IO, including creating accounts for the same persona on multiple platforms.
-
-The use of personas (T0097), and providing evidence to improve people’s perception of one’s persona (T0097.001), are not necessarily malicious or inauthentic. However, sometimes people use personas to increase the perceived legitimacy of narratives for malicious purposes.
-
-This Technique was previously called Backstop Personas.</td>
+<td><a href="techniques/T0097.100.md">T0097.100</a></td>
+<td>Individual Persona</td>
+<td>This sub-technique can be used to indicate that an entity is presenting itself as an individual. If the person is presenting themselves as having one of the personas listed below then these sub-techniques should be used instead, as they indicate both the type of persona they presented and that the entity presented itself as an individual:<br><br>T0097.101: Local Persona<br>T0097.102: Journalist Persona<br>T0097.103: Activist Persona<br>T0097.104: Hacktivist Persona<br>T0097.105: Military Personnel Persona<br>T0097.106: Recruiter Persona<br>T0097.107: Researcher Persona<br>T0097.108: Expert Persona<br>T0097.109: Romantic Suitor Persona<br>T0097.110: Party Official Persona<br>T0097.111: Government Official Persona<br>T0097.112: Government Employee Persona</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.101.md">T0097.101</a></td>
+<td>Local Persona</td>
+<td>A person with a local persona presents themselves as living in a particular geography or having local knowledge relevant to a narrative.<br><br>While presenting as a local is not an indication of inauthentic behaviour,  an influence operation may have its narratives amplified by people presenting as local to a target area. Threat actors can fabricate locals (T0143.002: Fabricated Persona, T0097.101: Local Persona) to add credibility to their narratives, or to misrepresent the real opinions of locals in the area.<br><br>People who are legitimate locals (T0143.001: Authentic Persona, T0097.101: Local Persona) can use their persona for malicious purposes, or be exploited by threat actors. For example, someone could take money for using their position as a local to provide legitimacy to a false narrative or be tricked into doing so without their knowledge.<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0097.201: Local Institution Persona:</b> Analysts should use this sub-technique to catalogue cases where an institution is presenting as a local, such as a local news organisation or local business.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.102.md">T0097.102</a></td>
+<td>Journalist Persona</td>
+<td>A person with a journalist persona presents themselves as a reporter or journalist delivering news, conducting interviews, investigations etc.<br><br>While presenting as a journalist is not an indication of inauthentic behaviour, an influence operation may have its narratives amplified by people presenting as journalists. Threat actors can fabricate journalists to give the appearance of legitimacy, justifying the actor’s requests for interviews, etc (T0143.002: Fabricated Persona, T0097.102: Journalist Persona).<br><br>People who have legitimately developed a persona as a journalist (T0143.001: Authentic Persona, T0097.102: Journalist Persona) can use it for malicious purposes, or be exploited by threat actors. For example, someone could take money for using their position as a trusted journalist to provide legitimacy to a false narrative or be tricked into doing so without the journalist’s knowledge.<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0097.202: News Organisation Persona:</b> People with a journalist persona may present as being part of a news organisation.<br><b>T0097.101: Local Persona:</b> People with a journalist persona may present themselves as local reporters.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.103.md">T0097.103</a></td>
+<td>Activist Persona</td>
+<td>A person with an activist persona presents themselves as an activist; an individual who campaigns for a political cause, organises related events, etc.<br><br>While presenting as an activist is not an indication of inauthentic behaviour, an influence operation may have its narratives amplified by people presenting as activists. Threat actors can fabricate activists to give the appearance of popular support for an evolving grassroots movement (see T0143.002: Fabricated Persona, T0097.103: Activist Persona).<br><br>People who are legitimate activists can use this persona for malicious purposes, or be exploited by threat actors. For example, someone could take money for using their position as an activist to provide visibility to a false narrative or be tricked into doing so without their knowledge (T0143.001: Authentic Persona, T0097.103: Activist Persona).<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0097.104: Hacktivist Persona:</b> Analysts should use this sub-technique to catalogue cases where an individual is presenting themselves as someone engaged in activism who uses technical tools and methods, including building technical infrastructure and conducting offensive cyber operations, to achieve their goals.<br><b>T0097.207: NGO Persona:</b> People with an activist persona may present as being part of an NGO.<br><b>T0097.208: Social Cause Persona:</b> Analysts should use this sub-technique to catalogue cases where an online account is presenting as posting content related to a particular social cause, while not presenting as an individual.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.104.md">T0097.104</a></td>
+<td>Hacktivist Persona</td>
+<td>A person with a hacktivist persona presents themselves as an activist who conducts offensive cyber operations or builds technical infrastructure for political purposes, rather than the financial motivations commonly attributed to hackers; hacktivists are hacker activists who use their technical knowledge to take political action.<br><br>Hacktivists can build technical infrastructure to support other activists, including secure communication channels and surveillance and censorship circumvention. They can also conduct DDOS attacks and other offensive cyber operations, aiming to take down digital assets or gain access to proprietary information. An influence operation may use hacktivist personas to support their operational narratives and legitimise their operational activities.<br><br>Fabricated Hacktivists are sometimes referred to as “Faketivists”.<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0097.103: Activist Persona:</b> Analysts should use this sub-technique to catalogue cases where an individual is presenting themselves as someone engaged in activism but doesn’t present themselves as using technical tools and methods to achieve their goals.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.105.md">T0097.105</a></td>
+<td>Military Personnel Persona</td>
+<td>A person with a military personnel persona presents themselves as a serving member or veteran of a military organisation operating in an official capacity on behalf of a government.<br><br>While presenting as military personnel is not an indication of inauthentic behaviour,  an influence operation may have its narratives amplified by people presenting as military personnel. Threat actors can fabricate military personnel (T0143.002: Fabricated Persona, T0097.105: Military Personnel Persona) to pose as experts on military topics, or to discredit geopolitical adversaries by pretending to be one of their military personnel and spreading discontent.<br><br>People who have legitimately developed a military persona (T0143.001: Authentic Persona, T0097.105: Military Personnel Persona) can use it for malicious purposes, or be exploited by threat actors. For example, someone could take money for using their position as a member of the military to provide legitimacy to a false narrative or be tricked into doing so without their knowledge.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.106.md">T0097.106</a></td>
+<td>Recruiter Persona</td>
+<td>A person with a recruiter persona presents themselves as a potential employer or provider of freelance work.<br><br>While presenting as a recruiter is not an indication of inauthentic behaviour, threat actors fabricate recruiters (T0143.002: Fabricated Persona, T0097.106: Recruiter Persona) to justify asking for personal information from their targets or to trick targets into working for the threat actors (without revealing who they are).<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0097.205: Business Persona:</b> People with a recruiter persona may present as being part of a business which they are recruiting for.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.107.md">T0097.107</a></td>
+<td>Researcher Persona</td>
+<td>A person with a researcher persona presents themselves as conducting research (e.g. for academic institutions, or think tanks), or having previously conducted research.<br><br>While presenting as a researcher is not an indication of inauthentic behaviour,  an influence operation may have its narratives amplified by people presenting as researchers. Threat actors can fabricate researchers (T0143.002: Fabricated Persona, T0097.107: Researcher Persona) to add credibility to their narratives.<br><br>People who are legitimate researchers (T0143.001: Authentic Persona, T0097.107: Researcher Persona) can use their persona for malicious purposes, or be exploited by threat actors. For example, someone could take money for using their position as a Researcher to provide legitimacy to a false narrative or be tricked into doing so without their knowledge.<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0097.204: Think Tank Persona:</b> People with a researcher persona may present as being part of a think tank.<br><b>T0097.108: Expert Persona:</b> People who present as researching a given topic are likely to also present as having expertise in the area.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.108.md">T0097.108</a></td>
+<td>Expert Persona</td>
+<td>A person with an expert persona presents themselves as having expertise or experience in a field. Commonly the persona’s expertise will be called upon to add credibility to a given narrative.<br><br>While presenting as an expert is not an indication of inauthentic behaviour,  an influence operation may have its narratives amplified by people presenting as experts. Threat actors can fabricate experts (T0143.002: Fabricated Persona, T0097.107: Researcher Persona) to add credibility to their narratives.<br><br>People who are legitimate experts (T0143.001: Authentic Persona, T0097.107: Researcher Persona) can make mistakes, use their persona for malicious purposes, or be exploited by threat actors. For example, someone could take money for using their position as an expert to provide legitimacy to a false narrative or be tricked into doing so without their knowledge.<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0097.107: Researcher Persona:</b> People who present as experts may also present as conducting or having conducted research into their specialist subject.<br><b>T0097.204: Think Tank Persona:</b> People with an expert persona may present as being part of a think tank.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.109.md">T0097.109</a></td>
+<td>Romantic Suitor Persona</td>
+<td>A person with a romantic suitor persona presents themselves as seeking a romantic or physical connection with another person.<br><br>While presenting as seeking a romantic or physical connection is not an indication of inauthentic behaviour, threat actors can use dating apps, social media channels or dating websites to fabricate romantic suitors to lure targets they can blackmail, extract information from, deceive or trick into giving them money (T0143.002: Fabricated Persona, T0097.109: Romantic Suitor Persona).<br><br>Honeypotting in espionage and Big Butchering in scamming are commonly associated with romantic suitor personas.<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0104.002: Dating App:</b> Analysts can use this sub-technique for tagging cases where an account has been identified as using a dating platform.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.110.md">T0097.110</a></td>
+<td>Party Official Persona</td>
+<td>A person who presents as an official member of a political party, such as leaders of political parties, candidates standing to represent constituents, and campaign staff.<br><br>Presenting as an official of a political party is not an indication of inauthentic behaviour, however threat actors may fabricate individuals who work in political parties to add credibility to their narratives (T0143.002: Fabricated Persona, T0097.110: Party Official Persona). They may also impersonate existing officials of political parties (T0143.003: Impersonated Persona, T0097.110: Party Official Persona).<br><br>Legitimate members of political parties could use their persona for malicious purposes, or be exploited by threat actors (T0143.001: Authentic Persona, T0097.110: Party Official Persona). For example, an electoral candidate could take money for using their position to provide legitimacy to a false narrative, or be tricked into doing so without their knowledge.<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0097.111: Government Official Persona:</b> Analysts should use this sub-technique to catalogue cases where an individual is presenting as a member of a government. <br><br>Some party officials will also be government officials. For example, in the United Kingdom the head of government is commonly also the head of their political party.<br><br>Some party officials won’t be government officials. For example, members of a party standing in an election, or party officials who work outside of government (e.g. campaign staff).</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.111.md">T0097.111</a></td>
+<td>Government Official Persona</td>
+<td>A person who presents as an active or previous government official has the government official persona. These are officials serving in government, such as heads of government departments, leaders of countries, and members of government selected to represent constituents.<br><br> Presenting as a government official is not an indication of inauthentic behaviour, however threat actors may fabricate individuals who work in government to add credibility to their narratives (T0143.002: Fabricated Persona, T0097.111: Government Official Persona). They may also impersonate existing members of government (T0143.003: Impersonated Persona, T0097.111: Government Official Persona).<br><br> Legitimate government officials could use their persona for malicious purposes, or be exploited by threat actors (T0143.001: Authentic Persona, T0097.111: Government Official Persona). For example, a government official could take money for using their position to provide legitimacy to a false narrative, or be tricked into doing so without their knowledge.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097.110: Party Official Persona: Analysts should use this sub-technique to catalogue cases where an individual is presenting as a member of a political party. <br><br> Not all government officials are political party officials (such as outside experts brought into government) and not all political party officials are government officials (such as people standing for office who are not yet working in government).<br><br> <b>T0097.206: Government Institution Persona:</b> People presenting as members of a government may also represent a government institution which they are associated with.<br><br> <b>T0097.112: Government Employee Persona:</b> Analysts should use this sub-technique to document people presenting as professionals hired to serve in government institutions and departments, not officials selected to represent constituents, or assigned official roles in government (such as heads of departments).</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.112.md">T0097.112</a></td>
+<td>Government Employee Persona</td>
+<td>A person who presents as an active or previous civil servant has the government employee persona. These are professionals hired to serve in government institutions and departments, not officials selected to represent constituents, or assigned official roles in government (such as heads of departments).<br><br> Presenting as a government employee is not an indication of inauthentic behaviour, however threat actors may fabricate individuals who work in government to add credibility to their narratives (T0143.002: Fabricated Persona, T0097.112: Government Employee Persona). They may also impersonate existing government employees (T0143.003: Impersonated Persona, T0097.112: Government Employee Persona).<br><br> Legitimate government employees could use their persona for malicious purposes, or be exploited by threat actors (T0143.001: Authentic Persona, T0097.112: Government Employee Persona). For example, a government employee could take money for using their position to provide legitimacy to a false narrative, or be tricked into doing so without their knowledge.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097.111: Government Official Persona:</b> Analysts should use this technique to document people who present as an active or previous government official, such as heads of government departments, leaders of countries, and members of government selected to represent constituents.<br> <b>T0097.206: Government Institution Persona:</b> People presenting as members of a government may also present a government institution which they are associated with.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.200.md">T0097.200</a></td>
+<td>Institutional Persona</td>
+<td>This Technique can be used to indicate that an entity is presenting itself as an institution. If the organisation is presenting itself as having one of the personas listed below then these Techniques should be used instead, as they indicate both that the entity presented itself as an institution, and the type of persona they presented:<br><br> T0097.201: Local Institution Persona<br> T0097.202: News Outlet Persona<br> T0097.203: Fact Checking Organisation Persona<br> T0097.204: Think Tank Persona<br> T0097.205: Business Persona<br> T0097.206: Government Institution Persona<br> T0097.207: NGO Persona<br> T0097.208: Social Cause Persona</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.201.md">T0097.201</a></td>
+<td>Local Institution Persona</td>
+<td>Institutions which present themselves as operating in a particular geography, or as having local knowledge relevant to a narrative, are presenting a local institution persona.<br><br> While presenting as a local institution is not an indication of inauthentic behaviour, threat actors may present themselves as such (T0143.002: Fabricated Persona, T0097.201: Local Institution Persona) to add credibility to their narratives, or misrepresent the real opinions of locals in the area.<br><br> Legitimate local institutions could use their persona for malicious purposes, or be exploited by threat actors (T0143.001: Authentic Persona, T0097.201: Local Institution Persona). For example, a local institution could take money for using their position to provide legitimacy to a false narrative, or be tricked into doing so without their knowledge.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097.101: Local Persona:</b> Institutions presenting as local may also present locals working within the organisation.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.202.md">T0097.202</a></td>
+<td>News Outlet Persona</td>
+<td>An institution with a news outlet persona presents itself as an organisation which delivers new information to its target audience.<br><br> While presenting as a news outlet is not an indication of inauthentic behaviour, an influence operation may have its narratives amplified by news organisations. Threat actors can fabricate news organisations (T0143.002: Fabricated Persona, T0097.202: News Outlet Persona), or they can impersonate existing news outlets (T0143.003: Impersonated Persona, T0097.202: News Outlet Persona).<br><br> Legitimate news organisations could use their persona for malicious purposes, or be exploited by threat actors (T0143.001: Authentic Persona, T0097.202: News Outlet Persona).<br><br> <b>Associated Techniques and Sub-techniques</b></br> <b>T0097.102: Journalist Persona:</b> Institutions presenting as news outlets may also present journalists working within the organisation.<br> <b>T0097.201: Local Institution Persona:</b> Institutions presenting as news outlets may present as being a local news outlet.<br> <b>T0097.203: Fact Checking Organisation Persona:</b> Institutions presenting as news outlets may also deliver a fact checking service (e.g. The UK’s BBC News has the fact checking service BBC Verify). When an actor presents as the fact checking arm of a news outlet, they are presenting both a News Outlet Persona and a Fact Checking Organisation Persona.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.203.md">T0097.203</a></td>
+<td>Fact Checking Organisation Persona</td>
+<td>An institution with a fact checking organisation persona presents itself as an organisation which produces reports which assess the validity of others’ reporting / statements.<br><br> While presenting as a fact checking organisation is not an indication of inauthentic behaviour, an influence operation may have its narratives amplified by fact checking organisations. Threat actors can fabricate fact checking organisations (T0143.002: Fabricated Persona, T0097.202: News Outlet Persona), or they can impersonate existing fact checking outlets (T0143.003: Impersonated Persona, T0097.202: News Outlet Persona).<br><br> Legitimate fact checking organisations could use their persona for malicious purposes, or be exploited by threat actors (T0143.001: Authentic Persona, T0097.202: News Outlet Persona).<br><br> <b>Associated Techniques and Sub-techniques</b></br> <b>T0097.102: Journalist Persona:</b> Institutions presenting as fact checking organisations may also present journalists working within the organisation.<br> <b>T0097.202: News Outlet Persona:</b> Fact checking organisations may present as operating as part of a larger news outlet (e.g. The UK’s BBC News has the fact checking service BBC Verify). When an actor presents as the fact checking arm of a news outlet, they are presenting both a News Outlet Persona and a Fact Checking Organisation Persona.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.204.md">T0097.204</a></td>
+<td>Think Tank Persona</td>
+<td>An institution with a think tank persona presents itself as a think tank; an organisation that aims to conduct original research and propose new policies or solutions, especially for social and scientific problems.<br><br> While presenting as a think tank is not an indication of inauthentic behaviour, think tank personas are commonly used by threat actors as a front for their operational activity (T0143.002: Fabricated Persona, T0097.204: Think Tank Persona). They may be created to give legitimacy to narratives and allow them to suggest politically beneficial solutions to societal issues.<br><br> Legitimate think tanks could have a political bias that they may not be transparent about, they could use their persona for malicious purposes, or they could be exploited by threat actors (T0143.001: Authentic Persona, T0097.204: Think Tank Persona). For example, a think tank could take money for using their position to provide legitimacy to a false narrative, or be tricked into doing so without their knowledge.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097.107: Researcher Persona:</br> Institutions presenting as think tanks may also present researchers working within the organisation.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.205.md">T0097.205</a></td>
+<td>Business Persona</td>
+<td>An institution with a business persona presents itself as a for-profit organisation which provides goods or services for a price.<br><br> While presenting as a business is not an indication of inauthentic behaviour, business personas may be used by threat actors as a front for their operational activity (T0143.002: Fabricated Persona, T0097.205: Business Persona).<br><br> Threat actors may also impersonate existing businesses (T0143.003: Impersonated Persona, T0097.205: Business Persona) to exploit their brand or cause reputational damage.<br><br> Legitimate businesses could use their persona for malicious purposes, or be exploited by threat actors (T0143.001: Authentic Persona, T0097.205: Business Persona). For example, a business could take money for using their position to provide legitimacy to a false narrative, or be tricked into doing so without their knowledge.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.206.md">T0097.206</a></td>
+<td>Government Institution Persona</td>
+<td>Institutions which present themselves as governments, or government ministries, are presenting a government institution persona.<br><br> While presenting as a government institution is not an indication of inauthentic behaviour, threat actors may impersonate existing government institutions as part of their operation (T0143.003: Impersonated Persona, T0097.206: Government Institution Persona), to add legitimacy to their narratives, or discredit the government.<br><br> Legitimate government institutions could use their persona for malicious purposes, or be exploited by threat actors (T0143.001: Authentic Persona, T0097.206: Government Institution Persona). For example, a government institution could be used by elected officials to spread inauthentic narratives.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097.111: Government Official Persona:</b> Institutions presenting as governments may also present officials working within the organisation.<br> <b>T0097.112: Government Employee Persona:</b> Institutions presenting as governments may also present employees working within the organisation.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.207.md">T0097.207</a></td>
+<td>NGO Persona</td>
+<td>Institutions which present themselves as an NGO (Non-Governmental Organisation), an organisation which provides services or advocates for public policy (while not being directly affiliated with any government), are presenting an NGO persona.<br><br> While presenting as an NGO is not an indication of inauthentic behaviour, NGO personas are commonly used by threat actors (such as intelligence services) as a front for their operational activity (T0143.002: Fabricated Persona, T0097.207: NGO Persona). They are created to give legitimacy to the influence operation and potentially infiltrate grassroots movements<br><br> Legitimate NGOs could use their persona for malicious purposes, or be exploited by threat actors (T0143.001: Authentic Persona, T0097.207: NGO Persona). For example, an NGO could take money for using their position to provide legitimacy to a false narrative, or be tricked into doing so without their knowledge.<br><br> <b>Associated Techniques and Sub-techniques:</b><br> <b>T0097.103: Activist Persona:</b> Institutions presenting as activist groups may also present activists working within the organisation.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0097.208.md">T0097.208</a></td>
+<td>Social Cause Persona</td>
+<td>Online accounts which present themselves as focusing on a social cause are presenting the Social Cause Persona. Examples include accounts which post about current affairs, such as discrimination faced by minorities.<br><br> While presenting as an account invested in a social cause is not an indication of inauthentic behaviour, such personas have been used by threat actors to exploit peoples’ legitimate emotional investment regarding social causes that matter to them (T0143.002: Fabricated Persona, T0097.208: Social Cause Persona).<br><br> Legitimate accounts focused on a social cause could use their persona for malicious purposes, or be exploited by threat actors (T0143.001: Authentic Persona, T0097.208: Social Cause Persona). For example, the account holders could take money for using their position to provide legitimacy to a false narrative, or be tricked into doing so without their knowledge.<br><br> <b>Associated Techniques and Sub-techniques:</b><br> <b>T0097.103: Activist Persona:</b> Analysts should use this sub-technique to catalogue cases where an individual is presenting themselves as an activist related to a social cause. Accounts with social cause personas do not present themselves as individuals, but may have activists controlling the accounts.</td>
 <td>TA16</td>
 </tr>
 <tr>
@@ -917,52 +1001,6 @@ This Technique was previously called Backstop Personas.</td>
 <td><a href="techniques/T0098.002.md">T0098.002</a></td>
 <td>Leverage Existing Inauthentic News Sites</td>
 <td>Leverage Existing Inauthentic News Sites</td>
-<td>TA16</td>
-</tr>
-<tr>
-<td><a href="techniques/T0099.md">T0099</a></td>
-<td>Impersonate Existing Entity</td>
-<td>An influence operation may prepare assets impersonating existing entities (both organisations and people) to further conceal its network identity and add a layer of legitimacy to its operation content. Existing entities may include authentic news outlets, public figures, organisations, or state entities. 
-
-Users will more likely believe and less likely fact-check news from recognisable sources rather than unknown sites. 
-
-An influence operation may use a wide variety of cyber techniques to impersonate a legitimate entity’s website or social media account. 
-
-This Technique was previously called Prepare Assets Impersonating Legitimate Entities.</td>
-<td>TA16</td>
-</tr>
-<tr>
-<td><a href="techniques/T0099.002.md">T0099.002</a></td>
-<td>Spoof/Parody Account/Site</td>
-<td>An influence operation may prepare assets impersonating legitimate entities to further conceal its network identity and add a layer of legitimacy to its operation content. Users will more likely believe and less likely fact-check news from recognisable sources rather than unknown sites. Legitimate entities may include authentic news outlets, public figures, organisations, or state entities.</td>
-<td>TA16</td>
-</tr>
-<tr>
-<td><a href="techniques/T0099.003.md">T0099.003</a></td>
-<td>Impersonate Existing Organisation</td>
-<td>A situation where a threat actor styles their online assets or content to mimic an existing organisation.
-
-This can be done to take advantage of peoples’ trust in the organisation to increase narrative believability, to smear the organisation, or to make the organisation less trustworthy.</td>
-<td>TA16</td>
-</tr>
-<tr>
-<td><a href="techniques/T0099.004.md">T0099.004</a></td>
-<td>Impersonate Existing Media Outlet</td>
-<td>A situation where a threat actor styles their online assets or content to mimic an existing media outlet.
-
-This can be done to take advantage of peoples’ trust in the outlet to increase narrative believability, to smear the outlet, or to make the outlet less trustworthy.</td>
-<td>TA16</td>
-</tr>
-<tr>
-<td><a href="techniques/T0099.005.md">T0099.005</a></td>
-<td>Impersonate Existing Official</td>
-<td>A situation where a threat actor styles their online assets or content to impersonate an official (including government officials, organisation officials, etc).</td>
-<td>TA16</td>
-</tr>
-<tr>
-<td><a href="techniques/T0099.006.md">T0099.006</a></td>
-<td>Impersonate Existing Influencer</td>
-<td>A situation where a threat actor styles their online assets or content to impersonate an influencer or celebrity, typically to exploit users’ existing faith in the impersonated target.</td>
 <td>TA16</td>
 </tr>
 <tr>
@@ -1052,11 +1090,7 @@ This can be done to take advantage of peoples’ trust in the outlet to increase
 <tr>
 <td><a href="techniques/T0104.002.md">T0104.002</a></td>
 <td>Dating App</td>
-<td>“Dating App” refers to any platform (or platform feature) in which the ostensive purpose is for users to develop a physical/romantic relationship with other users.
-
-Threat Actors can exploit users’ quest for love to trick them into doing things like revealing sensitive information or giving them money.
-
-Examples include Tinder, Bumble, Grindr, Facebook Dating, Tantan, Badoo, Plenty of Fish, hinge, LOVOO, OkCupid, happn, and Mamba.</td>
+<td>“Dating App” refers to any platform (or platform feature) in which the ostensive purpose is for users to develop a physical/romantic relationship with other users.<br /> <br />Threat Actors can exploit users’ quest for love to trick them into doing things like revealing sensitive information or giving them money.<br /> <br />Examples include Tinder, Bumble, Grindr, Facebook Dating, Tantan, Badoo, Plenty of Fish, hinge, LOVOO, OkCupid, happn, and Mamba.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097.109: Romantic Suitor Persona:</b> Analysts can use this sub-technique for tagging cases where an account presents itself as seeking a romantic or physical connection with another person.</td>
 <td>TA07</td>
 </tr>
 <tr>
@@ -1842,33 +1876,109 @@ Examples include Tinder, Bumble, Grindr, Facebook Dating, Tantan, Badoo, Plenty 
 <tr>
 <td><a href="techniques/T0141.001.md">T0141.001</a></td>
 <td>Acquire Compromised Account</td>
-<td>Threat Actors can take over existing users’ accounts to distribute campaign content. 
-
-The actor may maintain the asset’s previous identity to capitalise on the perceived legitimacy its previous owner had cultivated.
-
-The actor may completely rebrand the account to exploit its existing reach, or relying on the account’s history to avoid more stringent automated content moderation rules applied to new accounts.
-
-See also [Mitre ATT&CK’s T1586 Compromise Accounts](https://attack.mitre.org/techniques/T1586/) for more technical information on how threat actors may achieve this objective.
-
-This Technique was previously called Compromise Legitimate Accounts, and used the ID T0011.</td>
+<td>Threat Actors can take over existing users’ accounts to distribute campaign content.<br /> <br />The actor may maintain the asset’s previous identity to capitalise on the perceived legitimacy its previous owner had cultivated.<br /> <br />The actor may completely rebrand the account to exploit its existing reach, or relying on the account’s history to avoid more stringent automated content moderation rules applied to new accounts.<br /> <br />See also [Mitre ATT&CK’s T1586 Compromise Accounts](https://attack.mitre.org/techniques/T1586/) for more technical information on how threat actors may achieve this objective.<br /> <br />This Technique was previously called Compromise Legitimate Accounts, and used the ID T0011.</td>
 <td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0141.002.md">T0141.002</a></td>
 <td>Acquire Compromised Website</td>
-<td>Threat Actors may take over existing websites to publish or amplify inauthentic narratives. This includes the defacement of websites, and cases where websites’ personas are maintained to add credence to threat actors’ narratives.
-
-See also [Mitre ATT&CK’s T1584 Compromise Infrastructure](https://attack.mitre.org/techniques/T1584/) for more technical information on how threat actors may achieve this objective.</td>
+<td>Threat Actors may take over existing websites to publish or amplify inauthentic narratives. This includes the defacement of websites, and cases where websites’ personas are maintained to add credence to threat actors’ narratives.<br /> <br />See also [Mitre ATT&CK’s T1584 Compromise Infrastructure](https://attack.mitre.org/techniques/T1584/) for more technical information on how threat actors may achieve this objective.</td>
 <td>TA15</td>
 </tr>
 <tr>
-<td><a href="techniques/T0142.md">T0142</a></td>
-<td>Fabricate Grassroots Movement</td>
-<td>This technique, sometimes known as "astroturfing", occurs when an influence operation disguises itself as a grassroots movement or organisation that supports operation narratives. 
-
-Astroturfing aims to increase the appearance of popular support for an evolving grassroots movement in contrast to "Utilise Butterfly Attacks", which aims to discredit an existing grassroots movement. 
-
-This Technique was previously called Astroturfing, and used the ID T0099.001</td>
+<td><a href="techniques/T0143.md">T0143</a></td>
+<td>Persona Legitimacy</td>
+<td>This Technique contains sub-techniques which analysts can use to assert whether an account is presenting an authentic, fabricated, or parody persona:<br><br> T0143.001: Authentic Persona<br> T0143.002: Fabricated Persona<br> T0143.003: Impersonated Persona<br> T0143.004: Parody Persona</td>
 <td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0143.001.md">T0143.001</a></td>
+<td>Authentic Persona</td>
+<td>An individual or institution presenting a persona that legitimately matches who or what they are is presenting an authentic persona.<br><br> For example, an account which presents as being managed by a member of a country’s military, and is legitimately managed by that person, would be presenting an authentic persona (T0143.001: Authentic Persona, T0097.105: Military Personnel).<br><br> Sometimes people can authentically present themselves as who they are while still participating in malicious/inauthentic activity; a legitimate journalist (T0143.001: Authentic Persona, T0097.102: Journalist Persona) may accept bribes to promote products, or they could be tricked by threat actors into sharing an operation’s narrative.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0143.002.md">T0143.002</a></td>
+<td>Fabricated Persona</td>
+<td>An individual or institution pretending to have a persona without any legitimate claim to that persona is presenting a fabricated persona, such as a person who presents themselves as a member of a country’s military without having worked in any capacity with the military (T0143.002: Fabricated Persona, T0097.105: Military Personnel).<br><br> Sometimes real people can present entirely fabricated personas; they can use real names and photos on social media while also pretending to have credentials or traits they don’t have in real life.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0143.003.md">T0143.003</a></td>
+<td>Impersonated Persona</td>
+<td>Threat actors may impersonate existing individuals or institutions to conceal their network identity, add legitimacy to content, or harm the impersonated target’s reputation. This Technique covers situations where an actor presents themselves as another existing individual or institution.<br><br> This Technique was previously called Prepare Assets Impersonating Legitimate Entities and used the ID T0099.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097: Presented Persona:</b> Analysts can use the sub-techniques of T0097: Presented Persona to categorise the type of impersonation. For example, a document developed by a threat actor which falsely presented as a letter from a government department could be documented using T0085.004: Develop Document, T0143.003: Impersonated Persona, and T0097.206: Government Institution Persona.<br> <b>T0145.001: Copy Account Imagery:</b> Actors may take existing accounts’ profile pictures as part of their impersonation efforts.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0143.004.md">T0143.004</a></td>
+<td>Parody Persona</td>
+<td>Parody is a form of artistic expression that imitates the style or characteristics of a particular work, genre, or individual in a humorous or satirical way, often to comment on or critique the original work or subject matter. People may present as parodies to create humour or make a point by exaggerating or altering elements of the original, while still maintaining recognizable elements.<br><br> The use of parody is not an indication of inauthentic or malicious behaviour; parody allows people to present ideas or criticisms in a comedic or exaggerated manner, softening the impact of sensitive or contentious topics. Because parody is often protected as a form of free speech or artistic expression, it provides a legal and social framework for discussing controversial issues.<br><br> However, parody personas may be perceived as authentic personas, leading to people mistakenly believing that a parody account’s statements represent the real opinions of a parodied target. Threat actors may also use the guise of parody to spread campaign content. Parody personas may disclaim that they are operating as a parody, however this is not always the case, and is not always given prominence.<br><br> <b>Associated Techniques and Sub-techniques</b> <b>T0097: Presented Persona: </b>Analysts can use the sub-techniques of T0097: Presented Persona to categorise the type of parody. For example, an account presenting as a parody of a business could be documented using T0097.205: Business Persona and T0143.003: Parody Persona.<br> <b>T0145.001: Copy Account Imagery:</b> Actors may take existing accounts’ profile pictures as part of their parody efforts.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0144.md">T0144</a></td>
+<td>Persona Legitimacy Evidence</td>
+<td>This Technique contains behaviours which might indicate whether a persona is legitimate, a fabrication, or a parody.<br><br> For example, the same persona being consistently presented across platforms is consistent with how authentic users behave on social media. However, threat actors have also displayed this behaviour as a way to increase the perceived legitimacy of their fabricated personas (aka “backstopping”).</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0144.001.md">T0144.001</a></td>
+<td>Present Persona across Platforms</td>
+<td>This sub-technique covers situations where analysts have identified the same persona being presented across multiple platforms.<br><br> Having multiple accounts presenting the same persona is not an indicator of inauthentic behaviour; many people create accounts and present as themselves on multiple platforms. However, threat actors are known to present the same persona across multiple platforms, benefiting from an increase in perceived legitimacy.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0144.002.md">T0144.002</a></td>
+<td>Persona Template</td>
+<td>Threat actors have been observed following a template when filling their accounts’ online profiles. This may be done to enable account holders to quickly present themselves as a real person with a targeted persona.<br><br> For example, an actor may be instructed to create many fabricated local accounts for use in an operation using a template of “[flag emojis], [location], [personal quote], [political party] supporter” in their account’s description.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0143.002: Fabricated Persona:</b> The use of a templated account biography in a collection of accounts may be an indicator that the personas have been fabricated.</td>
+<td>TA16</td>
+</tr>
+<tr>
+<td><a href="techniques/T0145.md">T0145</a></td>
+<td>Establish Account Imagery</td>
+<td>Introduce visual elements to an account where a platform allows this functionality (e.g. a profile picture, a cover photo, etc). <br><br> Threat Actors who don’t want to use pictures of themselves in their social media accounts may use alternate imagery to make their account appear more legitimate.</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="techniques/T0145.001.md">T0145.001</a></td>
+<td>Copy Account Imagery</td>
+<td>Account imagery copied from an existing account.<br><br> Analysts may use reverse image search tools to try to identify previous uses of account imagery (e.g. a profile picture) by other accounts.<br><br> Threat Actors have been known to copy existing accounts’ imagery to impersonate said accounts, or to provide imagery for unrelated accounts which aren’t intended to impersonate the original assets’ owner.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0143.003: Impersonated Persona:</b> Actors may copy existing accounts’ imagery in an attempt to impersonate them.<br> <b>T0143.004: Parody Persona:</b> Actors may copy existing accounts’ imagery as part of a parody of that account.</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="techniques/T0145.002.md">T0145.002</a></td>
+<td>AI-Generated Account Imagery</td>
+<td>AI Generated images used in account imagery.<br><br> An influence operation might flesh out its account by uploading account imagery (e.g. a profile picture), increasing its perceived legitimacy. By using an AI-generated picture for this purpose, they are able to present themselves as a real person without compromising their own identity, or risking detection by taking a real person’s existing profile picture.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0086.002: Develop AI-Generated Images (Deepfakes):</b> Analysts should use this sub-technique to document use of AI generated imagery used to support narratives.</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="techniques/T0145.003.md">T0145.003</a></td>
+<td>Animal Account Imagery</td>
+<td>Animal used in account imagery.<br><br> An influence operation might flesh out its account by uploading a profile picture, increasing its perceived authenticity.<br><br> People sometimes legitimately use images of animals as their profile pictures (e.g. of their pets), and threat actors can mimic this behaviour to avoid the risk of detection associated with stealing or AI-generating profile pictures (see T0145.001: Copy Account Imagery and T0145.002: AI-Generated Account Imagery).<br><br> This Technique is often used by Coordinated Inauthentic Behaviour accounts (CIBs). A collection of accounts displaying the same behaviour using similar account imagery can indicate the presence of CIB.</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="techniques/T0145.004.md">T0145.004</a></td>
+<td>Scenery Account Imagery</td>
+<td>Scenery or nature used in account imagery.<br><br> An influence operation might flesh out its account by uploading account imagery (e.g. a profile picture), increasing its perceived authenticity.<br><br> People sometimes legitimately use images of scenery as their profile picture, and threat actors can mimic this behaviour to avoid the risk of detection associated with stealing or AI-generating profile pictures (see T0145.001: Copy Account Imagery and T0145.002: AI-Generated Account Imagery).<br><br> This Technique is often used by Coordinated Inauthentic Behaviour accounts (CIBs). A collection of accounts displaying the same behaviour using similar account imagery can indicate the presence of CIB.</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="techniques/T0145.005.md">T0145.005</a></td>
+<td>Illustrated Character Account Imagery</td>
+<td>A cartoon/illustrated/anime character used in account imagery.<br><br> An influence operation might flesh out its account by uploading account imagery (e.g. a profile picture), increasing its perceived authenticity.<br><br> People sometimes legitimately use images of illustrated characters as their profile picture, and threat actors can mimic this behaviour to avoid the risk of detection associated with stealing or AI-generating profile pictures (see T0145.001: Copy Account Imagery and T0145.002: AI-Generated Account Imagery).<br><br> This Technique is often used by Coordinated Inauthentic Behaviour accounts (CIBs). A collection of accounts displaying the same behaviour using similar account imagery can indicate the presence of CIB.</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="techniques/T0145.006.md">T0145.006</a></td>
+<td>Attractive Person Account Imagery</td>
+<td>Attractive person used in account imagery.<br><br> An influence operation might flesh out its account by uploading account imagery (e.g. a profile picture), increasing its perceived authenticity.<br><br> Pictures of physically attractive people can benefit threat actors by increasing attention given to their posts.<br><br> People sometimes legitimately use images of attractive people as their profile picture, and threat actors can mimic this behaviour to avoid the risk of detection associated with stealing or AI-generating profile pictures (see T0145.001: Copy Account Imagery and T0145.002: AI-Generated Account Imagery).<br><br> This Technique is often used by Coordinated Inauthentic Behaviour accounts (CIBs). A collection of accounts displaying the same behaviour using similar account imagery can indicate the presence of CIB.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097.109: Romantic Suitor Persona:</b> Accounts presenting as a romantic suitor may use an attractive person in their account imagery.<br> <b>T0104.002: Dating App:</b> Analysts can use this sub-technique for tagging cases where an account has been identified as using a dating platform.</td>
+<td>TA15</td>
+</tr>
+<tr>
+<td><a href="techniques/T0145.007.md">T0145.007</a></td>
+<td>Stock Image Account Imagery</td>
+<td>Stock images used in account imagery.<br><br> Stock image websites produce photos of people in various situations. Threat Actors can purchase or appropriate these images for use in their account imagery, increasing perceived legitimacy while avoiding the risk of detection associated with stealing or AI-generating profile pictures (see T0145.001: Copy Account Imagery and T0145.002: AI-Generated Account Imagery). <br><br> Stock images tend to include physically attractive people, and this can benefit threat actors by increasing attention given to their posts.<br><br> This Technique is often used by Coordinated Inauthentic Behaviour accounts (CIBs). A collection of accounts displaying the same behaviour using similar account imagery can indicate the presence of CIB.</td>
+<td>TA15</td>
 </tr>
 </table>

@@ -107,6 +107,8 @@ class Disarm:
         self.df_techniques = metadata['techniques']
         self.df_tasks = metadata['tasks']
         self.df_incidents = metadata['incidents']
+        self.df_urls = metadata['urls']
+        #self.df_urls['url_id'] = self.df_urls['url_id'].str.rstrip # strip trailing spaces from urls to allow merge to work
         self.df_externalgroups = metadata['externalgroups']
         self.df_tools = metadata['tools']
         self.df_examples = metadata['examples']
@@ -210,19 +212,43 @@ class Disarm:
                                           GENERATED_PAGES_FUDGE, techstring)
         return incidentstr
 
-
-    def create_incident_urls_string(self, incidentid):
+#    def create_technique_counters_string(self, technique_id):
+#        table_string = '''
+#| Counters | Response types |
+#| -------- | -------------- |
+#'''
+#        technique_counters = self.cross_counterid_techniqueid[self.cross_counterid_techniqueid['technique_id']==technique_id]
+#        technique_counters = pd.merge(technique_counters, self.df_counters[['disarm_id', 'name', 'responsetype']])
+#        row_string = '| [{0} {1}]({2}counters/{0}.md) | {3} |\n'
+#        for index, row in technique_counters.sort_values('disarm_id').iterrows():
+#            table_string += row_string.format(row['disarm_id'], row['name'], GENERATED_PAGES_FUDGE, row['responsetype'])
+#        return table_string
     
+    def create_incident_urls_string(self, incidentid):
+        
         urlsstr = '''
-| Reference(s) |
-| --------- |
+| Reference | Pub Date | Authors | Org | Archive |
+| --------- | -------- | ------- | --- | ------- |
 '''
-
-        urlsrow = '| [{0}]({0}) |\n'      
         incidentid_urls = self.cross_incidentid_urls[self.cross_incidentid_urls['disarm_id']==incidentid]
+        incidentid_urls = pd.merge(incidentid_urls, self.df_urls[['url_id', 'pub_date', 'authors', 'org', 'archive_link']])
+        urlsrow = '| [{0}]({0}) | {1} | {2} | {3} | [{4}]({4}) |\n'
         for index, row in incidentid_urls.iterrows():
-            urlsstr += urlsrow.format(row['url_id'])  
-        return urlsstr
+            urlsstr += urlsrow.format(row['url_id'], row['pub_date'], row['authors'], row['org'], row['archive_link'])  
+        return urlsstr        
+        
+    #def create_incident_urls_string(self, incidentid, pub_date, authors, org, archive_link):
+    
+#        urlsstr = '''
+#| Reference | Pub Date | Authors | Org | Archive |
+#| --------- | -------- | ------- | --- | ------- |
+#'''
+
+#     urlsrow = '| [{0}]({0}) | {1} | {2} | {3} | [{4}]({4}) |\n'      
+#        incidentid_urls = self.cross_incidentid_urls[self.cross_incidentid_urls['disarm_id']==incidentid]
+#        for index, row in incidentid_urls.iterrows():
+#            urlsstr += urlsrow.format(row['url_id'], pub_date, authors, org, archive_link)  
+#        return urlsstr
         
         
     def create_incident_techniques_string(self, incidentid):

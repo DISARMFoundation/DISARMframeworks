@@ -75,8 +75,8 @@
 </tr>
 <tr>
 <td><a href="tasks/TK0010.md">TK0010</a></td>
-<td>Create personas</td>
-<td>Create personas</td>
+<td>Present Persona</td>
+<td>Present Persona</td>
 <td>TA15</td>
 </tr>
 <tr>
