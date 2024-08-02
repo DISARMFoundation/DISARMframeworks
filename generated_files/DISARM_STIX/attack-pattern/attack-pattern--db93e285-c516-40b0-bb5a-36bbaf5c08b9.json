@@ -1,20 +1,20 @@
 {
     "type": "bundle",
-    "id": "bundle--c8ff294a-e87b-48e0-99e9-6e0c7aac17d1",
+    "id": "bundle--bcce6c50-4def-4f15-afed-c0e040e9d18f",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--db93e285-c516-40b0-bb5a-36bbaf5c08b9",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.24082Z",
-            "modified": "2023-09-28T21:25:13.24082Z",
+            "created": "2024-08-02T17:12:32.377614Z",
+            "modified": "2024-08-02T17:12:32.377614Z",
             "name": "Create Cyborg Accounts",
             "description": "Cyborg accounts refer to partly manned, partly automated social media accounts. Cyborg accounts primarily act as bots, but a human operator periodically takes control of the account to engage with real social media users by responding to comments and posting original content. Influence operations may use cyborg accounts to reduce the amount of direct human input required to maintain a regular account but increase the apparent legitimacy of the cyborg account by occasionally breaking its bot-like behaviour with human interaction.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "establish-social-assets"
+                    "phase_name": "establish-assets"
                 }
             ],
             "external_references": [

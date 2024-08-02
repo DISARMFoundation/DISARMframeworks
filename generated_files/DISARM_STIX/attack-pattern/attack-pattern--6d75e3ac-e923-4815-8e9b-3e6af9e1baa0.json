@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--252f0334-ec98-439f-b90f-b31a46a96c3b",
+    "id": "bundle--29d47f91-effa-4c50-bdeb-6cf90b632049",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--6d75e3ac-e923-4815-8e9b-3e6af9e1baa0",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.257306Z",
-            "modified": "2023-09-28T21:25:13.257306Z",
+            "created": "2024-08-02T17:12:32.399894Z",
+            "modified": "2024-08-02T17:12:32.399894Z",
             "name": "Audio Livestream",
             "description": "An audio livestream refers to an online audio broadcast capability that allows for real-time communication to closed or open networks.",
             "kill_chain_phases": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--24a7bb49-9370-45e2-8d2e-bef184e723d0",
+    "id": "bundle--be590165-68bf-42e1-93a3-4b85ce827365",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--bb9d5f3e-471f-411b-9901-baf03b848132",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.288832Z",
-            "modified": "2023-09-28T21:25:13.288832Z",
+            "created": "2024-08-02T17:12:32.419973Z",
+            "modified": "2024-08-02T17:12:32.419973Z",
             "name": "Measure Effectiveness",
             "description": "A metric used to measure a current system state. \u201cAre we on track to achieve the intended new system state within the planned timescale?\u201d",
             "kill_chain_phases": [

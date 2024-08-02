@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--8df61d22-73e4-42fe-81f8-88f17e1f440a",
+    "id": "bundle--d78866cf-2eef-4cd3-8dff-bb863f6c5282",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--404f0dd5-81d8-4d96-ad36-875a58c27271",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.257668Z",
-            "modified": "2023-09-28T21:25:13.257668Z",
+            "created": "2024-08-02T17:12:32.400306Z",
+            "modified": "2024-08-02T17:12:32.400306Z",
             "name": "Mainstream Social Networks",
             "description": "Examples include Facebook, Twitter, LinkedIn, etc.",
             "kill_chain_phases": [

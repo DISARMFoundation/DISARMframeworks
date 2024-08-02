@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--bd950293-02f9-4b39-8300-902ec3a625f1",
+    "id": "bundle--7992d67b-9b2a-4b21-b9c0-1cab374a318a",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--651a5188-f38a-42be-a253-d1b90cbd28e1",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.275963Z",
-            "modified": "2023-09-28T21:25:13.275963Z",
+            "created": "2024-08-02T17:12:32.412165Z",
+            "modified": "2024-08-02T17:12:32.412165Z",
             "name": "Goad People into Harmful Action (Stop Hitting Yourself)",
             "description": "Goad people into actions that violate terms of service or will lead to having their content or accounts taken down.",
             "kill_chain_phases": [

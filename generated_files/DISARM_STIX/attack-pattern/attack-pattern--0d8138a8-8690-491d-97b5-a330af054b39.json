@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--3a92da8a-6f8d-4cee-a3f1-c71f43c3cd5a",
+    "id": "bundle--49eee4c9-4f69-4fb3-8c3b-8e45da598a06",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--0d8138a8-8690-491d-97b5-a330af054b39",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.206512Z",
-            "modified": "2023-09-28T21:25:13.206512Z",
+            "created": "2024-08-02T17:12:32.344715Z",
+            "modified": "2024-08-02T17:12:32.344715Z",
             "name": "Use Fake Experts",
             "description": "Use the fake experts that were set up during Establish Legitimacy. Pseudo-experts are disposable assets that often appear once and then disappear. Give \"credility\" to misinformation. Take advantage of credential bias",
             "kill_chain_phases": [

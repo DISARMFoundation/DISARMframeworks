@@ -1,20 +1,20 @@
 {
     "type": "bundle",
-    "id": "bundle--83dd141c-b669-4041-b82c-c7959b8ef5e5",
+    "id": "bundle--25f411ed-6dee-4a27-8928-ea3d607590a9",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--adaaa726-50fe-47e2-b92d-de0d65c9250c",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.245794Z",
-            "modified": "2023-09-28T21:25:13.245794Z",
+            "created": "2024-08-02T17:12:32.38078Z",
+            "modified": "2024-08-02T17:12:32.38078Z",
             "name": "Infiltrate Existing Networks",
             "description": "Operators deceptively insert social assets into existing networks as group members in order to influence the members of the network and the wider information environment that the network impacts.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "establish-social-assets"
+                    "phase_name": "establish-assets"
                 }
             ],
             "external_references": [

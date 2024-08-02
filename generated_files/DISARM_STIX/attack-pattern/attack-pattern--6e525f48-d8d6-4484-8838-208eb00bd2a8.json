@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--e3f35a6b-10ed-42ac-94ca-4a8982b62f6f",
+    "id": "bundle--709c6002-3adc-47f9-a6fa-4955f369aaca",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--6e525f48-d8d6-4484-8838-208eb00bd2a8",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.259452Z",
-            "modified": "2023-09-28T21:25:13.259452Z",
+            "created": "2024-08-02T17:12:32.402812Z",
+            "modified": "2024-08-02T17:12:32.402812Z",
             "name": "Media Sharing Networks",
             "description": "Media sharing networks refer to services whose primary function is the hosting and sharing of specific forms of media. Examples include Instagram, Snapchat, TikTok, Youtube, SoundCloud.",
             "kill_chain_phases": [

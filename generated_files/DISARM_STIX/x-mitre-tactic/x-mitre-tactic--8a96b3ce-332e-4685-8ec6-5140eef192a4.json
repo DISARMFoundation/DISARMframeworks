@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--8fdbde27-7007-4be3-9741-d0e4a4dbd77f",
+    "id": "bundle--36c1be7b-91f0-4ae9-bc0d-9600a9913837",
     "objects": [
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
             "id": "x-mitre-tactic--8a96b3ce-332e-4685-8ec6-5140eef192a4",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.183576Z",
-            "modified": "2023-09-28T21:25:13.183576Z",
+            "created": "2024-08-02T17:12:32.319623Z",
+            "modified": "2024-08-02T17:12:32.319623Z",
             "name": "Conduct Pump Priming",
             "description": "Release content on a targetted small scale, prior to general release, including releasing seed. Used for preparation before broader release, and as message honing. Used for preparation before broader release, and as message honing.",
             "external_references": [

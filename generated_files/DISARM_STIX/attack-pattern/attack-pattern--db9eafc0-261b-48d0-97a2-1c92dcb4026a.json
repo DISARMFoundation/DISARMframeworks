@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--9a159563-ed34-4c87-b36c-3d45dfd98874",
+    "id": "bundle--e359f323-60e9-44f4-97fe-ebbdf40e5f50",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--db9eafc0-261b-48d0-97a2-1c92dcb4026a",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.264206Z",
-            "modified": "2023-09-28T21:25:13.264206Z",
+            "created": "2024-08-02T17:12:32.405072Z",
+            "modified": "2024-08-02T17:12:32.405072Z",
             "name": "TV",
             "description": "TV",
             "kill_chain_phases": [

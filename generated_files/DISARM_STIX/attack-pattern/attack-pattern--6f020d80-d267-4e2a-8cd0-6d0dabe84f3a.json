@@ -1,20 +1,20 @@
 {
     "type": "bundle",
-    "id": "bundle--01d02a20-4b54-4cdb-a142-69019421de5b",
+    "id": "bundle--2b605246-08c4-4033-87d8-ad65d9e75f56",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--6f020d80-d267-4e2a-8cd0-6d0dabe84f3a",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.239842Z",
-            "modified": "2023-09-28T21:25:13.239842Z",
+            "created": "2024-08-02T17:12:32.377225Z",
+            "modified": "2024-08-02T17:12:32.377225Z",
             "name": "Create Inauthentic Accounts",
             "description": "Inauthentic accounts include bot accounts, cyborg accounts, sockpuppet accounts, and anonymous accounts.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "establish-social-assets"
+                    "phase_name": "establish-assets"
                 }
             ],
             "external_references": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--2942a238-1b75-45e3-9022-ad5e15b3dd6c",
+    "id": "bundle--3c0daaa1-a910-4eed-9f58-91a47656c595",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--03692306-7b8e-4b5a-991f-23c91eeed4c5",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.214551Z",
-            "modified": "2023-09-28T21:25:13.214551Z",
+            "created": "2024-08-02T17:12:32.355426Z",
+            "modified": "2024-08-02T17:12:32.355426Z",
             "name": "Segment Audiences",
             "description": "Create audience segmentations by features of interest to the influence campaign, including political affiliation, geographic location, income, demographics, and psychographics.",
             "kill_chain_phases": [

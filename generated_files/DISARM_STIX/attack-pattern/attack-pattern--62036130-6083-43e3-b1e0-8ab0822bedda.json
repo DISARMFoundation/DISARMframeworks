@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--f47cb1e5-935f-4a46-bc30-ea62bfd13d04",
+    "id": "bundle--9f496bf0-5511-4290-b236-919760e8562d",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--62036130-6083-43e3-b1e0-8ab0822bedda",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.258527Z",
-            "modified": "2023-09-28T21:25:13.258527Z",
+            "created": "2024-08-02T17:12:32.401797Z",
+            "modified": "2024-08-02T17:12:32.401797Z",
             "name": "Use Hashtags",
             "description": "Use a dedicated, existing hashtag for the campaign/incident.",
             "kill_chain_phases": [

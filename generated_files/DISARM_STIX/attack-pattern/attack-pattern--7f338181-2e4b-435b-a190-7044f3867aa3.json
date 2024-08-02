@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--2be49de2-ce8a-4896-b1a5-9ce484d594d7",
+    "id": "bundle--b85e911a-535d-465e-b913-4882f6588211",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--7f338181-2e4b-435b-a190-7044f3867aa3",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.257828Z",
-            "modified": "2023-09-28T21:25:13.257828Z",
-            "name": "Dating Apps",
-            "description": "Dating Apps",
+            "created": "2024-08-02T17:12:32.400595Z",
+            "modified": "2024-08-02T17:12:32.400595Z",
+            "name": "Dating App",
+            "description": "\u201cDating App\u201d refers to any platform (or platform feature) in which the ostensive purpose is for users to develop a physical/romantic relationship with other users.<br /> <br />Threat Actors can exploit users\u2019 quest for love to trick them into doing things like revealing sensitive information or giving them money.<br /> <br />Examples include Tinder, Bumble, Grindr, Facebook Dating, Tantan, Badoo, Plenty of Fish, hinge, LOVOO, OkCupid, happn, and Mamba.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097.109: Romantic Suitor Persona:</b> Analysts can use this sub-technique for tagging cases where an account presents itself as seeking a romantic or physical connection with another person.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--6110421d-886d-4664-87e0-fe3072ad1829",
+    "id": "bundle--b3389001-36a8-411e-b389-837bb7db12da",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--1c13465b-8b75-4b7d-a763-fe5b1d091635",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.210665Z",
-            "modified": "2023-09-28T21:25:13.210665Z",
+            "created": "2024-08-02T17:12:32.348471Z",
+            "modified": "2024-08-02T17:12:32.348471Z",
             "name": "Trolls Amplify and Manipulate",
             "description": "Use trolls to amplify narratives and/or manipulate narratives. Fake profiles/sockpuppets operating to support individuals/narratives from the entire political spectrum (left/right binary). Operating with increased emphasis on promoting local content and promoting real Twitter users generating their own, often divisive political content, as it's easier to amplify existing content than create new/original content. Trolls operate where ever there's a socially divisive issue (issues that can/are be politicized).",
             "kill_chain_phases": [

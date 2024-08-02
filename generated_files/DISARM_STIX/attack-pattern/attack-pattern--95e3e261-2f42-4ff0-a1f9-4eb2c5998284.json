@@ -1,20 +1,20 @@
 {
     "type": "bundle",
-    "id": "bundle--02a239ab-1987-4ca4-83c4-a7d330a043ee",
+    "id": "bundle--a209e9f6-23b5-4105-b926-567da17e791d",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--95e3e261-2f42-4ff0-a1f9-4eb2c5998284",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.194292Z",
-            "modified": "2023-09-28T21:25:13.194292Z",
+            "created": "2024-08-02T17:12:32.333954Z",
+            "modified": "2024-08-02T17:12:32.333954Z",
             "name": "Create Inauthentic Websites",
             "description": "Create media assets to support inauthentic organisations (e.g. think tank), people (e.g. experts) and/or serve as sites to distribute malware/launch phishing operations.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "establish-social-assets"
+                    "phase_name": "establish-assets"
                 }
             ],
             "external_references": [

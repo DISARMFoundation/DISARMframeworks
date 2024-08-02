@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--adfa29dc-e815-43a8-bc30-4d5d0b26c5aa",
+    "id": "bundle--40deeaef-e68e-41e0-9fcb-e0d97d323fff",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--c73c3210-6414-46c8-9885-a3b3e405da56",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.287453Z",
-            "modified": "2023-09-28T21:25:13.287453Z",
+            "created": "2024-08-02T17:12:32.418409Z",
+            "modified": "2024-08-02T17:12:32.418409Z",
             "name": "Exploit TOS/Content Moderation",
             "description": "Exploiting weaknesses in platforms' terms of service and content moderation policies to avoid takedowns and platform actions.",
             "kill_chain_phases": [

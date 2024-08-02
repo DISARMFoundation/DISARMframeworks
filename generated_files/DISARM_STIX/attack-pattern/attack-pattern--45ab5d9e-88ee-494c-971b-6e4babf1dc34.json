@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--8d9d6aaf-d143-4278-b601-05613e12dfcb",
+    "id": "bundle--ca9241d9-8bc9-4609-9f9c-7772037cfb9f",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--45ab5d9e-88ee-494c-971b-6e4babf1dc34",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.223372Z",
-            "modified": "2023-09-28T21:25:13.223372Z",
+            "created": "2024-08-02T17:12:32.364425Z",
+            "modified": "2024-08-02T17:12:32.364425Z",
             "name": "Conduct Web Traffic Analysis",
             "description": "An influence operation may conduct web traffic analysis to determine which search engines, keywords, websites, and advertisements gain the most traction with its target audience.",
             "kill_chain_phases": [

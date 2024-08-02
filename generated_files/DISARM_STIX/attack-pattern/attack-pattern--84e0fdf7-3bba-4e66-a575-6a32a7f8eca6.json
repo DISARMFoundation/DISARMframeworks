@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--9b597d94-be87-41cd-b342-dbfedd246ba6",
+    "id": "bundle--ccc34fcf-cbe6-483d-97f0-9f8a11c408a0",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--84e0fdf7-3bba-4e66-a575-6a32a7f8eca6",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.201835Z",
-            "modified": "2023-09-28T21:25:13.201835Z",
+            "created": "2024-08-02T17:12:32.342508Z",
+            "modified": "2024-08-02T17:12:32.342508Z",
             "name": "Edit Open-Source Content",
             "description": "An influence operation may edit open-source content, such as collaborative blogs or encyclopaedias, to promote its narratives on outlets with existing credibility and audiences. Editing open-source content may allow an operation to post content on platforms without dedicating resources to the creation and maintenance of its own assets.",
             "kill_chain_phases": [

@@ -1,20 +1,20 @@
 {
     "type": "bundle",
-    "id": "bundle--1bfb4da1-b2c7-4513-a1a0-ba3b41e7e8b4",
+    "id": "bundle--36db7159-129e-40af-896e-6c70921f3880",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--64bcccb9-4d10-4eed-8c49-8816ecfd78a3",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.248612Z",
-            "modified": "2023-09-28T21:25:13.248612Z",
+            "created": "2024-08-02T17:12:32.382901Z",
+            "modified": "2024-08-02T17:12:32.382901Z",
             "name": "Outsource Content Creation to External Organisations",
             "description": "An influence operation may outsource content creation to external companies to avoid attribution, increase the rate of content creation, or improve content quality, i.e., by employing an organisation that can create content in the target audience\u2019s native language. Employed organisations may include marketing companies for tailored advertisements or external content farms for high volumes of targeted media.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "establish-social-assets"
+                    "phase_name": "establish-assets"
                 }
             ],
             "external_references": [

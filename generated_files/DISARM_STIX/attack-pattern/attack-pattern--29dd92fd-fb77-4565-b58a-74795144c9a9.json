@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--d2c4d87c-409f-4f32-9a31-9e337e970741",
+    "id": "bundle--9e5e873e-0bbc-4f26-a402-3e23c6485c76",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--29dd92fd-fb77-4565-b58a-74795144c9a9",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.273283Z",
-            "modified": "2023-09-28T21:25:13.273283Z",
+            "created": "2024-08-02T17:12:32.409219Z",
+            "modified": "2024-08-02T17:12:32.409219Z",
             "name": "Post across Disciplines",
             "description": "Post Across Disciplines",
             "kill_chain_phases": [

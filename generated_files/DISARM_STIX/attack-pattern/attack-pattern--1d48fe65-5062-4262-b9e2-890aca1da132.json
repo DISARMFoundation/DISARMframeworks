@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--3fcf4a8d-335e-4e1f-9906-9bde08ced2fe",
+    "id": "bundle--ba497caf-d32f-40c0-9237-78680cb25ae9",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--1d48fe65-5062-4262-b9e2-890aca1da132",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.221608Z",
-            "modified": "2023-09-28T21:25:13.221608Z",
+            "created": "2024-08-02T17:12:32.362521Z",
+            "modified": "2024-08-02T17:12:32.362521Z",
             "name": "Divide",
             "description": "Create conflict between subgroups, to widen divisions in a community",
             "kill_chain_phases": [

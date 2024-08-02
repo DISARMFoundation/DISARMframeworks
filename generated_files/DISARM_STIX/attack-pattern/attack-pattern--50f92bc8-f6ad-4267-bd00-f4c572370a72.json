@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--b85c35ca-6b6b-4157-a1d0-3d17eb612378",
+    "id": "bundle--af83a6a2-c444-4483-98f5-5927461d0804",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--50f92bc8-f6ad-4267-bd00-f4c572370a72",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.206965Z",
-            "modified": "2023-09-28T21:25:13.206965Z",
+            "created": "2024-08-02T17:12:32.344897Z",
+            "modified": "2024-08-02T17:12:32.344897Z",
             "name": "Use Search Engine Optimisation",
             "description": "Manipulate content engagement metrics (ie: Reddit & Twitter) to influence/impact news search results (e.g. Google), also elevates RT & Sputnik headline into Google news alert emails. aka \"Black-hat SEO\"",
             "kill_chain_phases": [

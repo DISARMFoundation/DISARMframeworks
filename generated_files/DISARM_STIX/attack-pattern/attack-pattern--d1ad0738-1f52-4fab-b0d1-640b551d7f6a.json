@@ -1,20 +1,20 @@
 {
     "type": "bundle",
-    "id": "bundle--952e939f-4ff6-4716-9800-9ac3671f7aa2",
+    "id": "bundle--ba6bebac-5475-4596-8918-dc54f60b8dce",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--d1ad0738-1f52-4fab-b0d1-640b551d7f6a",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.191652Z",
-            "modified": "2023-09-28T21:25:13.191652Z",
+            "created": "2024-08-02T17:12:32.33212Z",
+            "modified": "2024-08-02T17:12:32.33212Z",
             "name": "Create Inauthentic Social Media Pages and Groups",
             "description": "Create key social engineering assets needed to amplify content, manipulate algorithms, fool public and/or specific incident/campaign targets. Computational propaganda depends substantially on false perceptions of credibility and acceptance. By creating fake users and groups with a variety of interests and commitments, attackers can ensure that their messages both come from trusted sources and appear more widely adopted than they actually are.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "establish-social-assets"
+                    "phase_name": "establish-assets"
                 }
             ],
             "external_references": [

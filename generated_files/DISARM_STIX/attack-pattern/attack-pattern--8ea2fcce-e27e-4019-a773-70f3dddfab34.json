@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--d2deeef7-35df-411f-ba0b-1f7a1afd8e89",
+    "id": "bundle--392a6d8f-be6e-4f2c-bffd-07ee02f4b901",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--8ea2fcce-e27e-4019-a773-70f3dddfab34",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.230461Z",
-            "modified": "2023-09-28T21:25:13.230461Z",
+            "created": "2024-08-02T17:12:32.370419Z",
+            "modified": "2024-08-02T17:12:32.370419Z",
             "name": "Develop Text-Based Content",
             "description": "Creating and editing false or misleading text-based artefacts, often aligned with one or more specific narratives, for use in a disinformation campaign.",
             "kill_chain_phases": [

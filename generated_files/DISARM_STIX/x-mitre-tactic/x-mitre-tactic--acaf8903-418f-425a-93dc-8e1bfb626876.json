@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--4c1911e5-a0b6-4ada-bae9-ee314503ac71",
+    "id": "bundle--a9eecd21-6a21-46b7-a79d-463ccabc5e15",
     "objects": [
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
             "id": "x-mitre-tactic--acaf8903-418f-425a-93dc-8e1bfb626876",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.18167Z",
-            "modified": "2023-09-28T21:25:13.18167Z",
+            "created": "2024-08-02T17:12:32.317385Z",
+            "modified": "2024-08-02T17:12:32.317385Z",
             "name": "Microtarget",
-            "description": "Target very specific populations of people",
+            "description": "Actions taken which help target content to specific audiences identified and analysed as part of TA13: Target Audience Analysis.",
             "external_references": [
                 {
                     "source_name": "DISARM",

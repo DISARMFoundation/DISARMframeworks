@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--0fdeeeff-528e-4912-9c08-1764c2aaf5b7",
+    "id": "bundle--fe5bebc7-4009-4af5-815b-e0d985d7bf5c",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--72df7e55-dc60-4a7e-9928-ed41ac0e1581",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.271321Z",
-            "modified": "2023-09-28T21:25:13.271321Z",
+            "created": "2024-08-02T17:12:32.408236Z",
+            "modified": "2024-08-02T17:12:32.408236Z",
             "name": "Attract Traditional Media",
             "description": "Deliver content by attracting the attention of traditional media (earned media).",
             "kill_chain_phases": [

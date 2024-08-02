@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--d6e00044-58a7-4ddb-bf88-30f8653b5f09",
+    "id": "bundle--f3eee90c-eaba-4fe4-bc69-1e48f329772e",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--08db3527-8fc9-4bf6-bb49-e5a5249cc051",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.279115Z",
-            "modified": "2023-09-28T21:25:13.279115Z",
+            "created": "2024-08-02T17:12:32.415084Z",
+            "modified": "2024-08-02T17:12:32.415084Z",
             "name": "Conceal Operational Activity",
             "description": "Conceal the campaign's operational activity to avoid takedown and attribution.",
             "kill_chain_phases": [

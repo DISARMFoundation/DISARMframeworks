@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--7e0b8688-d125-484c-a4f9-13137341b898",
+    "id": "bundle--9e5d8720-341f-4d99-8e5d-fa7f245ef873",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--0102376a-e896-4191-b3fb-e58188301822",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.212125Z",
-            "modified": "2023-09-28T21:25:13.212125Z",
+            "created": "2024-08-02T17:12:32.351843Z",
+            "modified": "2024-08-02T17:12:32.351843Z",
             "name": "Organise Events",
             "description": "Coordinate and promote real-world events across media platforms, e.g. rallies, protests, gatherings in support of incident narratives.",
             "kill_chain_phases": [

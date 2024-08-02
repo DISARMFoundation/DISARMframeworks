@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--a312ddbb-cff2-46ba-8251-c28251b91dfa",
+    "id": "bundle--332a1517-7fc5-4f25-8679-b461f778b8f3",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5dc224b1-c69e-496d-91f7-e8ce4fd3f166",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.288478Z",
-            "modified": "2023-09-28T21:25:13.288478Z",
+            "created": "2024-08-02T17:12:32.419551Z",
+            "modified": "2024-08-02T17:12:32.419551Z",
             "name": "Content Focused",
             "description": "Measure the performance of campaign content",
             "kill_chain_phases": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--978ff4cd-1e44-405b-a442-00e2316ef23c",
+    "id": "bundle--5388c880-5f56-4dc6-8f2d-d99188993717",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5bca3084-f5b0-48a8-934c-7f2c03bfd2c3",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.278976Z",
-            "modified": "2023-09-28T21:25:13.278976Z",
+            "created": "2024-08-02T17:12:32.414942Z",
+            "modified": "2024-08-02T17:12:32.414942Z",
             "name": "Change Names of Information Assets",
             "description": "Changing names or brand names of information assets such as accounts, channels, pages etc. An operation may change the names or brand names of its assets throughout an operation to avoid detection or alter the names of newly acquired or repurposed assets to fit operational narratives.",
             "kill_chain_phases": [

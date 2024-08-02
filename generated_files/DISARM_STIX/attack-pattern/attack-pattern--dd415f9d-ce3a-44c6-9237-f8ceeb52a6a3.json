@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--0028f8f2-2029-4674-899e-08cc2df5b923",
+    "id": "bundle--36bdfb84-9611-4c1b-9154-00975f05c0d8",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--dd415f9d-ce3a-44c6-9237-f8ceeb52a6a3",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.283543Z",
-            "modified": "2023-09-28T21:25:13.283543Z",
+            "created": "2024-08-02T17:12:32.417055Z",
+            "modified": "2024-08-02T17:12:32.417055Z",
             "name": "Misattribute Activity",
             "description": "Misattributed activity refers to incorrectly attributed operation activity. For example, a state sponsored influence operation may conduct operation activity in a way that mimics another state so that external entities misattribute activity to the incorrect state. An operation may misattribute their activities to complicate attribution, avoid detection, or frame an adversary for negative behaviour.",
             "kill_chain_phases": [

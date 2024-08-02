@@ -1,20 +1,20 @@
 {
     "type": "bundle",
-    "id": "bundle--6932f059-0b1f-4ac7-9479-aa083f500e32",
+    "id": "bundle--7eeb1560-5bf0-4f48-951e-f7ff3b36a3d7",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--245d117b-2700-462e-97d4-be9b4b3745c4",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.266341Z",
-            "modified": "2023-09-28T21:25:13.266341Z",
+            "created": "2024-08-02T17:12:32.405913Z",
+            "modified": "2024-08-02T17:12:32.405913Z",
             "name": "Employ Commercial Analytic Firms",
             "description": "Commercial analytic firms collect data on target audience activities and evaluate the data to detect trends, such as content receiving high click-rates. An influence operation may employ commercial analytic firms to facilitate external collection on its target audience, complicating attribution efforts and better tailoring the content to audience preferences.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "conduct-pump-priming"
+                    "phase_name": "establish-assets"
                 }
             ],
             "external_references": [

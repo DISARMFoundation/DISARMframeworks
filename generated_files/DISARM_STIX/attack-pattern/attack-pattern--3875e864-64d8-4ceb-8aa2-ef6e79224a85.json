@@ -1,20 +1,20 @@
 {
     "type": "bundle",
-    "id": "bundle--9763ce34-ff06-439f-9e5a-6189eb3500d7",
+    "id": "bundle--8d0c90be-850b-4d32-8460-c499ca709224",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--3875e864-64d8-4ceb-8aa2-ef6e79224a85",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.248135Z",
-            "modified": "2023-09-28T21:25:13.248135Z",
+            "created": "2024-08-02T17:12:32.382597Z",
+            "modified": "2024-08-02T17:12:32.382597Z",
             "name": "Create Content Farms",
             "description": "An influence operation may create an organisation for creating and amplifying campaign artefacts at scale.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "establish-social-assets"
+                    "phase_name": "establish-assets"
                 }
             ],
             "external_references": [

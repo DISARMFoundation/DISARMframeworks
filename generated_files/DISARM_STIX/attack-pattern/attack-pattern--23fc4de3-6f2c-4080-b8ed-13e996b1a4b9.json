@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--bd956c8e-2b1e-4b2d-9d3b-7a72a2bf0b9f",
+    "id": "bundle--040db928-c41c-4eb7-9788-3024186c191c",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--23fc4de3-6f2c-4080-b8ed-13e996b1a4b9",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.204367Z",
-            "modified": "2023-09-28T21:25:13.204367Z",
+            "created": "2024-08-02T17:12:32.343925Z",
+            "modified": "2024-08-02T17:12:32.343925Z",
             "name": "Chat Apps",
             "description": "Direct messaging via chat app is an increasing method of delivery. These messages are often automated and new delivery and storage methods make them anonymous, viral, and ephemeral. This is a difficult space to monitor, but also a difficult space to build acclaim or notoriety.",
             "kill_chain_phases": [
