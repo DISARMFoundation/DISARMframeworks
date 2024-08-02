@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--6b1fab63-3a77-44bc-85c1-9884caca7655",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--fde45c5f-c612-4969-b104-d96a60e6d888",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-08-02T17:12:32.430799Z",
+            "modified": "2024-08-02T17:12:32.430799Z",
+            "name": "Acquire Compromised Website",
+            "description": "Threat Actors may take over existing websites to publish or amplify inauthentic narratives. This includes the defacement of websites, and cases where websites\u2019 personas are maintained to add credence to threat actors\u2019 narratives.<br /> <br />See also [Mitre ATT&CK\u2019s T1584 Compromise Infrastructure](https://attack.mitre.org/techniques/T1584/) for more technical information on how threat actors may achieve this objective.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0141.002.md",
+                    "external_id": "T0141.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}
