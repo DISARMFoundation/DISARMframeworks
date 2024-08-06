@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--f8a98b0c-d415-42ed-bd09-d92bbede864d",
+    "id": "bundle--f663935c-16a2-4811-b67e-3944b29e5c65",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--1d917530-027d-4f82-b380-404c320dc783",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.216032Z",
-            "modified": "2023-09-28T21:25:13.216032Z",
+            "created": "2024-08-02T17:12:32.356564Z",
+            "modified": "2024-08-02T17:12:32.356564Z",
             "name": "Economic Segmentation",
             "description": "An influence operation may target populations based on their income bracket, wealth, or other financial or economic division.",
             "kill_chain_phases": [

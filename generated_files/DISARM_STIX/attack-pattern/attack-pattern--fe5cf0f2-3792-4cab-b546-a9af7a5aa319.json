@@ -1,20 +1,20 @@
 {
     "type": "bundle",
-    "id": "bundle--baff5a4e-b285-4b1c-8ae5-8c04c6b6a308",
+    "id": "bundle--583a2f10-cdf4-4168-b8df-8f9bfa895892",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--fe5cf0f2-3792-4cab-b546-a9af7a5aa319",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.242543Z",
-            "modified": "2023-09-28T21:25:13.242543Z",
+            "created": "2024-08-02T17:12:32.378752Z",
+            "modified": "2024-08-02T17:12:32.378752Z",
             "name": "Recruit Partisans",
             "description": "Operators recruit partisans (ideologically-aligned individuals) to support the campaign.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "establish-social-assets"
+                    "phase_name": "establish-assets"
                 }
             ],
             "external_references": [

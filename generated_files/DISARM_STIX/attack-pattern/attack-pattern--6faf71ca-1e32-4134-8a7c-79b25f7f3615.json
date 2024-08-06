@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--e2690a89-3cc6-441f-99f4-60fa1607de73",
+    "id": "bundle--feeed3d4-0274-43af-9eef-7f5cfcd9cfe8",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--6faf71ca-1e32-4134-8a7c-79b25f7f3615",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.217222Z",
-            "modified": "2023-09-28T21:25:13.217222Z",
+            "created": "2024-08-02T17:12:32.357634Z",
+            "modified": "2024-08-02T17:12:32.357634Z",
             "name": "Determine Target Audiences",
             "description": "Determining the target audiences (segments of the population) who will receive campaign narratives and artefacts intended to achieve the strategic ends.",
             "kill_chain_phases": [

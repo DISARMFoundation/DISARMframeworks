@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--ba186b33-e2d6-4cca-a8ef-490d0fb59a39",
+    "id": "bundle--fbb5de73-bc99-4218-8e16-c73efb5a24d3",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--a24e779c-0f44-493b-862d-00693bf34ca4",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.258181Z",
-            "modified": "2023-09-28T21:25:13.258181Z",
+            "created": "2024-08-02T17:12:32.40143Z",
+            "modified": "2024-08-02T17:12:32.40143Z",
             "name": "Interest-Based Networks",
             "description": "Examples include smaller and niche networks including Gettr, Truth Social, Parler, etc.",
             "kill_chain_phases": [

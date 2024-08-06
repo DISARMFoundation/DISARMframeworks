@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--d4a83f50-42d8-434f-95a7-f36433f65d3a",
+    "id": "bundle--d62aacf5-75f8-439a-8dad-4cfe8232954b",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--0461a925-3bb7-466c-a7ae-40aee015f403",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.257984Z",
-            "modified": "2023-09-28T21:25:13.257984Z",
+            "created": "2024-08-02T17:12:32.400959Z",
+            "modified": "2024-08-02T17:12:32.400959Z",
             "name": "Private/Closed Social Networks",
             "description": "Social networks that are not open to people outside of family, friends, neighbours, or co-workers. Non-work-related examples include Couple, FamilyWall, 23snaps, and Nextdoor.  Some of the larger social network platforms enable closed communities: examples are Instagram Close Friends and Twitter (X) Circle. Work-related examples of private social networks include LinkedIn, Facebook Workplace, and enterprise communication platforms such as Slack or Microsoft Teams.",
             "kill_chain_phases": [

@@ -1,20 +1,20 @@
 {
     "type": "bundle",
-    "id": "bundle--101b7134-7968-4519-b646-97a16c144932",
+    "id": "bundle--33b0dc81-83d3-40bf-a8c4-7f1093d7d9ea",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--9a4a16c5-a671-4469-a854-ef45cb0e38ab",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.242187Z",
-            "modified": "2023-09-28T21:25:13.242187Z",
+            "created": "2024-08-02T17:12:32.378342Z",
+            "modified": "2024-08-02T17:12:32.378342Z",
             "name": "Recruit Malign Actors",
             "description": "Operators recruit bad actors paying recruiting, or exerting control over individuals includes trolls, partisans, and contractors.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "establish-social-assets"
+                    "phase_name": "establish-assets"
                 }
             ],
             "external_references": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--faae5d76-627b-4cb2-aca4-e5e0a342e40b",
+    "id": "bundle--0e6eb2b8-c68d-40d0-ac6f-651494719c8d",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--78a2af04-ac4a-430b-b233-6223715a76f5",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.257486Z",
-            "modified": "2023-09-28T21:25:13.257486Z",
+            "created": "2024-08-02T17:12:32.400087Z",
+            "modified": "2024-08-02T17:12:32.400087Z",
             "name": "Social Networks",
             "description": "Social media are interactive digital channels that facilitate the creation and sharing of information, ideas, interests, and other forms of expression through virtual communities and networks.",
             "kill_chain_phases": [

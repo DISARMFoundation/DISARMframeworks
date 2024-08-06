@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--ebf20341-3807-4c24-b379-895bd3980650",
+    "id": "bundle--3ab18020-167e-480c-95b9-9c4fef952923",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--b6644001-8597-4f9f-a2a4-8005c54e8a39",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.285674Z",
-            "modified": "2023-09-28T21:25:13.285674Z",
+            "created": "2024-08-02T17:12:32.417826Z",
+            "modified": "2024-08-02T17:12:32.417826Z",
             "name": "Use Shell Organisations",
             "description": "Use Shell Organisations to conceal sponsorship.",
             "kill_chain_phases": [

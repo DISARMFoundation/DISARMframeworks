@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--f1453378-cf4b-4ea7-ba38-e64e77d4dd7d",
+    "id": "bundle--cea69cd2-a82c-4c1b-a82e-843052c30b2a",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--c80ef7af-3f51-4be5-b42a-19d29ab40a53",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.28615Z",
-            "modified": "2023-09-28T21:25:13.28615Z",
+            "created": "2024-08-02T17:12:32.418021Z",
+            "modified": "2024-08-02T17:12:32.418021Z",
             "name": "Use Cryptocurrency",
             "description": "Use Cryptocurrency to conceal sponsorship. Examples include Bitcoin, Monero, and Etherium.",
             "kill_chain_phases": [

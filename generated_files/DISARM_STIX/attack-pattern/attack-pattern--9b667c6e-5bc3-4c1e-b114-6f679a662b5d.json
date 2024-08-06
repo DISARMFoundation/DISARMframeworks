@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--1ac2fddc-3c33-473c-8d1f-434206949d04",
+    "id": "bundle--ac7352bc-292a-4e82-89a5-0df0a3caa3ef",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--9b667c6e-5bc3-4c1e-b114-6f679a662b5d",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.274682Z",
-            "modified": "2023-09-28T21:25:13.274682Z",
+            "created": "2024-08-02T17:12:32.411168Z",
+            "modified": "2024-08-02T17:12:32.411168Z",
             "name": "Block Content",
             "description": "Content blocking refers to actions taken to restrict internet access or render certain areas of the internet inaccessible. An influence operation may restrict content based on both network and content attributes.",
             "kill_chain_phases": [

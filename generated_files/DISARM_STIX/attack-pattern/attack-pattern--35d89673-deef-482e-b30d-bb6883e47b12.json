@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--1d1a0b5f-1be3-4c52-8c8c-6f7466953698",
+    "id": "bundle--22d772ff-e5f6-4ace-b4eb-116b885c22e7",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--35d89673-deef-482e-b30d-bb6883e47b12",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.258959Z",
-            "modified": "2023-09-28T21:25:13.258959Z",
+            "created": "2024-08-02T17:12:32.402241Z",
+            "modified": "2024-08-02T17:12:32.402241Z",
             "name": "Create Dedicated Hashtag",
             "description": "Create a campaign/incident specific hashtag.",
             "kill_chain_phases": [

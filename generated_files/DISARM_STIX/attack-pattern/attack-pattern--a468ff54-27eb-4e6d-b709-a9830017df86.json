@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--a36f2a60-b5d4-4e72-92f1-5737543f78d5",
+    "id": "bundle--79427304-6f36-4613-a759-4433c7e2ea15",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--a468ff54-27eb-4e6d-b709-a9830017df86",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.217051Z",
-            "modified": "2023-09-28T21:25:13.217051Z",
+            "created": "2024-08-02T17:12:32.357307Z",
+            "modified": "2024-08-02T17:12:32.357307Z",
             "name": "Political Segmentation",
             "description": "An influence operation may target populations based on their political affiliations, especially when aiming to manipulate voting or change policy.",
             "kill_chain_phases": [

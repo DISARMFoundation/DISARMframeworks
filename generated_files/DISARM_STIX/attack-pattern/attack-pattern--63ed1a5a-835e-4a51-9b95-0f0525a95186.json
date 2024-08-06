@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--5d172599-a09d-4587-abd3-8ce43f1418f8",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--63ed1a5a-835e-4a51-9b95-0f0525a95186",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-08-02T17:12:32.388973Z",
+            "modified": "2024-08-02T17:12:32.388973Z",
+            "name": "Institutional Persona",
+            "description": "This Technique can be used to indicate that an entity is presenting itself as an institution. If the organisation is presenting itself as having one of the personas listed below then these Techniques should be used instead, as they indicate both that the entity presented itself as an institution, and the type of persona they presented:<br><br> T0097.201: Local Institution Persona<br> T0097.202: News Outlet Persona<br> T0097.203: Fact Checking Organisation Persona<br> T0097.204: Think Tank Persona<br> T0097.205: Business Persona<br> T0097.206: Government Institution Persona<br> T0097.207: NGO Persona<br> T0097.208: Social Cause Persona",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0097.200.md",
+                    "external_id": "T0097.200"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

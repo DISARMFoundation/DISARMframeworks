@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--b8903b69-42ef-4c7f-8d29-e0664ebf3893",
+    "id": "bundle--37701d8b-9802-463a-94bd-88beef82ff4e",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--27061558-ebf9-402b-b8e2-0c7c9d86aea5",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.265297Z",
-            "modified": "2023-09-28T21:25:13.265297Z",
+            "created": "2024-08-02T17:12:32.405517Z",
+            "modified": "2024-08-02T17:12:32.405517Z",
             "name": "Radio",
             "description": "Radio",
             "kill_chain_phases": [

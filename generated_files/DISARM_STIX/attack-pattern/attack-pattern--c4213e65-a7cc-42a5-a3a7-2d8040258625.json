@@ -1,20 +1,20 @@
 {
     "type": "bundle",
-    "id": "bundle--b9f7cc66-4b76-4975-bdc6-1185bedb125d",
+    "id": "bundle--1fc71209-444c-41f5-9856-fdb1b9deaf45",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--c4213e65-a7cc-42a5-a3a7-2d8040258625",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.242875Z",
-            "modified": "2023-09-28T21:25:13.242875Z",
+            "created": "2024-08-02T17:12:32.379162Z",
+            "modified": "2024-08-02T17:12:32.379162Z",
             "name": "Build Network",
             "description": "Operators build their own network, creating links between accounts -- whether authentic or inauthentic -- in order amplify and promote narratives and artefacts, and encourage further growth of ther network, as well as the ongoing sharing and engagement with operational content.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "establish-social-assets"
+                    "phase_name": "establish-assets"
                 }
             ],
             "external_references": [

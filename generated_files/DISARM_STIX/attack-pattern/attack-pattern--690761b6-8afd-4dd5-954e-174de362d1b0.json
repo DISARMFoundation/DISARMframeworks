@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--fe132d72-069e-4271-a67f-ed52829263fd",
+    "id": "bundle--fe45e0ab-8bf7-4231-ab56-320f9c452254",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--690761b6-8afd-4dd5-954e-174de362d1b0",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.274229Z",
-            "modified": "2023-09-28T21:25:13.274229Z",
+            "created": "2024-08-02T17:12:32.41053Z",
+            "modified": "2024-08-02T17:12:32.41053Z",
             "name": "Direct Users to Alternative Platforms",
             "description": "Direct users to alternative platforms refers to encouraging users to move from the platform on which they initially viewed operation content and engage with content on alternate information channels, including separate social media channels and inauthentic websites. An operation may drive users to alternative platforms to diversify its information channels and ensure the target audience knows where to access operation content if the initial platform suspends, flags, or otherwise removes original operation assets and content.",
             "kill_chain_phases": [

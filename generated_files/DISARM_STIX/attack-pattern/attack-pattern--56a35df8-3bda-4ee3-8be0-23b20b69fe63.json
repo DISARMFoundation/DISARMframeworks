@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--edd394c2-0676-4441-b36d-8883b9eb6ccf",
+    "id": "bundle--f417b352-242c-49c9-b667-9186c9f18444",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--56a35df8-3bda-4ee3-8be0-23b20b69fe63",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.277105Z",
-            "modified": "2023-09-28T21:25:13.277105Z",
+            "created": "2024-08-02T17:12:32.413349Z",
+            "modified": "2024-08-02T17:12:32.413349Z",
             "name": "Physical Violence",
             "description": "Physical violence refers to the use of force to injure, abuse, damage, or destroy. An influence operation may conduct or encourage physical violence to discourage opponents from promoting conflicting content or draw attention to operation narratives using shock value.",
             "kill_chain_phases": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--3fd2c1db-d8ab-4dda-a02c-0b9c76cdf2b1",
+    "id": "bundle--e076c448-5a8c-464e-88ee-dea6478fb020",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--7d5ba27c-12c7-4a30-8624-e1ea6670f0f8",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.208447Z",
-            "modified": "2023-09-28T21:25:13.208447Z",
+            "created": "2024-08-02T17:12:32.345448Z",
+            "modified": "2024-08-02T17:12:32.345448Z",
             "name": "Boycott/\"Cancel\" Opponents",
             "description": "Cancel culture refers to the phenomenon in which individuals collectively refrain from supporting an individual, organisation, business, or other entity, usually following a real or falsified controversy. An influence operation may exploit cancel culture by emphasising an adversary\u2019s problematic or disputed behaviour and presenting its own content as an alternative.",
             "kill_chain_phases": [

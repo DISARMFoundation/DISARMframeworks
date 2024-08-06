@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--92bb24f3-0189-4c1b-8650-52ee3c63e2fa",
+    "id": "bundle--deb25743-ee30-42c8-a86d-7368e5fa0cd8",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--11352e9a-a52b-4ade-ad4f-ec64a15fa1d5",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.254922Z",
-            "modified": "2023-09-28T21:25:13.254922Z",
+            "created": "2024-08-02T17:12:32.396562Z",
+            "modified": "2024-08-02T17:12:32.396562Z",
             "name": "Create Localised Content",
             "description": "Localised content refers to content that appeals to a specific community of individuals, often in defined geographic areas. An operation may create localised content using local language and dialects to resonate with its target audience and blend in with other local news and social media. Localised content may help an operation increase legitimacy, avoid detection, and complicate external attribution.",
             "kill_chain_phases": [

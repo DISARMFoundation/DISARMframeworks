@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--d8b477d9-a711-4fa8-9365-0a9b887fe22c",
+    "id": "bundle--8eec3736-f862-4ca7-8efd-689e0dfb6ae9",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--7b32abce-e101-4dc3-98db-30b79c0c8397",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.212278Z",
-            "modified": "2023-09-28T21:25:13.212278Z",
+            "created": "2024-08-02T17:12:32.352216Z",
+            "modified": "2024-08-02T17:12:32.352216Z",
             "name": "Pay for Physical Action",
             "description": "Paying for physical action occurs when an influence operation pays individuals to act in the physical realm. An influence operation may pay for physical action to create specific situations and frame them in a way that supports operation narratives, for example, paying a group of people to burn a car to later post an image of the burning car and frame it as an act of protest.",
             "kill_chain_phases": [

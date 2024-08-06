@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--46e473a1-d709-413c-a20b-a07be00df40c",
+    "id": "bundle--f8f64ce8-48f8-4f4e-a447-ee09899bfade",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--77cb282d-d6e6-4d86-87bf-08a2483bdbb6",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.202323Z",
-            "modified": "2023-09-28T21:25:13.202323Z",
+            "created": "2024-08-02T17:12:32.342854Z",
+            "modified": "2024-08-02T17:12:32.342854Z",
             "name": "Online Polls",
             "description": "Create fake online polls, or manipulate existing online polls. Data gathering tactic to target those who engage, and potentially their networks of friends/followers as well",
             "kill_chain_phases": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--d2749ee7-7179-48c3-998d-43b21534cef2",
+    "id": "bundle--0a531c75-af81-4699-b26d-d47b9c7eea5a",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--e7b62982-106f-4234-9545-9466c687d1b5",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.280391Z",
-            "modified": "2023-09-28T21:25:13.280391Z",
+            "created": "2024-08-02T17:12:32.415971Z",
+            "modified": "2024-08-02T17:12:32.415971Z",
             "name": "Coordinate on Encrypted/Closed Networks",
             "description": "Coordinate on encrypted/ closed networks",
             "kill_chain_phases": [

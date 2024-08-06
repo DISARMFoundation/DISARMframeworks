@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--6a0de0a1-88d4-4005-8a2c-e41f4063bb91",
+    "id": "bundle--d21e749a-399c-40b4-9c7b-209f278ef8c2",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--36f4dc58-e164-4819-83f8-52875377ff16",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.204899Z",
-            "modified": "2023-09-28T21:25:13.204899Z",
+            "created": "2024-08-02T17:12:32.344084Z",
+            "modified": "2024-08-02T17:12:32.344084Z",
             "name": "Use Encrypted Chat Apps",
             "description": "Examples include Signal, WhatsApp, Discord, Wire, etc.",
             "kill_chain_phases": [

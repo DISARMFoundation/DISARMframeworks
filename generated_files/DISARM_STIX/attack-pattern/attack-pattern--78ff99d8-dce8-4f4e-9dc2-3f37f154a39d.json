@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--b7d6a53c-a9ed-44a3-a1d1-84ef0d342f9a",
+    "id": "bundle--c446d440-549e-4aa9-ba41-4492a2ce1daa",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--78ff99d8-dce8-4f4e-9dc2-3f37f154a39d",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.259826Z",
-            "modified": "2023-09-28T21:25:13.259826Z",
+            "created": "2024-08-02T17:12:32.40304Z",
+            "modified": "2024-08-02T17:12:32.40304Z",
             "name": "Photo Sharing",
             "description": "Examples include Instagram, Snapchat, Flickr, etc",
             "kill_chain_phases": [

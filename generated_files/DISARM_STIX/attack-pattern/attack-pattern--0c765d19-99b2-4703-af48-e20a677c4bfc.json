@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--6ac57769-ec69-4864-9538-3087bbba30c8",
+    "id": "bundle--af67a6d7-fd4e-496d-aaad-7c9eb0bb0f2a",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--0c765d19-99b2-4703-af48-e20a677c4bfc",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.21044Z",
-            "modified": "2023-09-28T21:25:13.21044Z",
-            "name": "Flooding the Information Space",
-            "description": "Flooding and/or mobbing social media channels feeds and/or hashtag with excessive volume of content to control/shape online conversations and/or drown out opposing points of view. Bots and/or patriotic trolls are effective tools to acheive this effect.",
+            "created": "2024-08-02T17:12:32.347894Z",
+            "modified": "2024-08-02T17:12:32.347894Z",
+            "name": "Flood Information Space",
+            "description": "Flooding sources of information (e.g. Social Media feeds) with a high volume of inauthentic content.<br /> <br />This can be done to control/shape online conversations, drown out opposing points of view, or make it harder to find legitimate information.<br /> <br />Bots and/or patriotic trolls are effective tools to achieve this effect.<br /> <br />This Technique previously used the name Flooding the Information Space.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",

@@ -1,20 +1,20 @@
 {
     "type": "bundle",
-    "id": "bundle--44b54358-5c40-480e-aa9a-68360f78d977",
+    "id": "bundle--a0734a2b-050b-4fbb-8f59-113ea5306ba4",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--81abb4fa-705e-430f-ba54-34bf7bd467f7",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.24201Z",
-            "modified": "2023-09-28T21:25:13.24201Z",
+            "created": "2024-08-02T17:12:32.377997Z",
+            "modified": "2024-08-02T17:12:32.377997Z",
             "name": "Create Sockpuppet Accounts",
             "description": "Sockpuppet accounts refer to falsified accounts that either promote the influence operation\u2019s own material or attack critics of the material online. Individuals who control sockpuppet accounts also man at least one other user account.67 Sockpuppet accounts help legitimise operation narratives by providing an appearance of external support for the material and discrediting opponents of the operation.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "establish-social-assets"
+                    "phase_name": "establish-assets"
                 }
             ],
             "external_references": [

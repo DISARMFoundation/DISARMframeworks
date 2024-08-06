@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--51f16e01-ddc2-4041-b0c4-1ace51e2a411",
+    "id": "bundle--a6a37e35-0f27-4cba-96ad-ec1578a7091d",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--bc2a6754-44d0-4fe3-8461-e3a4af895835",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.20799Z",
-            "modified": "2023-09-28T21:25:13.20799Z",
+            "created": "2024-08-02T17:12:32.34527Z",
+            "modified": "2024-08-02T17:12:32.34527Z",
             "name": "Harass",
             "description": "Threatening or harassing believers of opposing narratives refers to the use of intimidation techniques, including cyberbullying and doxing, to discourage opponents from voicing their dissent. An influence operation may threaten or harass believers of the opposing narratives to deter individuals from posting or proliferating conflicting content.",
             "kill_chain_phases": [

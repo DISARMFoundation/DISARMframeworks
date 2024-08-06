@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--d11bf15d-911d-4c37-af5d-e6352f6d86a0",
+    "id": "bundle--94010742-6525-4836-8c4a-91b4191770d9",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--d2536dd3-53a5-4fc1-b508-1697cf0dafde",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.289186Z",
-            "modified": "2023-09-28T21:25:13.289186Z",
+            "created": "2024-08-02T17:12:32.420363Z",
+            "modified": "2024-08-02T17:12:32.420363Z",
             "name": "Content",
             "description": "Measure current system state with respect to the effectiveness of campaign content.",
             "kill_chain_phases": [

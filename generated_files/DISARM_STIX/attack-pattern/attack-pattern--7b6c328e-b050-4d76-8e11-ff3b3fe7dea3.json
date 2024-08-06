@@ -1,16 +1,16 @@
 {
     "type": "bundle",
-    "id": "bundle--4fad99fd-bde0-40eb-8fbf-ade474cc4d6a",
+    "id": "bundle--ecdb442e-b776-4eda-b607-0433dfd78c34",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--7b6c328e-b050-4d76-8e11-ff3b3fe7dea3",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.233365Z",
-            "modified": "2023-09-28T21:25:13.233365Z",
+            "created": "2024-08-02T17:12:32.374151Z",
+            "modified": "2024-08-02T17:12:32.374151Z",
             "name": "Develop AI-Generated Images (Deepfakes)",
-            "description": "Deepfakes refer to AI-generated falsified photos, videos, or soundbites. An influence operation may use deepfakes to depict an inauthentic situation by synthetically recreating an individual\u2019s face, body, voice, and physical gestures.",
+            "description": "Deepfakes refer to AI-generated falsified photos, videos, or soundbites. An influence operation may use deepfakes to depict an inauthentic situation by synthetically recreating an individual\u2019s face, body, voice, and physical gestures.<br><br> <b>Associated Techniques and Sub-techniques:</b><br> <b>T0145.002: AI-Generated Account Imagery:</b> Analysts should use this sub-technique to document use of AI generated imagery in accounts\u2019 profile pictures or other account imagery.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",

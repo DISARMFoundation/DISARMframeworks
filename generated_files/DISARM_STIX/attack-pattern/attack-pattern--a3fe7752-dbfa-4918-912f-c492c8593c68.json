@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--0f66521c-a8c9-4b14-a55d-48f5f0c5af67",
+    "id": "bundle--618d1361-e300-470d-92cd-f27943d56ad8",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--a3fe7752-dbfa-4918-912f-c492c8593c68",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.228888Z",
-            "modified": "2023-09-28T21:25:13.228888Z",
+            "created": "2024-08-02T17:12:32.369332Z",
+            "modified": "2024-08-02T17:12:32.369332Z",
             "name": "Plagiarise Content",
             "description": "An influence operation may take content from other sources without proper attribution. This content may be either misinformation content shared by others without malicious intent but now leveraged by the campaign as disinformation or disinformation content from other sources.",
             "kill_chain_phases": [

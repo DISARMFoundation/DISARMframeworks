@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--80ec494f-bad1-4f84-85b0-cf9cfde169f7",
+    "id": "bundle--1f5ef84b-c3a1-4714-97b6-2a1ad201a911",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--1997947a-7e08-4ea9-802c-85391d561266",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.268338Z",
-            "modified": "2023-09-28T21:25:13.268338Z",
+            "created": "2024-08-02T17:12:32.406924Z",
+            "modified": "2024-08-02T17:12:32.406924Z",
             "name": "Post Content",
             "description": "Delivering content by posting via owned media (assets that the operator controls).",
             "kill_chain_phases": [

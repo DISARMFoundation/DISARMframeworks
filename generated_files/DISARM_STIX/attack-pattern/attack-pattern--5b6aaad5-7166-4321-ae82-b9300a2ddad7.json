@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--8e15485e-1631-4178-8da2-e86150b9d873",
+    "id": "bundle--8c4e5ccf-06b0-434d-b9ce-a9de90240c74",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5b6aaad5-7166-4321-ae82-b9300a2ddad7",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.236325Z",
-            "modified": "2023-09-28T21:25:13.236325Z",
+            "created": "2024-08-02T17:12:32.375987Z",
+            "modified": "2024-08-02T17:12:32.375987Z",
             "name": "Develop Audio-Based Content",
             "description": "Creating and editing false or misleading audio artefacts, often aligned with one or more specific narratives, for use in a disinformation campaign. This may include creating completely new audio content, repurposing existing audio artefacts (including cheap fakes), or using AI-generated audio creation and editing technologies (including deepfakes).",
             "kill_chain_phases": [

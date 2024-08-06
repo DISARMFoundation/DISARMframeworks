@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--550cf650-4fca-47bf-99bf-38d539ff020f",
+    "id": "bundle--c3dc8d66-8904-476b-8c75-f3cb67c57345",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--67afaa3d-ffd7-4ad5-bcb0-e77962c084cf",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.287935Z",
-            "modified": "2023-09-28T21:25:13.287935Z",
+            "created": "2024-08-02T17:12:32.418954Z",
+            "modified": "2024-08-02T17:12:32.418954Z",
             "name": "Post Borderline Content",
             "description": "Post Borderline Content",
             "kill_chain_phases": [

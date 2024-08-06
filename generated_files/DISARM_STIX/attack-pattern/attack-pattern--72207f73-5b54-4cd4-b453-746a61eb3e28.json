@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--89c5bd5c-55e6-4a88-a00a-5b6dca031dcc",
+    "id": "bundle--85440c9e-6851-4af9-882f-4e6df09e0ec6",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--72207f73-5b54-4cd4-b453-746a61eb3e28",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.19624Z",
-            "modified": "2023-09-28T21:25:13.19624Z",
+            "created": "2024-08-02T17:12:32.336655Z",
+            "modified": "2024-08-02T17:12:32.336655Z",
             "name": "Conduct Crowdfunding Campaigns",
             "description": "An influence operation may Conduct Crowdfunding Campaigns on platforms such as GoFundMe, GiveSendGo, Tipeee, Patreon, etc.",
             "kill_chain_phases": [

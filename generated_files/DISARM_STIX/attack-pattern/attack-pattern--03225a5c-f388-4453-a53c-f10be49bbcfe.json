@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--482fef6d-55ff-4da9-a49e-ceb149aae6ea",
+    "id": "bundle--35be0875-c21a-44f2-be60-c3c4ee5cb39f",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--03225a5c-f388-4453-a53c-f10be49bbcfe",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.273066Z",
-            "modified": "2023-09-28T21:25:13.273066Z",
+            "created": "2024-08-02T17:12:32.409015Z",
+            "modified": "2024-08-02T17:12:32.409015Z",
             "name": "Post across Platform",
             "description": "An influence operation may post content across platforms to spread narratives and content to new communities within the target audiences or to new target audiences. Posting across platforms can also remove opposition and context, helping the narrative spread with less opposition on the cross-posted platform.",
             "kill_chain_phases": [

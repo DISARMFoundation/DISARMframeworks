@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--c1b1845f-f5b0-4d07-abe1-d98f26c7c32f",
+    "id": "bundle--d650442f-22ab-42d3-bea3-c13f4165fc2a",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--556fa171-ffd0-4787-84fa-171b99c703b5",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.27495Z",
-            "modified": "2023-09-28T21:25:13.27495Z",
+            "created": "2024-08-02T17:12:32.411369Z",
+            "modified": "2024-08-02T17:12:32.411369Z",
             "name": "Destroy Information Generation Capabilities",
             "description": "Destroying information generation capabilities refers to actions taken to limit, degrade, or otherwise incapacitate an actor\u2019s ability to generate conflicting information. An influence operation may destroy an actor\u2019s information generation capabilities by physically dismantling the information infrastructure, disconnecting resources needed for information generation, or redirecting information generation personnel. An operation may destroy an adversary\u2019s information generation capabilities to limit conflicting content exposure to the target audience and crowd the information space with its own narratives.",
             "kill_chain_phases": [

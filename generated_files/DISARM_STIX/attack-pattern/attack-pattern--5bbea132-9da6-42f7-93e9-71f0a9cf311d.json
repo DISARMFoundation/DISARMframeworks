@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--a387b741-b82e-4d20-8103-66107fb30e72",
+    "id": "bundle--c3876de9-7079-46e1-9bf6-1cc71613610b",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5bbea132-9da6-42f7-93e9-71f0a9cf311d",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.273641Z",
-            "modified": "2023-09-28T21:25:13.273641Z",
+            "created": "2024-08-02T17:12:32.409621Z",
+            "modified": "2024-08-02T17:12:32.409621Z",
             "name": "Use Affiliate Marketing Programmes",
             "description": "Use Affiliate Marketing Programmes",
             "kill_chain_phases": [

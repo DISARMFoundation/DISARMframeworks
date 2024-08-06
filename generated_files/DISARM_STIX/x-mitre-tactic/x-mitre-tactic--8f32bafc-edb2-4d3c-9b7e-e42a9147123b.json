@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--c561d450-ae76-4161-9598-67847531f587",
+    "id": "bundle--b38671b6-d748-4ff8-8932-e644a7074118",
     "objects": [
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
             "id": "x-mitre-tactic--8f32bafc-edb2-4d3c-9b7e-e42a9147123b",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.187908Z",
-            "modified": "2023-09-28T21:25:13.187908Z",
+            "created": "2024-08-02T17:12:32.323279Z",
+            "modified": "2024-08-02T17:12:32.323279Z",
             "name": "Establish Legitimacy",
             "description": "Establish assets that create trust",
             "external_references": [

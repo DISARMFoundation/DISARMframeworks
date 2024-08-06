@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--81faea92-2ee5-4a46-968a-c4afd56650d2",
+    "id": "bundle--14187f9e-f0f2-413d-9320-0e0acde61759",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--9cf02828-bd4c-4b04-a9f0-bb67ec3b0493",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2023-09-28T21:25:13.19059Z",
-            "modified": "2023-09-28T21:25:13.19059Z",
+            "created": "2024-08-02T17:12:32.329903Z",
+            "modified": "2024-08-02T17:12:32.329903Z",
             "name": "Leverage Existing Narratives",
             "description": "Use or adapt existing narrative themes, where narratives are the baseline stories of a target audience. Narratives form the bedrock of our worldviews. New information is understood through a process firmly grounded in this bedrock. If new information is not consitent with the prevailing narratives of an audience, it will be ignored. Effective campaigns will frame their misinformation in the context of these narratives. Highly effective campaigns will make extensive use of audience-appropriate archetypes and meta-narratives throughout their content creation and amplifiction practices.",
             "kill_chain_phases": [
