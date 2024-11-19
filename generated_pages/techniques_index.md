@@ -26,21 +26,9 @@
 <td>TA14</td>
 </tr>
 <tr>
-<td><a href="techniques/T0007.md">T0007</a></td>
-<td>Create Inauthentic Social Media Pages and Groups</td>
-<td>Create key social engineering assets needed to amplify content, manipulate algorithms, fool public and/or specific incident/campaign targets. Computational propaganda depends substantially on false perceptions of credibility and acceptance. By creating fake users and groups with a variety of interests and commitments, attackers can ensure that their messages both come from trusted sources and appear more widely adopted than they actually are.</td>
-<td>TA15</td>
-</tr>
-<tr>
 <td><a href="techniques/T0010.md">T0010</a></td>
 <td>Cultivate Ignorant Agents</td>
 <td>Cultivate propagandists for a cause, the goals of which are not fully comprehended, and who are used cynically by the leaders of the cause. Independent actors use social media and specialised web sites to strategically reinforce and spread messages compatible with their own. Their networks are infiltrated and used by state media disinformation organisations to amplify the state’s own disinformation strategies against target populations. Many are traffickers in conspiracy theories or hoaxes, unified by a suspicion of Western governments and mainstream media. Their narratives, which appeal to leftists hostile to globalism and military intervention and nationalists against immigration, are frequently infiltrated and shaped by state-controlled trolls and altered news items from agencies such as RT and Sputnik. Also know as "useful idiots" or "unwitting agents".</td>
-<td>TA15</td>
-</tr>
-<tr>
-<td><a href="techniques/T0013.md">T0013</a></td>
-<td>Create Inauthentic Websites</td>
-<td>Create media assets to support inauthentic organisations (e.g. think tank), people (e.g. experts) and/or serve as sites to distribute malware/launch phishing operations.</td>
 <td>TA15</td>
 </tr>
 <tr>
@@ -65,6 +53,18 @@
 <td><a href="techniques/T0015.md">T0015</a></td>
 <td>Create Hashtags and Search Artefacts</td>
 <td>Create one or more hashtags and/or hashtag groups. Many incident-based campaigns will create hashtags to promote their fabricated event. Creating a hashtag for an incident can have two important effects: 1. Create a perception of reality around an event. Certainly only "real" events would be discussed in a hashtag. After all, the event has a name!, and 2. Publicise the story more widely through trending lists and search behaviour. Asset needed to direct/control/manage "conversation" connected to launching new incident/campaign with new hashtag for applicable social media sites).</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0015.001.md">T0015.001</a></td>
+<td>Use Existing Hashtag</td>
+<td>Use a dedicated, existing hashtag for the campaign/incident. This Technique covers behaviours previously documented by T0104.005: Use Hashtags, which has since been deprecated.  </td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0015.002.md">T0015.002</a></td>
+<td>Create New Hashtag</td>
+<td>Create a campaign/incident specific hashtag. This Technique covers behaviours previously documented by T0104.006: Create Dedicated Hashtag, which has since been deprecated. </td>
 <td>TA06</td>
 </tr>
 <tr>
@@ -156,24 +156,6 @@
 <td>Seed Kernel of Truth</td>
 <td>Wrap lies or altered context/facts around truths. Influence campaigns pursue a variety of objectives with respect to target audiences, prominent among them: 1. undermine a narrative commonly referenced in the target audience; or 2. promote a narrative less common in the target audience, but preferred by the attacker. In both cases, the attacker is presented with a heavy lift. They must change the relative importance of various narratives in the interpretation of events, despite contrary tendencies. When messaging makes use of factual reporting to promote these adjustments in the narrative space, they are less likely to be dismissed out of hand; when messaging can juxtapose a (factual) truth about current affairs with the (abstract) truth explicated in these narratives, propagandists can undermine or promote them selectively. Context matters.</td>
 <td>TA08</td>
-</tr>
-<tr>
-<td><a href="techniques/T0043.md">T0043</a></td>
-<td>Chat Apps</td>
-<td>Direct messaging via chat app is an increasing method of delivery. These messages are often automated and new delivery and storage methods make them anonymous, viral, and ephemeral. This is a difficult space to monitor, but also a difficult space to build acclaim or notoriety.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0043.001.md">T0043.001</a></td>
-<td>Use Encrypted Chat Apps</td>
-<td>Examples include Signal, WhatsApp, Discord, Wire, etc.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0043.002.md">T0043.002</a></td>
-<td>Use Unencrypted Chats Apps</td>
-<td>Examples include SMS, etc.</td>
-<td>TA07</td>
 </tr>
 <tr>
 <td><a href="techniques/T0044.md">T0044</a></td>
@@ -710,36 +692,6 @@
 <td>TA06</td>
 </tr>
 <tr>
-<td><a href="techniques/T0090.md">T0090</a></td>
-<td>Create Inauthentic Accounts</td>
-<td>Inauthentic accounts include bot accounts, cyborg accounts, sockpuppet accounts, and anonymous accounts.</td>
-<td>TA15</td>
-</tr>
-<tr>
-<td><a href="techniques/T0090.001.md">T0090.001</a></td>
-<td>Create Anonymous Accounts</td>
-<td>Anonymous accounts or anonymous users refer to users that access network resources without providing a username or password. An influence operation may use anonymous accounts to spread content without direct attribution to the operation.</td>
-<td>TA15</td>
-</tr>
-<tr>
-<td><a href="techniques/T0090.002.md">T0090.002</a></td>
-<td>Create Cyborg Accounts</td>
-<td>Cyborg accounts refer to partly manned, partly automated social media accounts. Cyborg accounts primarily act as bots, but a human operator periodically takes control of the account to engage with real social media users by responding to comments and posting original content. Influence operations may use cyborg accounts to reduce the amount of direct human input required to maintain a regular account but increase the apparent legitimacy of the cyborg account by occasionally breaking its bot-like behaviour with human interaction.</td>
-<td>TA15</td>
-</tr>
-<tr>
-<td><a href="techniques/T0090.003.md">T0090.003</a></td>
-<td>Create Bot Accounts</td>
-<td>Bots refer to autonomous internet users that interact with systems or other users while imitating traditional human behaviour. Bots use a variety of tools to stay active without direct human operation, including artificial intelligence and big data analytics. For example, an individual may programme a Twitter bot to retweet a tweet every time it contains a certain keyword or hashtag. An influence operation may use bots to increase its exposure and artificially promote its content across the internet without dedicating additional time or human resources. Amplifier bots promote operation content through reposts, shares, and likes to increase the content’s online popularity. Hacker bots are traditionally covert bots running on computer scripts that rarely engage with users and work primarily as agents of larger cyberattacks, such as a Distributed Denial of Service attacks. Spammer bots are programmed to post content on social media or in comment sections, usually as a supplementary tool. Impersonator bots102 pose as real people by mimicking human behaviour, complicating their detection.</td>
-<td>TA15</td>
-</tr>
-<tr>
-<td><a href="techniques/T0090.004.md">T0090.004</a></td>
-<td>Create Sockpuppet Accounts</td>
-<td>Sockpuppet accounts refer to falsified accounts that either promote the influence operation’s own material or attack critics of the material online. Individuals who control sockpuppet accounts also man at least one other user account.67 Sockpuppet accounts help legitimise operation narratives by providing an appearance of external support for the material and discrediting opponents of the operation.</td>
-<td>TA15</td>
-</tr>
-<tr>
 <td><a href="techniques/T0091.md">T0091</a></td>
 <td>Recruit Malign Actors</td>
 <td>Operators recruit bad actors paying recruiting, or exerting control over individuals includes trolls, partisans, and contractors.</td>
@@ -910,7 +862,7 @@
 <tr>
 <td><a href="techniques/T0097.109.md">T0097.109</a></td>
 <td>Romantic Suitor Persona</td>
-<td>A person with a romantic suitor persona presents themselves as seeking a romantic or physical connection with another person.<br><br>While presenting as seeking a romantic or physical connection is not an indication of inauthentic behaviour, threat actors can use dating apps, social media channels or dating websites to fabricate romantic suitors to lure targets they can blackmail, extract information from, deceive or trick into giving them money (T0143.002: Fabricated Persona, T0097.109: Romantic Suitor Persona).<br><br>Honeypotting in espionage and Big Butchering in scamming are commonly associated with romantic suitor personas.<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0104.002: Dating App:</b> Analysts can use this sub-technique for tagging cases where an account has been identified as using a dating platform.</td>
+<td>A person with a romantic suitor persona presents themselves as seeking a romantic or physical connection with another person.<br><br>While presenting as seeking a romantic or physical connection is not an indication of inauthentic behaviour, threat actors can use dating apps, social media channels or dating websites to fabricate romantic suitors to lure targets they can blackmail, extract information from, deceive or trick into giving them money (T0143.002: Fabricated Persona, T0097.109: Romantic Suitor Persona).<br><br>Honeypotting in espionage and Big Butchering in scamming are commonly associated with romantic suitor personas.<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0151.017: Dating Platform:</b> Analysts can use this sub-technique for tagging cases where an account has been identified as using a dating platform.</td>
 <td>TA16</td>
 </tr>
 <tr>
@@ -1058,111 +1010,9 @@
 <td>TA05</td>
 </tr>
 <tr>
-<td><a href="techniques/T0103.md">T0103</a></td>
-<td>Livestream</td>
-<td>A livestream refers to an online broadcast capability that allows for real-time communication to closed or open networks.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0103.001.md">T0103.001</a></td>
-<td>Video Livestream</td>
-<td>A video livestream refers to an online video broadcast capability that allows for real-time communication to closed or open networks.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0103.002.md">T0103.002</a></td>
-<td>Audio Livestream</td>
-<td>An audio livestream refers to an online audio broadcast capability that allows for real-time communication to closed or open networks.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0104.md">T0104</a></td>
-<td>Social Networks</td>
-<td>Social media are interactive digital channels that facilitate the creation and sharing of information, ideas, interests, and other forms of expression through virtual communities and networks.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0104.001.md">T0104.001</a></td>
-<td>Mainstream Social Networks</td>
-<td>Examples include Facebook, Twitter, LinkedIn, etc.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0104.002.md">T0104.002</a></td>
-<td>Dating App</td>
-<td>“Dating App” refers to any platform (or platform feature) in which the ostensive purpose is for users to develop a physical/romantic relationship with other users.<br /> <br />Threat Actors can exploit users’ quest for love to trick them into doing things like revealing sensitive information or giving them money.<br /> <br />Examples include Tinder, Bumble, Grindr, Facebook Dating, Tantan, Badoo, Plenty of Fish, hinge, LOVOO, OkCupid, happn, and Mamba.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097.109: Romantic Suitor Persona:</b> Analysts can use this sub-technique for tagging cases where an account presents itself as seeking a romantic or physical connection with another person.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0104.003.md">T0104.003</a></td>
-<td>Private/Closed Social Networks</td>
-<td>Social networks that are not open to people outside of family, friends, neighbours, or co-workers. Non-work-related examples include Couple, FamilyWall, 23snaps, and Nextdoor.  Some of the larger social network platforms enable closed communities: examples are Instagram Close Friends and Twitter (X) Circle. Work-related examples of private social networks include LinkedIn, Facebook Workplace, and enterprise communication platforms such as Slack or Microsoft Teams.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0104.004.md">T0104.004</a></td>
-<td>Interest-Based Networks</td>
-<td>Examples include smaller and niche networks including Gettr, Truth Social, Parler, etc.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0104.005.md">T0104.005</a></td>
-<td>Use Hashtags</td>
-<td>Use a dedicated, existing hashtag for the campaign/incident.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0104.006.md">T0104.006</a></td>
-<td>Create Dedicated Hashtag</td>
-<td>Create a campaign/incident specific hashtag.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0105.md">T0105</a></td>
-<td>Media Sharing Networks</td>
-<td>Media sharing networks refer to services whose primary function is the hosting and sharing of specific forms of media. Examples include Instagram, Snapchat, TikTok, Youtube, SoundCloud.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0105.001.md">T0105.001</a></td>
-<td>Photo Sharing</td>
-<td>Examples include Instagram, Snapchat, Flickr, etc</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0105.002.md">T0105.002</a></td>
-<td>Video Sharing</td>
-<td>Examples include Youtube, TikTok, ShareChat, Rumble, etc</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0105.003.md">T0105.003</a></td>
-<td>Audio Sharing</td>
-<td>Examples include podcasting apps, Soundcloud, etc.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0106.md">T0106</a></td>
-<td>Discussion Forums</td>
-<td>Platforms for finding, discussing, and sharing information and opinions. Examples include Reddit, Quora, Digg, message boards, interest-based discussion forums, etc.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0106.001.md">T0106.001</a></td>
-<td>Anonymous Message Boards</td>
-<td>Examples include the Chans</td>
-<td>TA07</td>
-</tr>
-<tr>
 <td><a href="techniques/T0107.md">T0107</a></td>
 <td>Bookmarking and Content Curation</td>
 <td>Platforms for searching, sharing, and curating content and media. Examples include Pinterest, Flipboard, etc.</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0108.md">T0108</a></td>
-<td>Blogging and Publishing Networks</td>
-<td>Examples include WordPress, Blogger, Weebly, Tumblr, Medium, etc.</td>
 <td>TA07</td>
 </tr>
 <tr>
@@ -1199,12 +1049,6 @@
 <td><a href="techniques/T0111.003.md">T0111.003</a></td>
 <td>Radio</td>
 <td>Radio</td>
-<td>TA07</td>
-</tr>
-<tr>
-<td><a href="techniques/T0112.md">T0112</a></td>
-<td>Email</td>
-<td>Delivering content and narratives via email. This can include using list management or high-value individually targeted messaging.</td>
 <td>TA07</td>
 </tr>
 <tr>
@@ -1517,12 +1361,6 @@
 <td><a href="techniques/T0129.007.md">T0129.007</a></td>
 <td>Delete Accounts/Account Activity</td>
 <td>Deleting accounts and account activity occurs when an influence operation removes its online social media assets, including social media accounts, posts, likes, comments, and other online artefacts. An influence operation may delete its accounts and account activity to complicate attribution or remove online documentation that the operation ever occurred.</td>
-<td>TA11</td>
-</tr>
-<tr>
-<td><a href="techniques/T0129.008.md">T0129.008</a></td>
-<td>Redirect URLs</td>
-<td>An influence operation may redirect its falsified or typosquatted URLs to legitimate websites to increase the operation's appearance of legitimacy, complicate attribution, and avoid detection.</td>
 <td>TA11</td>
 </tr>
 <tr>
@@ -1868,24 +1706,6 @@
 <td>TA02</td>
 </tr>
 <tr>
-<td><a href="techniques/T0141.md">T0141</a></td>
-<td>Acquire Compromised Asset</td>
-<td>Threat Actors may take over existing assets not owned by them through nefarious means, such as using technical exploits, hacking, purchasing compromised accounts from the dark web, or social engineering.</td>
-<td>TA15</td>
-</tr>
-<tr>
-<td><a href="techniques/T0141.001.md">T0141.001</a></td>
-<td>Acquire Compromised Account</td>
-<td>Threat Actors can take over existing users’ accounts to distribute campaign content.<br /> <br />The actor may maintain the asset’s previous identity to capitalise on the perceived legitimacy its previous owner had cultivated.<br /> <br />The actor may completely rebrand the account to exploit its existing reach, or relying on the account’s history to avoid more stringent automated content moderation rules applied to new accounts.<br /> <br />See also [Mitre ATT&CK’s T1586 Compromise Accounts](https://attack.mitre.org/techniques/T1586/) for more technical information on how threat actors may achieve this objective.<br /> <br />This Technique was previously called Compromise Legitimate Accounts, and used the ID T0011.</td>
-<td>TA15</td>
-</tr>
-<tr>
-<td><a href="techniques/T0141.002.md">T0141.002</a></td>
-<td>Acquire Compromised Website</td>
-<td>Threat Actors may take over existing websites to publish or amplify inauthentic narratives. This includes the defacement of websites, and cases where websites’ personas are maintained to add credence to threat actors’ narratives.<br /> <br />See also [Mitre ATT&CK’s T1584 Compromise Infrastructure](https://attack.mitre.org/techniques/T1584/) for more technical information on how threat actors may achieve this objective.</td>
-<td>TA15</td>
-</tr>
-<tr>
 <td><a href="techniques/T0143.md">T0143</a></td>
 <td>Persona Legitimacy</td>
 <td>This Technique contains sub-techniques which analysts can use to assert whether an account is presenting an authentic, fabricated, or parody persona:<br><br> T0143.001: Authentic Persona<br> T0143.002: Fabricated Persona<br> T0143.003: Impersonated Persona<br> T0143.004: Parody Persona</td>
@@ -1972,7 +1792,7 @@
 <tr>
 <td><a href="techniques/T0145.006.md">T0145.006</a></td>
 <td>Attractive Person Account Imagery</td>
-<td>Attractive person used in account imagery.<br><br> An influence operation might flesh out its account by uploading account imagery (e.g. a profile picture), increasing its perceived authenticity.<br><br> Pictures of physically attractive people can benefit threat actors by increasing attention given to their posts.<br><br> People sometimes legitimately use images of attractive people as their profile picture, and threat actors can mimic this behaviour to avoid the risk of detection associated with stealing or AI-generating profile pictures (see T0145.001: Copy Account Imagery and T0145.002: AI-Generated Account Imagery).<br><br> This Technique is often used by Coordinated Inauthentic Behaviour accounts (CIBs). A collection of accounts displaying the same behaviour using similar account imagery can indicate the presence of CIB.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097.109: Romantic Suitor Persona:</b> Accounts presenting as a romantic suitor may use an attractive person in their account imagery.<br> <b>T0104.002: Dating App:</b> Analysts can use this sub-technique for tagging cases where an account has been identified as using a dating platform.</td>
+<td>Attractive person used in account imagery.<br><br> An influence operation might flesh out its account by uploading account imagery (e.g. a profile picture), increasing its perceived authenticity.<br><br> Pictures of physically attractive people can benefit threat actors by increasing attention given to their posts.<br><br> People sometimes legitimately use images of attractive people as their profile picture, and threat actors can mimic this behaviour to avoid the risk of detection associated with stealing or AI-generating profile pictures (see T0145.001: Copy Account Imagery and T0145.002: AI-Generated Account Imagery).<br><br> This Technique is often used by Coordinated Inauthentic Behaviour accounts (CIBs). A collection of accounts displaying the same behaviour using similar account imagery can indicate the presence of CIB.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097.109: Romantic Suitor Persona:</b> Accounts presenting as a romantic suitor may use an attractive person in their account imagery.<br> <b>T0151.017: Dating Platform:</b> Analysts can use this sub-technique for tagging cases where an account has been identified as using a dating platform.</td>
 <td>TA15</td>
 </tr>
 <tr>
@@ -1980,5 +1800,557 @@
 <td>Stock Image Account Imagery</td>
 <td>Stock images used in account imagery.<br><br> Stock image websites produce photos of people in various situations. Threat Actors can purchase or appropriate these images for use in their account imagery, increasing perceived legitimacy while avoiding the risk of detection associated with stealing or AI-generating profile pictures (see T0145.001: Copy Account Imagery and T0145.002: AI-Generated Account Imagery). <br><br> Stock images tend to include physically attractive people, and this can benefit threat actors by increasing attention given to their posts.<br><br> This Technique is often used by Coordinated Inauthentic Behaviour accounts (CIBs). A collection of accounts displaying the same behaviour using similar account imagery can indicate the presence of CIB.</td>
 <td>TA15</td>
+</tr>
+<tr>
+<td><a href="techniques/T0146.md">T0146</a></td>
+<td>Account</td>
+<td>An Account is a user-specific profile that allows access to the features and services of an online platform, typically requiring a username and password for authentication.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0146.001.md">T0146.001</a></td>
+<td>Free Account</td>
+<td>Many online platforms allow users to create free accounts on their platform. A Free Account is an Account which does not require payment at account creation and is not subscribed to paid platform features.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0146.002.md">T0146.002</a></td>
+<td>Paid Account</td>
+<td>Some online platforms afford accounts extra features, or other benefits, if the user pays a fee. For example, as of September 2024, content posted by a Paid Account on X (previously Twitter) is prioritised in the platform’s algorithm.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0146.003.md">T0146.003</a></td>
+<td>Verified Account</td>
+<td>Some online platforms apply badges of verification to accounts which meet certain criteria.<br><br>On some platforms (such as dating apps) a verification badge signifies that the account has passed the platform’s identity verification checks. On some platforms (such as X (previously Twitter)) a verification badge signifies that an account has paid for the platform’s service.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0146.004.md">T0146.004</a></td>
+<td>Administrator Account</td>
+<td>Some accounts will have special privileges / will be in control of the Digital Community Hosting Asset; for example, the Admin of a Facebook Page, a Moderator of a Subreddit, etc. etc.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0146.005.md">T0146.005</a></td>
+<td>Lookalike Account ID</td>
+<td>Many platforms which host online communities require creation of a username (or another unique identifier) when an Account is created.<br><br>Sometimes people create usernames which are visually similar to other existing accounts’ usernames. While this is not necessarily an indicator of malicious behaviour, actors can create Lookalike Account IDs to support Impersonations or Parody.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0146.006.md">T0146.006</a></td>
+<td>Open Access Platform</td>
+<td>Some online platforms allow users to take advantage of the platform’s features without creating an account. Examples include the Paste Platform Pastebin, and the Image Board Platforms 4chan and 8chan.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0146.007.md">T0146.007</a></td>
+<td>Automated Account</td>
+<td>An Automated Account is an account which is displaying automated behaviour, such as republishing or liking other accounts’ content, or publishing their own content.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0147.md">T0147</a></td>
+<td>Software</td>
+<td>A Software is a program developed to run on computers or devices that helps users achieve specific goals, such as improving productivity, automating tasks, or having fun.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0147.001.md">T0147.001</a></td>
+<td>Game</td>
+<td>A Game is Software which has been designed for interactive entertainment, where users take on challenges set by the game’s designers.<br><br>While Online Game Platforms allow people to play with each other, Games are designed for single player experiences.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0147.002.md">T0147.002</a></td>
+<td>Game Mod</td>
+<td>A Game Mod is a modification which can be applied to a Game or Multiplayer Online Game to add new content or functionality to the game.<br><br>Users can Modify Games to introduce new content to the game. Modified Games can be distributed on Software Delivery Platforms such as Steam or can be distributed within the Game or Multiplayer Online Game.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0147.003.md">T0147.003</a></td>
+<td>Malware</td>
+<td>Malware is Software which has been designed to cause harm or facilitate malicious behaviour on electronic devices.<br><br>DISARM recommends using the [MITRE ATT&CK Framework](https://attack.mitre.org/) to document malware types and their usage.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0147.004.md">T0147.004</a></td>
+<td>Mobile App</td>
+<td>A Mobile App is an application which has been designed to run on mobile operating systems, such as Android or iOS.<br><br>Mobile Apps can enable access to online platforms (e.g. Facebook’s mobile app) or can provide software which users can run offline on their device.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0148.md">T0148</a></td>
+<td>Financial Instrument</td>
+<td>A Financial Instrument is a platform or software that facilitates the sending, receiving, and management of money, enabling financial transactions between users or organisations.<br><br>Threat actors can deploy financial instruments legitimately to manage their own finances or illegitimately to support fraud schemes.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0148.001.md">T0148.001</a></td>
+<td>Online Banking Platform</td>
+<td>Online Banking Platforms are spaces provided by banks for their customers to manage their Bank Account online.<br><br>The Online Banking Platforms available differ by country. In the United Kingdom, examples of banking institutions which provide Online Banking Platforms include Lloyds, Barclays, and Monzo. In the United States, examples include Citibank, Chase, and Capital One.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0148.002.md">T0148.002</a></td>
+<td>Bank Account</td>
+<td>A Bank Account is a financial account that allows individuals or organisations to store, manage, and access their money, typically for saving, spending, or investment purposes.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0148.003.md">T0148.003</a></td>
+<td>Payment Processing Platform</td>
+<td>Stripe, Paypal, and Apple Pay, Chargebee, Recurly and Zuora are examples of Payment Processing Platforms.<br><br>Payment Processing Platforms produce programs providing Payment Processing or Subscription Processing capabilities which actors can use to set up online storefronts, or to take donations.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0148.004.md">T0148.004</a></td>
+<td>Payment Processing Capability</td>
+<td>A Payment Processing Capability is a feature of online platforms or software which enables the processing of one-off payments (e.g. an online checkout, or donation processing page).<br><br>Payment Processing Capabilities can enable platform users to purchase products or services or can facilitate donations to a given cause.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0148.005.md">T0148.005</a></td>
+<td>Subscription Processing Capability</td>
+<td>A Subscription Processing Capability is a feature of online platforms or software which enables the processing of recurring payments. <br><br>Subscription Processing Capabilities are typically used to enable recurring payments in exchange for continued access to products or services.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0148.006.md">T0148.006</a></td>
+<td>Crowdfunding Platform</td>
+<td>Kickstarter and GoFundMe are examples of Crowdfunding Platforms.<br><br>Crowdfunding Platforms enable users with Accounts to create projects for other platform users to finance, usually in exchange for access to fruits of the project.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0148.007.md">T0148.007</a></td>
+<td>eCommerce Platform</td>
+<td>Amazon, eBay and Etsy are examples of eCommerce Platforms.<br><br>eCommerce Platforms enable users with Accounts to create online storefronts from which other platform users can purchase goods or services.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0148.008.md">T0148.008</a></td>
+<td>Cryptocurrency Exchange Platform</td>
+<td>Coinbase and Kraken are examples of Cryptocurrency Exchange Platforms.<br><br>Cryptocurrency Exchange Platforms provide users a digital marketplace where they can buy, sell, and trade cryptocurrencies, such as Bitcoin or Ethereum. <br><br>Some Cryptocurrency Exchange Platforms allow users to create a Cryptocurrency Wallet.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0148.009.md">T0148.009</a></td>
+<td>Cryptocurrency Wallet</td>
+<td>A Cryptocurrency Wallet is a digital tool that allows users to store, send, and receive cryptocurrencies. It manages private and public keys, enabling secure access to a user's crypto assets.<br><br>An influence operation might use cryptocurrency to conceal that they are conducting operational activities, building assets, or sponsoring aligning entities.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0149.md">T0149</a></td>
+<td>Online Infrastructure</td>
+<td>Online Infrastructure consists of technical assets which enable online activity, such as domains, servers, and IP addresses.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0149.001.md">T0149.001</a></td>
+<td>Domain</td>
+<td>A Domain is a web address (such as “www.google.com”), used to navigate to Websites on the internet.<br><br>Domains differ from Websites in that Websites are considered to be developed web pages which host content, whereas Domains do not necessarily host public-facing web content. <br><br>A threat actor may register a new domain to bypass the old domain being blocked.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0149.002.md">T0149.002</a></td>
+<td>Email Domain</td>
+<td>An Email Domain is a Domain (such as “meta.com”) which has the ability to send emails. <br><br>Any Domain which has an MX (Mail Exchange) record and configured SMTP (Simple Mail Transfer Protocol) settings can send and receive emails, and is therefore an Email Domain. </td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0149.003.md">T0149.003</a></td>
+<td>Lookalike Domain</td>
+<td>A Lookalike Domain is a Domain which is visually similar to another Domain, with the potential for web users to mistake one domain for the other.<br><br>Threat actors who want to impersonate organisations’ websites have been observed using a variety of domain impersonation methods. For example, actors wanting to create a domain impersonating netflix.com may use methods such as typosquatting (e.g. n3tflix.com), combosquatting (e.g. netflix-billing.com), or TLD swapping (e.g. netflix.top).</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0149.004.md">T0149.004</a></td>
+<td>Redirecting Domain</td>
+<td>A Redirecting Domain is a Domain which has been configured to redirect users to another Domain when visited.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0149.005.md">T0149.005</a></td>
+<td>Server</td>
+<td>A Server is a computer which provides resources, services, or data to other computers over a network. There are different types of servers, such as web servers (which serve web pages and applications to users), database servers (which manage and provide access to databases), and file servers (which store and share files across a network).</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0149.006.md">T0149.006</a></td>
+<td>IP Address</td>
+<td>An IP Address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. IP addresses are commonly a part of any online infrastructure.<br><br>IP addresses can be in IPV4 dotted decimal (x.x.x.x) or IPV6 colon-separated hexadecimal (y:y:y:y:y:y:y:y) formats. </td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0149.007.md">T0149.007</a></td>
+<td>VPN</td>
+<td>A VPN (Virtual Private Network) is a service which creates secure, encrypted connections over the internet, allowing users to transmit data safely and access network resources remotely. It masks IP Addresses, enhancing privacy and security by preventing unauthorised access and tracking. VPNs are commonly used for protecting sensitive information, bypassing geographic restrictions, and maintaining online anonymity.<br><br>VPNs can also allow a threat actor to pose as if they are located in one country while in reality being based in another. By doing so, they can try to either mis-attribute their activities to another actor or better hide their own identity.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0149.008.md">T0149.008</a></td>
+<td>Proxy IP Address</td>
+<td>A Proxy IP Address allows a threat actor to mask their real IP Address by putting a layer between them and the online content they’re connecting with. <br><br>Proxy IP Addresses can hide the connection between the threat actor and their online infrastructure.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0149.009.md">T0149.009</a></td>
+<td>Internet Connected Physical Asset</td>
+<td>An Internet Connected Physical Asset (sometimes referred to as IoT (Internet of Things)) is a physical asset which has internet connectivity to support online features, such as digital signage, wireless printers, and smart TVs.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0150.md">T0150</a></td>
+<td>Asset Origin</td>
+<td>Asset Origin contains a list of ways that an actor can obtain an asset. For example, they can create new accounts on online platforms, or they can compromise existing accounts or websites.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0150.001.md">T0150.001</a></td>
+<td>Newly Created</td>
+<td>A Newly Created Asset is an asset which has been created and used for the first time in a documented potential incident.<br><br>For example, analysts which can identify a recent creation date of Accounts participating in the spread of a new narrative can assert these are Newly Created Assets.<br><br>Analysts should use Dormant if the asset was created and laid dormant for an extended period of time before activity.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0150.002.md">T0150.002</a></td>
+<td>Dormant</td>
+<td>A Dormant Asset is an asset which was inactive for an extended period before being used in a documented potential incident.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0150.003.md">T0150.003</a></td>
+<td>Pre-Existing</td>
+<td>Pre-Existing Assets are assets which existed before the observed incident which have not been Repurposed; i.e. they are still being used for their original purpose. <br><br>An example could be an Account which presented itself with a Journalist Persona prior to and during the observed potential incident.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0150.004.md">T0150.004</a></td>
+<td>Repurposed</td>
+<td>Repurposed Assets are assets which have been identified as being used previously, but are now being used for different purposes, or have new Presented Personas.<br><br>Actors have been documented compromising assets, and then repurposing them to present Inauthentic Personas as part of their operations.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0150.005.md">T0150.005</a></td>
+<td>Compromised</td>
+<td>A Compromised Asset is an asset which was originally created or belonged to another person or organisation, but which an actor has gained access to without their consent.<br><br>See also MITRE ATT&CK T1708: Valid Accounts.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0150.006.md">T0150.006</a></td>
+<td>Purchased</td>
+<td>A Purchased Asset is an asset which actors paid for the ownership of. <br><br>For example, threat actors have been observed selling compromised social media accounts on dark web marketplaces, which can be used to disguise operation activity.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0150.007.md">T0150.007</a></td>
+<td>Rented</td>
+<td>A Rented Asset is an asset which actors are temporarily renting or subscribing to. <br><br>For example, threat actors have been observed renting temporary access to legitimate accounts on online platforms in order to disguise operation activity.</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0150.008.md">T0150.008</a></td>
+<td>Bulk Created</td>
+<td>A Bulk Created Asset is an asset which was created alongside many other instances of the same asset.<br><br>Actors have been observed bulk creating Accounts on Social Media Platforms such as Facebook. Indicators of bulk asset creation include its creation date, assets’ naming conventions, their configuration (e.g. templated personas, visually similar profile pictures), or their activity (e.g. post timings, narratives posted).</td>
+<td>TA06</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.md">T0151</a></td>
+<td>Digital Community Hosting Asset</td>
+<td>A Digital Community Hosting Asset is an online asset which can be used by actors to provide spaces for users to interact with each other.<br><br>Sub-techniques categorised under Digital Community Hosting Assets can include Content Hosting and Content Delivery capabilities; however, their nominal primary purpose is to provide a space for community interaction.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.001.md">T0151.001</a></td>
+<td>Social Media Platform</td>
+<td>Examples of popular Social Media Platforms include Facebook, Instagram, and VK.<br><br>Social Media Platforms allow users to create Accounts, which they can configure to present themselves to other platform users. This typically involves Establishing Account Imagery and Presenting a Persona.<br><br>Social Media Platforms typically allow the creation of Online Community Groups and Online Community Pages.<br><br>Accounts on Social Media Platforms are typically presented with a feed of content posted to the platform. The content that populates this feed can be aggregated by the platform’s proprietary Content Recommendation Algorithm, or users can “friend” or “follow” other accounts to add their posts to their feed.<br><br>Many Social Media Platforms also allow users to send direct messages to other users on the platform. </td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.002.md">T0151.002</a></td>
+<td>Online Community Group</td>
+<td>Some online platforms allow people with Accounts to create Online Community Groups. Groups are usually created around a specific topic or locality, and allow users to post content to the group, and interact with other users’ posted content. <br><br>For example, Meta’s Social Media Platform Facebook allows users to create a “Facebook group”. This feature is not exclusive to Social Media Platforms; the Microblogging Platform X (prev. Twitter) allows users to create “X Communities”, groups based on particular topics which users can join and post to; the Software Delivery Platform Steam allows users to create Steam Community Groups.<br><br>Online Community Groups can be open or gated (for example, groups can require admin approval before users can join).</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.003.md">T0151.003</a></td>
+<td>Online Community Page</td>
+<td>A Facebook Page is an example of an Online Community Page.<br><br>Online Community Pages allow Administrator Accounts to post content to the page, which other users can interact with. Pages can be followed or liked by other users - but these users can’t initiate new posts to the page.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.004.md">T0151.004</a></td>
+<td>Chat Platform</td>
+<td>Examples of popular Chat Platforms include WhatsApp, WeChat, Telegram, and Signal; Slack, Mattermost, and Discord; Zoom, GoTo Meeting, and WebEx.<br><br>Chat Platforms allow users to engage in text, audio, or video chats with other platform users.<br><br>Different Chat Platforms afford users different capabilities. Examples include Direct Messaging, Chat Rooms, Chat Broadcast Channels, and Chat Community Servers.<br><br>Some Chat Platforms enable encrypted communication between platform users.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.005.md">T0151.005</a></td>
+<td>Chat Community Server</td>
+<td>Chat Platforms such as Discord, Slack, and Microsoft Teams allow users to create their own Chat Community Servers, which they can invite other platform users to join.<br><br>Chat Community Servers are online communities made up of Chat Rooms (or “Channels”) in which users can discuss the given group’s topic. Groups can either be public (shown in the server’s browsable list of channels, available for any member to view and join) or Gated (users must be added to the chat group by existing members to participate).<br><br>Some Chat Community Servers allow users to create Chat Broadcast Groups, in which only specific members (e.g. server administrators) of the chat are able to post new content to the group.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.006.md">T0151.006</a></td>
+<td>Chat Room</td>
+<td>Many platforms which enable community interaction allow users to create Chat Rooms; a room in which members of the group can talk to each other via text, audio, or video.<br><br>Most Chat Rooms are Gated; users must be added to the chat group before they can post to the chat group, or view its content. For example, on WhatsApp a user can create a Chat Room containing other WhatsApp users whose contact information they have. At this point the user who created the Chat Room has an Administrator Account; they are uniquely able to add other users to the Chat Room.<br><br>However, Chat Rooms made on Chat Community Servers such as Discord can be Gated or open. If left open, anyone on the server can view the Chat Room (“channel”), read its contents, and choose to join it.<br><br>Examples of Platforms which allow creation of Chat Rooms include:<br>Instagram, Facebook, X (prev. Twitter) (Group Direct Messaging)<br>Whatsapp, Telegram, WeChat, Signal (Group Chats)<br>Discord, Slack, Mattermost, Microsoft Teams (Channels)</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.007.md">T0151.007</a></td>
+<td>Chat Broadcast Group</td>
+<td>A Chat Broadcast Group is a type of Chat Group in which only specific members can send content to the channel (typically administrators, or approved group members). Members of the channel may be able to react to content, or comment on it, but can’t directly push new content to the channel.<br><br>Examples include:<br>WhatsApp, Telegram, Discord: Chat Groups in which only admins are able to post new content.<br>X (prev. Twitter): Spaces (an audio discussion hosting feature) in which admins control who can speak at a given moment.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.008.md">T0151.008</a></td>
+<td>Microblogging Platform</td>
+<td>Examples of Microblogging Platforms include TikTok, Threads, Bluesky, Mastodon, QQ, Tumblr, and X (formerly Twitter).<br><br>Microblogging Platforms allow users to create Accounts, which they can configure to present themselves to other platform users. This typically involves Establishing Account Imagery and Presenting a Persona. <br><br>Accounts on Microblogging Platforms are able to post short-form text content alongside media.<br><br>Content posted to the platforms is aggregated into different feeds and presented to the user. Typical feeds include content posted by other Accounts which the user follows, and content promoted by the platform’s proprietary Content Recommendation Algorithm. Users can also search or use hashtags to discover new content.<br><br>Mastodon is an open-source decentralised software which allows anyone to create their own Microblogging Platform that can communicate with other platforms within the “fediverse” (similar to how different email platforms can send emails to each other). Meta’s Threads is a Microblogging Platform which can interact with the fediverse.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.009.md">T0151.009</a></td>
+<td>Legacy Online Forum Platform</td>
+<td>Examples of Legacy Online Forum Platforms include Something Awful (SA Forums), Ars Technica forums, and NeoGAF, and the forums available on the Mumsnet and War Thunder websites.<br><br>Legacy Online Forum Platforms are a type of message board (using software such as vBulletin or phpBB) popular in the early 2000s for online communities. They are often used to provide spaces for a community to exist around a given website or topic. <br><br>Legacy Online Forum Platforms allow users to create Accounts to join in discussion threads posted to any number of Forums and Sub-Forums on the platform. Forums and Sub-Forums can be Gated, allowing access to approved users only. They can vary in size. Some are larger platforms that host a wider set of topics and communities while others are smaller in scope and size. </td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.010.md">T0151.010</a></td>
+<td>Community Forum Platform</td>
+<td>Reddit, Lemmy and Tildes are examples of Community Forum Platforms.<br><br>Community Forum Platforms are exemplified by users’ ability to create their own sub-communities (Community Sub-Forums) which other platform users can join. <br><br>Platform users can view aggregated content from all Community Sub-Forums they subscribe to, or they can view all content from a particular Community Sub-Forum.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.011.md">T0151.011</a></td>
+<td>Community Sub-Forum</td>
+<td>Community Forum Platforms are made up of many Community Sub-Forums. Sub-Forums provide spaces for platform users to create a community based around any topic. <br><br>For example, Reddit (a popular Community Forum Platform) has over 138,000 “subreddits” (Community Sub-Forums), including 1082 unique cat-based communities.<br><br>Typically, Sub-Forums allow users post text, image, or video to them, and other platform users can up/downvote, or comment on it. Sub-forums may have their own extra rules alongside the platform’s global rules, enforced by community moderators. <br><br>While most Sub-Forums are made by users with Accounts on the Community Forum Platform, Sub-Forums can also be created by the platform itself.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.012.md">T0151.012</a></td>
+<td>Image Board Platform</td>
+<td>4chan and 8chan are examples of Image Board Platforms.<br><br>Image Board Platforms provide individual boards on which users can start threads related to the board’s topic. For example, 4chan’s /pol/ board provides a space for users to talk about politics. <br><br>Most Image Board Platforms allow users to post without creating an account. Posts are typically made anonymously, although users can choose to post under a pseudonym.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.013.md">T0151.013</a></td>
+<td>Question and Answer Platform</td>
+<td>Quora, Stack Overflow, and Yahoo Answers are examples of Question and Answer Platforms.<br><br>Question and Answer Platforms allow users to create Accounts letting them post questions to the platform community, and respond to other platform users’ questions.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.014.md">T0151.014</a></td>
+<td>Comments Section</td>
+<td>Many platforms enable community interaction via Comments Sections on posted content. Comments Sections allow platform users to comment on content posted by other users. <br><br>On some platforms Comments Sections are the only place available for community interaction, such as news websites which provide a Comments Section to discuss articles posted to the website.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.015.md">T0151.015</a></td>
+<td>Online Game Platform</td>
+<td>Roblox, Minecraft, Fortnite, League of Legends, and World of Warcraft are examples of Online Game Platforms.<br><br>Online Game Platforms allow users to create Accounts which they can use to access Online Game Sessions; i.e. an individual instance of a multiplayer online game.<br><br>Many Online Game Platforms support text or voice chat within Online Game Sessions.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.016.md">T0151.016</a></td>
+<td>Online Game Session</td>
+<td>Online Game Sessions are instances of a game played on an Online Game Platform. Examples of Online Game Sessions include a match in Fortnite or League of Legends, or a server in Minecraft, Fortnite, or World of Warcraft.<br><br>Some Online Game Platforms (such as Fortnite, League of Legends, and World of Warcraft) host Online Game Sessions on their own Servers, and don’t allow other actors to host Online Game Sessions.<br><br>Some Online Game Platforms (such as Roblox and Minecraft) allow users to host instances of Online Game Sessions on their own Servers.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0151.017.md">T0151.017</a></td>
+<td>Dating Platform</td>
+<td>Tinder, Bumble, Grindr, Tantan, Badoo, Plenty of Fish, hinge, LOVOO, OkCupid, happn, and Mamba are examples of Dating Platforms.<br><br>Dating Platforms allow users to create Accounts, letting them connect with other platform users with the purpose of developing a physical/romantic relationship.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0152.md">T0152</a></td>
+<td>Digital Content Hosting Asset</td>
+<td>Digital Content Hosting Assets are online assets which are primarily designed to allow actors to upload content to the internet. <br><br>Sub-techniques categorised under Digital Content Hosting Assets can include Community Hosting and Content Delivery capabilities; however their nominal primary purpose is to host content online.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0152.001.md">T0152.001</a></td>
+<td>Blogging Platform</td>
+<td>Medium and Substack are examples of Blogging Platforms. <br><br>By creating an Account on a Blogging Platform, people are able to create their own Blog.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0152.002.md">T0152.002</a></td>
+<td>Blog</td>
+<td>Blogs are a collation of posts centred on a particular topic, author, or collection of authors.<br><br>Some platforms are designed to support users in hosting content online, such as Blogging Platforms like Substack which allow users to create Blogs, but other online platforms can also be used to produce a Blog; a Paid Account on X (prev Twitter) is able to post long-form text content to their timeline in a style of a blog.<br><br>Actors may create Accounts on Blogging Platforms to create a Blog, or make their own Blog on a Website.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0152.003.md">T0152.003</a></td>
+<td>Website Hosting Platform</td>
+<td>Examples of Website Hosting Platforms include Wix, Webflow, Weebly, and Wordpress.<br><br>Website Hosting Platforms help users with managing online infrastructure required to host a website online; such as securing IP Addresses and Domains.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0152.004.md">T0152.004</a></td>
+<td>Website</td>
+<td>A Website is a collection of related web pages hosted on a server and accessible via a web browser. Websites have an associated Domain and can host various types of content, such as text, images, videos, and interactive features. <br><br>When a Website is fleshed out, it Presents a Persona to site visitors. For example, the Domain “bbc.co.uk/news” hosts a Website which uses the News Outlet Persona.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0152.005.md">T0152.005</a></td>
+<td>Paste Platform</td>
+<td>Pastebin is an example of a Paste Platform.<br><br>Paste Platforms allow people to upload unformatted text to the platform, which they can share via a link. Some Paste Platforms are Open Access Platforms which allow users to upload content without creating an Account first.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0152.006.md">T0152.006</a></td>
+<td>Video Platform</td>
+<td>YouTube, Vimeo, and LiveLeak are examples of Video Platforms.<br><br>Video Platforms allow people to create Accounts which they can use to upload video content for people to watch on the platform.<br><br>The ability to host videos is not exclusive to Video Platforms; many online platforms allow users with Accounts to upload video content. However, Video Platforms’ primary purpose is to be a place to host and view video content.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0152.007.md">T0152.007</a></td>
+<td>Audio Platform</td>
+<td>Soundcloud, Spotify, and YouTube Music; Apple Podcasts, Podbean, and Captivate are examples of Audio Platforms.<br><br>Audio Platforms allow people to create Accounts which they can use to upload audio content to the platform. <br><br>The ability to host audio is not exclusive to Audio Platforms; many online platforms allow users with Accounts to upload audio content. However, Audio Platforms’ primary purpose is to be a place to host and listen to audio content.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0152.008.md">T0152.008</a></td>
+<td>Live Streaming Platform</td>
+<td>Twitch.tv and Whatnot are examples of Live Streaming Platforms. <br><br>Live Streaming Platforms allow people to create Accounts and stream live content (video or audio). A temporary open Group Chat is created alongside live streamed content for viewers to discuss the stream. Some Live Streaming Platforms allow users to archive streamed content for later non-live viewing.<br><br>The ability to stream live media is not exclusive to Live Streaming Platforms; many online platforms allow users with Accounts to stream content (such as the Video Platform YouTube’s “YouTube Live”, and the Social Media Platform Facebook’s “Facebook Live”). However, Live Streaming Platforms’ primary purpose is to be a place for people to stream content live.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0152.009.md">T0152.009</a></td>
+<td>Software Delivery Platform</td>
+<td>Apple’s App Store, Google’s Google Play Store, and Valve’s Steam are examples of Software Delivery Platforms.<br><br>Software Delivery Platforms are designed to enable users to download programmes uploaded to the platform. Software can be purchased, or downloaded for free. <br><br>Some Software Delivery Platforms require users to have an Account before they can download software, and software they acquire becomes associated with the account (i.e. the account owns a licence to download the software). Some platforms don’t require users to make accounts before downloading software.<br><br>Actors may create their own Software Delivery Platform on a Domain they own.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0152.010.md">T0152.010</a></td>
+<td>File Hosting Platform</td>
+<td>Dropbox and Google Drive are examples of File Hosting Platforms.<br><br>File Hosting Platforms allow people to create Accounts which they can use to host files on another server, enabling access to content on any machine, and the ability to easily share files with anyone online.<br><br>Actors may also create their own File Hosting Platform on a Website or Server they control.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0152.011.md">T0152.011</a></td>
+<td>Wiki Platform</td>
+<td>Wikipedia, Fandom, Ruwiki, TV Tropes, and the SCP Foundation are examples of Wiki Platforms.<br><br>Wikis use wiki software to allow platform users to collaboratively create and maintain an encyclopedia of information related to a given topic. </td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0152.012.md">T0152.012</a></td>
+<td>Subscription Service Platform</td>
+<td>Patreon, Fansly, and OnlyFans are examples of Subscription Service Platforms.<br><br>Subscription Service Platforms enable users with Accounts to host online content to which other platform users can subscribe to access. Content typically requires Paid Subscription to access, however open content is often also supported.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0153.md">T0153</a></td>
+<td>Digital Content Delivery Asset</td>
+<td>Digital Content Delivery Assets are assets which support the delivery of content to users online. <br><br>Sub-techniques categorised under Digital Content Delivery Assets can include Community Hosting and Content Hosting capabilities; however their nominal primary purpose is to support the delivery of content to users online.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0153.001.md">T0153.001</a></td>
+<td>Email Platform</td>
+<td>Gmail, iCloud mail, and Microsoft Outlook are examples of Email Platforms.<br><br>Email Platforms are online platforms which allow people to create Accounts that they can use to send and receive emails to and from other email accounts. <br><br>Instead of using an Email Platform, actors may set up their own Email Domain, letting them send and receive emails on a custom domain.<br><br>Analysts should default to Email Platform if they cannot confirm whether an email was sent using a privately operated email, or via an account on a public email platform (for example, in situations where analysts are coding third party reporting which does not specify the type of email used).</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0153.002.md">T0153.002</a></td>
+<td>Link Shortening Platform</td>
+<td>Bitly and TinyURL are examples of Link Shortening Platforms.<br><br>Link Shortening Platforms are online platforms which allow people to create Accounts that they can use to convert existing URLs into Shortened Links, or into QR Codes.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0153.003.md">T0153.003</a></td>
+<td>Shortened Link</td>
+<td>A Shortened Link is a custom URL which is typically a shortened version of another URL.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0153.004.md">T0153.004</a></td>
+<td>QR Code</td>
+<td>A QR Code allows people to use cameras on their smartphones to open a URL.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0153.005.md">T0153.005</a></td>
+<td>Online Advertising Platform</td>
+<td>Google Ads, Facebook Ads, and LinkedIn Marketing Solutions are examples of Online Advertising Platforms.<br><br>Online Advertising Platforms are online platforms which allow people to create Accounts that they can use to upload and deliver adverts to people online.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0153.006.md">T0153.006</a></td>
+<td>Content Recommendation Algorithm</td>
+<td>Many online platforms have Content Recommendation Algorithms, which promote content posted to the platform to users based on metrics the platform operators are trying to meet. Algorithms typically surface platform content which the user is likely to engage with, based on how they and other users have behaved on the platform.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0153.007.md">T0153.007</a></td>
+<td>Direct Messaging</td>
+<td>Many online platforms allow users to contact other platform users via Direct Messaging; private messaging which can be initiated by a user with other platform users.<br><br>Examples include messaging on WhatsApp, Telegram, and Signal; direct messages (DMs) on Facebook or Instagram.<br><br>Some platforms’ Direct Messaging capabilities provide users with Encrypted Communication.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0154.md">T0154</a></td>
+<td>Digital Content Creation Asset</td>
+<td>Digital Content Creation Assets are Platforms or Software which help actors produce content for publication online.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0154.001.md">T0154.001</a></td>
+<td>AI LLM Platform</td>
+<td>OpenAI’s ChatGPT, Google’s Bard, Microsoft’s Turing-NLG, Google’s T5 (Text-to-Text Transfer Transformer), and Facebook’s BART are examples of AI LLM (Large Language Model) Platforms.<br><br>AI LLM Platforms are online platforms which allow people to create Accounts that they can use to interact with the platform’s AI Large Language Model, to produce text-based content.<br><br>LLMs can create hyper-realistic synthetic text that is both scalable and persuasive. LLMs can largely automate content production, reducing the overhead in persona creation, and generate culturally appropriate outputs that are less prone to exhibiting conspicuous signs of inauthenticity.<br><br>Some platforms implement protections against misuse of AI by their users. Threat Actors have been observed bypassing these protections using prompt injections, poisoning, jailbreaking, or integrity attacks.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0154.002.md">T0154.002</a></td>
+<td>AI Media Platform</td>
+<td>AI Media Platforms are online platforms that allow people to create Accounts which they can use to produce image, video, or audio content (also known as “deepfakes”) using the platform’s AI Software.<br><br>Midjourney, DALL-E, Stable Diffusion, and Adobe Firefly are examples of AI Media Platforms which allow users to Develop AI-Generated Images, AI-Generated Videos and AI-Generated Account Imagery. <br><br>Similarly, Reface, Zao, FaceApp, and Wombo are mobile apps which offer features for creating AI-Generated videos, gifs, or trending memes.<br><br>AI-Generated Audio such as text-to-speech and voice cloning have revolutionised the creation of synthetic voices that closely mimic human speech. AI Media Platforms such as Descript, Fliki, Murf AI, PlayHT, and Resemble AI can be used to generate synthetic voice. <br><br>Some platforms implement protections against misuse of AI by their users. Threat Actors have been observed bypassing these protections using prompt injections, poisoning, jailbreaking, or integrity attacks.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0155.md">T0155</a></td>
+<td>Gated Asset</td>
+<td>Some assets are Gated; closed communities or platforms which can’t be accessed openly. They may be password protected or require admin approval for entry. Many different digital assets can be gated. This technique contains sub-techniques with methods used to gate assets. Analysts can use T0155: Gated Asset if the method of gating is unclear.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0155.001.md">T0155.001</a></td>
+<td>Password Gated</td>
+<td>A Password Gated Asset is an online asset which requires a password to gain access. <br><br>Examples include password protected Servers set up to be a File Hosting Platform, or password protected Community Sub-Forums.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0155.002.md">T0155.002</a></td>
+<td>Invite Gated</td>
+<td>An Invite Gated Asset is an online asset which requires an existing user to invite other users for access to the asset.<br><br>Examples include Chat Groups in which Administrator Accounts are able to add or remove users, or File Hosting Platforms which allow users to invite other users to access their files.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0155.003.md">T0155.003</a></td>
+<td>Approval Gated</td>
+<td>An Approval Gated Asset is an online asset which requires approval from Administrator Accounts for access to the asset.<br><br>Examples include Online Community Groups on Facebook, which can be configured to require questions and approval before access, and Accounts on Social Media Platforms such as Instagram, which allow users to set their accounts as visible to approved friends only.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0155.004.md">T0155.004</a></td>
+<td>Geoblocked</td>
+<td>A Geoblocked Asset is an online asset which cannot be accessed in specific geographical locations.<br><br>Assets can be Geoblocked by choice of the platform, or can have Geoblocking mandated by regulators, and enforced through Internet Service Providers.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0155.005.md">T0155.005</a></td>
+<td>Paid Access</td>
+<td>A Paid Access Asset is an online asset which requires a single payment for permanent access to the asset.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0155.006.md">T0155.006</a></td>
+<td>Subscription Access</td>
+<td>A Subscription Access Asset is an online asset which requires a continued subscription for access to the asset.<br><br>Examples include the Blogging Platform Substack, which affords Blogs hosted on their platform the ability to produce subscriber-only posts, and the Subscription Service Platform Patreon.</td>
+<td>TA07</td>
+</tr>
+<tr>
+<td><a href="techniques/T0155.007.md">T0155.007</a></td>
+<td>Encrypted Communication Channel</td>
+<td>Some online platforms support encrypted communication between platform users, for example the Chat Platforms Telegram and Signal.</td>
+<td>TA07</td>
 </tr>
 </table>
