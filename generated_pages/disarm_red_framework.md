@@ -529,7 +529,7 @@
 <td><a href="techniques/T0137.006.md">T0137.006 Manipulate Stocks</a></td>
 <td> </td>
 <td><a href="techniques/T0088.001.md">T0088.001 Develop AI-Generated Audio (Deepfakes)</a></td>
-<td><a href="techniques/T0152.002.md">T0152.002 Blog</a></td>
+<td><a href="techniques/T0152.002.md">T0152.002 Blog Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -565,7 +565,7 @@
 <td><a href="techniques/T0138.001.md">T0138.001 Encourage</a></td>
 <td> </td>
 <td><a href="techniques/T0089.md">T0089 Obtain Private Documents</a></td>
-<td><a href="techniques/T0152.004.md">T0152.004 Website</a></td>
+<td><a href="techniques/T0152.004.md">T0152.004 Website Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -618,7 +618,7 @@
 <td> </td>
 <td><a href="techniques/T0139.md">T0139 Dissuade from Acting</a></td>
 <td> </td>
-<td><a href="techniques/T0146.md">T0146 Account</a></td>
+<td><a href="techniques/T0146.md">T0146 Account Asset</a></td>
 <td><a href="techniques/T0152.007.md">T0152.007 Audio Platform</a></td>
 <td> </td>
 <td> </td>
@@ -636,7 +636,7 @@
 <td> </td>
 <td><a href="techniques/T0139.001.md">T0139.001 Discourage</a></td>
 <td> </td>
-<td><a href="techniques/T0146.001.md">T0146.001 Free Account</a></td>
+<td><a href="techniques/T0146.001.md">T0146.001 Free Account Asset</a></td>
 <td><a href="techniques/T0152.008.md">T0152.008 Live Streaming Platform</a></td>
 <td> </td>
 <td> </td>
@@ -654,7 +654,7 @@
 <td> </td>
 <td><a href="techniques/T0139.002.md">T0139.002 Silence</a></td>
 <td> </td>
-<td><a href="techniques/T0146.002.md">T0146.002 Paid Account</a></td>
+<td><a href="techniques/T0146.002.md">T0146.002 Paid Account Asset</a></td>
 <td><a href="techniques/T0152.009.md">T0152.009 Software Delivery Platform</a></td>
 <td> </td>
 <td> </td>
@@ -672,7 +672,7 @@
 <td> </td>
 <td><a href="techniques/T0139.003.md">T0139.003 Deter</a></td>
 <td> </td>
-<td><a href="techniques/T0146.003.md">T0146.003 Verified Account</a></td>
+<td><a href="techniques/T0146.003.md">T0146.003 Verified Account Asset</a></td>
 <td><a href="techniques/T0152.010.md">T0152.010 File Hosting Platform</a></td>
 <td> </td>
 <td> </td>
@@ -690,7 +690,7 @@
 <td> </td>
 <td><a href="techniques/T0140.md">T0140 Cause Harm</a></td>
 <td> </td>
-<td><a href="techniques/T0146.004.md">T0146.004 Administrator Account</a></td>
+<td><a href="techniques/T0146.004.md">T0146.004 Administrator Account Asset</a></td>
 <td><a href="techniques/T0152.011.md">T0152.011 Wiki Platform</a></td>
 <td> </td>
 <td> </td>
@@ -744,7 +744,7 @@
 <td> </td>
 <td><a href="techniques/T0140.003.md">T0140.003 Spread Hate</a></td>
 <td> </td>
-<td><a href="techniques/T0146.007.md">T0146.007 Automated Account</a></td>
+<td><a href="techniques/T0146.007.md">T0146.007 Automated Account Asset</a></td>
 <td><a href="techniques/T0153.001.md">T0153.001 Email Platform</a></td>
 <td> </td>
 <td> </td>
@@ -762,7 +762,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0147.md">T0147 Software</a></td>
+<td><a href="techniques/T0147.md">T0147 Software Asset</a></td>
 <td><a href="techniques/T0153.002.md">T0153.002 Link Shortening Platform</a></td>
 <td> </td>
 <td> </td>
@@ -780,8 +780,8 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0147.001.md">T0147.001 Game</a></td>
-<td><a href="techniques/T0153.003.md">T0153.003 Shortened Link</a></td>
+<td><a href="techniques/T0147.001.md">T0147.001 Game Asset</a></td>
+<td><a href="techniques/T0153.003.md">T0153.003 Shortened Link Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -798,8 +798,8 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0147.002.md">T0147.002 Game Mod</a></td>
-<td><a href="techniques/T0153.004.md">T0153.004 QR Code</a></td>
+<td><a href="techniques/T0147.002.md">T0147.002 Game Mod Asset</a></td>
+<td><a href="techniques/T0153.004.md">T0153.004 QR Code Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -816,7 +816,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0147.003.md">T0147.003 Malware</a></td>
+<td><a href="techniques/T0147.003.md">T0147.003 Malware Asset</a></td>
 <td><a href="techniques/T0153.005.md">T0153.005 Online Advertising Platform</a></td>
 <td> </td>
 <td> </td>
@@ -834,7 +834,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0147.004.md">T0147.004 Mobile App</a></td>
+<td><a href="techniques/T0147.004.md">T0147.004 Mobile App Asset</a></td>
 <td><a href="techniques/T0153.006.md">T0153.006 Content Recommendation Algorithm</a></td>
 <td> </td>
 <td> </td>
@@ -888,7 +888,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0148.002.md">T0148.002 Bank Account</a></td>
+<td><a href="techniques/T0148.002.md">T0148.002 Bank Account Asset</a></td>
 <td><a href="techniques/T0154.001.md">T0154.001 AI LLM Platform</a></td>
 <td> </td>
 <td> </td>
@@ -943,7 +943,7 @@
 <td> </td>
 <td> </td>
 <td><a href="techniques/T0148.005.md">T0148.005 Subscription Processing Capability</a></td>
-<td><a href="techniques/T0155.001.md">T0155.001 Password Gated</a></td>
+<td><a href="techniques/T0155.001.md">T0155.001 Password Gated Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -961,7 +961,7 @@
 <td> </td>
 <td> </td>
 <td><a href="techniques/T0148.006.md">T0148.006 Crowdfunding Platform</a></td>
-<td><a href="techniques/T0155.002.md">T0155.002 Invite Gated</a></td>
+<td><a href="techniques/T0155.002.md">T0155.002 Invite Gated Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -979,7 +979,7 @@
 <td> </td>
 <td> </td>
 <td><a href="techniques/T0148.007.md">T0148.007 eCommerce Platform</a></td>
-<td><a href="techniques/T0155.003.md">T0155.003 Approval Gated</a></td>
+<td><a href="techniques/T0155.003.md">T0155.003 Approval Gated Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -997,7 +997,7 @@
 <td> </td>
 <td> </td>
 <td><a href="techniques/T0148.008.md">T0148.008 Cryptocurrency Exchange Platform</a></td>
-<td><a href="techniques/T0155.004.md">T0155.004 Geoblocked</a></td>
+<td><a href="techniques/T0155.004.md">T0155.004 Geoblocked Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1015,7 +1015,7 @@
 <td> </td>
 <td> </td>
 <td><a href="techniques/T0148.009.md">T0148.009 Cryptocurrency Wallet</a></td>
-<td><a href="techniques/T0155.005.md">T0155.005 Paid Access</a></td>
+<td><a href="techniques/T0155.005.md">T0155.005 Paid Access Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1033,7 +1033,7 @@
 <td> </td>
 <td> </td>
 <td><a href="techniques/T0149.md">T0149 Online Infrastructure</a></td>
-<td><a href="techniques/T0155.006.md">T0155.006 Subscription Access</a></td>
+<td><a href="techniques/T0155.006.md">T0155.006 Subscription Access Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1050,7 +1050,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0149.001.md">T0149.001 Domain</a></td>
+<td><a href="techniques/T0149.001.md">T0149.001 Domain Asset</a></td>
 <td><a href="techniques/T0155.007.md">T0155.007 Encrypted Communication Channel</a></td>
 <td> </td>
 <td> </td>
@@ -1068,7 +1068,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0149.002.md">T0149.002 Email Domain</a></td>
+<td><a href="techniques/T0149.002.md">T0149.002 Email Domain Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1104,7 +1104,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0149.004.md">T0149.004 Redirecting Domain</a></td>
+<td><a href="techniques/T0149.004.md">T0149.004 Redirecting Domain Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1122,7 +1122,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0149.005.md">T0149.005 Server</a></td>
+<td><a href="techniques/T0149.005.md">T0149.005 Server Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1140,7 +1140,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0149.006.md">T0149.006 IP Address</a></td>
+<td><a href="techniques/T0149.006.md">T0149.006 IP Address Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1158,7 +1158,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0149.007.md">T0149.007 VPN</a></td>
+<td><a href="techniques/T0149.007.md">T0149.007 VPN Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1176,7 +1176,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0149.008.md">T0149.008 Proxy IP Address</a></td>
+<td><a href="techniques/T0149.008.md">T0149.008 Proxy IP Address Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1230,7 +1230,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0150.001.md">T0150.001 Newly Created</a></td>
+<td><a href="techniques/T0150.001.md">T0150.001 Newly Created Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1248,7 +1248,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0150.002.md">T0150.002 Dormant</a></td>
+<td><a href="techniques/T0150.002.md">T0150.002 Dormant Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1266,7 +1266,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0150.003.md">T0150.003 Pre-Existing</a></td>
+<td><a href="techniques/T0150.003.md">T0150.003 Pre-Existing Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1284,7 +1284,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0150.004.md">T0150.004 Repurposed</a></td>
+<td><a href="techniques/T0150.004.md">T0150.004 Repurposed Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1302,7 +1302,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0150.005.md">T0150.005 Compromised</a></td>
+<td><a href="techniques/T0150.005.md">T0150.005 Compromised Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1320,7 +1320,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0150.006.md">T0150.006 Purchased</a></td>
+<td><a href="techniques/T0150.006.md">T0150.006 Purchased Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1338,7 +1338,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0150.007.md">T0150.007 Rented</a></td>
+<td><a href="techniques/T0150.007.md">T0150.007 Rented Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1356,7 +1356,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0150.008.md">T0150.008 Bulk Created</a></td>
+<td><a href="techniques/T0150.008.md">T0150.008 Bulk Created Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>

@@ -1803,31 +1803,31 @@
 </tr>
 <tr>
 <td><a href="techniques/T0146.md">T0146</a></td>
-<td>Account</td>
+<td>Account Asset</td>
 <td>An Account is a user-specific profile that allows access to the features and services of an online platform, typically requiring a username and password for authentication.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0146.001.md">T0146.001</a></td>
-<td>Free Account</td>
+<td>Free Account Asset</td>
 <td>Many online platforms allow users to create free accounts on their platform. A Free Account is an Account which does not require payment at account creation and is not subscribed to paid platform features.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0146.002.md">T0146.002</a></td>
-<td>Paid Account</td>
+<td>Paid Account Asset</td>
 <td>Some online platforms afford accounts extra features, or other benefits, if the user pays a fee. For example, as of September 2024, content posted by a Paid Account on X (previously Twitter) is prioritised in the platform’s algorithm.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0146.003.md">T0146.003</a></td>
-<td>Verified Account</td>
+<td>Verified Account Asset</td>
 <td>Some online platforms apply badges of verification to accounts which meet certain criteria.<br><br>On some platforms (such as dating apps) a verification badge signifies that the account has passed the platform’s identity verification checks. On some platforms (such as X (previously Twitter)) a verification badge signifies that an account has paid for the platform’s service.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0146.004.md">T0146.004</a></td>
-<td>Administrator Account</td>
+<td>Administrator Account Asset</td>
 <td>Some accounts will have special privileges / will be in control of the Digital Community Hosting Asset; for example, the Admin of a Facebook Page, a Moderator of a Subreddit, etc. etc.</td>
 <td>TA06</td>
 </tr>
@@ -1845,37 +1845,37 @@
 </tr>
 <tr>
 <td><a href="techniques/T0146.007.md">T0146.007</a></td>
-<td>Automated Account</td>
+<td>Automated Account Asset</td>
 <td>An Automated Account is an account which is displaying automated behaviour, such as republishing or liking other accounts’ content, or publishing their own content.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0147.md">T0147</a></td>
-<td>Software</td>
+<td>Software Asset</td>
 <td>A Software is a program developed to run on computers or devices that helps users achieve specific goals, such as improving productivity, automating tasks, or having fun.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0147.001.md">T0147.001</a></td>
-<td>Game</td>
+<td>Game Asset</td>
 <td>A Game is Software which has been designed for interactive entertainment, where users take on challenges set by the game’s designers.<br><br>While Online Game Platforms allow people to play with each other, Games are designed for single player experiences.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0147.002.md">T0147.002</a></td>
-<td>Game Mod</td>
+<td>Game Mod Asset</td>
 <td>A Game Mod is a modification which can be applied to a Game or Multiplayer Online Game to add new content or functionality to the game.<br><br>Users can Modify Games to introduce new content to the game. Modified Games can be distributed on Software Delivery Platforms such as Steam or can be distributed within the Game or Multiplayer Online Game.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0147.003.md">T0147.003</a></td>
-<td>Malware</td>
+<td>Malware Asset</td>
 <td>Malware is Software which has been designed to cause harm or facilitate malicious behaviour on electronic devices.<br><br>DISARM recommends using the [MITRE ATT&CK Framework](https://attack.mitre.org/) to document malware types and their usage.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0147.004.md">T0147.004</a></td>
-<td>Mobile App</td>
+<td>Mobile App Asset</td>
 <td>A Mobile App is an application which has been designed to run on mobile operating systems, such as Android or iOS.<br><br>Mobile Apps can enable access to online platforms (e.g. Facebook’s mobile app) or can provide software which users can run offline on their device.</td>
 <td>TA06</td>
 </tr>
@@ -1893,7 +1893,7 @@
 </tr>
 <tr>
 <td><a href="techniques/T0148.002.md">T0148.002</a></td>
-<td>Bank Account</td>
+<td>Bank Account Asset</td>
 <td>A Bank Account is a financial account that allows individuals or organisations to store, manage, and access their money, typically for saving, spending, or investment purposes.</td>
 <td>TA06</td>
 </tr>
@@ -1947,14 +1947,14 @@
 </tr>
 <tr>
 <td><a href="techniques/T0149.001.md">T0149.001</a></td>
-<td>Domain</td>
-<td>A Domain is a web address (such as “www.google.com”), used to navigate to Websites on the internet.<br><br>Domains differ from Websites in that Websites are considered to be developed web pages which host content, whereas Domains do not necessarily host public-facing web content. <br><br>A threat actor may register a new domain to bypass the old domain being blocked.</td>
+<td>Domain Asset</td>
+<td>A Domain is a web address (such as “google[.]com”), used to navigate to Websites on the internet.<br><br>Domains differ from Websites in that Websites are considered to be developed web pages which host content, whereas Domains do not necessarily host public-facing web content. <br><br>A threat actor may register a new domain to bypass the old domain being blocked.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0149.002.md">T0149.002</a></td>
-<td>Email Domain</td>
-<td>An Email Domain is a Domain (such as “meta.com”) which has the ability to send emails. <br><br>Any Domain which has an MX (Mail Exchange) record and configured SMTP (Simple Mail Transfer Protocol) settings can send and receive emails, and is therefore an Email Domain. </td>
+<td>Email Domain Asset</td>
+<td>An Email Domain is a Domain (such as “meta[.]com”) which has the ability to send emails (e.g. from an @meta[.]com address). <br><br>Any Domain which has an MX (Mail Exchange) record and configured SMTP (Simple Mail Transfer Protocol) settings can send and receive emails, and is therefore an Email Domain. </td>
 <td>TA06</td>
 </tr>
 <tr>
@@ -1965,31 +1965,31 @@
 </tr>
 <tr>
 <td><a href="techniques/T0149.004.md">T0149.004</a></td>
-<td>Redirecting Domain</td>
+<td>Redirecting Domain Asset</td>
 <td>A Redirecting Domain is a Domain which has been configured to redirect users to another Domain when visited.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0149.005.md">T0149.005</a></td>
-<td>Server</td>
+<td>Server Asset</td>
 <td>A Server is a computer which provides resources, services, or data to other computers over a network. There are different types of servers, such as web servers (which serve web pages and applications to users), database servers (which manage and provide access to databases), and file servers (which store and share files across a network).</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0149.006.md">T0149.006</a></td>
-<td>IP Address</td>
+<td>IP Address Asset</td>
 <td>An IP Address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. IP addresses are commonly a part of any online infrastructure.<br><br>IP addresses can be in IPV4 dotted decimal (x.x.x.x) or IPV6 colon-separated hexadecimal (y:y:y:y:y:y:y:y) formats. </td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0149.007.md">T0149.007</a></td>
-<td>VPN</td>
+<td>VPN Asset</td>
 <td>A VPN (Virtual Private Network) is a service which creates secure, encrypted connections over the internet, allowing users to transmit data safely and access network resources remotely. It masks IP Addresses, enhancing privacy and security by preventing unauthorised access and tracking. VPNs are commonly used for protecting sensitive information, bypassing geographic restrictions, and maintaining online anonymity.<br><br>VPNs can also allow a threat actor to pose as if they are located in one country while in reality being based in another. By doing so, they can try to either mis-attribute their activities to another actor or better hide their own identity.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0149.008.md">T0149.008</a></td>
-<td>Proxy IP Address</td>
+<td>Proxy IP Address Asset</td>
 <td>A Proxy IP Address allows a threat actor to mask their real IP Address by putting a layer between them and the online content they’re connecting with. <br><br>Proxy IP Addresses can hide the connection between the threat actor and their online infrastructure.</td>
 <td>TA06</td>
 </tr>
@@ -2007,49 +2007,49 @@
 </tr>
 <tr>
 <td><a href="techniques/T0150.001.md">T0150.001</a></td>
-<td>Newly Created</td>
+<td>Newly Created Asset</td>
 <td>A Newly Created Asset is an asset which has been created and used for the first time in a documented potential incident.<br><br>For example, analysts which can identify a recent creation date of Accounts participating in the spread of a new narrative can assert these are Newly Created Assets.<br><br>Analysts should use Dormant if the asset was created and laid dormant for an extended period of time before activity.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0150.002.md">T0150.002</a></td>
-<td>Dormant</td>
+<td>Dormant Asset</td>
 <td>A Dormant Asset is an asset which was inactive for an extended period before being used in a documented potential incident.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0150.003.md">T0150.003</a></td>
-<td>Pre-Existing</td>
+<td>Pre-Existing Asset</td>
 <td>Pre-Existing Assets are assets which existed before the observed incident which have not been Repurposed; i.e. they are still being used for their original purpose. <br><br>An example could be an Account which presented itself with a Journalist Persona prior to and during the observed potential incident.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0150.004.md">T0150.004</a></td>
-<td>Repurposed</td>
+<td>Repurposed Asset</td>
 <td>Repurposed Assets are assets which have been identified as being used previously, but are now being used for different purposes, or have new Presented Personas.<br><br>Actors have been documented compromising assets, and then repurposing them to present Inauthentic Personas as part of their operations.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0150.005.md">T0150.005</a></td>
-<td>Compromised</td>
+<td>Compromised Asset</td>
 <td>A Compromised Asset is an asset which was originally created or belonged to another person or organisation, but which an actor has gained access to without their consent.<br><br>See also MITRE ATT&CK T1708: Valid Accounts.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0150.006.md">T0150.006</a></td>
-<td>Purchased</td>
+<td>Purchased Asset</td>
 <td>A Purchased Asset is an asset which actors paid for the ownership of. <br><br>For example, threat actors have been observed selling compromised social media accounts on dark web marketplaces, which can be used to disguise operation activity.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0150.007.md">T0150.007</a></td>
-<td>Rented</td>
+<td>Rented Asset</td>
 <td>A Rented Asset is an asset which actors are temporarily renting or subscribing to. <br><br>For example, threat actors have been observed renting temporary access to legitimate accounts on online platforms in order to disguise operation activity.</td>
 <td>TA06</td>
 </tr>
 <tr>
 <td><a href="techniques/T0150.008.md">T0150.008</a></td>
-<td>Bulk Created</td>
+<td>Bulk Created Asset</td>
 <td>A Bulk Created Asset is an asset which was created alongside many other instances of the same asset.<br><br>Actors have been observed bulk creating Accounts on Social Media Platforms such as Facebook. Indicators of bulk asset creation include its creation date, assets’ naming conventions, their configuration (e.g. templated personas, visually similar profile pictures), or their activity (e.g. post timings, narratives posted).</td>
 <td>TA06</td>
 </tr>
@@ -2175,7 +2175,7 @@
 </tr>
 <tr>
 <td><a href="techniques/T0152.002.md">T0152.002</a></td>
-<td>Blog</td>
+<td>Blog Asset</td>
 <td>Blogs are a collation of posts centred on a particular topic, author, or collection of authors.<br><br>Some platforms are designed to support users in hosting content online, such as Blogging Platforms like Substack which allow users to create Blogs, but other online platforms can also be used to produce a Blog; a Paid Account on X (prev Twitter) is able to post long-form text content to their timeline in a style of a blog.<br><br>Actors may create Accounts on Blogging Platforms to create a Blog, or make their own Blog on a Website.</td>
 <td>TA07</td>
 </tr>
@@ -2187,7 +2187,7 @@
 </tr>
 <tr>
 <td><a href="techniques/T0152.004.md">T0152.004</a></td>
-<td>Website</td>
+<td>Website Asset</td>
 <td>A Website is a collection of related web pages hosted on a server and accessible via a web browser. Websites have an associated Domain and can host various types of content, such as text, images, videos, and interactive features. <br><br>When a Website is fleshed out, it Presents a Persona to site visitors. For example, the Domain “bbc.co.uk/news” hosts a Website which uses the News Outlet Persona.</td>
 <td>TA07</td>
 </tr>
@@ -2259,13 +2259,13 @@
 </tr>
 <tr>
 <td><a href="techniques/T0153.003.md">T0153.003</a></td>
-<td>Shortened Link</td>
+<td>Shortened Link Asset</td>
 <td>A Shortened Link is a custom URL which is typically a shortened version of another URL.</td>
 <td>TA07</td>
 </tr>
 <tr>
 <td><a href="techniques/T0153.004.md">T0153.004</a></td>
-<td>QR Code</td>
+<td>QR Code Asset</td>
 <td>A QR Code allows people to use cameras on their smartphones to open a URL.</td>
 <td>TA07</td>
 </tr>
@@ -2313,37 +2313,37 @@
 </tr>
 <tr>
 <td><a href="techniques/T0155.001.md">T0155.001</a></td>
-<td>Password Gated</td>
+<td>Password Gated Asset</td>
 <td>A Password Gated Asset is an online asset which requires a password to gain access. <br><br>Examples include password protected Servers set up to be a File Hosting Platform, or password protected Community Sub-Forums.</td>
 <td>TA07</td>
 </tr>
 <tr>
 <td><a href="techniques/T0155.002.md">T0155.002</a></td>
-<td>Invite Gated</td>
+<td>Invite Gated Asset</td>
 <td>An Invite Gated Asset is an online asset which requires an existing user to invite other users for access to the asset.<br><br>Examples include Chat Groups in which Administrator Accounts are able to add or remove users, or File Hosting Platforms which allow users to invite other users to access their files.</td>
 <td>TA07</td>
 </tr>
 <tr>
 <td><a href="techniques/T0155.003.md">T0155.003</a></td>
-<td>Approval Gated</td>
+<td>Approval Gated Asset</td>
 <td>An Approval Gated Asset is an online asset which requires approval from Administrator Accounts for access to the asset.<br><br>Examples include Online Community Groups on Facebook, which can be configured to require questions and approval before access, and Accounts on Social Media Platforms such as Instagram, which allow users to set their accounts as visible to approved friends only.</td>
 <td>TA07</td>
 </tr>
 <tr>
 <td><a href="techniques/T0155.004.md">T0155.004</a></td>
-<td>Geoblocked</td>
+<td>Geoblocked Asset</td>
 <td>A Geoblocked Asset is an online asset which cannot be accessed in specific geographical locations.<br><br>Assets can be Geoblocked by choice of the platform, or can have Geoblocking mandated by regulators, and enforced through Internet Service Providers.</td>
 <td>TA07</td>
 </tr>
 <tr>
 <td><a href="techniques/T0155.005.md">T0155.005</a></td>
-<td>Paid Access</td>
+<td>Paid Access Asset</td>
 <td>A Paid Access Asset is an online asset which requires a single payment for permanent access to the asset.</td>
 <td>TA07</td>
 </tr>
 <tr>
 <td><a href="techniques/T0155.006.md">T0155.006</a></td>
-<td>Subscription Access</td>
+<td>Subscription Access Asset</td>
 <td>A Subscription Access Asset is an online asset which requires a continued subscription for access to the asset.<br><br>Examples include the Blogging Platform Substack, which affords Blogs hosted on their platform the ability to produce subscriber-only posts, and the Subscription Service Platform Patreon.</td>
 <td>TA07</td>
 </tr>
