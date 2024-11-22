@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--b28a49e7-cb04-4054-9463-53400252b737",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--85019513-d108-452c-86f2-47a8a4940ca9",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.243318Z",
+            "modified": "2024-11-22T16:43:58.243318Z",
+            "name": "Chat Room",
+            "description": "Many platforms which enable community interaction allow users to create Chat Rooms; a room in which members of the group can talk to each other via text, audio, or video.<br><br>Most Chat Rooms are Gated; users must be added to the chat group before they can post to the chat group, or view its content. For example, on WhatsApp a user can create a Chat Room containing other WhatsApp users whose contact information they have. At this point the user who created the Chat Room has an Administrator Account; they are uniquely able to add other users to the Chat Room.<br><br>However, Chat Rooms made on Chat Community Servers such as Discord can be Gated or open. If left open, anyone on the server can view the Chat Room (\u201cchannel\u201d), read its contents, and choose to join it.<br><br>Examples of Platforms which allow creation of Chat Rooms include:<br>Instagram, Facebook, X (prev. Twitter) (Group Direct Messaging)<br>Whatsapp, Telegram, WeChat, Signal (Group Chats)<br>Discord, Slack, Mattermost, Microsoft Teams (Channels)",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0151.006.md",
+                    "external_id": "T0151.006"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--c3d7ea01-fc3c-4177-b13c-e4e52587459e",
+    "id": "bundle--a0303e6b-facc-4f93-b565-c50a77155584",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--14bec5aa-0823-4dde-9223-ec49a1cea65e",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.368028Z",
-            "modified": "2024-08-02T17:12:32.368028Z",
+            "created": "2024-11-22T16:43:58.101619Z",
+            "modified": "2024-11-22T16:43:58.101619Z",
             "name": "Develop New Narratives",
             "description": "Actors may develop new narratives to further strategic or tactical goals, especially when existing narratives adequately align with the campaign goals. New narratives provide more control in terms of crafting the message to achieve specific goals. However, new narratives may require more effort to disseminate than adapting or adopting existing narratives.",
             "kill_chain_phases": [

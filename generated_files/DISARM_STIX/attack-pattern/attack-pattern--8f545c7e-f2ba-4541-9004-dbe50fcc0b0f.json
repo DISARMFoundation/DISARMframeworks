@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--e3f773da-1722-45b3-84f1-4c7564b017eb",
+    "id": "bundle--56e74f65-35a3-446a-8258-4b343d004d74",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--8f545c7e-f2ba-4541-9004-dbe50fcc0b0f",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.381311Z",
-            "modified": "2024-08-02T17:12:32.381311Z",
+            "created": "2024-11-22T16:43:58.126368Z",
+            "modified": "2024-11-22T16:43:58.126368Z",
             "name": "Utilise Butterfly Attacks",
             "description": "Butterfly attacks occur when operators pretend to be members of a certain social group, usually a group that struggles for representation. An influence operation may mimic a group to insert controversial statements into the discourse, encourage the spread of operation content, or promote harassment among group members. Unlike astroturfing, butterfly attacks aim to infiltrate and discredit existing grassroots movements, organisations, and media campaigns.",
             "kill_chain_phases": [

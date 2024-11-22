@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--d823ed68-575e-430b-b9f8-869e20f4e75d",
+    "id": "bundle--0e21f292-d9cc-4d12-aa2d-54a8dd8cc320",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5bc895e8-eb26-43ec-8469-ab665092970d",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.347214Z",
-            "modified": "2024-08-02T17:12:32.347214Z",
+            "created": "2024-11-22T16:43:58.089939Z",
+            "modified": "2024-11-22T16:43:58.089939Z",
             "name": "Dox",
             "description": "Doxing refers to online harassment in which individuals publicly release private information about another individual, including names, addresses, employment information, pictures, family members, and other sensitive information. An influence operation may dox its opposition to encourage individuals aligned with operation narratives to harass the doxed individuals themselves or otherwise discourage the doxed individuals from posting or proliferating conflicting content.",
             "kill_chain_phases": [

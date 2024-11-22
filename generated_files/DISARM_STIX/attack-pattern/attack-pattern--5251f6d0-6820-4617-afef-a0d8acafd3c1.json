@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--443a036d-c12e-4cad-bd05-42ddc7627882",
+    "id": "bundle--5e42e863-95bc-4c63-b15f-17a914d2ad2c",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5251f6d0-6820-4617-afef-a0d8acafd3c1",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.408023Z",
-            "modified": "2024-08-02T17:12:32.408023Z",
+            "created": "2024-11-22T16:43:58.158299Z",
+            "modified": "2024-11-22T16:43:58.158299Z",
             "name": "Post Inauthentic Social Media Comment",
             "description": "Use government-paid social media commenters, astroturfers, chat bots (programmed to reply to specific key words/hashtags) influence online conversations, product reviews, web-site comment forums.",
             "kill_chain_phases": [

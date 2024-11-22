@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--7c67f841-9fdb-4a33-ad46-0cb973b1dad8",
+    "id": "bundle--75c89b7e-c06d-4872-80ba-8c35a4d20bc7",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--eef34262-0822-4727-83f5-2e608babc396",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.336982Z",
-            "modified": "2024-08-02T17:12:32.336982Z",
+            "created": "2024-11-22T16:43:58.085653Z",
+            "modified": "2024-11-22T16:43:58.085653Z",
             "name": "Purchase Targeted Advertisements",
             "description": "Create or fund advertisements targeted at specific populations",
             "kill_chain_phases": [

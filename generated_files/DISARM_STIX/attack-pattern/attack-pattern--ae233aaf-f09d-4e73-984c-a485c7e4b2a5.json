@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--b68bf9b8-a82c-4892-9bcb-9fe222b643af",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--ae233aaf-f09d-4e73-984c-a485c7e4b2a5",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.134288Z",
+            "modified": "2024-11-22T16:43:58.134288Z",
+            "name": "Hacktivist Persona",
+            "description": "A person with a hacktivist persona presents themselves as an activist who conducts offensive cyber operations or builds technical infrastructure for political purposes, rather than the financial motivations commonly attributed to hackers; hacktivists are hacker activists who use their technical knowledge to take political action.<br><br>Hacktivists can build technical infrastructure to support other activists, including secure communication channels and surveillance and censorship circumvention. They can also conduct DDOS attacks and other offensive cyber operations, aiming to take down digital assets or gain access to proprietary information. An influence operation may use hacktivist personas to support their operational narratives and legitimise their operational activities.<br><br>Fabricated Hacktivists are sometimes referred to as \u201cFaketivists\u201d.<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0097.103: Activist Persona:</b> Analysts should use this sub-technique to catalogue cases where an individual is presenting themselves as someone engaged in activism but doesn\u2019t present themselves as using technical tools and methods to achieve their goals.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0097.104.md",
+                    "external_id": "T0097.104"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

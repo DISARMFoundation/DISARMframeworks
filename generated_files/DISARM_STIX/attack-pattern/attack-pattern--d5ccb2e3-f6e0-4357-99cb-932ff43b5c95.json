@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--9c4d97f2-34d6-43d3-b875-8e2d95e25a9f",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--d5ccb2e3-f6e0-4357-99cb-932ff43b5c95",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.215253Z",
+            "modified": "2024-11-22T16:43:58.215253Z",
+            "name": "Make Money",
+            "description": "Profit from disinformation, conspiracy theories, or online harm. In some cases, the sole objective is financial gain, in other cases the objective is both financial and political. Making money may also be a way to sustain a political campaign. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0137.md",
+                    "external_id": "T0137"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

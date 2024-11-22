@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--2964be6a-3bd9-42cd-84b3-e509dcbd1673",
+    "id": "bundle--8b60e8a6-4516-47c3-b754-8cd46a39d5d6",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--318f2a34-07b6-4c4b-9bb0-58f5bca681fc",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.407759Z",
-            "modified": "2024-08-02T17:12:32.407759Z",
+            "created": "2024-11-22T16:43:58.157213Z",
+            "modified": "2024-11-22T16:43:58.157213Z",
             "name": "Comment or Reply on Content",
             "description": "Delivering content by replying or commenting via owned media (assets that the operator controls).",
             "kill_chain_phases": [

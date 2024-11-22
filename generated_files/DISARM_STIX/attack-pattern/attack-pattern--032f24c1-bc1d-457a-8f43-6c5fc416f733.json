@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--63e73074-11b1-45ee-ab42-127e90ba2d27",
+    "id": "bundle--b7c0c4fa-1969-47bb-8df8-16c449bf90f4",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--032f24c1-bc1d-457a-8f43-6c5fc416f733",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.34226Z",
-            "modified": "2024-08-02T17:12:32.34226Z",
+            "created": "2024-11-22T16:43:58.087209Z",
+            "modified": "2024-11-22T16:43:58.087209Z",
             "name": "Reframe Context",
             "description": "Reframing context refers to removing an event from its surrounding context to distort its intended meaning. Rather than deny that an event occurred, reframing context frames an event in a manner that may lead the target audience to draw a different conclusion about its intentions.",
             "kill_chain_phases": [

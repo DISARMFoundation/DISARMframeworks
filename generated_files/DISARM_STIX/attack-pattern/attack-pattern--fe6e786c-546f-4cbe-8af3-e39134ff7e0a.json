@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--dda5e316-b03e-4af7-b54d-27a0c1ca53e1",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--fe6e786c-546f-4cbe-8af3-e39134ff7e0a",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.22415Z",
+            "modified": "2024-11-22T16:43:58.22415Z",
+            "name": "Verified Account Asset",
+            "description": "Some online platforms apply badges of verification to accounts which meet certain criteria.<br><br>On some platforms (such as dating apps) a verification badge signifies that the account has passed the platform\u2019s identity verification checks. On some platforms (such as X (previously Twitter)) a verification badge signifies that an account has paid for the platform\u2019s service.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0146.003.md",
+                    "external_id": "T0146.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--4d857bc0-534c-44cf-bc53-5b8afcfa7636",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--00d01b15-3ee1-4257-b067-ba4768a4b572",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.215467Z",
+            "modified": "2024-11-22T16:43:58.215467Z",
+            "name": "Generate Ad Revenue",
+            "description": "Earn income from digital advertisements published alongside inauthentic content. Conspiratorial, false, or provocative content drives internet traffic. Content owners earn money from impressions of, or clicks on, or conversions of ads published on their websites, social media profiles, or streaming services, or ads published when their content appears in search engine results. Fraudsters simulate impressions, clicks, and conversions, or they spin up inauthentic sites or social media profiles just to generate ad revenue. Conspiracy theorists and political operators generate ad revenue as a byproduct of their operation or as a means of sustaining their campaign.    ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0137.001.md",
+                    "external_id": "T0137.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

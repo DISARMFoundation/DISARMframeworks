@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--357612fa-329b-4de2-a145-00166041a3a7",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--d4142697-57c5-48a7-b1f2-a607c4851bfc",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.135459Z",
+            "modified": "2024-11-22T16:43:58.135459Z",
+            "name": "Researcher Persona",
+            "description": "A person with a researcher persona presents themselves as conducting research (e.g. for academic institutions, or think tanks), or having previously conducted research.<br><br>While presenting as a researcher is not an indication of inauthentic behaviour,\u00a0 an influence operation may have its narratives amplified by people presenting as researchers. Threat actors can fabricate researchers (T0143.002: Fabricated Persona, T0097.107: Researcher Persona) to add credibility to their narratives.<br><br>People who are legitimate researchers (T0143.001: Authentic Persona, T0097.107: Researcher Persona) can use their persona for malicious purposes, or be exploited by threat actors. For example, someone could take money for using their position as a Researcher to provide legitimacy to a false narrative or be tricked into doing so without their knowledge.<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0097.204: Think Tank Persona:</b> People with a researcher persona may present as being part of a think tank.<br><b>T0097.108: Expert Persona:</b> People who present as researching a given topic are likely to also present as having expertise in the area.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0097.107.md",
+                    "external_id": "T0097.107"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

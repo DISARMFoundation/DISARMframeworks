@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--bdd4f31b-25ac-464c-9a5e-dc194b3a3f64",
+    "id": "bundle--1d34b4f7-9d36-488e-9492-09d79f5a81ef",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--c729368d-246a-47eb-8e4b-ab5b0a3510ec",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.364767Z",
-            "modified": "2024-08-02T17:12:32.364767Z",
+            "created": "2024-11-22T16:43:58.099457Z",
+            "modified": "2024-11-22T16:43:58.099457Z",
             "name": "Assess Degree/Type of Media Access",
             "description": "An influence operation may survey a target audience\u2019s Internet availability and degree of media freedom to determine which target audience members will have access to operation content and on which platforms. An operation may face more difficulty targeting an information environment with heavy restrictions and media control than an environment with independent media, freedom of speech and of the press, and individual liberties.",
             "kill_chain_phases": [

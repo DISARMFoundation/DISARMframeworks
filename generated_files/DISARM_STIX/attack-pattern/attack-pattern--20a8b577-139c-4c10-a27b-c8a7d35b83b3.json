@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--6684b29d-147e-4a93-8666-3dad2a9f1752",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--20a8b577-139c-4c10-a27b-c8a7d35b83b3",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.251245Z",
+            "modified": "2024-11-22T16:43:58.251245Z",
+            "name": "Email Platform",
+            "description": "Gmail, iCloud mail, and Microsoft Outlook are examples of Email Platforms.<br><br>Email Platforms are online platforms which allow people to create Accounts that they can use to send and receive emails to and from other email accounts. <br><br>Instead of using an Email Platform, actors may set up their own Email Domain, letting them send and receive emails on a custom domain.<br><br>Analysts should default to Email Platform if they cannot confirm whether an email was sent using a privately operated email, or via an account on a public email platform (for example, in situations where analysts are coding third party reporting which does not specify the type of email used).",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0153.001.md",
+                    "external_id": "T0153.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

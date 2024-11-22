@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--0ed1decc-a90a-4a9c-86c6-e7055c8986d8",
+    "id": "bundle--8494586e-9259-48b9-bd7e-797ccc914bf9",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--a09fbbeb-58ef-4e7a-8183-5eaa668200c9",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.415759Z",
-            "modified": "2024-08-02T17:12:32.415759Z",
+            "created": "2024-11-22T16:43:58.199451Z",
+            "modified": "2024-11-22T16:43:58.199451Z",
             "name": "Delete URLs",
             "description": "URL deletion occurs when an influence operation completely removes its website registration, rendering the URL inaccessible. An influence operation may delete its URLs to complicate attribution or remove online documentation that the operation ever occurred.",
             "kill_chain_phases": [

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--c7c86c49-786d-410c-9b83-dab0e3edf975",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--2295615a-89ad-4f5b-b8ed-e70245a6d209",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.220405Z",
+            "modified": "2024-11-22T16:43:58.220405Z",
+            "name": "Impersonated Persona",
+            "description": "Threat actors may impersonate existing individuals or institutions to conceal their network identity, add legitimacy to content, or harm the impersonated target\u2019s reputation. This Technique covers situations where an actor presents themselves as another existing individual or institution.<br><br> This Technique was previously called Prepare Assets Impersonating Legitimate Entities and used the ID T0099.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097: Presented Persona:</b> Analysts can use the sub-techniques of T0097: Presented Persona to categorise the type of impersonation. For example, a document developed by a threat actor which falsely presented as a letter from a government department could be documented using T0085.004: Develop Document, T0143.003: Impersonated Persona, and T0097.206: Government Institution Persona.<br> <b>T0145.001: Copy Account Imagery:</b> Actors may take existing accounts\u2019 profile pictures as part of their impersonation efforts.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0143.003.md",
+                    "external_id": "T0143.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

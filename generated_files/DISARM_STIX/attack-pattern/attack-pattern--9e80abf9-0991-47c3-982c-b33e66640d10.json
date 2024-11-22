@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--449ab655-870f-4eeb-9c23-76bda1f0b8bb",
+    "id": "bundle--025f502b-d60f-4223-a199-fffc38df005e",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--9e80abf9-0991-47c3-982c-b33e66640d10",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.361644Z",
-            "modified": "2024-08-02T17:12:32.361644Z",
+            "created": "2024-11-22T16:43:58.09756Z",
+            "modified": "2024-11-22T16:43:58.09756Z",
             "name": "Distract",
             "description": "Shift attention to a different narrative or actor, for instance by accusing critics of the same activity that they\u2019ve accused you of (e.g. police brutality).",
             "kill_chain_phases": [

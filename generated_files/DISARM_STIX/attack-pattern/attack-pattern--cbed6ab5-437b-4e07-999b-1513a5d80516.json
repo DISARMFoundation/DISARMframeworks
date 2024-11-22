@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--1e9a5bf2-3e26-4da6-90f7-2ad22be3ec8d",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--cbed6ab5-437b-4e07-999b-1513a5d80516",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.25029Z",
+            "modified": "2024-11-22T16:43:58.25029Z",
+            "name": "File Hosting Platform",
+            "description": "Dropbox and Google Drive are examples of File Hosting Platforms.<br><br>File Hosting Platforms allow people to create Accounts which they can use to host files on another server, enabling access to content on any machine, and the ability to easily share files with anyone online.<br><br>Actors may also create their own File Hosting Platform on a Website or Server they control.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0152.010.md",
+                    "external_id": "T0152.010"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

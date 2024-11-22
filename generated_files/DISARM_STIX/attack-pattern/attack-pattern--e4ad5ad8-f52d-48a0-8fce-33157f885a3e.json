@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--26ff4cfa-6206-476b-9995-7fa1090f8ef5",
+    "id": "bundle--caa21b10-e559-4722-9c08-929755c32b97",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--e4ad5ad8-f52d-48a0-8fce-33157f885a3e",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.374513Z",
-            "modified": "2024-08-02T17:12:32.374513Z",
+            "created": "2024-11-22T16:43:58.108613Z",
+            "modified": "2024-11-22T16:43:58.108613Z",
             "name": "Deceptively Edit Images (Cheap Fakes)",
             "description": "Cheap fakes utilise less sophisticated measures of altering an image, video, or audio for example, slowing, speeding, or cutting footage to create a false context surrounding an image or event.",
             "kill_chain_phases": [

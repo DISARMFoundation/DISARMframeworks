@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--4b1cb8d8-ab81-4b78-8fca-49fb129277fd",
+    "id": "bundle--2de3f9eb-e71c-470c-917f-9b8cd17274a5",
     "objects": [
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
             "id": "x-mitre-tactic--3c73d309-b066-44f9-ad81-866a64e438c9",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.319152Z",
-            "modified": "2024-08-02T17:12:32.319152Z",
+            "created": "2024-11-22T16:43:58.075973Z",
+            "modified": "2024-11-22T16:43:58.075973Z",
             "name": "Select Channels and Affordances",
             "description": "Selecting platforms and affordances assesses which online or offline platforms and their associated affordances maximise an influence operation\u2019s ability to reach its target audience. To select the most appropriate platform(s), an operation may assess the technological affordances including platform algorithms, terms of service, permitted content types, or other attributes that determine platform usability and accessibility. Selecting platforms includes both choosing platforms on which the operation will publish its own content and platforms on which the operation will attempt to restrict adversarial content.",
             "external_references": [

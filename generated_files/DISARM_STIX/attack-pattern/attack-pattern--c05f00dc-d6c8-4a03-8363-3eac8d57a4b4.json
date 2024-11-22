@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--b69d5b7e-154b-4909-9e06-83e1060059cf",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--c05f00dc-d6c8-4a03-8363-3eac8d57a4b4",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.226184Z",
+            "modified": "2024-11-22T16:43:58.226184Z",
+            "name": "Game Mod Asset",
+            "description": "A Game Mod is a modification which can be applied to a Game or Multiplayer Online Game to add new content or functionality to the game.<br><br>Users can Modify Games to introduce new content to the game. Modified Games can be distributed on Software Delivery Platforms such as Steam or can be distributed within the Game or Multiplayer Online Game.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0147.002.md",
+                    "external_id": "T0147.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

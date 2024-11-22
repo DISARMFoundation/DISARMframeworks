@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--61e90a49-4ffd-4585-b825-788b1af95ad5",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--d4d25d21-0a60-4b58-8c3d-1fbbf26aeb02",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.237156Z",
+            "modified": "2024-11-22T16:43:58.237156Z",
+            "name": "Asset Origin",
+            "description": "Asset Origin contains a list of ways that an actor can obtain an asset. For example, they can create new accounts on online platforms, or they can compromise existing accounts or websites.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0150.md",
+                    "external_id": "T0150"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--4e9488dc-4ed8-4757-bfc1-1c836a7bf2ff",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--a5ea5fc9-8da6-4d0b-8756-0fea6ab6b8c4",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.139735Z",
+            "modified": "2024-11-22T16:43:58.139735Z",
+            "name": "Fact Checking Organisation Persona",
+            "description": "An institution with a fact checking organisation persona presents itself as an organisation which produces reports which assess the validity of others\u2019 reporting / statements.<br><br> While presenting as a fact checking organisation is not an indication of inauthentic behaviour, an influence operation may have its narratives amplified by fact checking organisations. Threat actors can fabricate fact checking organisations (T0143.002: Fabricated Persona, T0097.202: News Outlet Persona), or they can impersonate existing fact checking outlets (T0143.003: Impersonated Persona, T0097.202: News Outlet Persona).<br><br> Legitimate fact checking organisations could use their persona for malicious purposes, or be exploited by threat actors (T0143.001: Authentic Persona, T0097.202: News Outlet Persona).<br><br> <b>Associated Techniques and Sub-techniques</b></br> <b>T0097.102: Journalist Persona:</b> Institutions presenting as fact checking organisations may also present journalists working within the organisation.<br> <b>T0097.202: News Outlet Persona:</b> Fact checking organisations may present as operating as part of a larger news outlet (e.g. The UK\u2019s BBC News has the fact checking service BBC Verify). When an actor presents as the fact checking arm of a news outlet, they are presenting both a News Outlet Persona and a Fact Checking Organisation Persona.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0097.203.md",
+                    "external_id": "T0097.203"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

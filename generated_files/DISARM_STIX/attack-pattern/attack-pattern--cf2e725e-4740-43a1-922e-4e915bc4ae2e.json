@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--24f3602b-3267-4b5a-a524-219829dc9879",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--cf2e725e-4740-43a1-922e-4e915bc4ae2e",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.241756Z",
+            "modified": "2024-11-22T16:43:58.241756Z",
+            "name": "Social Media Platform",
+            "description": "Examples of popular Social Media Platforms include Facebook, Instagram, and VK.<br><br>Social Media Platforms allow users to create Accounts, which they can configure to present themselves to other platform users. This typically involves Establishing Account Imagery and Presenting a Persona.<br><br>Social Media Platforms typically allow the creation of Online Community Groups and Online Community Pages.<br><br>Accounts on Social Media Platforms are typically presented with a feed of content posted to the platform. The content that populates this feed can be aggregated by the platform\u2019s proprietary Content Recommendation Algorithm, or users can \u201cfriend\u201d or \u201cfollow\u201d other accounts to add their posts to their feed.<br><br>Many Social Media Platforms also allow users to send direct messages to other users on the platform. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0151.001.md",
+                    "external_id": "T0151.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

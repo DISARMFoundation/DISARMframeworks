@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--f2323188-b5e7-44e1-a81e-f72d77a0eefe",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--0d4d5ade-e487-4f29-8d33-5f19a9b216b6",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.084149Z",
+            "modified": "2024-11-22T16:43:58.084149Z",
+            "name": "Use Existing Hashtag",
+            "description": "Use a dedicated, existing hashtag for the campaign/incident. This Technique covers behaviours previously documented by T0104.005: Use Hashtags, which has since been deprecated.  ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0015.001.md",
+                    "external_id": "T0015.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

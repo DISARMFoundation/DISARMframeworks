@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--9a378790-917c-4006-851f-8de2ffa81c4c",
+    "id": "bundle--59649ae2-1639-4261-ae79-753403b81591",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--34cda40c-8d27-48a0-b27c-c953b75c453d",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.336169Z",
-            "modified": "2024-08-02T17:12:32.336169Z",
+            "created": "2024-11-22T16:43:58.085058Z",
+            "modified": "2024-11-22T16:43:58.085058Z",
             "name": "Create Clickbait",
             "description": "Create attention grabbing headlines (outrage, doubt, humour) required to drive traffic & engagement. This is a key asset.",
             "kill_chain_phases": [

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--43e83438-fc97-4957-bfe4-e80d3cdda9f2",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--304c0674-9d77-41c2-8f8e-3577df1c4c32",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.215683Z",
+            "modified": "2024-11-22T16:43:58.215683Z",
+            "name": "Scam",
+            "description": "Defraud a target or trick a target into doing something that benefits the attacker. A typical scam is where a fraudster convinces a target to pay for something without the intention of ever delivering anything in return. Alternatively, the fraudster may promise benefits which never materialise, such as a fake cure. Criminals often exploit a fear or crisis or generate a sense of urgency. They may use deepfakes to impersonate authority figures or individuals in distress.    ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0137.002.md",
+                    "external_id": "T0137.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

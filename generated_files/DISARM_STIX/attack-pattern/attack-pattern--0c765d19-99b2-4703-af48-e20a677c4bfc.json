@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--af67a6d7-fd4e-496d-aaad-7c9eb0bb0f2a",
+    "id": "bundle--ade6d034-bc2f-4421-9617-47622cff8bd4",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--0c765d19-99b2-4703-af48-e20a677c4bfc",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.347894Z",
-            "modified": "2024-08-02T17:12:32.347894Z",
+            "created": "2024-11-22T16:43:58.090125Z",
+            "modified": "2024-11-22T16:43:58.090125Z",
             "name": "Flood Information Space",
             "description": "Flooding sources of information (e.g. Social Media feeds) with a high volume of inauthentic content.<br /> <br />This can be done to control/shape online conversations, drown out opposing points of view, or make it harder to find legitimate information.<br /> <br />Bots and/or patriotic trolls are effective tools to achieve this effect.<br /> <br />This Technique previously used the name Flooding the Information Space.",
             "kill_chain_phases": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--e6f59b47-3d6c-4939-a2f9-2a17b3831a20",
+    "id": "bundle--84890fa4-2650-4c5c-a6a5-b21f08400331",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--ddc9d571-88a9-4246-bbbf-075bfed721f8",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.353767Z",
-            "modified": "2024-08-02T17:12:32.353767Z",
+            "created": "2024-11-22T16:43:58.093256Z",
+            "modified": "2024-11-22T16:43:58.093256Z",
             "name": "Sell Merchandise",
             "description": "Sell mechandise refers to getting the message or narrative into physical space in the offline world while making money",
             "kill_chain_phases": [

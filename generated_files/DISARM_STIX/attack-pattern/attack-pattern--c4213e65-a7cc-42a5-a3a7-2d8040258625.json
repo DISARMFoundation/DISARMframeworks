@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--1fc71209-444c-41f5-9856-fdb1b9deaf45",
+    "id": "bundle--622e589e-323a-4b67-8ce4-209b4859a687",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--c4213e65-a7cc-42a5-a3a7-2d8040258625",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.379162Z",
-            "modified": "2024-08-02T17:12:32.379162Z",
+            "created": "2024-11-22T16:43:58.118075Z",
+            "modified": "2024-11-22T16:43:58.118075Z",
             "name": "Build Network",
             "description": "Operators build their own network, creating links between accounts -- whether authentic or inauthentic -- in order amplify and promote narratives and artefacts, and encourage further growth of ther network, as well as the ongoing sharing and engagement with operational content.",
             "kill_chain_phases": [

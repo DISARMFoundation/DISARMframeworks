@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--62456d7c-97e1-4aa7-952e-da0812cc4219",
+    "id": "bundle--0a223823-80e8-4143-a8fb-30e11ebb08b5",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--bb25b4aa-9223-40ea-a28a-0dd675e91e46",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.399125Z",
-            "modified": "2024-08-02T17:12:32.399125Z",
+            "created": "2024-11-22T16:43:58.147131Z",
+            "modified": "2024-11-22T16:43:58.147131Z",
             "name": "Create Echo Chambers/Filter Bubbles",
             "description": "Create Echo Chambers/Filter Bubbles",
             "kill_chain_phases": [

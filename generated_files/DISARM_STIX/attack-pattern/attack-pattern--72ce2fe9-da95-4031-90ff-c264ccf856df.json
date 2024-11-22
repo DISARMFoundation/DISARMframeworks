@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--ba2d50c0-cc49-4afa-9298-d475d9e9b049",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--72ce2fe9-da95-4031-90ff-c264ccf856df",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.235603Z",
+            "modified": "2024-11-22T16:43:58.235603Z",
+            "name": "VPN Asset",
+            "description": "A VPN (Virtual Private Network) is a service which creates secure, encrypted connections over the internet, allowing users to transmit data safely and access network resources remotely. It masks IP Addresses, enhancing privacy and security by preventing unauthorised access and tracking. VPNs are commonly used for protecting sensitive information, bypassing geographic restrictions, and maintaining online anonymity.<br><br>VPNs can also allow a threat actor to pose as if they are located in one country while in reality being based in another. By doing so, they can try to either mis-attribute their activities to another actor or better hide their own identity.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0149.007.md",
+                    "external_id": "T0149.007"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--737c8f46-b4c5-43f0-8871-f5203700e51f",
+    "id": "bundle--8c14bf25-ff7f-4807-80e2-531713bc4df4",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--7475b7e6-1095-4ae1-a995-10ab1a6c838a",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.369661Z",
-            "modified": "2024-08-02T17:12:32.369661Z",
+            "created": "2024-11-22T16:43:58.103239Z",
+            "modified": "2024-11-22T16:43:58.103239Z",
             "name": "Deceptively Labelled or Translated",
             "description": "An influence operation may take authentic content from other sources and add deceptive labels or deceptively translate the content into other langauges.",
             "kill_chain_phases": [

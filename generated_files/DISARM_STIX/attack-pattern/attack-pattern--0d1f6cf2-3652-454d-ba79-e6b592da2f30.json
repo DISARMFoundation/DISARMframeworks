@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--9f4bf28b-b2a9-4a94-89a6-e1c687555e99",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--0d1f6cf2-3652-454d-ba79-e6b592da2f30",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.229495Z",
+            "modified": "2024-11-22T16:43:58.229495Z",
+            "name": "Subscription Processing Capability",
+            "description": "A Subscription Processing Capability is a feature of online platforms or software which enables the processing of recurring payments. <br><br>Subscription Processing Capabilities are typically used to enable recurring payments in exchange for continued access to products or services.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0148.005.md",
+                    "external_id": "T0148.005"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

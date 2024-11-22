@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--ed140e16-fef1-4b95-a330-04a151e374de",
+    "id": "bundle--c9512dd9-11e3-4f1c-9518-8bad28065304",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--d615efdc-7296-4254-90f5-99d2986d97fa",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.412541Z",
-            "modified": "2024-08-02T17:12:32.412541Z",
+            "created": "2024-11-22T16:43:58.179782Z",
+            "modified": "2024-11-22T16:43:58.179782Z",
             "name": "Exploit Platform TOS/Content Moderation",
             "description": "Exploit Platform TOS/Content Moderation",
             "kill_chain_phases": [

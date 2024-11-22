@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--7eeb1560-5bf0-4f48-951e-f7ff3b36a3d7",
+    "id": "bundle--750388ba-fa90-43d4-8427-158a57269683",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--245d117b-2700-462e-97d4-be9b4b3745c4",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.405913Z",
-            "modified": "2024-08-02T17:12:32.405913Z",
+            "created": "2024-11-22T16:43:58.14973Z",
+            "modified": "2024-11-22T16:43:58.14973Z",
             "name": "Employ Commercial Analytic Firms",
             "description": "Commercial analytic firms collect data on target audience activities and evaluate the data to detect trends, such as content receiving high click-rates. An influence operation may employ commercial analytic firms to facilitate external collection on its target audience, complicating attribution efforts and better tailoring the content to audience preferences.",
             "kill_chain_phases": [

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--8ce60545-4703-4f5d-b641-f9dd921e662e",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--8676cd4b-39ec-4219-9b93-27f2b7fb5d27",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.105931Z",
+            "modified": "2024-11-22T16:43:58.105931Z",
+            "name": "Machine Translated Text",
+            "description": "Text which has been translated into another language using machine translation tools, such as AI.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "develop-content"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0085.008.md",
+                    "external_id": "T0085.008"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

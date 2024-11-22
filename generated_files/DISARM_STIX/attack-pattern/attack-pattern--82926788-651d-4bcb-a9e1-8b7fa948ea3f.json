@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--d96908d8-0706-4733-8782-d60c8ad3d9b1",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--82926788-651d-4bcb-a9e1-8b7fa948ea3f",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.091802Z",
+            "modified": "2024-11-22T16:43:58.091802Z",
+            "name": "Generate Information Pollution",
+            "description": "Information Pollution occurs when threat actors attempt to ruin a source of information by flooding it with lots of inauthentic or unreliable content, intending to make it harder for legitimate users to find the information they\u2019re looking for.<br /> <br />This sub-technique\u2019s objective is to reduce exposure to target information, rather than promoting exposure to campaign content, for which the parent Technique T0049 can be used.<br /> <br />Analysts will need to infer what the motive for flooding an information space was when deciding whether to use T0049 or T0049.008 to tag a case when an information space is flooded. If such inference is not possible, default to T0049.<br /> <br />This Technique previously used the ID T0019.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "maximise-exposure"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0049.008.md",
+                    "external_id": "T0049.008"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--cd6bce4f-8b9f-4618-b092-73ba33e74e77",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--8c6ca73a-de02-46ea-9c46-41fd32b499e0",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.216819Z",
+            "modified": "2024-11-22T16:43:58.216819Z",
+            "name": "Motivate to Act",
+            "description": "Persuade, impel, or provoke the target to behave in a specific manner favourable to the attacker. Some common behaviours are joining, subscribing, voting, buying, demonstrating, fighting, retreating, resigning, boycotting.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0138.md",
+                    "external_id": "T0138"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

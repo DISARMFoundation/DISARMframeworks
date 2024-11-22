@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--35dd4d54-8557-42d5-acc5-c60aac924f17",
+    "id": "bundle--d509acb3-c08b-4528-a6bb-36f6532a99ec",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5d4cafe2-42cc-4c41-8ce7-41256e1383f7",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.343367Z",
-            "modified": "2024-08-02T17:12:32.343367Z",
+            "created": "2024-11-22T16:43:58.087794Z",
+            "modified": "2024-11-22T16:43:58.087794Z",
             "name": "Bait Influencer",
             "description": "Influencers are people on social media platforms who have large audiences.<br /> <br />Threat Actors can try to trick Influencers such as celebrities, journalists, or local leaders who aren\u2019t associated with their campaign into amplifying campaign content. This gives them access to the Influencer\u2019s audience without having to go through the effort of building it themselves, and it helps legitimise their message by associating it with the Influencer, benefitting from their audience\u2019s trust in them.",
             "kill_chain_phases": [

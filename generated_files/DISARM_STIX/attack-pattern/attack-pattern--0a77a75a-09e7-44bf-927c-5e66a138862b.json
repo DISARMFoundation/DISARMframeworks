@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--2af4cfde-2a63-497e-bdb2-a5abdb6e7bbb",
+    "id": "bundle--5eb0e5c1-7ce2-476d-b9c4-04285eaee896",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--0a77a75a-09e7-44bf-927c-5e66a138862b",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.412914Z",
-            "modified": "2024-08-02T17:12:32.412914Z",
+            "created": "2024-11-22T16:43:58.181415Z",
+            "modified": "2024-11-22T16:43:58.181415Z",
             "name": "Encourage Attendance at Events",
             "description": "Operation encourages attendance at existing real world event.",
             "kill_chain_phases": [

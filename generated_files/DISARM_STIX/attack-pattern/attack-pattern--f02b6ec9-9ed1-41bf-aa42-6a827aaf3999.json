@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--1f5db2e3-8cc7-4f26-a91c-101ab1b0b987",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--f02b6ec9-9ed1-41bf-aa42-6a827aaf3999",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.216607Z",
+            "modified": "2024-11-22T16:43:58.216607Z",
+            "name": "Manipulate Stocks",
+            "description": "Artificially inflate or deflate the price of stocks or other financial instruments and then trade on these to make profit. The most common securities fraud schemes are called \u201cpump and dump\u201d and \u201cpoop and scoop\u201d. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0137.006.md",
+                    "external_id": "T0137.006"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

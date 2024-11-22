@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--b1ac0e62-fc59-4eaf-b2ec-e95d2bbeb484",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--668e4604-2fcf-42fe-8168-f5197efce97e",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.135056Z",
+            "modified": "2024-11-22T16:43:58.135056Z",
+            "name": "Recruiter Persona",
+            "description": "A person with a recruiter persona presents themselves as a potential employer or provider of freelance work.<br><br>While presenting as a recruiter is not an indication of inauthentic behaviour, threat actors fabricate recruiters (T0143.002: Fabricated Persona, T0097.106: Recruiter Persona) to justify asking for personal information from their targets or to trick targets into working for the threat actors (without revealing who they are).<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0097.205: Business Persona:</b> People with a recruiter persona may present as being part of a business which they are recruiting for.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0097.106.md",
+                    "external_id": "T0097.106"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

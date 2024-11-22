@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--1c50af98-a897-40f0-be0e-8062979357d9",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--48899bd4-c5dd-460c-917f-c4015c9352f7",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.235106Z",
+            "modified": "2024-11-22T16:43:58.235106Z",
+            "name": "IP Address Asset",
+            "description": "An IP Address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. IP addresses are commonly a part of any online infrastructure.<br><br>IP addresses can be in IPV4 dotted decimal (x.x.x.x) or IPV6 colon-separated hexadecimal (y:y:y:y:y:y:y:y) formats. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0149.006.md",
+                    "external_id": "T0149.006"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

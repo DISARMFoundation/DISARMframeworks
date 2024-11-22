@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--01e5cb1d-7a12-4479-86eb-7f1ca19682f7",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--0f040af8-7434-4fb8-be96-30a3123c8644",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.248558Z",
+            "modified": "2024-11-22T16:43:58.248558Z",
+            "name": "Website Asset",
+            "description": "A Website is a collection of related web pages hosted on a server and accessible via a web browser. Websites have an associated Domain and can host various types of content, such as text, images, videos, and interactive features. <br><br>When a Website is fleshed out, it Presents a Persona to site visitors. For example, the Domain \u201cbbc.co.uk/news\u201d hosts a Website which uses the News Outlet Persona.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0152.004.md",
+                    "external_id": "T0152.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

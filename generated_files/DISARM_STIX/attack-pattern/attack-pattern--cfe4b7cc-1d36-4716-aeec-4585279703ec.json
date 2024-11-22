@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--fbf3e82e-9adb-42d3-aed0-959f19a7535c",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--cfe4b7cc-1d36-4716-aeec-4585279703ec",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.24687Z",
+            "modified": "2024-11-22T16:43:58.24687Z",
+            "name": "Online Game Session",
+            "description": "Online Game Sessions are instances of a game played on an Online Game Platform. Examples of Online Game Sessions include a match in Fortnite or League of Legends, or a server in Minecraft, Fortnite, or World of Warcraft.<br><br>Some Online Game Platforms (such as Fortnite, League of Legends, and World of Warcraft) host Online Game Sessions on their own Servers, and don\u2019t allow other actors to host Online Game Sessions.<br><br>Some Online Game Platforms (such as Roblox and Minecraft) allow users to host instances of Online Game Sessions on their own Servers.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0151.016.md",
+                    "external_id": "T0151.016"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--ef61da7d-7f1e-41a7-a034-4e9ed9c137b4",
+    "id": "bundle--8f4532e1-c270-470e-b47c-7c918c299113",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--570ba169-9d18-41ac-89ae-46b1376cdb82",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.413648Z",
-            "modified": "2024-08-02T17:12:32.413648Z",
+            "created": "2024-11-22T16:43:58.187202Z",
+            "modified": "2024-11-22T16:43:58.187202Z",
             "name": "Conduct Physical Violence",
             "description": "An influence operation may directly Conduct Physical Violence to achieve campaign goals.",
             "kill_chain_phases": [

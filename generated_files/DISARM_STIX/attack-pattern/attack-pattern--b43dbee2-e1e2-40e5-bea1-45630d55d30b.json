@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--aeeda24a-372c-4599-9027-7681789c5570",
+    "id": "bundle--71c8472a-85c5-4522-9ab0-f0c8c2d04830",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--b43dbee2-e1e2-40e5-bea1-45630d55d30b",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.395629Z",
-            "modified": "2024-08-02T17:12:32.395629Z",
+            "created": "2024-11-22T16:43:58.145034Z",
+            "modified": "2024-11-22T16:43:58.145034Z",
             "name": "Co-Opt Grassroots Groups",
             "description": "Co-Opt Grassroots Groups",
             "kill_chain_phases": [

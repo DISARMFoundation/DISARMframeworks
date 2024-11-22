@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--09d6d1d5-d274-43d7-b43f-8b54b24cc601",
+    "id": "bundle--8635c32f-2aaf-4181-b7b4-35392c124c29",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5daa2f8a-2460-4cdd-ae55-b70f439a9f51",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.407532Z",
-            "modified": "2024-08-02T17:12:32.407532Z",
+            "created": "2024-11-22T16:43:58.156343Z",
+            "modified": "2024-11-22T16:43:58.156343Z",
             "name": "One-Way Direct Posting",
             "description": "Direct posting refers to a method of posting content via a one-way messaging service, where the recipient cannot directly respond to the poster\u2019s messaging. An influence operation may post directly to promote operation narratives to the target audience without allowing opportunities for fact-checking or disagreement, creating a false sense of support for the narrative.",
             "kill_chain_phases": [

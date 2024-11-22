@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--1542ef39-a6d7-4dc2-91f3-6390c89ce1b0",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--5830600f-c9b2-430d-948e-76870131c475",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.138621Z",
+            "modified": "2024-11-22T16:43:58.138621Z",
+            "name": "Local Institution Persona",
+            "description": "Institutions which present themselves as operating in a particular geography, or as having local knowledge relevant to a narrative, are presenting a local institution persona.<br><br> While presenting as a local institution is not an indication of inauthentic behaviour, threat actors may present themselves as such (T0143.002: Fabricated Persona, T0097.201: Local Institution Persona) to add credibility to their narratives, or misrepresent the real opinions of locals in the area.<br><br> Legitimate local institutions could use their persona for malicious purposes, or be exploited by threat actors (T0143.001: Authentic Persona, T0097.201: Local Institution Persona). For example, a local institution could take money for using their position to provide legitimacy to a false narrative, or be tricked into doing so without their knowledge.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097.101: Local Persona:</b> Institutions presenting as local may also present locals working within the organisation.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0097.201.md",
+                    "external_id": "T0097.201"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

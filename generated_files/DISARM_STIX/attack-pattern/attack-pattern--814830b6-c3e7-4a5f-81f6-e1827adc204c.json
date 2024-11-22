@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--d6db524b-601a-4b14-993d-eeda4c472b36",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--814830b6-c3e7-4a5f-81f6-e1827adc204c",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.221154Z",
+            "modified": "2024-11-22T16:43:58.221154Z",
+            "name": "Present Persona across Platforms",
+            "description": "This sub-technique covers situations where analysts have identified the same persona being presented across multiple platforms.<br><br> Having multiple accounts presenting the same persona is not an indicator of inauthentic behaviour; many people create accounts and present as themselves on multiple platforms. However, threat actors are known to present the same persona across multiple platforms, benefiting from an increase in perceived legitimacy.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0144.001.md",
+                    "external_id": "T0144.001"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

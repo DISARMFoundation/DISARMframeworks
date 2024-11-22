@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--9ddc59bd-87f8-4c7c-b061-39538c87b9d9",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--54a94d4f-dfb5-4ac5-affd-30ff1c22c8d9",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.249713Z",
+            "modified": "2024-11-22T16:43:58.249713Z",
+            "name": "Live Streaming Platform",
+            "description": "Twitch.tv and Whatnot are examples of Live Streaming Platforms. <br><br>Live Streaming Platforms allow people to create Accounts and stream live content (video or audio). A temporary open Group Chat is created alongside live streamed content for viewers to discuss the stream. Some Live Streaming Platforms allow users to archive streamed content for later non-live viewing.<br><br>The ability to stream live media is not exclusive to Live Streaming Platforms; many online platforms allow users with Accounts to stream content (such as the Video Platform YouTube\u2019s \u201cYouTube Live\u201d, and the Social Media Platform Facebook\u2019s \u201cFacebook Live\u201d). However, Live Streaming Platforms\u2019 primary purpose is to be a place for people to stream content live.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0152.008.md",
+                    "external_id": "T0152.008"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

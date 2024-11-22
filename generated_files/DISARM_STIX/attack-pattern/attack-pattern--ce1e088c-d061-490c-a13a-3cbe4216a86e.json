@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--4f3f9538-6cdd-495f-b39b-514594be60dc",
+    "id": "bundle--b1f29b3c-1035-424b-8a47-d7f7c041fef8",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--ce1e088c-d061-490c-a13a-3cbe4216a86e",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.418604Z",
-            "modified": "2024-08-02T17:12:32.418604Z",
+            "created": "2024-11-22T16:43:58.208716Z",
+            "modified": "2024-11-22T16:43:58.208716Z",
             "name": "Legacy Web Content",
             "description": "Make incident content visible for a long time, e.g. by exploiting platform terms of service, or placing it where it's hard to remove or unlikely to be removed.",
             "kill_chain_phases": [

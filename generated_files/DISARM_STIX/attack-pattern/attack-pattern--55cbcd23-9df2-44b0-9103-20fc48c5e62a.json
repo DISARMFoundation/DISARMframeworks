@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--6f5177bd-1f86-4c09-8833-70b5e8d3e0e2",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--55cbcd23-9df2-44b0-9103-20fc48c5e62a",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.220609Z",
+            "modified": "2024-11-22T16:43:58.220609Z",
+            "name": "Parody Persona",
+            "description": "Parody is a form of artistic expression that imitates the style or characteristics of a particular work, genre, or individual in a humorous or satirical way, often to comment on or critique the original work or subject matter. People may present as parodies to create humour or make a point by exaggerating or altering elements of the original, while still maintaining recognizable elements.<br><br> The use of parody is not an indication of inauthentic or malicious behaviour; parody allows people to present ideas or criticisms in a comedic or exaggerated manner, softening the impact of sensitive or contentious topics. Because parody is often protected as a form of free speech or artistic expression, it provides a legal and social framework for discussing controversial issues.<br><br> However, parody personas may be perceived as authentic personas, leading to people mistakenly believing that a parody account\u2019s statements represent the real opinions of a parodied target. Threat actors may also use the guise of parody to spread campaign content. Parody personas may disclaim that they are operating as a parody, however this is not always the case, and is not always given prominence.<br><br> <b>Associated Techniques and Sub-techniques</b> <b>T0097: Presented Persona: </b>Analysts can use the sub-techniques of T0097: Presented Persona to categorise the type of parody.\u00a0For example, an account presenting as a parody of a business could be documented using T0097.205: Business Persona and T0143.003: Parody Persona.<br> <b>T0145.001: Copy Account Imagery:</b> Actors may take existing accounts\u2019 profile pictures as part of their parody efforts.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0143.004.md",
+                    "external_id": "T0143.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--ef89e3d2-02a9-46a0-b179-3fda040b6499",
+    "id": "bundle--3605e351-d1bb-4e46-a393-7765b20f23dd",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--283333f5-e161-4195-9070-5a7c22505adf",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.394819Z",
-            "modified": "2024-08-02T17:12:32.394819Z",
+            "created": "2024-11-22T16:43:58.144121Z",
+            "modified": "2024-11-22T16:43:58.144121Z",
             "name": "Co-Opt Trusted Sources",
             "description": "An influence operation may co-opt trusted sources by infiltrating or repurposing a source to reach a target audience through existing, previously reliable networks. Co-opted trusted sources may include: - National or local new outlets - Research or academic publications - Online blogs or websites",
             "kill_chain_phases": [

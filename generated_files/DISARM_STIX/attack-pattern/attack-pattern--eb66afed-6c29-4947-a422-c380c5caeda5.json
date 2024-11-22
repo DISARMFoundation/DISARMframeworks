@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--cb8a96cd-1f04-4b73-9c3d-1e9e2451b61a",
+    "id": "bundle--f796c879-5c6d-487e-8172-29f0256cda3d",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--eb66afed-6c29-4947-a422-c380c5caeda5",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.405316Z",
-            "modified": "2024-08-02T17:12:32.405316Z",
+            "created": "2024-11-22T16:43:58.149304Z",
+            "modified": "2024-11-22T16:43:58.149304Z",
             "name": "Newspaper",
             "description": "Newspaper",
             "kill_chain_phases": [

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--170da537-fc5b-4aa3-ac32-983b03762297",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--6b44afc0-b2e2-4655-8e41-848631d5e5c5",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.222993Z",
+            "modified": "2024-11-22T16:43:58.222993Z",
+            "name": "Attractive Person Account Imagery",
+            "description": "Attractive person used in account imagery.<br><br> An influence operation might flesh out its account by uploading account imagery (e.g. a profile picture), increasing its perceived authenticity.<br><br> Pictures of physically attractive people can benefit threat actors by increasing attention given to their posts.<br><br> People sometimes legitimately use images of attractive people as their profile picture, and threat actors can mimic this behaviour to avoid the risk of detection associated with stealing or AI-generating profile pictures (see T0145.001: Copy Account Imagery and T0145.002: AI-Generated Account Imagery).<br><br> This Technique is often used by Coordinated Inauthentic Behaviour accounts (CIBs). A collection of accounts displaying the same behaviour using similar account imagery can indicate the presence of CIB.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097.109: Romantic Suitor Persona:</b> Accounts presenting as a romantic suitor may use an attractive person in their account imagery.<br> <b>T0151.017: Dating Platform:</b> Analysts can use this sub-technique for tagging cases where an account has been identified as using a dating platform.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0145.006.md",
+                    "external_id": "T0145.006"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

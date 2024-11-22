@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--2a022589-ca2c-432b-8ddc-39d06a24534f",
+    "id": "bundle--47cc0e8d-051e-4972-877a-67a4f9ee53f1",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5e7541d8-2b43-4443-89d9-7362ca78944c",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.409423Z",
-            "modified": "2024-08-02T17:12:32.409423Z",
+            "created": "2024-11-22T16:43:58.163101Z",
+            "modified": "2024-11-22T16:43:58.163101Z",
             "name": "Incentivize Sharing",
             "description": "Incentivizing content sharing refers to actions that encourage users to share content themselves, reducing the need for the operation itself to post and promote its own content.",
             "kill_chain_phases": [

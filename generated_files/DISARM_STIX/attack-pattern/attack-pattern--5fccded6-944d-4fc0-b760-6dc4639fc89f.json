@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--4f7274a6-49c5-40da-86f6-cbf954925cbf",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--5fccded6-944d-4fc0-b760-6dc4639fc89f",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.142174Z",
+            "modified": "2024-11-22T16:43:58.142174Z",
+            "name": "Social Cause Persona",
+            "description": "Online accounts which present themselves as focusing on a social cause are presenting the Social Cause Persona. Examples include accounts which post about current affairs, such as discrimination faced by minorities.<br><br> While presenting as an account invested in a social cause is not an indication of inauthentic behaviour, such personas have been used by threat actors to exploit peoples\u2019 legitimate emotional investment regarding social causes that matter to them (T0143.002: Fabricated Persona, T0097.208: Social Cause Persona).<br><br> Legitimate accounts focused on a social cause could use their persona for malicious purposes, or be exploited by threat actors (T0143.001: Authentic Persona, T0097.208: Social Cause Persona). For example, the account holders could take money for using their position to provide legitimacy to a false narrative, or be tricked into doing so without their knowledge.<br><br> <b>Associated Techniques and Sub-techniques:</b><br> <b>T0097.103: Activist Persona:</b> Analysts should use this sub-technique to catalogue cases where an individual is presenting themselves as an activist related to a social cause. Accounts with social cause personas do not present themselves as individuals, but may have activists controlling the accounts.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0097.208.md",
+                    "external_id": "T0097.208"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

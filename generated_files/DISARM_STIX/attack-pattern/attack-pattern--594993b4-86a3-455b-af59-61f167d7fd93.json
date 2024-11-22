@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--f2ed5491-1539-4e78-aa21-2e341b0e8db7",
+    "id": "bundle--5ade2766-4f77-48b1-974f-54a5d60ecdc9",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--594993b4-86a3-455b-af59-61f167d7fd93",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.367108Z",
-            "modified": "2024-08-02T17:12:32.367108Z",
+            "created": "2024-11-22T16:43:58.10102Z",
+            "modified": "2024-11-22T16:43:58.10102Z",
             "name": "Identify Wedge Issues",
             "description": "A wedge issue is a divisive political issue, usually concerning a social phenomenon, that divides individuals along a defined line. An influence operation may exploit wedge issues by intentionally polarising the public along the wedge issue line and encouraging opposition between factions.",
             "kill_chain_phases": [
