@@ -770,272 +770,272 @@
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00096.md">I00096</a></td>
+<td>China ramps up use of AI misinformation</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00097.md">I00097</a></td>
+<td>Report: Not Just Algorithms</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00098.md">I00098</a></td>
+<td>Gaming The System: How Extremists Exploit Gaming Sites And What Can Be Done To Counter Them</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00099.md">I00099</a></td>
+<td>More Women Are Facing The Reality Of Deepfakes, And They’re Ruining Lives</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00100.md">I00100</a></td>
+<td>Why ThisPersonDoesNotExist (and its copycats) need to be restricted</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00101.md">I00101</a></td>
+<td>Pro-Putin Disinformation Warriors Take War of Aggression to Reddit</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00102.md">I00102</a></td>
+<td>Ignore The Poway Synagogue Shooter’s Manifesto: Pay Attention To 8chan’s /pol/ Board</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00103.md">I00103</a></td>
+<td>The racist AI deepfake that fooled and divided a community</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00104.md">I00104</a></td>
+<td>Macron Campaign Hit With “Massive and Coordinated” Hacking Attack</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00105.md">I00105</a></td>
+<td>Gaming the System: The Use of Gaming-Adjacent Communication, Game and Mod Platforms by Extremist Actors</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00106.md">I00106</a></td>
+<td>Facebook Is Being Flooded With Gross AI-Generated Images of Hurricane Helene Devastation</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00107.md">I00107</a></td>
+<td>The Lies Russia Tells Itself</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00108.md">I00108</a></td>
+<td>How you thought you support the animals and you ended up funding white supremacists</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00109.md">I00109</a></td>
+<td>Coordinated Facebook Pages Designed to Fund a White Supremacist Agenda</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00110.md">I00110</a></td>
+<td>How COVID-19 conspiracists and extremists use crowdfunding platforms to fund their activities</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00111.md">I00111</a></td>
+<td>Patreon Is Bankrolling Climate Change Deniers While We All Burn</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
-<td></td>
+<td><a href="incidents/I00112.md">I00112</a></td>
+<td>Patreon allows disinformation and conspiracies to be monetised in Spain</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="incidents/.md"></a></td>
+<td><a href="incidents/I00113.md">I00113</a></td>
+<td>Inside the Shadowy World of Disinformation for Hire in Kenya</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00114.md">I00114</a></td>
+<td>‘Carol’s Journey’: What Facebook knew about how it radicalized users</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00115.md">I00115</a></td>
+<td>How Facebook shapes your feed</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00116.md">I00116</a></td>
+<td>Blue-tick scammers target consumers who complain on X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00117.md">I00117</a></td>
+<td>The El Paso Shooting and the Gamification of Terror</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00118.md">I00118</a></td>
+<td>‘War Thunder’ players are once again leaking sensitive military technology information on a video game forum</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00119.md">I00119</a></td>
+<td>Independent journalist publishes Trump campaign document hacked by Iran despite election interference concerns</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00120.md">I00120</a></td>
+<td>factcheckUK or fakecheckUK? Reinventing the political faction as the impartial factchecker</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00121.md">I00121</a></td>
+<td>Operation Overload: how pro-Russian actors flood newsrooms with fake content and seek to divert their efforts</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00122.md">I00122</a></td>
+<td>The Extreme Right on Discord</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00123.md">I00123</a></td>
+<td>The Extreme Right on Steam</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00124.md">I00124</a></td>
+<td>Malign foreign interference and information influence on video game platforms: understanding the adversarial playbook</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00125.md">I00125</a></td>
+<td>The Agency</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00126.md">I00126</a></td>
+<td>Charming Kitten Updates POWERSTAR with an InterPlanetary Twist</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00127.md">I00127</a></td>
+<td>Iranian APTs Dress Up as Hacktivists for Disruption, Influence Ops</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00128.md">I00128</a></td>
+<td>#TrollTracker: Outward Influence Operation From Iran</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="incidents/I00129.md">I00129</a></td>
+<td>Teen who hacked Joe Biden and Bill Gates' Twitter accounts sentenced to three years in prison</td>
 <td></td>
 <td></td>
 <td></td>
