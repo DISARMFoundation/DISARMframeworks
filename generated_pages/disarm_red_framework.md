@@ -609,7 +609,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0146.md">T0146 Account Asset</a></td>
 <td><a href="techniques/T0143.002.md">T0143.002 Fabricated Persona</a></td>
 <td> </td>
 <td> </td>
@@ -618,7 +618,7 @@
 <td> </td>
 <td><a href="techniques/T0139.md">T0139 Dissuade from Acting</a></td>
 <td> </td>
-<td><a href="techniques/T0146.md">T0146 Account Asset</a></td>
+<td> </td>
 <td><a href="techniques/T0152.007.md">T0152.007 Audio Platform</a></td>
 <td> </td>
 <td> </td>
@@ -627,7 +627,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0146.001.md">T0146.001 Free Account Asset</a></td>
 <td><a href="techniques/T0143.003.md">T0143.003 Impersonated Persona</a></td>
 <td> </td>
 <td> </td>
@@ -636,7 +636,7 @@
 <td> </td>
 <td><a href="techniques/T0139.001.md">T0139.001 Discourage</a></td>
 <td> </td>
-<td><a href="techniques/T0146.001.md">T0146.001 Free Account Asset</a></td>
+<td> </td>
 <td><a href="techniques/T0152.008.md">T0152.008 Live Streaming Platform</a></td>
 <td> </td>
 <td> </td>
@@ -645,7 +645,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0146.002.md">T0146.002 Paid Account Asset</a></td>
 <td><a href="techniques/T0143.004.md">T0143.004 Parody Persona</a></td>
 <td> </td>
 <td> </td>
@@ -654,7 +654,7 @@
 <td> </td>
 <td><a href="techniques/T0139.002.md">T0139.002 Silence</a></td>
 <td> </td>
-<td><a href="techniques/T0146.002.md">T0146.002 Paid Account Asset</a></td>
+<td> </td>
 <td><a href="techniques/T0152.009.md">T0152.009 Software Delivery Platform</a></td>
 <td> </td>
 <td> </td>
@@ -663,7 +663,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0146.003.md">T0146.003 Verified Account Asset</a></td>
 <td><a href="techniques/T0144.md">T0144 Persona Legitimacy Evidence</a></td>
 <td> </td>
 <td> </td>
@@ -672,7 +672,7 @@
 <td> </td>
 <td><a href="techniques/T0139.003.md">T0139.003 Deter</a></td>
 <td> </td>
-<td><a href="techniques/T0146.003.md">T0146.003 Verified Account Asset</a></td>
+<td> </td>
 <td><a href="techniques/T0152.010.md">T0152.010 File Hosting Platform</a></td>
 <td> </td>
 <td> </td>
@@ -681,7 +681,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0146.004.md">T0146.004 Administrator Account Asset</a></td>
 <td><a href="techniques/T0144.001.md">T0144.001 Present Persona across Platforms</a></td>
 <td> </td>
 <td> </td>
@@ -690,7 +690,7 @@
 <td> </td>
 <td><a href="techniques/T0140.md">T0140 Cause Harm</a></td>
 <td> </td>
-<td><a href="techniques/T0146.004.md">T0146.004 Administrator Account Asset</a></td>
+<td> </td>
 <td><a href="techniques/T0152.011.md">T0152.011 Wiki Platform</a></td>
 <td> </td>
 <td> </td>
@@ -699,7 +699,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0146.005.md">T0146.005 Lookalike Account ID</a></td>
 <td><a href="techniques/T0144.002.md">T0144.002 Persona Template</a></td>
 <td> </td>
 <td> </td>
@@ -708,7 +708,7 @@
 <td> </td>
 <td><a href="techniques/T0140.001.md">T0140.001 Defame</a></td>
 <td> </td>
-<td><a href="techniques/T0146.005.md">T0146.005 Lookalike Account ID</a></td>
+<td> </td>
 <td><a href="techniques/T0152.012.md">T0152.012 Subscription Service Platform</a></td>
 <td> </td>
 <td> </td>
@@ -717,7 +717,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0146.006.md">T0146.006 Open Access Platform</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -726,7 +726,7 @@
 <td> </td>
 <td><a href="techniques/T0140.002.md">T0140.002 Intimidate</a></td>
 <td> </td>
-<td><a href="techniques/T0146.006.md">T0146.006 Open Access Platform</a></td>
+<td> </td>
 <td><a href="techniques/T0153.md">T0153 Digital Content Delivery Asset</a></td>
 <td> </td>
 <td> </td>
@@ -735,7 +735,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0146.007.md">T0146.007 Automated Account Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -744,7 +744,7 @@
 <td> </td>
 <td><a href="techniques/T0140.003.md">T0140.003 Spread Hate</a></td>
 <td> </td>
-<td><a href="techniques/T0146.007.md">T0146.007 Automated Account Asset</a></td>
+<td> </td>
 <td><a href="techniques/T0153.001.md">T0153.001 Email Platform</a></td>
 <td> </td>
 <td> </td>
@@ -753,7 +753,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0147.md">T0147 Software Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -762,7 +762,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0147.md">T0147 Software Asset</a></td>
+<td> </td>
 <td><a href="techniques/T0153.002.md">T0153.002 Link Shortening Platform</a></td>
 <td> </td>
 <td> </td>
@@ -771,7 +771,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0147.001.md">T0147.001 Game Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -780,7 +780,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0147.001.md">T0147.001 Game Asset</a></td>
+<td> </td>
 <td><a href="techniques/T0153.003.md">T0153.003 Shortened Link Asset</a></td>
 <td> </td>
 <td> </td>
@@ -789,7 +789,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0147.002.md">T0147.002 Game Mod Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -798,7 +798,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0147.002.md">T0147.002 Game Mod Asset</a></td>
+<td> </td>
 <td><a href="techniques/T0153.004.md">T0153.004 QR Code Asset</a></td>
 <td> </td>
 <td> </td>
@@ -807,7 +807,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0147.003.md">T0147.003 Malware Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -816,7 +816,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0147.003.md">T0147.003 Malware Asset</a></td>
+<td> </td>
 <td><a href="techniques/T0153.005.md">T0153.005 Online Advertising Platform</a></td>
 <td> </td>
 <td> </td>
@@ -825,7 +825,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0147.004.md">T0147.004 Mobile App Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -834,7 +834,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0147.004.md">T0147.004 Mobile App Asset</a></td>
+<td> </td>
 <td><a href="techniques/T0153.006.md">T0153.006 Content Recommendation Algorithm</a></td>
 <td> </td>
 <td> </td>
@@ -843,7 +843,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0148.md">T0148 Financial Instrument</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -852,7 +852,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0148.md">T0148 Financial Instrument</a></td>
+<td> </td>
 <td><a href="techniques/T0153.007.md">T0153.007 Direct Messaging</a></td>
 <td> </td>
 <td> </td>
@@ -861,7 +861,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0148.001.md">T0148.001 Online Banking Platform</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -870,7 +870,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0148.001.md">T0148.001 Online Banking Platform</a></td>
+<td> </td>
 <td><a href="techniques/T0154.md">T0154 Digital Content Creation Asset</a></td>
 <td> </td>
 <td> </td>
@@ -879,7 +879,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0148.002.md">T0148.002 Bank Account Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -888,7 +888,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0148.002.md">T0148.002 Bank Account Asset</a></td>
+<td> </td>
 <td><a href="techniques/T0154.001.md">T0154.001 AI LLM Platform</a></td>
 <td> </td>
 <td> </td>
@@ -897,7 +897,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0148.003.md">T0148.003 Payment Processing Platform</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -906,7 +906,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0148.003.md">T0148.003 Payment Processing Platform</a></td>
+<td> </td>
 <td><a href="techniques/T0154.002.md">T0154.002 AI Media Platform</a></td>
 <td> </td>
 <td> </td>
@@ -915,7 +915,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0148.004.md">T0148.004 Payment Processing Capability</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -924,7 +924,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0148.004.md">T0148.004 Payment Processing Capability</a></td>
+<td> </td>
 <td><a href="techniques/T0155.md">T0155 Gated Asset</a></td>
 <td> </td>
 <td> </td>
@@ -933,7 +933,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0148.005.md">T0148.005 Subscription Processing Capability</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -942,7 +942,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0148.005.md">T0148.005 Subscription Processing Capability</a></td>
+<td> </td>
 <td><a href="techniques/T0155.001.md">T0155.001 Password Gated Asset</a></td>
 <td> </td>
 <td> </td>
@@ -951,7 +951,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0148.006.md">T0148.006 Crowdfunding Platform</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -960,7 +960,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0148.006.md">T0148.006 Crowdfunding Platform</a></td>
+<td> </td>
 <td><a href="techniques/T0155.002.md">T0155.002 Invite Gated Asset</a></td>
 <td> </td>
 <td> </td>
@@ -969,7 +969,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0148.007.md">T0148.007 eCommerce Platform</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -978,7 +978,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0148.007.md">T0148.007 eCommerce Platform</a></td>
+<td> </td>
 <td><a href="techniques/T0155.003.md">T0155.003 Approval Gated Asset</a></td>
 <td> </td>
 <td> </td>
@@ -987,7 +987,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0148.008.md">T0148.008 Cryptocurrency Exchange Platform</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -996,7 +996,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0148.008.md">T0148.008 Cryptocurrency Exchange Platform</a></td>
+<td> </td>
 <td><a href="techniques/T0155.004.md">T0155.004 Geoblocked Asset</a></td>
 <td> </td>
 <td> </td>
@@ -1005,7 +1005,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0148.009.md">T0148.009 Cryptocurrency Wallet</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1014,7 +1014,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0148.009.md">T0148.009 Cryptocurrency Wallet</a></td>
+<td> </td>
 <td><a href="techniques/T0155.005.md">T0155.005 Paid Access Asset</a></td>
 <td> </td>
 <td> </td>
@@ -1023,7 +1023,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0149.md">T0149 Online Infrastructure</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1032,7 +1032,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0149.md">T0149 Online Infrastructure</a></td>
+<td> </td>
 <td><a href="techniques/T0155.006.md">T0155.006 Subscription Access Asset</a></td>
 <td> </td>
 <td> </td>
@@ -1041,7 +1041,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td><a href="techniques/T0149.001.md">T0149.001 Domain Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1050,7 +1050,7 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td><a href="techniques/T0149.001.md">T0149.001 Domain Asset</a></td>
+<td> </td>
 <td><a href="techniques/T0155.007.md">T0155.007 Encrypted Communication Channel</a></td>
 <td> </td>
 <td> </td>
@@ -1059,30 +1059,21 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td> </td>
-<td> </td>
-<td> </td>
 <td><a href="techniques/T0149.002.md">T0149.002 Email Domain Asset</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1090,17 +1081,17 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1108,17 +1099,17 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1126,17 +1117,17 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1144,17 +1135,17 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1162,17 +1153,17 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1180,17 +1171,17 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1198,17 +1189,17 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1216,17 +1207,17 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1234,17 +1225,17 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1252,17 +1243,17 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1270,17 +1261,17 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1288,17 +1279,17 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1306,17 +1297,17 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1324,17 +1315,17 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1342,30 +1333,21 @@
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
 <td> </td>
 <td> </td>
 <td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td><a href="techniques/T0150.008.md">T0150.008 Bulk Created Asset</a></td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>

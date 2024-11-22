@@ -1805,253 +1805,253 @@
 <td><a href="techniques/T0146.md">T0146</a></td>
 <td>Account Asset</td>
 <td>An Account is a user-specific profile that allows access to the features and services of an online platform, typically requiring a username and password for authentication.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0146.001.md">T0146.001</a></td>
 <td>Free Account Asset</td>
 <td>Many online platforms allow users to create free accounts on their platform. A Free Account is an Account which does not require payment at account creation and is not subscribed to paid platform features.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0146.002.md">T0146.002</a></td>
 <td>Paid Account Asset</td>
 <td>Some online platforms afford accounts extra features, or other benefits, if the user pays a fee. For example, as of September 2024, content posted by a Paid Account on X (previously Twitter) is prioritised in the platform’s algorithm.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0146.003.md">T0146.003</a></td>
 <td>Verified Account Asset</td>
 <td>Some online platforms apply badges of verification to accounts which meet certain criteria.<br><br>On some platforms (such as dating apps) a verification badge signifies that the account has passed the platform’s identity verification checks. On some platforms (such as X (previously Twitter)) a verification badge signifies that an account has paid for the platform’s service.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0146.004.md">T0146.004</a></td>
 <td>Administrator Account Asset</td>
 <td>Some accounts will have special privileges / will be in control of the Digital Community Hosting Asset; for example, the Admin of a Facebook Page, a Moderator of a Subreddit, etc. etc.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0146.005.md">T0146.005</a></td>
 <td>Lookalike Account ID</td>
 <td>Many platforms which host online communities require creation of a username (or another unique identifier) when an Account is created.<br><br>Sometimes people create usernames which are visually similar to other existing accounts’ usernames. While this is not necessarily an indicator of malicious behaviour, actors can create Lookalike Account IDs to support Impersonations or Parody.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0146.006.md">T0146.006</a></td>
 <td>Open Access Platform</td>
 <td>Some online platforms allow users to take advantage of the platform’s features without creating an account. Examples include the Paste Platform Pastebin, and the Image Board Platforms 4chan and 8chan.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0146.007.md">T0146.007</a></td>
 <td>Automated Account Asset</td>
 <td>An Automated Account is an account which is displaying automated behaviour, such as republishing or liking other accounts’ content, or publishing their own content.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0147.md">T0147</a></td>
 <td>Software Asset</td>
 <td>A Software is a program developed to run on computers or devices that helps users achieve specific goals, such as improving productivity, automating tasks, or having fun.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0147.001.md">T0147.001</a></td>
 <td>Game Asset</td>
 <td>A Game is Software which has been designed for interactive entertainment, where users take on challenges set by the game’s designers.<br><br>While Online Game Platforms allow people to play with each other, Games are designed for single player experiences.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0147.002.md">T0147.002</a></td>
 <td>Game Mod Asset</td>
 <td>A Game Mod is a modification which can be applied to a Game or Multiplayer Online Game to add new content or functionality to the game.<br><br>Users can Modify Games to introduce new content to the game. Modified Games can be distributed on Software Delivery Platforms such as Steam or can be distributed within the Game or Multiplayer Online Game.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0147.003.md">T0147.003</a></td>
 <td>Malware Asset</td>
 <td>Malware is Software which has been designed to cause harm or facilitate malicious behaviour on electronic devices.<br><br>DISARM recommends using the [MITRE ATT&CK Framework](https://attack.mitre.org/) to document malware types and their usage.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0147.004.md">T0147.004</a></td>
 <td>Mobile App Asset</td>
 <td>A Mobile App is an application which has been designed to run on mobile operating systems, such as Android or iOS.<br><br>Mobile Apps can enable access to online platforms (e.g. Facebook’s mobile app) or can provide software which users can run offline on their device.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0148.md">T0148</a></td>
 <td>Financial Instrument</td>
 <td>A Financial Instrument is a platform or software that facilitates the sending, receiving, and management of money, enabling financial transactions between users or organisations.<br><br>Threat actors can deploy financial instruments legitimately to manage their own finances or illegitimately to support fraud schemes.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0148.001.md">T0148.001</a></td>
 <td>Online Banking Platform</td>
 <td>Online Banking Platforms are spaces provided by banks for their customers to manage their Bank Account online.<br><br>The Online Banking Platforms available differ by country. In the United Kingdom, examples of banking institutions which provide Online Banking Platforms include Lloyds, Barclays, and Monzo. In the United States, examples include Citibank, Chase, and Capital One.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0148.002.md">T0148.002</a></td>
 <td>Bank Account Asset</td>
 <td>A Bank Account is a financial account that allows individuals or organisations to store, manage, and access their money, typically for saving, spending, or investment purposes.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0148.003.md">T0148.003</a></td>
 <td>Payment Processing Platform</td>
 <td>Stripe, Paypal, and Apple Pay, Chargebee, Recurly and Zuora are examples of Payment Processing Platforms.<br><br>Payment Processing Platforms produce programs providing Payment Processing or Subscription Processing capabilities which actors can use to set up online storefronts, or to take donations.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0148.004.md">T0148.004</a></td>
 <td>Payment Processing Capability</td>
 <td>A Payment Processing Capability is a feature of online platforms or software which enables the processing of one-off payments (e.g. an online checkout, or donation processing page).<br><br>Payment Processing Capabilities can enable platform users to purchase products or services or can facilitate donations to a given cause.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0148.005.md">T0148.005</a></td>
 <td>Subscription Processing Capability</td>
 <td>A Subscription Processing Capability is a feature of online platforms or software which enables the processing of recurring payments. <br><br>Subscription Processing Capabilities are typically used to enable recurring payments in exchange for continued access to products or services.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0148.006.md">T0148.006</a></td>
 <td>Crowdfunding Platform</td>
 <td>Kickstarter and GoFundMe are examples of Crowdfunding Platforms.<br><br>Crowdfunding Platforms enable users with Accounts to create projects for other platform users to finance, usually in exchange for access to fruits of the project.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0148.007.md">T0148.007</a></td>
 <td>eCommerce Platform</td>
 <td>Amazon, eBay and Etsy are examples of eCommerce Platforms.<br><br>eCommerce Platforms enable users with Accounts to create online storefronts from which other platform users can purchase goods or services.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0148.008.md">T0148.008</a></td>
 <td>Cryptocurrency Exchange Platform</td>
 <td>Coinbase and Kraken are examples of Cryptocurrency Exchange Platforms.<br><br>Cryptocurrency Exchange Platforms provide users a digital marketplace where they can buy, sell, and trade cryptocurrencies, such as Bitcoin or Ethereum. <br><br>Some Cryptocurrency Exchange Platforms allow users to create a Cryptocurrency Wallet.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0148.009.md">T0148.009</a></td>
 <td>Cryptocurrency Wallet</td>
 <td>A Cryptocurrency Wallet is a digital tool that allows users to store, send, and receive cryptocurrencies. It manages private and public keys, enabling secure access to a user's crypto assets.<br><br>An influence operation might use cryptocurrency to conceal that they are conducting operational activities, building assets, or sponsoring aligning entities.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0149.md">T0149</a></td>
 <td>Online Infrastructure</td>
 <td>Online Infrastructure consists of technical assets which enable online activity, such as domains, servers, and IP addresses.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0149.001.md">T0149.001</a></td>
 <td>Domain Asset</td>
 <td>A Domain is a web address (such as “google[.]com”), used to navigate to Websites on the internet.<br><br>Domains differ from Websites in that Websites are considered to be developed web pages which host content, whereas Domains do not necessarily host public-facing web content. <br><br>A threat actor may register a new domain to bypass the old domain being blocked.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0149.002.md">T0149.002</a></td>
 <td>Email Domain Asset</td>
 <td>An Email Domain is a Domain (such as “meta[.]com”) which has the ability to send emails (e.g. from an @meta[.]com address). <br><br>Any Domain which has an MX (Mail Exchange) record and configured SMTP (Simple Mail Transfer Protocol) settings can send and receive emails, and is therefore an Email Domain. </td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0149.003.md">T0149.003</a></td>
 <td>Lookalike Domain</td>
 <td>A Lookalike Domain is a Domain which is visually similar to another Domain, with the potential for web users to mistake one domain for the other.<br><br>Threat actors who want to impersonate organisations’ websites have been observed using a variety of domain impersonation methods. For example, actors wanting to create a domain impersonating netflix.com may use methods such as typosquatting (e.g. n3tflix.com), combosquatting (e.g. netflix-billing.com), or TLD swapping (e.g. netflix.top).</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0149.004.md">T0149.004</a></td>
 <td>Redirecting Domain Asset</td>
 <td>A Redirecting Domain is a Domain which has been configured to redirect users to another Domain when visited.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0149.005.md">T0149.005</a></td>
 <td>Server Asset</td>
 <td>A Server is a computer which provides resources, services, or data to other computers over a network. There are different types of servers, such as web servers (which serve web pages and applications to users), database servers (which manage and provide access to databases), and file servers (which store and share files across a network).</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0149.006.md">T0149.006</a></td>
 <td>IP Address Asset</td>
 <td>An IP Address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. IP addresses are commonly a part of any online infrastructure.<br><br>IP addresses can be in IPV4 dotted decimal (x.x.x.x) or IPV6 colon-separated hexadecimal (y:y:y:y:y:y:y:y) formats. </td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0149.007.md">T0149.007</a></td>
 <td>VPN Asset</td>
 <td>A VPN (Virtual Private Network) is a service which creates secure, encrypted connections over the internet, allowing users to transmit data safely and access network resources remotely. It masks IP Addresses, enhancing privacy and security by preventing unauthorised access and tracking. VPNs are commonly used for protecting sensitive information, bypassing geographic restrictions, and maintaining online anonymity.<br><br>VPNs can also allow a threat actor to pose as if they are located in one country while in reality being based in another. By doing so, they can try to either mis-attribute their activities to another actor or better hide their own identity.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0149.008.md">T0149.008</a></td>
 <td>Proxy IP Address Asset</td>
 <td>A Proxy IP Address allows a threat actor to mask their real IP Address by putting a layer between them and the online content they’re connecting with. <br><br>Proxy IP Addresses can hide the connection between the threat actor and their online infrastructure.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0149.009.md">T0149.009</a></td>
 <td>Internet Connected Physical Asset</td>
 <td>An Internet Connected Physical Asset (sometimes referred to as IoT (Internet of Things)) is a physical asset which has internet connectivity to support online features, such as digital signage, wireless printers, and smart TVs.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0150.md">T0150</a></td>
 <td>Asset Origin</td>
 <td>Asset Origin contains a list of ways that an actor can obtain an asset. For example, they can create new accounts on online platforms, or they can compromise existing accounts or websites.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0150.001.md">T0150.001</a></td>
 <td>Newly Created Asset</td>
 <td>A Newly Created Asset is an asset which has been created and used for the first time in a documented potential incident.<br><br>For example, analysts which can identify a recent creation date of Accounts participating in the spread of a new narrative can assert these are Newly Created Assets.<br><br>Analysts should use Dormant if the asset was created and laid dormant for an extended period of time before activity.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0150.002.md">T0150.002</a></td>
 <td>Dormant Asset</td>
 <td>A Dormant Asset is an asset which was inactive for an extended period before being used in a documented potential incident.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0150.003.md">T0150.003</a></td>
 <td>Pre-Existing Asset</td>
 <td>Pre-Existing Assets are assets which existed before the observed incident which have not been Repurposed; i.e. they are still being used for their original purpose. <br><br>An example could be an Account which presented itself with a Journalist Persona prior to and during the observed potential incident.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0150.004.md">T0150.004</a></td>
 <td>Repurposed Asset</td>
 <td>Repurposed Assets are assets which have been identified as being used previously, but are now being used for different purposes, or have new Presented Personas.<br><br>Actors have been documented compromising assets, and then repurposing them to present Inauthentic Personas as part of their operations.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0150.005.md">T0150.005</a></td>
 <td>Compromised Asset</td>
 <td>A Compromised Asset is an asset which was originally created or belonged to another person or organisation, but which an actor has gained access to without their consent.<br><br>See also MITRE ATT&CK T1708: Valid Accounts.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0150.006.md">T0150.006</a></td>
 <td>Purchased Asset</td>
 <td>A Purchased Asset is an asset which actors paid for the ownership of. <br><br>For example, threat actors have been observed selling compromised social media accounts on dark web marketplaces, which can be used to disguise operation activity.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0150.007.md">T0150.007</a></td>
 <td>Rented Asset</td>
 <td>A Rented Asset is an asset which actors are temporarily renting or subscribing to. <br><br>For example, threat actors have been observed renting temporary access to legitimate accounts on online platforms in order to disguise operation activity.</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0150.008.md">T0150.008</a></td>
 <td>Bulk Created Asset</td>
 <td>A Bulk Created Asset is an asset which was created alongside many other instances of the same asset.<br><br>Actors have been observed bulk creating Accounts on Social Media Platforms such as Facebook. Indicators of bulk asset creation include its creation date, assets’ naming conventions, their configuration (e.g. templated personas, visually similar profile pictures), or their activity (e.g. post timings, narratives posted).</td>
-<td>TA06</td>
+<td>TA15</td>
 </tr>
 <tr>
 <td><a href="techniques/T0151.md">T0151</a></td>
