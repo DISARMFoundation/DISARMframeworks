@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--4199e72d-8919-4165-9a81-9e7dbe022331",
+    "id": "bundle--27dde3fe-5b1a-465d-bc7d-81dd96461f49",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--fd04fba0-0e20-40f9-868d-e8effcf6dab6",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.412744Z",
-            "modified": "2024-08-02T17:12:32.412744Z",
+            "created": "2024-11-22T16:43:58.180444Z",
+            "modified": "2024-11-22T16:43:58.180444Z",
             "name": "Platform Filtering",
             "description": "Platform filtering refers to the decontextualization of information as claims cross platforms (from Joan Donovan https://www.hks.harvard.edu/publications/disinformation-design-use-evidence-collages-and-platform-filtering-media-manipulation)",
             "kill_chain_phases": [

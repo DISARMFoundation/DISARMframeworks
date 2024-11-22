@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--e3c25107-3276-4607-8c6b-01aa09990e69",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--d1d31d41-1f5f-4776-983f-6d0a136c91ae",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.248263Z",
+            "modified": "2024-11-22T16:43:58.248263Z",
+            "name": "Website Hosting Platform",
+            "description": "Examples of Website Hosting Platforms include Wix, Webflow, Weebly, and Wordpress.<br><br>Website Hosting Platforms help users with managing online infrastructure required to host a website online; such as securing IP Addresses and Domains.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0152.003.md",
+                    "external_id": "T0152.003"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

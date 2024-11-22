@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--45a7f277-a96e-4d71-bd0f-a04a5393ec90",
+    "id": "bundle--a70b7fe7-7ea6-47fc-8bcb-48220a75d77e",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--bb8da71f-108a-4c46-a1ef-d24ef1c8a661",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.367712Z",
-            "modified": "2024-08-02T17:12:32.367712Z",
+            "created": "2024-11-22T16:43:58.101425Z",
+            "modified": "2024-11-22T16:43:58.101425Z",
             "name": "Identify Media System Vulnerabilities",
             "description": "An influence operation may exploit existing weaknesses in a target\u2019s media system. These weaknesses may include existing biases among media agencies, vulnerability to false news agencies on social media, or existing distrust of traditional media sources. An existing distrust among the public in the media system\u2019s credibility holds high potential for exploitation by an influence operation when establishing alternative news agencies to spread operation content.",
             "kill_chain_phases": [

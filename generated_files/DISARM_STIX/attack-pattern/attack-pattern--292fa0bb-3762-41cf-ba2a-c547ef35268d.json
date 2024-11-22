@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--41936199-38f9-4a7c-a4b6-4394b2a5e38e",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--292fa0bb-3762-41cf-ba2a-c547ef35268d",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.243548Z",
+            "modified": "2024-11-22T16:43:58.243548Z",
+            "name": "Chat Broadcast Group",
+            "description": "A Chat Broadcast Group is a type of Chat Group in which only specific members can send content to the channel (typically administrators, or approved group members). Members of the channel may be able to react to content, or comment on it, but can\u2019t directly push new content to the channel.<br><br>Examples include:<br>WhatsApp, Telegram, Discord: Chat Groups in which only admins are able to post new content.<br>X (prev. Twitter): Spaces (an audio discussion hosting feature) in which admins control who can speak at a given moment.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0151.007.md",
+                    "external_id": "T0151.007"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

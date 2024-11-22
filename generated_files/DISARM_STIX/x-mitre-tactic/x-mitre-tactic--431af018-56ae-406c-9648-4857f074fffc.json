@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--f7f0b2ef-f30f-4070-9f4d-1b1547f82f0e",
+    "id": "bundle--795b78b4-1968-427a-b40f-9ca109de976f",
     "objects": [
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
             "id": "x-mitre-tactic--431af018-56ae-406c-9648-4857f074fffc",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.316693Z",
-            "modified": "2024-08-02T17:12:32.316693Z",
+            "created": "2024-11-22T16:43:58.075337Z",
+            "modified": "2024-11-22T16:43:58.075337Z",
             "name": "Plan Objectives",
             "description": "Set clearly defined, measurable, and achievable objectives. In some cases achieving objectives ties execution of tactical tasks to reaching the desired strategic end state. In other cases, where there is no clearly defined strategic end state, the tactical objective may stand on its own. The objective statement should not specify the way and means of accomplishment but rather the goal the threat actor wishes to achieve. ",
             "external_references": [

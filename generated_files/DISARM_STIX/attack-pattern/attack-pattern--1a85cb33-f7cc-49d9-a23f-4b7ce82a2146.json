@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--ee098dbb-4ee9-46d3-a5a6-9cfe4b0307fd",
+    "id": "bundle--eca3fdab-2a4e-4795-b713-4a4f0853c649",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--1a85cb33-f7cc-49d9-a23f-4b7ce82a2146",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.361233Z",
-            "modified": "2024-08-02T17:12:32.361233Z",
+            "created": "2024-11-22T16:43:58.097363Z",
+            "modified": "2024-11-22T16:43:58.097363Z",
             "name": "Distort",
             "description": "Twist the narrative. Take information, or artefacts like images, and change the framing around them.",
             "kill_chain_phases": [

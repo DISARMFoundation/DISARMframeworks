@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--bc079bd9-c79a-4160-a848-16274673a308",
+    "id": "bundle--5e64a35b-4fab-48ed-a231-04b339b8613a",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--e6ab2793-a059-4354-bb60-045afb019833",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.349745Z",
-            "modified": "2024-08-02T17:12:32.349745Z",
+            "created": "2024-11-22T16:43:58.09072Z",
+            "modified": "2024-11-22T16:43:58.09072Z",
             "name": "Bots Amplify via Automated Forwarding and Reposting",
             "description": "Automated forwarding and reposting refer to the proliferation of operation content using automated means, such as artificial intelligence or social media bots. An influence operation may use automated activity to increase content exposure without dedicating the resources, including personnel and time, traditionally required to forward and repost content. Use bots to amplify narratives above algorithm thresholds. Bots are automated/programmed profiles designed to amplify content (ie: automatically retweet or like) and give appearance it's more \"popular\" than it is. They can operate as a network, to function in a coordinated/orchestrated manner. In some cases (more so now) they are an inexpensive/disposable assets used for minimal deployment as bot detection tools improve and platforms are more responsive.",
             "kill_chain_phases": [

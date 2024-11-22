@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--24f9ca9a-51a8-4fae-8ea7-0a99223aee3d",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--b8ac8cbc-1559-429b-b2f6-9cbf7bcbccfb",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.140551Z",
+            "modified": "2024-11-22T16:43:58.140551Z",
+            "name": "Business Persona",
+            "description": "An institution with a business persona presents itself as a for-profit organisation which provides goods or services for a price.<br><br> While presenting as a business is not an indication of inauthentic behaviour, business personas may be used by threat actors as a front for their operational activity (T0143.002: Fabricated Persona, T0097.205: Business Persona).<br><br> Threat actors may also impersonate existing businesses (T0143.003: Impersonated Persona, T0097.205: Business Persona) to exploit their brand or cause reputational damage.<br><br> Legitimate businesses could use their persona for malicious purposes, or be exploited by threat actors (T0143.001: Authentic Persona, T0097.205: Business Persona). For example, a business could take money for using their position to provide legitimacy to a false narrative, or be tricked into doing so without their knowledge.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0097.205.md",
+                    "external_id": "T0097.205"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--affd34a4-6073-481a-bb25-468bde308e9c",
+    "id": "bundle--a4bed833-5930-4461-a79d-373664f19fb9",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--bfce790b-dfd6-46ca-8fab-c2d72f21bba2",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.349076Z",
-            "modified": "2024-08-02T17:12:32.349076Z",
+            "created": "2024-11-22T16:43:58.090534Z",
+            "modified": "2024-11-22T16:43:58.090534Z",
             "name": "Flood Existing Hashtag",
             "description": "Hashtags can be used by communities to collate information they post about particular topics (such as their interests, or current events) and users can find communities to join by exploring hashtags they\u2019re interested in.<br /> <br />Threat actors can flood an existing hashtag to try to ruin hashtag functionality, posting content unrelated to the hashtag alongside it, making it a less reliable source of relevant information. They may also try to flood existing hashtags with campaign content, with the intent of maximising exposure to users.<br /> <br />This Technique covers cases where threat actors flood existing hashtags with campaign content.<br /> <br />This Technique covers behaviours previously documented by T0019.002: Hijack Hashtags, which has since been deprecated. This Technique was previously called Hijack Existing Hashtag.",
             "kill_chain_phases": [

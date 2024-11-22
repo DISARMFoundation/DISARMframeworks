@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--71f414be-a9eb-4b1a-bf05-cef70b5f4ada",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--9f1ab551-b5e5-4374-89ec-fb52160fce6e",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.243083Z",
+            "modified": "2024-11-22T16:43:58.243083Z",
+            "name": "Chat Community Server",
+            "description": "Chat Platforms such as Discord, Slack, and Microsoft Teams allow users to create their own Chat Community Servers, which they can invite other platform users to join.<br><br>Chat Community Servers are online communities made up of Chat Rooms (or \u201cChannels\u201d) in which users can discuss the given group\u2019s topic. Groups can either be public (shown in the server\u2019s browsable list of channels, available for any member to view and join) or Gated (users must be added to the chat group by existing members to participate).<br><br>Some Chat Community Servers allow users to create Chat Broadcast Groups, in which only specific members (e.g. server administrators) of the chat are able to post new content to the group.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0151.005.md",
+                    "external_id": "T0151.005"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--a41dc120-6a64-4f09-a349-c398b6cd8638",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--10ddf4f5-8e28-4ae6-80d5-7359f63133de",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.224368Z",
+            "modified": "2024-11-22T16:43:58.224368Z",
+            "name": "Administrator Account Asset",
+            "description": "Some accounts will have special privileges / will be in control of the Digital Community Hosting Asset; for example, the Admin of a Facebook Page, a Moderator of a Subreddit, etc. etc.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0146.004.md",
+                    "external_id": "T0146.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

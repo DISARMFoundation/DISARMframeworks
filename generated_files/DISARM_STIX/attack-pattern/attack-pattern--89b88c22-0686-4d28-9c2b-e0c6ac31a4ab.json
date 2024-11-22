@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--322772a5-9302-4046-83e9-8622c00a8156",
+    "id": "bundle--c9a162e3-e65a-4c1d-84ae-8236d55bc0ba",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--89b88c22-0686-4d28-9c2b-e0c6ac31a4ab",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.410247Z",
-            "modified": "2024-08-02T17:12:32.410247Z",
+            "created": "2024-11-22T16:43:58.165703Z",
+            "modified": "2024-11-22T16:43:58.165703Z",
             "name": "Bypass Content Blocking",
             "description": "Bypassing content blocking refers to actions taken to circumvent network security measures that prevent users from accessing certain servers, resources, or other online spheres. An influence operation may bypass content blocking to proliferate its content on restricted areas of the internet. Common strategies for bypassing content blocking include: - Altering IP addresses to avoid IP filtering - Using a Virtual Private Network (VPN) to avoid IP filtering - Using a Content Delivery Network (CDN) to avoid IP filtering - Enabling encryption to bypass packet inspection blocking - Manipulating text to avoid filtering by keywords - Posting content on multiple platforms to avoid platform-specific removals - Using local facilities or modified DNS servers to avoid DNS filtering",
             "kill_chain_phases": [

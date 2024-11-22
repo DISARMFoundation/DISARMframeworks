@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--308050af-565a-4fa0-82d9-b0587771b5e9",
+    "id": "bundle--2e0add4b-fb0e-4a17-b216-8daf40a5443c",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--394089a7-cd71-4e16-aef9-d7b885d421f1",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.413199Z",
-            "modified": "2024-08-02T17:12:32.413199Z",
+            "created": "2024-11-22T16:43:58.184374Z",
+            "modified": "2024-11-22T16:43:58.184374Z",
             "name": "Facilitate Logistics or Support for Attendance",
             "description": "Facilitate logistics or support for travel, food, housing, etc.",
             "kill_chain_phases": [

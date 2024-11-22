@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--a33b07fb-addb-47df-ac74-0c9f75dee305",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--4e8d6ead-e2fa-4d32-a128-bccac2391337",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.218216Z",
+            "modified": "2024-11-22T16:43:58.218216Z",
+            "name": "Silence",
+            "description": "Intimidate or incentivise target into remaining silent or prevent target from speaking out. A threat actor may cow a target into silence as a special case of deterrence. Or they may buy the target\u2019s silence. Or they may repress or restrict the target\u2019s speech.   ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "plan-objectives"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0139.002.md",
+                    "external_id": "T0139.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

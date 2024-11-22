@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--68a42eb4-50cb-4b46-8c13-b9cc08efa754",
+    "id": "bundle--7b0f3a68-bea9-4fb1-b926-ce52c396150c",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--3845d1f0-db88-41bb-95bf-8741ff9e72ea",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.37699Z",
-            "modified": "2024-08-02T17:12:32.37699Z",
+            "created": "2024-11-22T16:43:58.115409Z",
+            "modified": "2024-11-22T16:43:58.115409Z",
             "name": "Alter Authentic Documents",
             "description": "Alter authentic documents (public or non-public) to achieve campaign goals. The altered documents are intended to appear as if they are authentic and can be \"leaked\" during later stages in the operation.",
             "kill_chain_phases": [

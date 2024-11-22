@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--9f3ad8d3-ae70-4c24-bb42-bf51ed912884",
+    "id": "bundle--33a0505d-5393-44ca-9126-5bd2b94b2308",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--779fe6e8-44ee-4f36-ab93-9daa867001d4",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.376384Z",
-            "modified": "2024-08-02T17:12:32.376384Z",
+            "created": "2024-11-22T16:43:58.113288Z",
+            "modified": "2024-11-22T16:43:58.113288Z",
             "name": "Deceptively Edit Audio (Cheap Fakes)",
             "description": "Cheap fakes utilise less sophisticated measures of altering an image, video, or audio for example, slowing, speeding, or cutting footage to create a false context surrounding an image or event.",
             "kill_chain_phases": [

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--14414258-fd23-4684-9630-c08c108445f6",
+    "id": "bundle--779552ef-940b-407d-8fdf-fd73e98a421a",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--41062c4b-a462-419a-bad9-7f3f720f090b",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.365103Z",
-            "modified": "2024-08-02T17:12:32.365103Z",
+            "created": "2024-11-22T16:43:58.099657Z",
+            "modified": "2024-11-22T16:43:58.099657Z",
             "name": "Identify Social and Technical Vulnerabilities",
             "description": "Identifying social and technical vulnerabilities determines weaknesses within the target audience information environment for later exploitation. Vulnerabilities include decisive political issues, weak cybersecurity infrastructure, search engine data voids, and other technical and non technical weaknesses in the target information environment. Identifying social and technical vulnerabilities facilitates the later exploitation of the identified weaknesses to advance operation objectives.",
             "kill_chain_phases": [

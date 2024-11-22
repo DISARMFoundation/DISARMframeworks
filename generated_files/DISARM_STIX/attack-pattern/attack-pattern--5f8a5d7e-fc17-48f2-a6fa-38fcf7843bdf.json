@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--a98f4227-3754-4a70-b762-31824fb49e60",
+    "id": "bundle--84216ee1-b93d-4695-9063-e8eabde5c5b4",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5f8a5d7e-fc17-48f2-a6fa-38fcf7843bdf",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.3734Z",
-            "modified": "2024-08-02T17:12:32.3734Z",
+            "created": "2024-11-22T16:43:58.106674Z",
+            "modified": "2024-11-22T16:43:58.106674Z",
             "name": "Develop Image-Based Content",
             "description": "Creating and editing false or misleading visual artefacts, often aligned with one or more specific narratives, for use in a disinformation campaign. This may include photographing staged real-life situations, repurposing existing digital images, or using image creation and editing technologies.",
             "kill_chain_phases": [

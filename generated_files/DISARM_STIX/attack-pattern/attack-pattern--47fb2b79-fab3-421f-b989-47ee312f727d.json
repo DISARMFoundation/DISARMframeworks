@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--7c940633-a4aa-449b-be9d-5b90cf125997",
+    "id": "bundle--55578473-eeb7-4319-a23c-2d727122108b",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--47fb2b79-fab3-421f-b989-47ee312f727d",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.379547Z",
-            "modified": "2024-08-02T17:12:32.379547Z",
+            "created": "2024-11-22T16:43:58.118449Z",
+            "modified": "2024-11-22T16:43:58.118449Z",
             "name": "Create Organisations",
             "description": "Influence operations may establish organisations with legitimate or falsified hierarchies, staff, and content to structure operation assets, provide a sense of legitimacy to the operation, or provide institutional backing to operation activities.",
             "kill_chain_phases": [

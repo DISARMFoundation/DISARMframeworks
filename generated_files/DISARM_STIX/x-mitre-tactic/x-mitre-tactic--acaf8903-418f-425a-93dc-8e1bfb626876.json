@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--a9eecd21-6a21-46b7-a79d-463ccabc5e15",
+    "id": "bundle--cffce401-5e30-409f-90cd-2edd81cc3499",
     "objects": [
         {
             "type": "x-mitre-tactic",
             "spec_version": "2.1",
             "id": "x-mitre-tactic--acaf8903-418f-425a-93dc-8e1bfb626876",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.317385Z",
-            "modified": "2024-08-02T17:12:32.317385Z",
+            "created": "2024-11-22T16:43:58.075529Z",
+            "modified": "2024-11-22T16:43:58.075529Z",
             "name": "Microtarget",
             "description": "Actions taken which help target content to specific audiences identified and analysed as part of TA13: Target Audience Analysis.",
             "external_references": [

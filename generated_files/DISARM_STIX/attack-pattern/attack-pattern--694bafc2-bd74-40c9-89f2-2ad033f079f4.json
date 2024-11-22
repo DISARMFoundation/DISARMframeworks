@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--268527bb-bf74-49c6-85b6-ac3d88e30b21",
+    "id": "bundle--6f3164ef-f41f-4186-97aa-cc2e43fc05f7",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--694bafc2-bd74-40c9-89f2-2ad033f079f4",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.356167Z",
-            "modified": "2024-08-02T17:12:32.356167Z",
+            "created": "2024-11-22T16:43:58.094534Z",
+            "modified": "2024-11-22T16:43:58.094534Z",
             "name": "Demographic Segmentation",
             "description": "An influence operation may target populations based on demographic segmentation, including age, gender, and income. Demographic segmentation may be useful for influence operations aiming to change state policies that affect a specific population sector. For example, an influence operation attempting to influence Medicare funding in the United States would likely target U.S. voters over 65 years of age.",
             "kill_chain_phases": [

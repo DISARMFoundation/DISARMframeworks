@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--4bc6311d-569a-4924-aec6-c9ececa708f4",
+    "id": "bundle--d71c766c-65c7-46d8-ba40-4022e8b98c06",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--3fd63a63-f597-40e5-9f6e-0aab00d4dc14",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.356931Z",
-            "modified": "2024-08-02T17:12:32.356931Z",
+            "created": "2024-11-22T16:43:58.095092Z",
+            "modified": "2024-11-22T16:43:58.095092Z",
             "name": "Psychographic Segmentation",
             "description": "An influence operation may target populations based on psychographic segmentation, which uses audience values and decision-making processes. An operation may individually gather psychographic data with its own surveys or collection tools or externally purchase data from social media companies or online surveys, such as personality quizzes.",
             "kill_chain_phases": [

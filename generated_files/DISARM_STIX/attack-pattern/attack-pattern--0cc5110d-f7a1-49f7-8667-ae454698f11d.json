@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--06ce5570-05ea-47be-81ec-4da4217edfdf",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--0cc5110d-f7a1-49f7-8667-ae454698f11d",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.132663Z",
+            "modified": "2024-11-22T16:43:58.132663Z",
+            "name": "Journalist Persona",
+            "description": "A person with a journalist persona presents themselves as a reporter or journalist delivering news, conducting interviews, investigations etc.<br><br>While presenting as a journalist is not an indication of inauthentic behaviour, an influence operation may have its narratives amplified by people presenting as journalists. Threat actors can fabricate journalists to give the appearance of legitimacy, justifying the actor\u2019s requests for interviews, etc (T0143.002: Fabricated Persona, T0097.102: Journalist Persona).<br><br>People who have legitimately developed a persona as a journalist (T0143.001: Authentic Persona, T0097.102: Journalist Persona) can use it for malicious purposes, or be exploited by threat actors. For example, someone could take money for using their position as a trusted journalist to provide legitimacy to a false narrative or be tricked into doing so without the journalist\u2019s knowledge.<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0097.202: News Organisation Persona:</b> People with a journalist persona may present as being part of a news organisation.<br><b>T0097.101: Local Persona:</b> People with a journalist persona may present themselves as local reporters.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0097.102.md",
+                    "external_id": "T0097.102"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--464681c5-0bc3-49fa-8d6d-f5db396b2ad9",
+    "id": "bundle--fdaf24d3-2430-45cd-a779-4c848a9a7bc9",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--d522f417-ba0e-4e2d-ae96-df2c1fd607e6",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.380386Z",
-            "modified": "2024-08-02T17:12:32.380386Z",
+            "created": "2024-11-22T16:43:58.121593Z",
+            "modified": "2024-11-22T16:43:58.121593Z",
             "name": "Fund Proxies",
             "description": "An influence operation may fund proxies, or external entities that work for the operation. An operation may recruit/train users with existing sympathies towards the operation\u2019s narratives and/or goals as proxies. Funding proxies serves various purposes including: - Diversifying operation locations to complicate attribution - Reducing the workload for direct operation assets",
             "kill_chain_phases": [

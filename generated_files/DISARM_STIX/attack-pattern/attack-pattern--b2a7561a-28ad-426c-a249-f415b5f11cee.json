@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--3bd63009-fede-4746-b9d6-e632bd4fc348",
+    "id": "bundle--94c1122f-8c46-4ddf-a394-61b730ee685d",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--b2a7561a-28ad-426c-a249-f415b5f11cee",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.355029Z",
-            "modified": "2024-08-02T17:12:32.355029Z",
+            "created": "2024-11-22T16:43:58.09395Z",
+            "modified": "2024-11-22T16:43:58.09395Z",
             "name": "Respond to Breaking News Event or Active Crisis",
             "description": "Media attention on a story or event is heightened during a breaking news event, where unclear facts and incomplete information increase speculation, rumours, and conspiracy theories, which are all vulnerable to manipulation.",
             "kill_chain_phases": [

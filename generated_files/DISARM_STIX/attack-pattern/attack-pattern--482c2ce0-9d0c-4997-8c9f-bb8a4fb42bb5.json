@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--4bba3a8d-ae35-4ee5-80ba-94765c4c1ce9",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--482c2ce0-9d0c-4997-8c9f-bb8a4fb42bb5",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.250535Z",
+            "modified": "2024-11-22T16:43:58.250535Z",
+            "name": "Wiki Platform",
+            "description": "Wikipedia, Fandom, Ruwiki, TV Tropes, and the SCP Foundation are examples of Wiki Platforms.<br><br>Wikis use wiki software to allow platform users to collaboratively create and maintain an encyclopedia of information related to a given topic. ",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0152.011.md",
+                    "external_id": "T0152.011"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--738b5d9f-1406-4dc5-8c4e-cb5139826f7c",
+    "id": "bundle--0bb517b5-bb83-4431-a2cf-ae2864617935",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--45d10a80-a2f7-4626-ae2c-dae8cf144157",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.365448Z",
-            "modified": "2024-08-02T17:12:32.365448Z",
+            "created": "2024-11-22T16:43:58.099959Z",
+            "modified": "2024-11-22T16:43:58.099959Z",
             "name": "Find Echo Chambers",
             "description": "Find or plan to create areas (social media groups, search term groups, hashtag groups etc) where individuals only engage with people they agree with.",
             "kill_chain_phases": [

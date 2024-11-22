@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--5837cfd1-1ad3-4aeb-97b7-55094e9ad712",
+    "id": "bundle--1b63719a-b92e-474c-9e49-da6f28874eeb",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--83b4e2db-265f-4f88-9b35-26df05c561e9",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.419355Z",
-            "modified": "2024-08-02T17:12:32.419355Z",
+            "created": "2024-11-22T16:43:58.209626Z",
+            "modified": "2024-11-22T16:43:58.209626Z",
             "name": "People Focused",
             "description": "Measure the performance individuals in achieving campaign goals",
             "kill_chain_phases": [

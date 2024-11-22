@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--137d488d-30b1-4fbf-a2be-c411628a2da6",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--57c27a31-54ea-47e7-80f1-f04e502de44f",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.221357Z",
+            "modified": "2024-11-22T16:43:58.221357Z",
+            "name": "Persona Template",
+            "description": "Threat actors have been observed following a template when filling their accounts\u2019 online profiles. This may be done to enable account holders to quickly present themselves as a real person with a targeted persona.<br><br> For example, an actor may be instructed to create many fabricated local accounts for use in an operation using a template of \u201c[flag emojis], [location], [personal quote], [political party] supporter\u201d in their account\u2019s description.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0143.002: Fabricated Persona:</b> The use of a templated account biography in a collection of accounts may be an indicator that the personas have been fabricated.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0144.002.md",
+                    "external_id": "T0144.002"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

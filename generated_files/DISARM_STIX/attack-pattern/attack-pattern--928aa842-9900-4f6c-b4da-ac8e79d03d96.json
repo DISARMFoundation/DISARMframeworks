@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--a2e0d8d1-a5d0-49ce-a57a-1f1fe5c019d2",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--928aa842-9900-4f6c-b4da-ac8e79d03d96",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.243876Z",
+            "modified": "2024-11-22T16:43:58.243876Z",
+            "name": "Microblogging Platform",
+            "description": "Examples of Microblogging Platforms include TikTok, Threads, Bluesky, Mastodon, QQ, Tumblr, and X (formerly Twitter).<br><br>Microblogging Platforms allow users to create Accounts, which they can configure to present themselves to other platform users. This typically involves Establishing Account Imagery and Presenting a Persona. <br><br>Accounts on Microblogging Platforms are able to post short-form text content alongside media.<br><br>Content posted to the platforms is aggregated into different feeds and presented to the user. Typical feeds include content posted by other Accounts which the user follows, and content promoted by the platform\u2019s proprietary Content Recommendation Algorithm. Users can also search or use hashtags to discover new content.<br><br>Mastodon is an open-source decentralised software which allows anyone to create their own Microblogging Platform that can communicate with other platforms within the \u201cfediverse\u201d (similar to how different email platforms can send emails to each other). Meta\u2019s Threads is a Microblogging Platform which can interact with the fediverse.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0151.008.md",
+                    "external_id": "T0151.008"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

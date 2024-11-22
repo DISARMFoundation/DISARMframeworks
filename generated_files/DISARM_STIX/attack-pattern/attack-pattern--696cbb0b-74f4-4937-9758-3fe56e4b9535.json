@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--c9adac03-f7f7-4a50-a08b-bf5aa0ba662f",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--696cbb0b-74f4-4937-9758-3fe56e4b9535",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.239774Z",
+            "modified": "2024-11-22T16:43:58.239774Z",
+            "name": "Compromised Asset",
+            "description": "A Compromised Asset is an asset which was originally created or belonged to another person or organisation, but which an actor has gained access to without their consent.<br><br>See also MITRE ATT&CK T1708: Valid Accounts.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0150.005.md",
+                    "external_id": "T0150.005"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

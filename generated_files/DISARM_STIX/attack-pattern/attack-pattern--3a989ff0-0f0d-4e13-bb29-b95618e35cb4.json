@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--249b91a0-9951-452a-96db-e66e955c1dc1",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--3a989ff0-0f0d-4e13-bb29-b95618e35cb4",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.220944Z",
+            "modified": "2024-11-22T16:43:58.220944Z",
+            "name": "Persona Legitimacy Evidence",
+            "description": "This Technique contains behaviours which might indicate whether a persona is legitimate, a fabrication, or a parody.<br><br> For example, the same persona being consistently presented across platforms is consistent with how authentic users behave on social media. However, threat actors have also displayed this behaviour as a way to increase the perceived legitimacy of their fabricated personas (aka \u201cbackstopping\u201d).",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0144.md",
+                    "external_id": "T0144"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

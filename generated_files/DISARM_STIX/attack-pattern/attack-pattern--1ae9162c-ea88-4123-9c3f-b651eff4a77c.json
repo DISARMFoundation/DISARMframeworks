@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--80a6cb32-48e5-4423-a547-751e93db2b94",
+    "id": "bundle--3b074481-88cf-4d55-b82a-c5ddfa65664e",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--1ae9162c-ea88-4123-9c3f-b651eff4a77c",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.420979Z",
-            "modified": "2024-08-02T17:12:32.420979Z",
+            "created": "2024-11-22T16:43:58.211387Z",
+            "modified": "2024-11-22T16:43:58.211387Z",
             "name": "Action/Attitude",
             "description": "Measure current system state with respect to the effectiveness of influencing action/attitude.",
             "kill_chain_phases": [

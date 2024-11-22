@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--3f4e0f21-97a5-4747-815b-e9028eebf371",
+    "id": "bundle--bc3b1050-303c-43f8-ae05-097faa98bcb0",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--5a279d23-6ba2-425c-bf72-20c6411ca5a7",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.364042Z",
-            "modified": "2024-08-02T17:12:32.364042Z",
+            "created": "2024-11-22T16:43:58.099048Z",
+            "modified": "2024-11-22T16:43:58.099048Z",
             "name": "Identify Trending Topics/Hashtags",
             "description": "An influence operation may identify trending hashtags on social media platforms for later use in boosting operation content. A hashtag40 refers to a word or phrase preceded by the hash symbol (#) on social media used to identify messages and posts relating to a specific topic. All public posts that use the same hashtag are aggregated onto a centralised page dedicated to the word or phrase and sorted either chronologically or by popularity.",
             "kill_chain_phases": [

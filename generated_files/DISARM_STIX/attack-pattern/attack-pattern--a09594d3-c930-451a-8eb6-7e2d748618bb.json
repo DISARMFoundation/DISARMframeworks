@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--8af1e8f8-186d-401d-962a-275f39de3bbc",
+    "id": "bundle--ddf77906-11a9-4c77-88d6-915f25b5d086",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--a09594d3-c930-451a-8eb6-7e2d748618bb",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.417423Z",
-            "modified": "2024-08-02T17:12:32.417423Z",
+            "created": "2024-11-22T16:43:58.206047Z",
+            "modified": "2024-11-22T16:43:58.206047Z",
             "name": "Conceal Sponsorship",
             "description": "Concealing sponsorship aims to mislead or obscure the identity of the hidden sponsor behind an operation rather than entity publicly running the operation. Operations that conceal sponsorship may maintain visible falsified groups, news outlets, non-profits, or other organisations, but seek to mislead or obscure the identity sponsoring, funding, or otherwise supporting these entities. Influence operations may use a variety of techniques to mask the location of their social media accounts to complicate attribution and conceal evidence of foreign interference. Operation accounts may set their location to a false place, often the location of the operation\u2019s target audience, and post in the region\u2019s language",
             "kill_chain_phases": [

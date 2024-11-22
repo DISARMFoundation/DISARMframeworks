@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--68037d26-d4e5-46e1-a795-9b9aa61b72de",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--67f879fb-0159-4131-b9f6-b696fd8d68c1",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.137626Z",
+            "modified": "2024-11-22T16:43:58.137626Z",
+            "name": "Government Employee Persona",
+            "description": "A person who presents as an active or previous civil servant has the government employee persona. These are professionals hired to serve in government institutions and departments, not officials selected to represent constituents, or assigned official roles in government (such as heads of departments).<br><br> Presenting as a government employee is not an indication of inauthentic behaviour, however threat actors may fabricate individuals who work in government to add credibility to their narratives (T0143.002: Fabricated Persona, T0097.112: Government Employee Persona). They may also impersonate existing government employees (T0143.003: Impersonated Persona, T0097.112: Government Employee Persona).<br><br> Legitimate government employees could use their persona for malicious purposes, or be exploited by threat actors (T0143.001: Authentic Persona, T0097.112: Government Employee Persona). For example, a government employee could take money for using their position to provide legitimacy to a false narrative, or be tricked into doing so without their knowledge.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097.111: Government Official Persona:</b> Analysts should use this technique to document people who present as an active or previous government official, such as heads of government departments, leaders of countries, and members of government selected to represent constituents.<br> <b>T0097.206: Government Institution Persona:</b> People presenting as members of a government may also present a government institution which they are associated with.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0097.112.md",
+                    "external_id": "T0097.112"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

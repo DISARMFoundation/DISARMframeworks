@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--60f6e0ff-8cfd-4855-8933-5dc42591af1d",
+    "id": "bundle--dd757225-21c2-4ff9-895a-2d24b40d47e5",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--9b66eaf5-5b03-46b8-b076-cf1da3593745",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.360819Z",
-            "modified": "2024-08-02T17:12:32.360819Z",
+            "created": "2024-11-22T16:43:58.097156Z",
+            "modified": "2024-11-22T16:43:58.097156Z",
             "name": "Discredit Credible Sources",
             "description": "Plan to delegitimize the media landscape and degrade public trust in reporting, by discrediting credible sources. This makes it easier to promote influence operation content.",
             "kill_chain_phases": [

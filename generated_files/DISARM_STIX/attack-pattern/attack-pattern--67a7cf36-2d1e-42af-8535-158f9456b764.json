@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--d814e1ab-f106-4519-89a8-33d807005308",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--67a7cf36-2d1e-42af-8535-158f9456b764",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.245561Z",
+            "modified": "2024-11-22T16:43:58.245561Z",
+            "name": "Question and Answer Platform",
+            "description": "Quora, Stack Overflow, and Yahoo Answers are examples of Question and Answer Platforms.<br><br>Question and Answer Platforms allow users to create Accounts letting them post questions to the platform community, and respond to other platform users\u2019 questions.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "select-channels-and-affordances"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0151.013.md",
+                    "external_id": "T0151.013"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

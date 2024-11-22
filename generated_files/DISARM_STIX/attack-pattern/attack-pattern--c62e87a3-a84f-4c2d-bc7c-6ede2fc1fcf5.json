@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--2f465a63-852e-42b8-b86b-8868d812dec0",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--c62e87a3-a84f-4c2d-bc7c-6ede2fc1fcf5",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.240324Z",
+            "modified": "2024-11-22T16:43:58.240324Z",
+            "name": "Purchased Asset",
+            "description": "A Purchased Asset is an asset which actors paid for the ownership of. <br><br>For example, threat actors have been observed selling compromised social media accounts on dark web marketplaces, which can be used to disguise operation activity.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0150.006.md",
+                    "external_id": "T0150.006"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

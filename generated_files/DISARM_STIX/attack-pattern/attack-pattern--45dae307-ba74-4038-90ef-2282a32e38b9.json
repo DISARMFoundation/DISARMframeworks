@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--1c441fbd-06b6-4111-ba16-87d8c1e0ac65",
+    "id": "bundle--c463a7b4-bb6f-4621-ade3-ba0ee74cc9f7",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--45dae307-ba74-4038-90ef-2282a32e38b9",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.342026Z",
-            "modified": "2024-08-02T17:12:32.342026Z",
+            "created": "2024-11-22T16:43:58.086825Z",
+            "modified": "2024-11-22T16:43:58.086825Z",
             "name": "Distort Facts",
             "description": "Change, twist, or exaggerate existing facts to construct a narrative that differs from reality. Examples: images and ideas can be distorted by being placed in an improper content",
             "kill_chain_phases": [

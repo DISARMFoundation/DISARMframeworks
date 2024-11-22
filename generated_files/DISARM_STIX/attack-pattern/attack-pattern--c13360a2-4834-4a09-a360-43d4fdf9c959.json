@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--e9b1635f-af25-4398-87d3-dc3f5c26c92a",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--c13360a2-4834-4a09-a360-43d4fdf9c959",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.133491Z",
+            "modified": "2024-11-22T16:43:58.133491Z",
+            "name": "Activist Persona",
+            "description": "A person with an activist persona presents themselves as an activist; an individual who campaigns for a political cause, organises related events, etc.<br><br>While presenting as an activist is not an indication of inauthentic behaviour, an influence operation may have its narratives amplified by people presenting as activists. Threat actors can fabricate activists to give the appearance of popular support for an evolving grassroots movement (see T0143.002: Fabricated Persona, T0097.103: Activist Persona).<br><br>People who are legitimate activists can use this persona for malicious purposes, or be exploited by threat actors. For example, someone could take money for using their position as an activist to provide visibility to a false narrative or be tricked into doing so without their knowledge (T0143.001: Authentic Persona, T0097.103: Activist Persona).<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0097.104: Hacktivist Persona:</b> Analysts should use this sub-technique to catalogue cases where an individual is presenting themselves as someone engaged in activism who uses technical tools and methods, including building technical infrastructure and conducting offensive cyber operations, to achieve their goals.<br><b>T0097.207: NGO Persona:</b> People with an activist persona may present as being part of an NGO.<br><b>T0097.208: Social Cause Persona:</b> Analysts should use this sub-technique to catalogue cases where an online account is presenting as posting content related to a particular social cause, while not presenting as an individual.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0097.103.md",
+                    "external_id": "T0097.103"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

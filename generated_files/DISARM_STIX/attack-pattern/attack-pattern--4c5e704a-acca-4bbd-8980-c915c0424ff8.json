@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--35d106c2-5fae-42cf-a024-34d124bc5bf0",
+    "id": "bundle--9896c8dc-14e4-4b4d-8dd1-25fdf4b7aa1d",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--4c5e704a-acca-4bbd-8980-c915c0424ff8",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.421381Z",
-            "modified": "2024-08-02T17:12:32.421381Z",
+            "created": "2024-11-22T16:43:58.211765Z",
+            "modified": "2024-11-22T16:43:58.211765Z",
             "name": "Message Reach",
             "description": "Monitor and evaluate message reach in misinformation incidents.",
             "kill_chain_phases": [

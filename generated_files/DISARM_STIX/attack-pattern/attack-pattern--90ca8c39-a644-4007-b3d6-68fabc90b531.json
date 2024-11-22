@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--03229f01-0521-4388-87c7-bd90c7cdf583",
+    "id": "bundle--9c31d8f2-1983-4a0e-a78d-70480acb7e4f",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--90ca8c39-a644-4007-b3d6-68fabc90b531",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.345087Z",
-            "modified": "2024-08-02T17:12:32.345087Z",
+            "created": "2024-11-22T16:43:58.08893Z",
+            "modified": "2024-11-22T16:43:58.08893Z",
             "name": "Censor Social Media as a Political Force",
             "description": "Use political influence or the power of state to stop critical social media comments. Government requested/driven content take downs (see Google Transperancy reports).",
             "kill_chain_phases": [

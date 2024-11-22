@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--ebcc5d14-0680-4337-a9d5-ee56735796f1",
+    "id": "bundle--31b639de-c8f2-4a00-bc47-fac73cd02d25",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--b3bb61ca-5472-42b0-807e-bd8657fc05b2",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.354177Z",
-            "modified": "2024-08-02T17:12:32.354177Z",
+            "created": "2024-11-22T16:43:58.093458Z",
+            "modified": "2024-11-22T16:43:58.093458Z",
             "name": "Prepare Physical Broadcast Capabilities",
             "description": "Create or coopt broadcast capabilities (e.g. TV, radio etc).",
             "kill_chain_phases": [

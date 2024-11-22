@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--91a268b4-27c7-4a06-b425-d2d16a56cce9",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--a463e5a6-8a36-4306-9cb3-c5b1934769be",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.234229Z",
+            "modified": "2024-11-22T16:43:58.234229Z",
+            "name": "Redirecting Domain Asset",
+            "description": "A Redirecting Domain is a Domain which has been configured to redirect users to another Domain when visited.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0149.004.md",
+                    "external_id": "T0149.004"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

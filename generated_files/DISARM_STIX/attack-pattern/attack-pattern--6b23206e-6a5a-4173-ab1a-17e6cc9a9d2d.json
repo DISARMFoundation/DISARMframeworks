@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--e7f5fee3-5ee2-461c-80f2-3648ca690eb7",
+    "id": "bundle--b2fddfec-1550-438e-8519-f1fc9ed6fc82",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--6b23206e-6a5a-4173-ab1a-17e6cc9a9d2d",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.344511Z",
-            "modified": "2024-08-02T17:12:32.344511Z",
+            "created": "2024-11-22T16:43:58.088371Z",
+            "modified": "2024-11-22T16:43:58.088371Z",
             "name": "Seed Distortions",
             "description": "Try a wide variety of messages in the early hours surrounding an incident or event, to give a misleading account or impression.",
             "kill_chain_phases": [

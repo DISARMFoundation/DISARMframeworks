@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--6a514d50-9039-4e40-b0a6-f8b41049f525",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--926e171a-216e-4095-b9dc-4fba2322e07f",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.141079Z",
+            "modified": "2024-11-22T16:43:58.141079Z",
+            "name": "Government Institution Persona",
+            "description": "Institutions which present themselves as governments, or government ministries, are presenting a government institution persona.<br><br> While presenting as a government institution is not an indication of inauthentic behaviour, threat actors may impersonate existing government institutions as part of their operation (T0143.003: Impersonated Persona, T0097.206: Government Institution Persona), to add legitimacy to their narratives, or discredit the government.<br><br> Legitimate government institutions could use their persona for malicious purposes, or be exploited by threat actors (T0143.001: Authentic Persona, T0097.206: Government Institution Persona). For example, a government institution could be used by elected officials to spread inauthentic narratives.<br><br> <b>Associated Techniques and Sub-techniques</b><br> <b>T0097.111: Government Official Persona:</b> Institutions presenting as governments may also present officials working within the organisation.<br> <b>T0097.112: Government Employee Persona:</b> Institutions presenting as governments may also present employees working within the organisation.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-legitimacy"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0097.206.md",
+                    "external_id": "T0097.206"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

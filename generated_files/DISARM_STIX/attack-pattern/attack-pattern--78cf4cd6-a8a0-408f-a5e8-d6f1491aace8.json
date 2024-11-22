@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--553864cc-f533-42ec-b650-a286be29fd3f",
+    "id": "bundle--6861e741-3628-45ea-9c28-246d0e740409",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--78cf4cd6-a8a0-408f-a5e8-d6f1491aace8",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.41414Z",
-            "modified": "2024-08-02T17:12:32.41414Z",
+            "created": "2024-11-22T16:43:58.191586Z",
+            "modified": "2024-11-22T16:43:58.191586Z",
             "name": "Use Pseudonyms",
             "description": "An operation may use pseudonyms, or fake names, to mask the identity of operational accounts, channels, pages etc., publish anonymous content, or otherwise use falsified personas to conceal the identity of the operation. An operation may coordinate pseudonyms across multiple platforms, for example, by writing an article under a pseudonym and then posting a link to the article on social media on an account, channel, or page with the same falsified name.",
             "kill_chain_phases": [

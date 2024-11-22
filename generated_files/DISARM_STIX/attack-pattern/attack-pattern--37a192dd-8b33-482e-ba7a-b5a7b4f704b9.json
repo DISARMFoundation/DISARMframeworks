@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--59297cc3-eb4a-44e7-ad66-2cd6992a7cad",
+    "id": "bundle--157cf1ad-599d-470e-8d88-31d383d23c25",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--37a192dd-8b33-482e-ba7a-b5a7b4f704b9",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.379779Z",
-            "modified": "2024-08-02T17:12:32.379779Z",
+            "created": "2024-11-22T16:43:58.118896Z",
+            "modified": "2024-11-22T16:43:58.118896Z",
             "name": "Use Follow Trains",
             "description": "A follow train is a group of people who follow each other on a social media platform, often as a way for an individual or campaign to grow its social media following. Follow trains may be a violation of platform Terms of Service. They are also known as follow-for-follow groups.",
             "kill_chain_phases": [

@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--9bcd0490-d124-4b62-9256-e08c1a81b1e9",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--25bb6f16-eabe-4d13-a984-fa9f0cef7515",
+            "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
+            "created": "2024-11-22T16:43:58.223416Z",
+            "modified": "2024-11-22T16:43:58.223416Z",
+            "name": "Account Asset",
+            "description": "An Account is a user-specific profile that allows access to the features and services of an online platform, typically requiring a username and password for authentication.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "establish-assets"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0146.md",
+                    "external_id": "T0146"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--f79f25d2-8b96-4580-b169-eb7b613a7c31"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_platforms": [
+                "Windows",
+                "Linux",
+                "Mac"
+            ],
+            "x_mitre_version": "2.1"
+        }
+    ]
+}

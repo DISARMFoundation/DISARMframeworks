@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--5e2eb779-9c70-4e1e-9d4e-6ba41bd84c04",
+    "id": "bundle--96e8c7ef-1d8d-448d-89ac-456586dc5048",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--d1f55d22-f487-48ec-a810-a9f74220c02e",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.35304Z",
-            "modified": "2024-08-02T17:12:32.35304Z",
+            "created": "2024-11-22T16:43:58.092782Z",
+            "modified": "2024-11-22T16:43:58.092782Z",
             "name": "Play the Long Game",
             "description": "Play the long game refers to two phenomena: 1. To plan messaging and allow it to grow organically without conducting your own amplification. This is methodical and slow and requires years for the message to take hold 2. To develop a series of seemingly disconnected messaging narratives that eventually combine into a new narrative.",
             "kill_chain_phases": [

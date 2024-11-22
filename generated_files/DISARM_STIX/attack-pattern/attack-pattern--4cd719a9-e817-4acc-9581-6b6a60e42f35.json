@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--553c753b-15bd-4e7d-9e8b-62616d7148ff",
+    "id": "bundle--02b85c4a-4373-493d-b9a4-a709a38183d0",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--4cd719a9-e817-4acc-9581-6b6a60e42f35",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.369011Z",
-            "modified": "2024-08-02T17:12:32.369011Z",
+            "created": "2024-11-22T16:43:58.102607Z",
+            "modified": "2024-11-22T16:43:58.102607Z",
             "name": "Use Copypasta",
             "description": "Copypasta refers to a piece of text that has been copied and pasted multiple times across various online platforms. A copypasta\u2019s final form may differ from its original source text as users add, delete, or otherwise edit the content as they repost the text.",
             "kill_chain_phases": [

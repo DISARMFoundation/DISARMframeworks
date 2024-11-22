@@ -1,14 +1,14 @@
 {
     "type": "bundle",
-    "id": "bundle--b168fc9e-993a-4474-9713-73373e8c1801",
+    "id": "bundle--029ad4f5-13b8-4198-9901-b3246fcb4c36",
     "objects": [
         {
             "type": "attack-pattern",
             "spec_version": "2.1",
             "id": "attack-pattern--ce4a9eee-7437-43ce-ac86-c1921f5c01a7",
             "created_by_ref": "identity--f1a0f560-2d9e-4c5d-bf47-7e96e805de82",
-            "created": "2024-08-02T17:12:32.375242Z",
-            "modified": "2024-08-02T17:12:32.375242Z",
+            "created": "2024-11-22T16:43:58.110045Z",
+            "modified": "2024-11-22T16:43:58.110045Z",
             "name": "Develop Video-Based Content",
             "description": "Creating and editing false or misleading video artefacts, often aligned with one or more specific narratives, for use in a disinformation campaign. This may include staging videos of purportedly real situations, repurposing existing video artefacts, or using AI-generated video creation and editing technologies (including deepfakes).",
             "kill_chain_phases": [
