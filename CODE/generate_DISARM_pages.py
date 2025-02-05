@@ -281,8 +281,7 @@ class Disarm:
     def create_associated_techniques_string(self, techniqueid):
 
         techstr = '''
-| Associated||
-| Technique | When to use |
+| Associated Technique | When to use |
 | --------- | ------------------------- |
 '''
         techrow = '| [{0} {1}]({2}techniques/{0}.md) | {3} {4} |\n'

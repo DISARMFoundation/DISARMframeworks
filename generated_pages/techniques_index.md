@@ -568,7 +568,7 @@
 <tr>
 <td><a href="techniques/T0085.001.md">T0085.001</a></td>
 <td>Develop AI-Generated Text</td>
-<td>AI-generated texts refers to synthetic text composed by computers using text-generating AI technology. Autonomous generation refers to content created by a bot without human input, also known as bot-created content generation. Autonomous generation represents the next step in automation after language generation and may lead to automated journalism. An influence operation may use read fakes or autonomous generation to quickly develop and distribute content to the target audience.<br><br><b>Associated Techniques and Sub-techniques:</b><br><b>T0085.008: Machine Translated Text:</b> Use this sub-technique when AI has been used to generate a translation of a piece of text.</td>
+<td>AI-generated texts refers to synthetic text composed by computers using text-generating AI technology. Autonomous generation refers to content created by a bot without human input, also known as bot-created content generation. Autonomous generation represents the next step in automation after language generation and may lead to automated journalism. An influence operation may use read fakes or autonomous generation to quickly develop and distribute content to the target audience.</td>
 <td>TA06</td>
 </tr>
 <tr>
@@ -622,7 +622,7 @@
 <tr>
 <td><a href="techniques/T0086.002.md">T0086.002</a></td>
 <td>Develop AI-Generated Images (Deepfakes)</td>
-<td>Deepfakes refer to AI-generated falsified photos, videos, or soundbites. An influence operation may use deepfakes to depict an inauthentic situation by synthetically recreating an individual’s face, body, voice, and physical gestures.<br><br> <b>Associated Techniques and Sub-techniques:</b><br> <b>T0145.002: AI-Generated Account Imagery:</b> Analysts should use this sub-technique to document use of AI generated imagery in accounts’ profile pictures or other account imagery.</td>
+<td>Deepfakes refer to AI-generated falsified photos, videos, or soundbites. An influence operation may use deepfakes to depict an inauthentic situation by synthetically recreating an individual’s face, body, voice, and physical gestures.</td>
 <td>TA06</td>
 </tr>
 <tr>
@@ -814,7 +814,7 @@
 <tr>
 <td><a href="techniques/T0097.101.md">T0097.101</a></td>
 <td>Local Persona</td>
-<td>A person with a local persona presents themselves as living in a particular geography or having local knowledge relevant to a narrative.<br><br>While presenting as a local is not an indication of inauthentic behaviour,  an influence operation may have its narratives amplified by people presenting as local to a target area. Threat actors can fabricate locals (T0143.002: Fabricated Persona, T0097.101: Local Persona) to add credibility to their narratives, or to misrepresent the real opinions of locals in the area.<br><br>People who are legitimate locals (T0143.001: Authentic Persona, T0097.101: Local Persona) can use their persona for malicious purposes, or be exploited by threat actors. For example, someone could take money for using their position as a local to provide legitimacy to a false narrative or be tricked into doing so without their knowledge.<br><br><b>Associated Techniques and Sub-techniques</b><br><b>T0097.201: Local Institution Persona:</b> Analysts should use this sub-technique to catalogue cases where an institution is presenting as a local, such as a local news organisation or local business.</td>
+<td>A person with a local persona presents themselves as living in a particular geography or having local knowledge relevant to a narrative.<br><br>While presenting as a local is not an indication of inauthentic behaviour,  an influence operation may have its narratives amplified by people presenting as local to a target area. Threat actors can fabricate locals (T0143.002: Fabricated Persona, T0097.101: Local Persona) to add credibility to their narratives, or to misrepresent the real opinions of locals in the area.<br><br>People who are legitimate locals (T0143.001: Authentic Persona, T0097.101: Local Persona) can use their persona for malicious purposes, or be exploited by threat actors. For example, someone could take money for using their position as a local to provide legitimacy to a false narrative or be tricked into doing so without their knowledge.</td>
 <td>TA16</td>
 </tr>
 <tr>
