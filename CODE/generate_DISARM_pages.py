@@ -123,6 +123,7 @@ class Disarm:
         self.df_responsetypes = metadata['responsetypes']
         self.df_metatechniques = metadata['metatechniques']
         self.it = self.create_incident_technique_crosstable(metadata['incidenttechniques'])
+        self.at = self.create_associated_techniques_crosstable(metadata['associatedtechniques'])
         self.df_tactics = metadata['tactics']
         self.df_playbooks = metadata['playbooks']
         self.df_sectors = metadata['sectors']
@@ -178,6 +179,18 @@ class Disarm:
                       suffixes=['','_technique']).drop('technique_id', axis=1)
         return(it)
 
+    def create_associated_techniques_crosstable(self, at_metadata):
+        # Generate full cross-table between associated techniques and techniques
+
+        at = at_metadata
+        at.index=at['disarm_id']
+        at = at.merge(self.df_techniques[['disarm_id','name']],
+                    left_on='associated_technique_id', right_on='disarm_id',
+                    suffixes=['','_associated']).drop('associated_technique_id', axis=1)
+        at = at.merge(self.df_techniques[['disarm_id', 'name']],
+                    left_on='technique_id', right_on='disarm_id',
+                    suffixes=['','_technique']).drop('technique_id', axis=1)
+        return(at)
 
     def make_object_dictionary(self, df):
         return(pd.Series(df.name.values,index=df.disarm_id).to_dict())
@@ -264,6 +277,20 @@ class Disarm:
                                       GENERATED_PAGES_FUDGE, row['disarm_id'], row['name'])
         return techstr
 
+
+    def create_associated_techniques_string(self, techniqueid):
+
+        techstr = '''
+| Associated||
+| Technique | When to use |
+| --------- | ------------------------- |
+'''
+        techrow = '| [{0} {1}]({2}techniques/{0}.md) | {3} {4} |\n'
+        techlist = self.at[self.at['disarm_id_technique'] == techniqueid]
+        for index, row in techlist.sort_values('disarm_id_associated').iterrows():
+             techstr += techrow.format(row['disarm_id_associated'], row['name_associated'],
+                        GENERATED_PAGES_FUDGE, row['disarm_id'], row['name'])
+        return techstr
 
     def create_tactic_tasks_string(self, tactic_id):
 
@@ -515,6 +542,7 @@ class Disarm:
                 if objecttype == 'technique':
                     metatext = template.format(type = 'Technique', id=row['disarm_id'], name=row['name'],
                                                tactic=row['tactic_id'], summary=row['summary'],
+                                               associatedtechniques=self.create_associated_techniques_string(row['disarm_id']),
                                                incidents=self.create_technique_incidents_string(row['disarm_id']),
                                                counters=self.create_technique_counters_string(row['disarm_id']))
                 if objecttype == 'counter':
