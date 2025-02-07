@@ -270,25 +270,25 @@ class Disarm:
 | Technique | Description given for this incident |
 | --------- | ------------------------- |
 '''
-        techrow = '| [{0} {1}]({2}techniques/{0}.md) | {3} {4} |\n'
+        techrow = '| [{0} {1}]({2}techniques/{0}.md) | {3} |\n'
         techlist = self.it[self.it['disarm_id_incident'] == incidentid]
         for index, row in techlist.sort_values('disarm_id_technique').iterrows():
             techstr += techrow.format(row['disarm_id_technique'], row['name_technique'], 
-                                      GENERATED_PAGES_FUDGE, row['disarm_id'], row['name'])
+                                      GENERATED_PAGES_FUDGE, row['name'])
         return techstr
 
 
     def create_associated_techniques_string(self, techniqueid):
 
         techstr = '''
-| Associated Technique | When to use |
+| Associated Technique | Description |
 | --------- | ------------------------- |
 '''
-        techrow = '| [{0} {1}]({2}techniques/{0}.md) | {3} {4} |\n'
+        techrow = '| [{0} {1}]({2}techniques/{0}.md) | {3} |\n'
         techlist = self.at[self.at['disarm_id_technique'] == techniqueid]
         for index, row in techlist.sort_values('disarm_id_associated').iterrows():
-             techstr += techrow.format(row['disarm_id_associated'], row['name_associated'],
-                        GENERATED_PAGES_FUDGE, row['disarm_id'], row['name'])
+            techstr += techrow.format(row['disarm_id_associated'], row['name'],
+                       GENERATED_PAGES_FUDGE, row['description'])
         return techstr
 
     def create_tactic_tasks_string(self, tactic_id):
@@ -539,8 +539,9 @@ class Disarm:
                     metatext = template.format(type='Task', id=row['disarm_id'], name=row['name'],
                                                tactic=row['tactic_id'], summary=row['summary'])
                 if objecttype == 'technique':
+                    tactic_name = self.df_tactics.loc[self.df_tactics['disarm_id'] == row['tactic_id'], 'name'].values[0]
                     metatext = template.format(type = 'Technique', id=row['disarm_id'], name=row['name'],
-                                               tactic=row['tactic_id'], summary=row['summary'],
+                                               tactic=f"{row['tactic_id']} {tactic_name}", summary=row['summary'],
                                                associatedtechniques=self.create_associated_techniques_string(row['disarm_id']),
                                                incidents=self.create_technique_incidents_string(row['disarm_id']),
                                                counters=self.create_technique_counters_string(row['disarm_id']))

@@ -2,9 +2,9 @@
 
 **Summary**: {summary}
 
-{associatedtechniques}
+**Tactic**: {tactic}
 
-**Belongs to tactic stage**: {tactic}
+{associatedtechniques}
 
 {incidents}
 
