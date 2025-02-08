@@ -543,11 +543,11 @@ class Disarm:
                     if "." in row['disarm_id']:
                         parent_technique_id = row['disarm_id'].split(".")[0]
                         parent_technique_name = self.df_techniques.loc[self.df_techniques['disarm_id'] == parent_technique_id, 'name'].values[0]
-                        parent_technique = "          **Parent Technique:** " + parent_technique_id + ' ' + parent_technique_name
+                        parent_technique = " **Parent Technique:** " + parent_technique_id + ' ' + parent_technique_name
                     else:   
                         parent_technique = ''
                     metatext = template.format(type = 'Technique', id=row['disarm_id'], name=row['name'],
-                                               tactic=f"{row['tactic_id']} {tactic_name} {parent_technique}", summary=row['summary'],
+                                               tactic=f"{row['tactic_id']} {tactic_name}           {parent_technique}", summary=row['summary'],
                                                associatedtechniques=self.create_associated_techniques_string(row['disarm_id']),
                                                incidents=self.create_technique_incidents_string(row['disarm_id']),
                                                counters=self.create_technique_counters_string(row['disarm_id']))
