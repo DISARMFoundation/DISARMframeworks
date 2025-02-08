@@ -589,7 +589,7 @@ class Disarm:
                     print('Updating {}'.format(datafile))
                     with open(datafile, 'w') as f:
                         f.write(metatext)
-                        #f.write(warntext)
+                        f.write(warntext)
                         f.write(usertext)
                         f.close()
         return
