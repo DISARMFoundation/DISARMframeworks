@@ -1,8 +1,10 @@
 # {type} {id}: {name}
 
-* **Summary**: {summary}
+**Summary**: {summary}
 
-* **Belongs to tactic stage**: {tactic}
+**Tactic**: {tactic}
+
+{associatedtechniques}
 
 {incidents}
 
